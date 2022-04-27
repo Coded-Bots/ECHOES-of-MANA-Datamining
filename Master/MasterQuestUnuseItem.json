@@ -1,0 +1,32 @@
+[
+    {
+        "IgnoreMasterItemId": 1010001,
+        "MasterQuestUnuseItemGroupId": 2,
+        "MasterQuestUnuseItemId": 280004000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "IgnoreMasterItemId": 1010002,
+        "MasterQuestUnuseItemGroupId": 2,
+        "MasterQuestUnuseItemId": 280004000202,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "IgnoreMasterItemId": 1010003,
+        "MasterQuestUnuseItemGroupId": 2,
+        "MasterQuestUnuseItemId": 280004000203,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "IgnoreMasterItemId": 1010004,
+        "MasterQuestUnuseItemGroupId": 2,
+        "MasterQuestUnuseItemId": 280004000204,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "IgnoreMasterItemId": 1010005,
+        "MasterQuestUnuseItemGroupId": 2,
+        "MasterQuestUnuseItemId": 280004000205,
+        "ReleaseLabel": "release.initial"
+    }
+]

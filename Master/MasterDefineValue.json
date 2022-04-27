@@ -1,0 +1,494 @@
+[
+    {
+        "DefineName": "STAMINA_RECOVERY_TIME",
+        "MasterDefineValueId": 304000001,
+        "ReleaseLabel": "release.initial",
+        "Value": 300
+    },
+    {
+        "DefineName": "STAMINA_MAX_RECOVERY_COUNT",
+        "MasterDefineValueId": 304000002,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "DefineName": "EVENT_STAMINA_RECOVERY_TIME",
+        "MasterDefineValueId": 304000003,
+        "ReleaseLabel": "release.initial",
+        "Value": 300
+    },
+    {
+        "DefineName": "EVENT_STAMINA_MAX_RECOVERY_COUNT",
+        "MasterDefineValueId": 304000004,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "DefineName": "CHARACTER_MAX_POSSESSION_COUNT_DEFAULT",
+        "MasterDefineValueId": 304000005,
+        "ReleaseLabel": "release.initial",
+        "Value": 200
+    },
+    {
+        "DefineName": "CHARACTER_MAX_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000006,
+        "ReleaseLabel": "release.initial",
+        "Value": 300
+    },
+    {
+        "DefineName": "CHARACTER_EXTEND_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000007,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "CHARACTER_EXTEND_POSSESSION_REQUIRED_GEM",
+        "MasterDefineValueId": 304000008,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "DefineName": "CHARACTER_EVOLVE_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000009,
+        "ReleaseLabel": "release.initial",
+        "Value": 5000
+    },
+    {
+        "DefineName": "CHARACTER_LIMIT_BREAK_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000010,
+        "ReleaseLabel": "release.initial",
+        "Value": 5000
+    },
+    {
+        "DefineName": "CHARACTER_AWAKE_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000011,
+        "ReleaseLabel": "release.initial",
+        "Value": 300000
+    },
+    {
+        "DefineName": "CHARACTER_AWAKE_ITEM_ID",
+        "MasterDefineValueId": 304000012,
+        "ReleaseLabel": "release.initial",
+        "Value": 1070001
+    },
+    {
+        "DefineName": "CHARACTER_AWAKE_REQUIRED_ITEM_VALUE",
+        "MasterDefineValueId": 304000013,
+        "ReleaseLabel": "release.initial",
+        "Value": 100
+    },
+    {
+        "DefineName": "CHARACTER_SELL_MAX_SELECT_COUNT",
+        "MasterDefineValueId": 304000014,
+        "ReleaseLabel": "release.initial",
+        "Value": 99
+    },
+    {
+        "DefineName": "CHARACTER_SELL_MAX_GAIN_LUCRE_VALUE",
+        "MasterDefineValueId": 304000015,
+        "ReleaseLabel": "release.initial",
+        "Value": 999999999
+    },
+    {
+        "DefineName": "CHARACTER_REFINE_SUCCESS_RATIO",
+        "MasterDefineValueId": 304000016,
+        "ReleaseLabel": "release.initial",
+        "Value": 0
+    },
+    {
+        "DefineName": "CHARACTER_REFINE_SUCCESS_BONUS_RATIO",
+        "MasterDefineValueId": 304000017,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "DefineName": "character.max_level_rarity_1",
+        "MasterDefineValueId": 304000018,
+        "ReleaseLabel": "release.initial",
+        "Value": 15
+    },
+    {
+        "DefineName": "character.max_level_rarity_2",
+        "MasterDefineValueId": 304000019,
+        "ReleaseLabel": "release.initial",
+        "Value": 30
+    },
+    {
+        "DefineName": "character.max_level_rarity_3",
+        "MasterDefineValueId": 304000020,
+        "ReleaseLabel": "release.initial",
+        "Value": 50
+    },
+    {
+        "DefineName": "character.max_level_rarity_4",
+        "MasterDefineValueId": 304000021,
+        "ReleaseLabel": "release.initial",
+        "Value": 70
+    },
+    {
+        "DefineName": "character.max_level_rarity_5",
+        "MasterDefineValueId": 304000022,
+        "ReleaseLabel": "release.initial",
+        "Value": 75
+    },
+    {
+        "DefineName": "character.max_level_rarity_6",
+        "MasterDefineValueId": 304000023,
+        "ReleaseLabel": "release.initial",
+        "Value": 100
+    },
+    {
+        "DefineName": "character.max_limit_break",
+        "MasterDefineValueId": 304000024,
+        "ReleaseLabel": "release.initial",
+        "Value": 6
+    },
+    {
+        "DefineName": "character.max_rarity",
+        "MasterDefineValueId": 304000025,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "character.max_limit_break_up_level",
+        "MasterDefineValueId": 304000026,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "DefineName": "character.awake_rarity",
+        "MasterDefineValueId": 304000027,
+        "ReleaseLabel": "release.initial",
+        "Value": 6
+    },
+    {
+        "DefineName": "character.evolve_master_identity_id",
+        "MasterDefineValueId": 304000028,
+        "ReleaseLabel": "release.initial",
+        "Value": 600100070001
+    },
+    {
+        "DefineName": "MEMORY_GEM_MAX_POSSESSION_COUNT_DEFAULT",
+        "MasterDefineValueId": 304000039,
+        "ReleaseLabel": "release.initial",
+        "Value": 200
+    },
+    {
+        "DefineName": "MEMORY_GEM_MAX_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000040,
+        "ReleaseLabel": "release.initial",
+        "Value": 300
+    },
+    {
+        "DefineName": "MEMORY_GEM_EXTEND_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000041,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "MEMORY_GEM_EXTEND_POSSESSION_REQUIRED_GEM",
+        "MasterDefineValueId": 304000042,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "DefineName": "MEMORY_GEM_REFINE_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000043,
+        "ReleaseLabel": "release.initial",
+        "Value": 4000
+    },
+    {
+        "DefineName": "MEMORY_GEM_LIMIT_BREAK_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000044,
+        "ReleaseLabel": "release.initial",
+        "Value": 5000
+    },
+    {
+        "DefineName": "MEMORY_GEM_SELL_MAX_SELECT_COUNT",
+        "MasterDefineValueId": 304000045,
+        "ReleaseLabel": "release.initial",
+        "Value": 99
+    },
+    {
+        "DefineName": "MEMORY_GEM_SELL_MAX_GAIN_LUCRE_VALUE",
+        "MasterDefineValueId": 304000046,
+        "ReleaseLabel": "release.initial",
+        "Value": 999999999
+    },
+    {
+        "DefineName": "memorygem.max_limit_break",
+        "MasterDefineValueId": 304000047,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "DefineName": "EQUIPMENT_MAX_POSSESSION_COUNT_DEFAULT",
+        "MasterDefineValueId": 304000048,
+        "ReleaseLabel": "release.initial",
+        "Value": 200
+    },
+    {
+        "DefineName": "EQUIPMENT_MAX_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000049,
+        "ReleaseLabel": "release.initial",
+        "Value": 300
+    },
+    {
+        "DefineName": "EQUIPMENT_EXTEND_POSSESSION_COUNT",
+        "MasterDefineValueId": 304000050,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "EQUIPMENT_EXTEND_POSSESSION_REQUIRED_GEM",
+        "MasterDefineValueId": 304000051,
+        "ReleaseLabel": "release.initial",
+        "Value": 3
+    },
+    {
+        "DefineName": "EQUIPMENT_REFINE_REQUIRED_LUCRE_VALUE",
+        "MasterDefineValueId": 304000052,
+        "ReleaseLabel": "release.initial",
+        "Value": 60000
+    },
+    {
+        "DefineName": "EQUIPMENT_SELL_GAIN_EXP_RATIO",
+        "MasterDefineValueId": 304000053,
+        "ReleaseLabel": "release.initial",
+        "Value": 8000
+    },
+    {
+        "DefineName": "EQUIPMENT_SELL_MAX_SELECT_COUNT",
+        "MasterDefineValueId": 304000054,
+        "ReleaseLabel": "release.initial",
+        "Value": 99
+    },
+    {
+        "DefineName": "EQUIPMENT_SELL_MAX_GAIN_LUCRE_VALUE",
+        "MasterDefineValueId": 304000055,
+        "ReleaseLabel": "release.initial",
+        "Value": 999999999
+    },
+    {
+        "DefineName": "EQUIPMENT_MAX_SUBOPTION_COUNT",
+        "MasterDefineValueId": 304000056,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_1",
+        "MasterDefineValueId": 304000057,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_2",
+        "MasterDefineValueId": 304000058,
+        "ReleaseLabel": "release.initial",
+        "Value": 8
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_3",
+        "MasterDefineValueId": 304000059,
+        "ReleaseLabel": "release.initial",
+        "Value": 12
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_4",
+        "MasterDefineValueId": 304000060,
+        "ReleaseLabel": "release.initial",
+        "Value": 16
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_5",
+        "MasterDefineValueId": 304000061,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "DefineName": "equipment.max_level_rarity_6",
+        "MasterDefineValueId": 304000062,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "DefineName": "PARTY_MAX_COUNT",
+        "MasterDefineValueId": 304000063,
+        "ReleaseLabel": "release.initial",
+        "Value": 7
+    },
+    {
+        "DefineName": "PARTY_MULTI_MAX_COUNT",
+        "MasterDefineValueId": 304000064,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "PARTY_HP_COEFFICIENT",
+        "MasterDefineValueId": 304000065,
+        "ReleaseLabel": "release.initial",
+        "Value": 4000
+    },
+    {
+        "DefineName": "PARTY_MP_COEFFICIENT",
+        "MasterDefineValueId": 304000066,
+        "ReleaseLabel": "release.initial",
+        "Value": 30000
+    },
+    {
+        "DefineName": "PARTY_PHY_ATK_COEFFICIENT_FOR_PHY",
+        "MasterDefineValueId": 304000067,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "DefineName": "PARTY_PHY_ATK_COEFFICIENT_FOR_MAG",
+        "MasterDefineValueId": 304000068,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "DefineName": "PARTY_PHY_DEF_COEFFICIENT",
+        "MasterDefineValueId": 304000069,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "DefineName": "PARTY_MAG_ATK_COEFFICIENT_FOR_PHY",
+        "MasterDefineValueId": 304000070,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "DefineName": "PARTY_MAG_ATK_COEFFICIENT_FOR_MAG",
+        "MasterDefineValueId": 304000071,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "DefineName": "PARTY_MAG_DEF_COEFFICIENT",
+        "MasterDefineValueId": 304000072,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "DefineName": "PARTY_LUCK_COEFFICIENT",
+        "MasterDefineValueId": 304000073,
+        "ReleaseLabel": "release.initial",
+        "Value": 50000
+    },
+    {
+        "DefineName": "QUEST_ITEM_MAX_SELECT_COUNT",
+        "MasterDefineValueId": 304000074,
+        "ReleaseLabel": "release.initial",
+        "Value": 3
+    },
+    {
+        "DefineName": "FRIEND_MAX_COUNT",
+        "MasterDefineValueId": 304000075,
+        "ReleaseLabel": "release.initial",
+        "Value": 40
+    },
+    {
+        "DefineName": "ITEM_LUCRE_MAX_DISPLAY_AMOUNT",
+        "MasterDefineValueId": 304000076,
+        "ReleaseLabel": "release.initial",
+        "Value": 999999999
+    },
+    {
+        "DefineName": "ITEM_GEM_MAX_DISPLAY_AMOUNT",
+        "MasterDefineValueId": 304000077,
+        "ReleaseLabel": "release.initial",
+        "Value": 999999999
+    },
+    {
+        "DefineName": "ITEM_MAX_DISPLAY_AMOUNT",
+        "MasterDefineValueId": 304000078,
+        "ReleaseLabel": "release.initial",
+        "Value": 9999
+    },
+    {
+        "DefineName": "GIFT_OVER_POSSESSION_REASON_ID",
+        "MasterDefineValueId": 304000079,
+        "ReleaseLabel": "release.initial",
+        "Value": 430000000001
+    },
+    {
+        "DefineName": "HOME_NPC_LIMIT_COUNT_1",
+        "MasterDefineValueId": 304000080,
+        "ReleaseLabel": "release.initial",
+        "Value": 5
+    },
+    {
+        "DefineName": "HOME_NPC_LIMIT_COUNT_2",
+        "MasterDefineValueId": 304000081,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "DefineName": "HOME_NPC_LIMIT_COUNT_3",
+        "MasterDefineValueId": 304000082,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "DefineName": "EVENT_END_EXTRA_MINUTES",
+        "MasterDefineValueId": 304000083,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "DefineName": "CHARACTER_MANA_BOARD_COMMON_REQUIRED_ITEM_ID",
+        "MasterDefineValueId": 304000084,
+        "ReleaseLabel": "release.initial",
+        "Value": 1049000
+    },
+    {
+        "DefineName": "STAMINA_RECOVERY_AMOUNT",
+        "MasterDefineValueId": 304000085,
+        "ReleaseLabel": "release.initial",
+        "Value": 60
+    },
+    {
+        "DefineName": "character.evolvematerial.max_rarity",
+        "MasterDefineValueId": 304000086,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "DefineName": "LOTTERY_TRIAL_QUEST_CHAPTER_ID",
+        "MasterDefineValueId": 304000087,
+        "ReleaseLabel": "release.initial",
+        "Value": 210002001101
+    },
+    {
+        "DefineName": "CHARACTER_EVOLVE_TUTORIAL_ID",
+        "MasterDefineValueId": 304000088,
+        "ReleaseLabel": "release.initial",
+        "Value": 14001000102
+    },
+    {
+        "DefineName": "CHARACTER_LIMITBREAK_TUTORIAL_ID",
+        "MasterDefineValueId": 304000089,
+        "ReleaseLabel": "release.initial",
+        "Value": 14001000103
+    },
+    {
+        "DefineName": "CHARACTER_AWAKE_TUTORIAL_ID",
+        "MasterDefineValueId": 304000090,
+        "ReleaseLabel": "release.initial",
+        "Value": 14001000104
+    },
+    {
+        "DefineName": "TITLE_MOVIE_VOLUME",
+        "MasterDefineValueId": 304000091,
+        "ReleaseLabel": "release.initial",
+        "Value": 85
+    },
+    {
+        "DefineName": "CHARACTER_IMAGE_ID_FOR_INVALID_USER_FRIEND",
+        "MasterDefineValueId": 304000092,
+        "ReleaseLabel": "release.initial",
+        "Value": 600511102001
+    }
+]

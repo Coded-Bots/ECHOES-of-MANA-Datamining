@@ -1,0 +1,54 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0065_AP-Recover01",
+        "ItemCategory": 6,
+        "MasterStaminaItemId": 1061001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 1000,
+        "ReleaseLabel": "release.initial",
+        "StaminaType": 1,
+        "Value": 10
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0066_AP-Recover02",
+        "ItemCategory": 6,
+        "MasterStaminaItemId": 1061002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 3000,
+        "ReleaseLabel": "release.initial",
+        "StaminaType": 1,
+        "Value": 100
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0067_SP-Recover01",
+        "ItemCategory": 6,
+        "MasterStaminaItemId": 1062001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 1000,
+        "ReleaseLabel": "release.initial",
+        "StaminaType": 2,
+        "Value": 10
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0068_SP-Recover02",
+        "ItemCategory": 6,
+        "MasterStaminaItemId": 1062002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 3000,
+        "ReleaseLabel": "release.initial",
+        "StaminaType": 2,
+        "Value": 100
+    }
+]

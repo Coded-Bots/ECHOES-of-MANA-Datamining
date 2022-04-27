@@ -1,0 +1,2702 @@
+[
+    {
+        "Level": 1,
+        "MasterUserLevelId": 201000001,
+        "MaxFriendCount": 10,
+        "MaxStamina": 20,
+        "MaxStaminaEvent": 20,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterUserLevelId": 201000002,
+        "MaxFriendCount": 11,
+        "MaxStamina": 28,
+        "MaxStaminaEvent": 28,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3
+    },
+    {
+        "Level": 3,
+        "MasterUserLevelId": 201000003,
+        "MaxFriendCount": 12,
+        "MaxStamina": 35,
+        "MaxStaminaEvent": 35,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6
+    },
+    {
+        "Level": 4,
+        "MasterUserLevelId": 201000004,
+        "MaxFriendCount": 13,
+        "MaxStamina": 42,
+        "MaxStaminaEvent": 42,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 5,
+        "MasterUserLevelId": 201000005,
+        "MaxFriendCount": 14,
+        "MaxStamina": 49,
+        "MaxStaminaEvent": 49,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 60
+    },
+    {
+        "Level": 6,
+        "MasterUserLevelId": 201000006,
+        "MaxFriendCount": 15,
+        "MaxStamina": 55,
+        "MaxStaminaEvent": 55,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 210
+    },
+    {
+        "Level": 7,
+        "MasterUserLevelId": 201000007,
+        "MaxFriendCount": 16,
+        "MaxStamina": 60,
+        "MaxStaminaEvent": 60,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 410
+    },
+    {
+        "Level": 8,
+        "MasterUserLevelId": 201000008,
+        "MaxFriendCount": 17,
+        "MaxStamina": 65,
+        "MaxStaminaEvent": 65,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 610
+    },
+    {
+        "Level": 9,
+        "MasterUserLevelId": 201000009,
+        "MaxFriendCount": 18,
+        "MaxStamina": 70,
+        "MaxStaminaEvent": 70,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 860
+    },
+    {
+        "Level": 10,
+        "MasterUserLevelId": 201000010,
+        "MaxFriendCount": 19,
+        "MaxStamina": 76,
+        "MaxStaminaEvent": 76,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1115
+    },
+    {
+        "Level": 11,
+        "MasterUserLevelId": 201000011,
+        "MaxFriendCount": 20,
+        "MaxStamina": 81,
+        "MaxStaminaEvent": 81,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1396
+    },
+    {
+        "Level": 12,
+        "MasterUserLevelId": 201000012,
+        "MaxFriendCount": 21,
+        "MaxStamina": 86,
+        "MaxStaminaEvent": 86,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1704
+    },
+    {
+        "Level": 13,
+        "MasterUserLevelId": 201000013,
+        "MaxFriendCount": 22,
+        "MaxStamina": 91,
+        "MaxStaminaEvent": 91,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2039
+    },
+    {
+        "Level": 14,
+        "MasterUserLevelId": 201000014,
+        "MaxFriendCount": 23,
+        "MaxStamina": 96,
+        "MaxStaminaEvent": 96,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2400
+    },
+    {
+        "Level": 15,
+        "MasterUserLevelId": 201000015,
+        "MaxFriendCount": 24,
+        "MaxStamina": 101,
+        "MaxStaminaEvent": 101,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2788
+    },
+    {
+        "Level": 16,
+        "MasterUserLevelId": 201000016,
+        "MaxFriendCount": 25,
+        "MaxStamina": 105,
+        "MaxStaminaEvent": 105,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3200
+    },
+    {
+        "Level": 17,
+        "MasterUserLevelId": 201000017,
+        "MaxFriendCount": 26,
+        "MaxStamina": 109,
+        "MaxStaminaEvent": 109,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3622
+    },
+    {
+        "Level": 18,
+        "MasterUserLevelId": 201000018,
+        "MaxFriendCount": 27,
+        "MaxStamina": 113,
+        "MaxStaminaEvent": 113,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4068
+    },
+    {
+        "Level": 19,
+        "MasterUserLevelId": 201000019,
+        "MaxFriendCount": 28,
+        "MaxStamina": 117,
+        "MaxStaminaEvent": 117,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4525
+    },
+    {
+        "Level": 20,
+        "MasterUserLevelId": 201000020,
+        "MaxFriendCount": 29,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5011
+    },
+    {
+        "Level": 21,
+        "MasterUserLevelId": 201000021,
+        "MaxFriendCount": 30,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5987
+    },
+    {
+        "Level": 22,
+        "MasterUserLevelId": 201000022,
+        "MaxFriendCount": 31,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7164
+    },
+    {
+        "Level": 23,
+        "MasterUserLevelId": 201000023,
+        "MaxFriendCount": 32,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8406
+    },
+    {
+        "Level": 24,
+        "MasterUserLevelId": 201000024,
+        "MaxFriendCount": 33,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10044
+    },
+    {
+        "Level": 25,
+        "MasterUserLevelId": 201000025,
+        "MaxFriendCount": 34,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12093
+    },
+    {
+        "Level": 26,
+        "MasterUserLevelId": 201000026,
+        "MaxFriendCount": 35,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14269
+    },
+    {
+        "Level": 27,
+        "MasterUserLevelId": 201000027,
+        "MaxFriendCount": 36,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17185
+    },
+    {
+        "Level": 28,
+        "MasterUserLevelId": 201000028,
+        "MaxFriendCount": 37,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20284
+    },
+    {
+        "Level": 29,
+        "MasterUserLevelId": 201000029,
+        "MaxFriendCount": 38,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23573
+    },
+    {
+        "Level": 30,
+        "MasterUserLevelId": 201000030,
+        "MaxFriendCount": 39,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30059
+    },
+    {
+        "Level": 31,
+        "MasterUserLevelId": 201000031,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 36952
+    },
+    {
+        "Level": 32,
+        "MasterUserLevelId": 201000032,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 44265
+    },
+    {
+        "Level": 33,
+        "MasterUserLevelId": 201000033,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 52011
+    },
+    {
+        "Level": 34,
+        "MasterUserLevelId": 201000034,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 60203
+    },
+    {
+        "Level": 35,
+        "MasterUserLevelId": 201000035,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 70112
+    },
+    {
+        "Level": 36,
+        "MasterUserLevelId": 201000036,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 80568
+    },
+    {
+        "Level": 37,
+        "MasterUserLevelId": 201000037,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 91584
+    },
+    {
+        "Level": 38,
+        "MasterUserLevelId": 201000038,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 103178
+    },
+    {
+        "Level": 39,
+        "MasterUserLevelId": 201000039,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 115364
+    },
+    {
+        "Level": 40,
+        "MasterUserLevelId": 201000040,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 130396
+    },
+    {
+        "Level": 41,
+        "MasterUserLevelId": 201000041,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 146163
+    },
+    {
+        "Level": 42,
+        "MasterUserLevelId": 201000042,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 162686
+    },
+    {
+        "Level": 43,
+        "MasterUserLevelId": 201000043,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 179981
+    },
+    {
+        "Level": 44,
+        "MasterUserLevelId": 201000044,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 198067
+    },
+    {
+        "Level": 45,
+        "MasterUserLevelId": 201000045,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 216962
+    },
+    {
+        "Level": 46,
+        "MasterUserLevelId": 201000046,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 236684
+    },
+    {
+        "Level": 47,
+        "MasterUserLevelId": 201000047,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 257252
+    },
+    {
+        "Level": 48,
+        "MasterUserLevelId": 201000048,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 278684
+    },
+    {
+        "Level": 49,
+        "MasterUserLevelId": 201000049,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 300997
+    },
+    {
+        "Level": 50,
+        "MasterUserLevelId": 201000050,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 329261
+    },
+    {
+        "Level": 51,
+        "MasterUserLevelId": 201000051,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 358647
+    },
+    {
+        "Level": 52,
+        "MasterUserLevelId": 201000052,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 389177
+    },
+    {
+        "Level": 53,
+        "MasterUserLevelId": 201000053,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 420874
+    },
+    {
+        "Level": 54,
+        "MasterUserLevelId": 201000054,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 453760
+    },
+    {
+        "Level": 55,
+        "MasterUserLevelId": 201000055,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 487857
+    },
+    {
+        "Level": 56,
+        "MasterUserLevelId": 201000056,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 523188
+    },
+    {
+        "Level": 57,
+        "MasterUserLevelId": 201000057,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 559774
+    },
+    {
+        "Level": 58,
+        "MasterUserLevelId": 201000058,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 597637
+    },
+    {
+        "Level": 59,
+        "MasterUserLevelId": 201000059,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 636801
+    },
+    {
+        "Level": 60,
+        "MasterUserLevelId": 201000060,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 682287
+    },
+    {
+        "Level": 61,
+        "MasterUserLevelId": 201000061,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 729286
+    },
+    {
+        "Level": 62,
+        "MasterUserLevelId": 201000062,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 777822
+    },
+    {
+        "Level": 63,
+        "MasterUserLevelId": 201000063,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 827920
+    },
+    {
+        "Level": 64,
+        "MasterUserLevelId": 201000064,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 879606
+    },
+    {
+        "Level": 65,
+        "MasterUserLevelId": 201000065,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 932905
+    },
+    {
+        "Level": 66,
+        "MasterUserLevelId": 201000066,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 987841
+    },
+    {
+        "Level": 67,
+        "MasterUserLevelId": 201000067,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1044439
+    },
+    {
+        "Level": 68,
+        "MasterUserLevelId": 201000068,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1102725
+    },
+    {
+        "Level": 69,
+        "MasterUserLevelId": 201000069,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1162724
+    },
+    {
+        "Level": 70,
+        "MasterUserLevelId": 201000070,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1224460
+    },
+    {
+        "Level": 71,
+        "MasterUserLevelId": 201000071,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1287958
+    },
+    {
+        "Level": 72,
+        "MasterUserLevelId": 201000072,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1353244
+    },
+    {
+        "Level": 73,
+        "MasterUserLevelId": 201000073,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1420343
+    },
+    {
+        "Level": 74,
+        "MasterUserLevelId": 201000074,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1489279
+    },
+    {
+        "Level": 75,
+        "MasterUserLevelId": 201000075,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1560077
+    },
+    {
+        "Level": 76,
+        "MasterUserLevelId": 201000076,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1632763
+    },
+    {
+        "Level": 77,
+        "MasterUserLevelId": 201000077,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1707362
+    },
+    {
+        "Level": 78,
+        "MasterUserLevelId": 201000078,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1783898
+    },
+    {
+        "Level": 79,
+        "MasterUserLevelId": 201000079,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1862396
+    },
+    {
+        "Level": 80,
+        "MasterUserLevelId": 201000080,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1942882
+    },
+    {
+        "Level": 81,
+        "MasterUserLevelId": 201000081,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2025381
+    },
+    {
+        "Level": 82,
+        "MasterUserLevelId": 201000082,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2109917
+    },
+    {
+        "Level": 83,
+        "MasterUserLevelId": 201000083,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2196515
+    },
+    {
+        "Level": 84,
+        "MasterUserLevelId": 201000084,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2285201
+    },
+    {
+        "Level": 85,
+        "MasterUserLevelId": 201000085,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2376000
+    },
+    {
+        "Level": 86,
+        "MasterUserLevelId": 201000086,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2468936
+    },
+    {
+        "Level": 87,
+        "MasterUserLevelId": 201000087,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2564034
+    },
+    {
+        "Level": 88,
+        "MasterUserLevelId": 201000088,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2661320
+    },
+    {
+        "Level": 89,
+        "MasterUserLevelId": 201000089,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2760819
+    },
+    {
+        "Level": 90,
+        "MasterUserLevelId": 201000090,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2862555
+    },
+    {
+        "Level": 91,
+        "MasterUserLevelId": 201000091,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2966553
+    },
+    {
+        "Level": 92,
+        "MasterUserLevelId": 201000092,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3072839
+    },
+    {
+        "Level": 93,
+        "MasterUserLevelId": 201000093,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3181438
+    },
+    {
+        "Level": 94,
+        "MasterUserLevelId": 201000094,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3292374
+    },
+    {
+        "Level": 95,
+        "MasterUserLevelId": 201000095,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3405672
+    },
+    {
+        "Level": 96,
+        "MasterUserLevelId": 201000096,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3521358
+    },
+    {
+        "Level": 97,
+        "MasterUserLevelId": 201000097,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3639457
+    },
+    {
+        "Level": 98,
+        "MasterUserLevelId": 201000098,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3759993
+    },
+    {
+        "Level": 99,
+        "MasterUserLevelId": 201000099,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3882991
+    },
+    {
+        "Level": 100,
+        "MasterUserLevelId": 201000100,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4008477
+    },
+    {
+        "Level": 101,
+        "MasterUserLevelId": 201000101,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4136476
+    },
+    {
+        "Level": 102,
+        "MasterUserLevelId": 201000102,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4267012
+    },
+    {
+        "Level": 103,
+        "MasterUserLevelId": 201000103,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4400110
+    },
+    {
+        "Level": 104,
+        "MasterUserLevelId": 201000104,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4535796
+    },
+    {
+        "Level": 105,
+        "MasterUserLevelId": 201000105,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4674095
+    },
+    {
+        "Level": 106,
+        "MasterUserLevelId": 201000106,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4815031
+    },
+    {
+        "Level": 107,
+        "MasterUserLevelId": 201000107,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4958629
+    },
+    {
+        "Level": 108,
+        "MasterUserLevelId": 201000108,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5104915
+    },
+    {
+        "Level": 109,
+        "MasterUserLevelId": 201000109,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5253914
+    },
+    {
+        "Level": 110,
+        "MasterUserLevelId": 201000110,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5405650
+    },
+    {
+        "Level": 111,
+        "MasterUserLevelId": 201000111,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5560148
+    },
+    {
+        "Level": 112,
+        "MasterUserLevelId": 201000112,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5717434
+    },
+    {
+        "Level": 113,
+        "MasterUserLevelId": 201000113,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5877533
+    },
+    {
+        "Level": 114,
+        "MasterUserLevelId": 201000114,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6040469
+    },
+    {
+        "Level": 115,
+        "MasterUserLevelId": 201000115,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6206267
+    },
+    {
+        "Level": 116,
+        "MasterUserLevelId": 201000116,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6374953
+    },
+    {
+        "Level": 117,
+        "MasterUserLevelId": 201000117,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6546552
+    },
+    {
+        "Level": 118,
+        "MasterUserLevelId": 201000118,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6721088
+    },
+    {
+        "Level": 119,
+        "MasterUserLevelId": 201000119,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6898586
+    },
+    {
+        "Level": 120,
+        "MasterUserLevelId": 201000120,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7079072
+    },
+    {
+        "Level": 121,
+        "MasterUserLevelId": 201000121,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7262571
+    },
+    {
+        "Level": 122,
+        "MasterUserLevelId": 201000122,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7449107
+    },
+    {
+        "Level": 123,
+        "MasterUserLevelId": 201000123,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7638705
+    },
+    {
+        "Level": 124,
+        "MasterUserLevelId": 201000124,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7831391
+    },
+    {
+        "Level": 125,
+        "MasterUserLevelId": 201000125,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8027190
+    },
+    {
+        "Level": 126,
+        "MasterUserLevelId": 201000126,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8226126
+    },
+    {
+        "Level": 127,
+        "MasterUserLevelId": 201000127,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8428224
+    },
+    {
+        "Level": 128,
+        "MasterUserLevelId": 201000128,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8633510
+    },
+    {
+        "Level": 129,
+        "MasterUserLevelId": 201000129,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8842009
+    },
+    {
+        "Level": 130,
+        "MasterUserLevelId": 201000130,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9053745
+    },
+    {
+        "Level": 131,
+        "MasterUserLevelId": 201000131,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9268743
+    },
+    {
+        "Level": 132,
+        "MasterUserLevelId": 201000132,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9487029
+    },
+    {
+        "Level": 133,
+        "MasterUserLevelId": 201000133,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9708628
+    },
+    {
+        "Level": 134,
+        "MasterUserLevelId": 201000134,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9933564
+    },
+    {
+        "Level": 135,
+        "MasterUserLevelId": 201000135,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10161862
+    },
+    {
+        "Level": 136,
+        "MasterUserLevelId": 201000136,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10393548
+    },
+    {
+        "Level": 137,
+        "MasterUserLevelId": 201000137,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10628647
+    },
+    {
+        "Level": 138,
+        "MasterUserLevelId": 201000138,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10867183
+    },
+    {
+        "Level": 139,
+        "MasterUserLevelId": 201000139,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11109181
+    },
+    {
+        "Level": 140,
+        "MasterUserLevelId": 201000140,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11354667
+    },
+    {
+        "Level": 141,
+        "MasterUserLevelId": 201000141,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11603666
+    },
+    {
+        "Level": 142,
+        "MasterUserLevelId": 201000142,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11856202
+    },
+    {
+        "Level": 143,
+        "MasterUserLevelId": 201000143,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12112300
+    },
+    {
+        "Level": 144,
+        "MasterUserLevelId": 201000144,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12371986
+    },
+    {
+        "Level": 145,
+        "MasterUserLevelId": 201000145,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12635285
+    },
+    {
+        "Level": 146,
+        "MasterUserLevelId": 201000146,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12902221
+    },
+    {
+        "Level": 147,
+        "MasterUserLevelId": 201000147,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 13172819
+    },
+    {
+        "Level": 148,
+        "MasterUserLevelId": 201000148,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 13447105
+    },
+    {
+        "Level": 149,
+        "MasterUserLevelId": 201000149,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 13725104
+    },
+    {
+        "Level": 150,
+        "MasterUserLevelId": 201000150,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14006840
+    },
+    {
+        "Level": 151,
+        "MasterUserLevelId": 201000151,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14292338
+    },
+    {
+        "Level": 152,
+        "MasterUserLevelId": 201000152,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14581624
+    },
+    {
+        "Level": 153,
+        "MasterUserLevelId": 201000153,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14874723
+    },
+    {
+        "Level": 154,
+        "MasterUserLevelId": 201000154,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 15171659
+    },
+    {
+        "Level": 155,
+        "MasterUserLevelId": 201000155,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 15472457
+    },
+    {
+        "Level": 156,
+        "MasterUserLevelId": 201000156,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 15777143
+    },
+    {
+        "Level": 157,
+        "MasterUserLevelId": 201000157,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16085742
+    },
+    {
+        "Level": 158,
+        "MasterUserLevelId": 201000158,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16398278
+    },
+    {
+        "Level": 159,
+        "MasterUserLevelId": 201000159,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16714776
+    },
+    {
+        "Level": 160,
+        "MasterUserLevelId": 201000160,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17035262
+    },
+    {
+        "Level": 161,
+        "MasterUserLevelId": 201000161,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17359761
+    },
+    {
+        "Level": 162,
+        "MasterUserLevelId": 201000162,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17688297
+    },
+    {
+        "Level": 163,
+        "MasterUserLevelId": 201000163,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 18020895
+    },
+    {
+        "Level": 164,
+        "MasterUserLevelId": 201000164,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 18357581
+    },
+    {
+        "Level": 165,
+        "MasterUserLevelId": 201000165,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 18698380
+    },
+    {
+        "Level": 166,
+        "MasterUserLevelId": 201000166,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19043316
+    },
+    {
+        "Level": 167,
+        "MasterUserLevelId": 201000167,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19392414
+    },
+    {
+        "Level": 168,
+        "MasterUserLevelId": 201000168,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19745700
+    },
+    {
+        "Level": 169,
+        "MasterUserLevelId": 201000169,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20103199
+    },
+    {
+        "Level": 170,
+        "MasterUserLevelId": 201000170,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20464935
+    },
+    {
+        "Level": 171,
+        "MasterUserLevelId": 201000171,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20830933
+    },
+    {
+        "Level": 172,
+        "MasterUserLevelId": 201000172,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21201219
+    },
+    {
+        "Level": 173,
+        "MasterUserLevelId": 201000173,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21575818
+    },
+    {
+        "Level": 174,
+        "MasterUserLevelId": 201000174,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21954754
+    },
+    {
+        "Level": 175,
+        "MasterUserLevelId": 201000175,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 22338052
+    },
+    {
+        "Level": 176,
+        "MasterUserLevelId": 201000176,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 22725738
+    },
+    {
+        "Level": 177,
+        "MasterUserLevelId": 201000177,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23117837
+    },
+    {
+        "Level": 178,
+        "MasterUserLevelId": 201000178,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23514373
+    },
+    {
+        "Level": 179,
+        "MasterUserLevelId": 201000179,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23915371
+    },
+    {
+        "Level": 180,
+        "MasterUserLevelId": 201000180,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 24320857
+    },
+    {
+        "Level": 181,
+        "MasterUserLevelId": 201000181,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 24730856
+    },
+    {
+        "Level": 182,
+        "MasterUserLevelId": 201000182,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 25145392
+    },
+    {
+        "Level": 183,
+        "MasterUserLevelId": 201000183,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 25564490
+    },
+    {
+        "Level": 184,
+        "MasterUserLevelId": 201000184,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 25988176
+    },
+    {
+        "Level": 185,
+        "MasterUserLevelId": 201000185,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26416475
+    },
+    {
+        "Level": 186,
+        "MasterUserLevelId": 201000186,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26849411
+    },
+    {
+        "Level": 187,
+        "MasterUserLevelId": 201000187,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 27287009
+    },
+    {
+        "Level": 188,
+        "MasterUserLevelId": 201000188,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 27729295
+    },
+    {
+        "Level": 189,
+        "MasterUserLevelId": 201000189,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 28176294
+    },
+    {
+        "Level": 190,
+        "MasterUserLevelId": 201000190,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 28628030
+    },
+    {
+        "Level": 191,
+        "MasterUserLevelId": 201000191,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 29084528
+    },
+    {
+        "Level": 192,
+        "MasterUserLevelId": 201000192,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 29545814
+    },
+    {
+        "Level": 193,
+        "MasterUserLevelId": 201000193,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30011913
+    },
+    {
+        "Level": 194,
+        "MasterUserLevelId": 201000194,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30482849
+    },
+    {
+        "Level": 195,
+        "MasterUserLevelId": 201000195,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30958647
+    },
+    {
+        "Level": 196,
+        "MasterUserLevelId": 201000196,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31439333
+    },
+    {
+        "Level": 197,
+        "MasterUserLevelId": 201000197,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31924932
+    },
+    {
+        "Level": 198,
+        "MasterUserLevelId": 201000198,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 32415468
+    },
+    {
+        "Level": 199,
+        "MasterUserLevelId": 201000199,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 32910966
+    },
+    {
+        "Level": 200,
+        "MasterUserLevelId": 201000200,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 33411452
+    },
+    {
+        "Level": 201,
+        "MasterUserLevelId": 201000201,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 33916951
+    },
+    {
+        "Level": 202,
+        "MasterUserLevelId": 201000202,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 34427487
+    },
+    {
+        "Level": 203,
+        "MasterUserLevelId": 201000203,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 34943085
+    },
+    {
+        "Level": 204,
+        "MasterUserLevelId": 201000204,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 35463771
+    },
+    {
+        "Level": 205,
+        "MasterUserLevelId": 201000205,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 35989570
+    },
+    {
+        "Level": 206,
+        "MasterUserLevelId": 201000206,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 36520506
+    },
+    {
+        "Level": 207,
+        "MasterUserLevelId": 201000207,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 37056604
+    },
+    {
+        "Level": 208,
+        "MasterUserLevelId": 201000208,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 37597890
+    },
+    {
+        "Level": 209,
+        "MasterUserLevelId": 201000209,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 38144389
+    },
+    {
+        "Level": 210,
+        "MasterUserLevelId": 201000210,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 38696125
+    },
+    {
+        "Level": 211,
+        "MasterUserLevelId": 201000211,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 39253123
+    },
+    {
+        "Level": 212,
+        "MasterUserLevelId": 201000212,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 39815409
+    },
+    {
+        "Level": 213,
+        "MasterUserLevelId": 201000213,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 40383008
+    },
+    {
+        "Level": 214,
+        "MasterUserLevelId": 201000214,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 40955944
+    },
+    {
+        "Level": 215,
+        "MasterUserLevelId": 201000215,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 41534242
+    },
+    {
+        "Level": 216,
+        "MasterUserLevelId": 201000216,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 42117928
+    },
+    {
+        "Level": 217,
+        "MasterUserLevelId": 201000217,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 42707027
+    },
+    {
+        "Level": 218,
+        "MasterUserLevelId": 201000218,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 43301563
+    },
+    {
+        "Level": 219,
+        "MasterUserLevelId": 201000219,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 43901561
+    },
+    {
+        "Level": 220,
+        "MasterUserLevelId": 201000220,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 44507047
+    },
+    {
+        "Level": 221,
+        "MasterUserLevelId": 201000221,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 45118046
+    },
+    {
+        "Level": 222,
+        "MasterUserLevelId": 201000222,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 45734582
+    },
+    {
+        "Level": 223,
+        "MasterUserLevelId": 201000223,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 46356680
+    },
+    {
+        "Level": 224,
+        "MasterUserLevelId": 201000224,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 46984366
+    },
+    {
+        "Level": 225,
+        "MasterUserLevelId": 201000225,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 47617665
+    },
+    {
+        "Level": 226,
+        "MasterUserLevelId": 201000226,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 48256601
+    },
+    {
+        "Level": 227,
+        "MasterUserLevelId": 201000227,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 48901199
+    },
+    {
+        "Level": 228,
+        "MasterUserLevelId": 201000228,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 49551485
+    },
+    {
+        "Level": 229,
+        "MasterUserLevelId": 201000229,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 50207484
+    },
+    {
+        "Level": 230,
+        "MasterUserLevelId": 201000230,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 50869220
+    },
+    {
+        "Level": 231,
+        "MasterUserLevelId": 201000231,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 51536718
+    },
+    {
+        "Level": 232,
+        "MasterUserLevelId": 201000232,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 52210004
+    },
+    {
+        "Level": 233,
+        "MasterUserLevelId": 201000233,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 52889103
+    },
+    {
+        "Level": 234,
+        "MasterUserLevelId": 201000234,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 53574039
+    },
+    {
+        "Level": 235,
+        "MasterUserLevelId": 201000235,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 54264837
+    },
+    {
+        "Level": 236,
+        "MasterUserLevelId": 201000236,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 54961523
+    },
+    {
+        "Level": 237,
+        "MasterUserLevelId": 201000237,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 55664122
+    },
+    {
+        "Level": 238,
+        "MasterUserLevelId": 201000238,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 56372658
+    },
+    {
+        "Level": 239,
+        "MasterUserLevelId": 201000239,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 57087156
+    },
+    {
+        "Level": 240,
+        "MasterUserLevelId": 201000240,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 57807642
+    },
+    {
+        "Level": 241,
+        "MasterUserLevelId": 201000241,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 58534141
+    },
+    {
+        "Level": 242,
+        "MasterUserLevelId": 201000242,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 59266677
+    },
+    {
+        "Level": 243,
+        "MasterUserLevelId": 201000243,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 60005275
+    },
+    {
+        "Level": 244,
+        "MasterUserLevelId": 201000244,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 60749961
+    },
+    {
+        "Level": 245,
+        "MasterUserLevelId": 201000245,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 61500760
+    },
+    {
+        "Level": 246,
+        "MasterUserLevelId": 201000246,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 62257696
+    },
+    {
+        "Level": 247,
+        "MasterUserLevelId": 201000247,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 63020794
+    },
+    {
+        "Level": 248,
+        "MasterUserLevelId": 201000248,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 63790080
+    },
+    {
+        "Level": 249,
+        "MasterUserLevelId": 201000249,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 64565579
+    },
+    {
+        "Level": 250,
+        "MasterUserLevelId": 201000250,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 65347315
+    },
+    {
+        "Level": 251,
+        "MasterUserLevelId": 201000251,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 66135313
+    },
+    {
+        "Level": 252,
+        "MasterUserLevelId": 201000252,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 66929599
+    },
+    {
+        "Level": 253,
+        "MasterUserLevelId": 201000253,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 67730198
+    },
+    {
+        "Level": 254,
+        "MasterUserLevelId": 201000254,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 68537134
+    },
+    {
+        "Level": 255,
+        "MasterUserLevelId": 201000255,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 69350432
+    },
+    {
+        "Level": 256,
+        "MasterUserLevelId": 201000256,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 70170118
+    },
+    {
+        "Level": 257,
+        "MasterUserLevelId": 201000257,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 70996217
+    },
+    {
+        "Level": 258,
+        "MasterUserLevelId": 201000258,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 71828753
+    },
+    {
+        "Level": 259,
+        "MasterUserLevelId": 201000259,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 72667751
+    },
+    {
+        "Level": 260,
+        "MasterUserLevelId": 201000260,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 73513237
+    },
+    {
+        "Level": 261,
+        "MasterUserLevelId": 201000261,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 74365236
+    },
+    {
+        "Level": 262,
+        "MasterUserLevelId": 201000262,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 75223772
+    },
+    {
+        "Level": 263,
+        "MasterUserLevelId": 201000263,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 76088870
+    },
+    {
+        "Level": 264,
+        "MasterUserLevelId": 201000264,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 76960556
+    },
+    {
+        "Level": 265,
+        "MasterUserLevelId": 201000265,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 77838855
+    },
+    {
+        "Level": 266,
+        "MasterUserLevelId": 201000266,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 78723791
+    },
+    {
+        "Level": 267,
+        "MasterUserLevelId": 201000267,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 79615389
+    },
+    {
+        "Level": 268,
+        "MasterUserLevelId": 201000268,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 80513675
+    },
+    {
+        "Level": 269,
+        "MasterUserLevelId": 201000269,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 81418674
+    },
+    {
+        "Level": 270,
+        "MasterUserLevelId": 201000270,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 82330410
+    },
+    {
+        "Level": 271,
+        "MasterUserLevelId": 201000271,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 83248908
+    },
+    {
+        "Level": 272,
+        "MasterUserLevelId": 201000272,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 84174194
+    },
+    {
+        "Level": 273,
+        "MasterUserLevelId": 201000273,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 85106293
+    },
+    {
+        "Level": 274,
+        "MasterUserLevelId": 201000274,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 86045229
+    },
+    {
+        "Level": 275,
+        "MasterUserLevelId": 201000275,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 86991027
+    },
+    {
+        "Level": 276,
+        "MasterUserLevelId": 201000276,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 87943713
+    },
+    {
+        "Level": 277,
+        "MasterUserLevelId": 201000277,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 88903312
+    },
+    {
+        "Level": 278,
+        "MasterUserLevelId": 201000278,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 89869848
+    },
+    {
+        "Level": 279,
+        "MasterUserLevelId": 201000279,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 90843346
+    },
+    {
+        "Level": 280,
+        "MasterUserLevelId": 201000280,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 91823832
+    },
+    {
+        "Level": 281,
+        "MasterUserLevelId": 201000281,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 92811331
+    },
+    {
+        "Level": 282,
+        "MasterUserLevelId": 201000282,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 93805867
+    },
+    {
+        "Level": 283,
+        "MasterUserLevelId": 201000283,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 94807465
+    },
+    {
+        "Level": 284,
+        "MasterUserLevelId": 201000284,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 95816151
+    },
+    {
+        "Level": 285,
+        "MasterUserLevelId": 201000285,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 96831950
+    },
+    {
+        "Level": 286,
+        "MasterUserLevelId": 201000286,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 97854886
+    },
+    {
+        "Level": 287,
+        "MasterUserLevelId": 201000287,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 98884984
+    },
+    {
+        "Level": 288,
+        "MasterUserLevelId": 201000288,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 99922270
+    },
+    {
+        "Level": 289,
+        "MasterUserLevelId": 201000289,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 100966769
+    },
+    {
+        "Level": 290,
+        "MasterUserLevelId": 201000290,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 102018505
+    },
+    {
+        "Level": 291,
+        "MasterUserLevelId": 201000291,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 103077503
+    },
+    {
+        "Level": 292,
+        "MasterUserLevelId": 201000292,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 104143789
+    },
+    {
+        "Level": 293,
+        "MasterUserLevelId": 201000293,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 105217388
+    },
+    {
+        "Level": 294,
+        "MasterUserLevelId": 201000294,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 106298324
+    },
+    {
+        "Level": 295,
+        "MasterUserLevelId": 201000295,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 107386622
+    },
+    {
+        "Level": 296,
+        "MasterUserLevelId": 201000296,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 108482308
+    },
+    {
+        "Level": 297,
+        "MasterUserLevelId": 201000297,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 109585407
+    },
+    {
+        "Level": 298,
+        "MasterUserLevelId": 201000298,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 110695943
+    },
+    {
+        "Level": 299,
+        "MasterUserLevelId": 201000299,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 111813941
+    },
+    {
+        "Level": 300,
+        "MasterUserLevelId": 201000300,
+        "MaxFriendCount": 40,
+        "MaxStamina": 120,
+        "MaxStaminaEvent": 120,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 112939427
+    }
+]

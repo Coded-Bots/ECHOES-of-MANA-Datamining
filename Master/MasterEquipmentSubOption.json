@@ -1,0 +1,650 @@
+[
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010101,
+        "MaxValue": 26,
+        "MinValue": 19,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006010102,
+        "MaxValue": 10180,
+        "MinValue": 10140,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010203,
+        "MaxValue": 4,
+        "MinValue": 3,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010304,
+        "MaxValue": 6,
+        "MinValue": 4,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006010305,
+        "MaxValue": 10090,
+        "MinValue": 10070,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010406,
+        "MaxValue": 10,
+        "MinValue": 7,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006010407,
+        "MaxValue": 10180,
+        "MinValue": 10140,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010508,
+        "MaxValue": 6,
+        "MinValue": 4,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006010509,
+        "MaxValue": 10090,
+        "MinValue": 10070,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010610,
+        "MaxValue": 10,
+        "MinValue": 7,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006010611,
+        "MaxValue": 10180,
+        "MinValue": 10140,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006010712,
+        "MaxValue": 10,
+        "MinValue": 7,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020101,
+        "MaxValue": 33,
+        "MinValue": 24,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006020102,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020203,
+        "MaxValue": 5,
+        "MinValue": 3,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020304,
+        "MaxValue": 8,
+        "MinValue": 6,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006020305,
+        "MaxValue": 10120,
+        "MinValue": 10090,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020406,
+        "MaxValue": 13,
+        "MinValue": 9,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006020407,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020508,
+        "MaxValue": 8,
+        "MinValue": 6,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006020509,
+        "MaxValue": 10120,
+        "MinValue": 10090,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020610,
+        "MaxValue": 13,
+        "MinValue": 9,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006020611,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006020712,
+        "MaxValue": 13,
+        "MinValue": 9,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030101,
+        "MaxValue": 40,
+        "MinValue": 29,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006030102,
+        "MaxValue": 10280,
+        "MinValue": 10200,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030203,
+        "MaxValue": 6,
+        "MinValue": 4,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030304,
+        "MaxValue": 9,
+        "MinValue": 7,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006030305,
+        "MaxValue": 10140,
+        "MinValue": 10100,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030406,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006030407,
+        "MaxValue": 10280,
+        "MinValue": 10200,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030508,
+        "MaxValue": 9,
+        "MinValue": 7,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006030509,
+        "MaxValue": 10140,
+        "MinValue": 10100,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030610,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006030611,
+        "MaxValue": 10280,
+        "MinValue": 10200,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006030712,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040101,
+        "MaxValue": 50,
+        "MinValue": 37,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006040102,
+        "MaxValue": 10370,
+        "MinValue": 10270,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040203,
+        "MaxValue": 7,
+        "MinValue": 5,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040304,
+        "MaxValue": 11,
+        "MinValue": 8,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006040305,
+        "MaxValue": 10180,
+        "MinValue": 10140,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040406,
+        "MaxValue": 18,
+        "MinValue": 13,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006040407,
+        "MaxValue": 10370,
+        "MinValue": 10270,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040508,
+        "MaxValue": 11,
+        "MinValue": 8,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006040509,
+        "MaxValue": 10180,
+        "MinValue": 10140,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040610,
+        "MaxValue": 18,
+        "MinValue": 13,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006040611,
+        "MaxValue": 10370,
+        "MinValue": 10270,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006040712,
+        "MaxValue": 20,
+        "MinValue": 15,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050101,
+        "MaxValue": 61,
+        "MinValue": 45,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006050102,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050203,
+        "MaxValue": 9,
+        "MinValue": 7,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050304,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006050305,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050406,
+        "MaxValue": 23,
+        "MinValue": 17,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006050407,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050508,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006050509,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050610,
+        "MaxValue": 23,
+        "MinValue": 17,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006050611,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006050712,
+        "MaxValue": 25,
+        "MinValue": 19,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060101,
+        "MaxValue": 61,
+        "MinValue": 45,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006060102,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060203,
+        "MaxValue": 9,
+        "MinValue": 7,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060304,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006060305,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060406,
+        "MaxValue": 23,
+        "MinValue": 17,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006060407,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060508,
+        "MaxValue": 15,
+        "MinValue": 11,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006060509,
+        "MaxValue": 10230,
+        "MinValue": 10170,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060610,
+        "MaxValue": 23,
+        "MinValue": 17,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 2,
+        "MasterEquipmentSubOptionId": 3006060611,
+        "MaxValue": 10460,
+        "MinValue": 10340,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "MasterEquipmentSubOptionId": 3006060712,
+        "MaxValue": 25,
+        "MinValue": 19,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    }
+]

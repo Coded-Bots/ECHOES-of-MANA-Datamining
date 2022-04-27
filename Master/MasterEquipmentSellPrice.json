@@ -1,0 +1,44 @@
+[
+    {
+        "BaseExp": 30,
+        "MasterEquipmentSellPriceId": 3008000001,
+        "Price": 100,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BaseExp": 60,
+        "MasterEquipmentSellPriceId": 3008000002,
+        "Price": 200,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BaseExp": 90,
+        "MasterEquipmentSellPriceId": 3008000003,
+        "Price": 300,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BaseExp": 180,
+        "MasterEquipmentSellPriceId": 3008000004,
+        "Price": 600,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BaseExp": 270,
+        "MasterEquipmentSellPriceId": 3008000005,
+        "Price": 900,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BaseExp": 480,
+        "MasterEquipmentSellPriceId": 3008000006,
+        "Price": 1600,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    }
+]

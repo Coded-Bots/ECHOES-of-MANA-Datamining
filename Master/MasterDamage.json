@@ -1,0 +1,68 @@
+[
+    {
+        "DamageRatio": 10000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300000000000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 5000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300507700401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 8000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300507700402,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 15000,
+        "DirectionType": 2,
+        "MasterDamageId": 10300508000102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508000103,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 7500,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300507700201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300507800101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 25000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508600101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508100101,
+        "ReleaseLabel": "release.initial"
+    }
+]

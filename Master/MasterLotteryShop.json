@@ -1,0 +1,47 @@
+[
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/Tutorial/banner",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": true,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001000001,
+        "MoviePath": "",
+        "Name": "",
+        "Priority": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/Release/banner2",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001002001,
+        "MoviePath": "Movie/gacha_top_01.usm",
+        "Name": "",
+        "Priority": 2,
+        "ReleaseLabel": "release.lottery_202204_release"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/Release/banner3",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001003001,
+        "MoviePath": "Movie/gacha_top_02.usm",
+        "Name": "",
+        "Priority": 3,
+        "ReleaseLabel": "release.initial"
+    }
+]

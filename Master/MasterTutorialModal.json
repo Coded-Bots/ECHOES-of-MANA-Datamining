@@ -1,0 +1,186 @@
+[
+    {
+        "ConditionMasterTutorialId": 0,
+        "ImagePath": "01",
+        "MasterTutorialId": 14001000003,
+        "MasterTutorialModalId": 14002000301,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 0,
+        "ImagePath": "02",
+        "MasterTutorialId": 14001000003,
+        "MasterTutorialModalId": 14002000302,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 0,
+        "ImagePath": "03",
+        "MasterTutorialId": 14001000004,
+        "MasterTutorialModalId": 14002000403,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_character_reinforcement_01",
+        "MasterTutorialId": 14001000101,
+        "MasterTutorialModalId": 14002010101,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_character_reinforcement_02",
+        "MasterTutorialId": 14001000101,
+        "MasterTutorialModalId": 14002010102,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_character_evolution_01",
+        "MasterTutorialId": 14001000102,
+        "MasterTutorialModalId": 14002010201,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_character_evolution_02",
+        "MasterTutorialId": 14001000102,
+        "MasterTutorialModalId": 14002010202,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_character_limit_break_01",
+        "MasterTutorialId": 14001000103,
+        "MasterTutorialModalId": 14002010301,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_awakening_01",
+        "MasterTutorialId": 14001000104,
+        "MasterTutorialModalId": 14002010401,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_awakening_02",
+        "MasterTutorialId": 14001000104,
+        "MasterTutorialModalId": 14002010402,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_memorygem_reinforcement_01",
+        "MasterTutorialId": 14001000202,
+        "MasterTutorialModalId": 14002020201,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_memorygem_reinforcement_02",
+        "MasterTutorialId": 14001000202,
+        "MasterTutorialModalId": 14002020202,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_memorygem_limit_break_01",
+        "MasterTutorialId": 14001000203,
+        "MasterTutorialModalId": 14002020301,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_memorygem_limit_break_02",
+        "MasterTutorialId": 14001000203,
+        "MasterTutorialModalId": 14002020302,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_equipment_01",
+        "MasterTutorialId": 14001000304,
+        "MasterTutorialModalId": 14002030401,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_equipment_02",
+        "MasterTutorialId": 14001000304,
+        "MasterTutorialModalId": 14002030402,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_event_01",
+        "MasterTutorialId": 14001000402,
+        "MasterTutorialModalId": 14002040201,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "sample_1",
+        "MasterTutorialId": 14001000404,
+        "MasterTutorialModalId": 14002040401,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_event_01",
+        "MasterTutorialId": 14001000405,
+        "MasterTutorialModalId": 14002040501,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "sample_1",
+        "MasterTutorialId": 14001000406,
+        "MasterTutorialModalId": 14002040601,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "sample_1",
+        "MasterTutorialId": 14001000407,
+        "MasterTutorialModalId": 14002040701,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_bond_List",
+        "MasterTutorialId": 14001000801,
+        "MasterTutorialModalId": 14002080101,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "ConditionMasterTutorialId": 14001000012,
+        "ImagePath": "tips_friend_register",
+        "MasterTutorialId": 14001000802,
+        "MasterTutorialModalId": 14002080201,
+        "MasterTutorialModalType": 0,
+        "ReleaseLabel": "release.initial"
+    }
+]

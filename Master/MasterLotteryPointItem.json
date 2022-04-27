@@ -1,0 +1,13 @@
+[
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202204_release_point_exchange",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002001,
+        "MasterLotteryShopId": 6001002001,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202204_release_start"
+    }
+]

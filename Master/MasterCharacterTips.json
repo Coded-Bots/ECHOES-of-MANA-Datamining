@@ -1,0 +1,32 @@
+[
+    {
+        "MasterCharacterId": 600210306001,
+        "MasterCharacterTipsId": 16110306001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterId": 600210301001,
+        "MasterCharacterTipsId": 16110301001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterId": 600210302001,
+        "MasterCharacterTipsId": 16110302001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterId": 600210501001,
+        "MasterCharacterTipsId": 16110501001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterId": 600210101001,
+        "MasterCharacterTipsId": 16110101001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterId": 600210203001,
+        "MasterCharacterTipsId": 16110203001,
+        "ReleaseLabel": "release.initial"
+    }
+]

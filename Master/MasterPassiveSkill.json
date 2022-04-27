@@ -1,0 +1,2418 @@
+[
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609110818809708592,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000010000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 609110823104675884,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000010001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 609110827399643180,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000010002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609110990608400432,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100000010040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609110994903367728,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100000010041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609110999198335024,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100000010042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153854382014512,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153858676981808,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153862971949104,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153897331687472,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153901626654768,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153905921622064,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153940281360432,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153944576327728,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609153948871295024,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000020042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196804054974512,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196808349941808,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196812644909104,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196847004647472,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196851299614768,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196855594582064,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196889954320432,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196894249287728,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609196898544255024,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000030042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1047197530246348848,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100102010011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240226174337072,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040130,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240230469304368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240234764271664,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040132,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240655671066672,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040230,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240659966033968,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240664261001264,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040232,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241085167796272,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040330,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241089462763568,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241093757730864,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040332,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241514664525872,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040430,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241518959493168,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241523254460464,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040432,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241944161255472,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040530,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241948456222768,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241952751190064,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040532,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242373657985072,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040630,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242377952952368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040631,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242382247919664,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040632,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242803154714672,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040730,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242807449681968,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040731,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242811744649264,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040732,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609243232651444272,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040830,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609243236946411568,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040831,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609243241241378864,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040832,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240312073682992,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040150,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609240741570412592,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040250,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241171067142192,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040350,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609241600563871792,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040450,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242030060601392,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040550,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242459557330992,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040650,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609242889054060592,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040750,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609243318550790192,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100000040850,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1047283425297301552,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100102030010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1047283429592268848,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100102030011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051492493247381552,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100103010010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051492497542348848,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100103010011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051535442920341552,
+        "MasterPassiveSkillConditionId3": 31200131001050,
+        "MasterPassiveSkillId": 31100103020010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051535447215308848,
+        "MasterPassiveSkillConditionId3": 31200131001050,
+        "MasterPassiveSkillId": 31100103020011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051707241612181552,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100103060010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051707245907148848,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100103060011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1060082427839381552,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100105010010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1060082432134348848,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100105010011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1042902558655381552,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100101010010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1042902562950348848,
+        "MasterPassiveSkillConditionId3": 31200129000003,
+        "MasterPassiveSkillId": 31100101010011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609368516847468592,
+        "MasterPassiveSkillConditionId3": 31200125001030,
+        "MasterPassiveSkillId": 31100000070000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609454416193388592,
+        "MasterPassiveSkillConditionId3": 31200127000001,
+        "MasterPassiveSkillId": 31100000090000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609454459143061552,
+        "MasterPassiveSkillConditionId3": 31200127000001,
+        "MasterPassiveSkillId": 31100000090010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749061064437530576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001010001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749061060142563280,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001010002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749056769470234576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001011001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749052474502938576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001012001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749009524829978576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001022001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8749009520535011280,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001022002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748927920451354576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001041001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748889265745690576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001050001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748884970778394576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001051001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748884966483427280,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001051002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748884962188459984,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001051003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748884957893492688,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001051004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748880675811098576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001052001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748837726138138576,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001062001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": -8748837721843171280,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31115001062002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363270224445488,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363313174118448,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363356123791408,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363399073464368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363442023137328,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363699721175088,
+        "MasterPassiveSkillConditionId3": 31200000000010,
+        "MasterPassiveSkillId": 31100001000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363742670848048,
+        "MasterPassiveSkillConditionId3": 31200000000010,
+        "MasterPassiveSkillId": 31100001000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363785620521008,
+        "MasterPassiveSkillConditionId3": 31200000000010,
+        "MasterPassiveSkillId": 31100001000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363828570193968,
+        "MasterPassiveSkillConditionId3": 31200000000010,
+        "MasterPassiveSkillId": 31100001000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613363871519866928,
+        "MasterPassiveSkillConditionId3": 31200000000010,
+        "MasterPassiveSkillId": 31100001000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364129217904688,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364172167577648,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364215117250608,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364258066923568,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364301016596528,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100001000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364558714634288,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100001000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364601664307248,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100001000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364644613980208,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100001000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364687563653168,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100001000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364730513326128,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100001000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613364988211363888,
+        "MasterPassiveSkillConditionId3": 31200109000004,
+        "MasterPassiveSkillId": 31100001000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613365031161036848,
+        "MasterPassiveSkillConditionId3": 31200109000004,
+        "MasterPassiveSkillId": 31100001000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613365074110709808,
+        "MasterPassiveSkillConditionId3": 31200109000004,
+        "MasterPassiveSkillId": 31100001000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613365117060382768,
+        "MasterPassiveSkillConditionId3": 31200109000004,
+        "MasterPassiveSkillId": 31100001000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 613365160010055728,
+        "MasterPassiveSkillConditionId3": 31200109000004,
+        "MasterPassiveSkillId": 31100001000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658237520445488,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658280470118448,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658323419791408,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658366369464368,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658409319137328,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658667017175088,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100002000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658709966848048,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100002000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658752916521008,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100002000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658795866193968,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100002000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617658838815866928,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100002000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659096513904688,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659139463577648,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659182413250608,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659225362923568,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659268312596528,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100002000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659526010634288,
+        "MasterPassiveSkillConditionId3": 31200109000005,
+        "MasterPassiveSkillId": 31100002000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659568960307248,
+        "MasterPassiveSkillConditionId3": 31200109000005,
+        "MasterPassiveSkillId": 31100002000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659611909980208,
+        "MasterPassiveSkillConditionId3": 31200109000005,
+        "MasterPassiveSkillId": 31100002000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659654859653168,
+        "MasterPassiveSkillConditionId3": 31200109000005,
+        "MasterPassiveSkillId": 31100002000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659697809326128,
+        "MasterPassiveSkillConditionId3": 31200109000005,
+        "MasterPassiveSkillId": 31100002000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659955507363888,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100002000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617659998457036848,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100002000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660041406709808,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100002000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660084356382768,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100002000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660127306055728,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100002000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660385004093488,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000601,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660427953766448,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000611,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660470903439408,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000621,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660513853112368,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000631,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660556802785328,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000641,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660814500823088,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000701,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660857450496048,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000711,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660900400169008,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000721,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660943349841968,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000731,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617660986299514928,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000741,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661243997552688,
+        "MasterPassiveSkillConditionId3": 31200109000003,
+        "MasterPassiveSkillId": 31100002000801,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661286947225648,
+        "MasterPassiveSkillConditionId3": 31200109000003,
+        "MasterPassiveSkillId": 31100002000811,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661329896898608,
+        "MasterPassiveSkillConditionId3": 31200109000003,
+        "MasterPassiveSkillId": 31100002000821,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661372846571568,
+        "MasterPassiveSkillConditionId3": 31200109000003,
+        "MasterPassiveSkillId": 31100002000831,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661415796244528,
+        "MasterPassiveSkillConditionId3": 31200109000003,
+        "MasterPassiveSkillId": 31100002000841,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953204816445488,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100003000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953247766118448,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100003000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953290715791408,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100003000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953333665464368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100003000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953376615137328,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100003000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953634313175088,
+        "MasterPassiveSkillConditionId3": 31200110000003,
+        "MasterPassiveSkillId": 31100003000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953677262848048,
+        "MasterPassiveSkillConditionId3": 31200110000003,
+        "MasterPassiveSkillId": 31100003000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953720212521008,
+        "MasterPassiveSkillConditionId3": 31200110000003,
+        "MasterPassiveSkillId": 31100003000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953763162193968,
+        "MasterPassiveSkillConditionId3": 31200110000003,
+        "MasterPassiveSkillId": 31100003000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621953806111866928,
+        "MasterPassiveSkillConditionId3": 31200110000003,
+        "MasterPassiveSkillId": 31100003000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954063809904688,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100003000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954106759577648,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100003000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954149709250608,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100003000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954192658923568,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100003000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954235608596528,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100003000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954493306634288,
+        "MasterPassiveSkillConditionId3": 31200110000001,
+        "MasterPassiveSkillId": 31100003000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954536256307248,
+        "MasterPassiveSkillConditionId3": 31200110000001,
+        "MasterPassiveSkillId": 31100003000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954579205980208,
+        "MasterPassiveSkillConditionId3": 31200110000001,
+        "MasterPassiveSkillId": 31100003000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954622155653168,
+        "MasterPassiveSkillConditionId3": 31200110000001,
+        "MasterPassiveSkillId": 31100003000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954665105326128,
+        "MasterPassiveSkillConditionId3": 31200110000001,
+        "MasterPassiveSkillId": 31100003000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954922803363888,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100003000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621954965753036848,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100003000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955008702709808,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100003000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955051652382768,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100003000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955094602055728,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100003000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955352300093488,
+        "MasterPassiveSkillConditionId3": 31200121000006,
+        "MasterPassiveSkillId": 31100003000601,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955395249766448,
+        "MasterPassiveSkillConditionId3": 31200121000006,
+        "MasterPassiveSkillId": 31100003000611,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955438199439408,
+        "MasterPassiveSkillConditionId3": 31200121000006,
+        "MasterPassiveSkillId": 31100003000621,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955481149112368,
+        "MasterPassiveSkillConditionId3": 31200121000006,
+        "MasterPassiveSkillId": 31100003000631,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955524098785328,
+        "MasterPassiveSkillConditionId3": 31200121000006,
+        "MasterPassiveSkillId": 31100003000641,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955781796823088,
+        "MasterPassiveSkillConditionId3": 31200000000007,
+        "MasterPassiveSkillId": 31100003000701,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955824746496048,
+        "MasterPassiveSkillConditionId3": 31200000000007,
+        "MasterPassiveSkillId": 31100003000711,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955867696169008,
+        "MasterPassiveSkillConditionId3": 31200000000007,
+        "MasterPassiveSkillId": 31100003000721,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955910645841968,
+        "MasterPassiveSkillConditionId3": 31200000000007,
+        "MasterPassiveSkillId": 31100003000731,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621955953595514928,
+        "MasterPassiveSkillConditionId3": 31200000000007,
+        "MasterPassiveSkillId": 31100003000741,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621956211293552688,
+        "MasterPassiveSkillConditionId3": 31200110000005,
+        "MasterPassiveSkillId": 31100003000801,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621956254243225648,
+        "MasterPassiveSkillConditionId3": 31200110000005,
+        "MasterPassiveSkillId": 31100003000811,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621956297192898608,
+        "MasterPassiveSkillConditionId3": 31200110000005,
+        "MasterPassiveSkillId": 31100003000821,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621956340142571568,
+        "MasterPassiveSkillConditionId3": 31200110000005,
+        "MasterPassiveSkillId": 31100003000831,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621956383092244528,
+        "MasterPassiveSkillConditionId3": 31200110000005,
+        "MasterPassiveSkillId": 31100003000841,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248172112445488,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100004000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248215062118448,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100004000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248258011791408,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100004000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248300961464368,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100004000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248343911137328,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100004000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248601609175088,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248644558848048,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248687508521008,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248730458193968,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626248773407866928,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249031105904688,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100004000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249074055577648,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100004000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249117005250608,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100004000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249159954923568,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100004000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249202904596528,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100004000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249460602634288,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249503552307248,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249546501980208,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249589451653168,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 626249632401326128,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100004000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543139408445488,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100005000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543182358118448,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100005000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543225307791408,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100005000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543268257464368,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100005000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543311207137328,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100005000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543568905175088,
+        "MasterPassiveSkillConditionId3": 31200000000003,
+        "MasterPassiveSkillId": 31100005000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543611854848048,
+        "MasterPassiveSkillConditionId3": 31200000000003,
+        "MasterPassiveSkillId": 31100005000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543654804521008,
+        "MasterPassiveSkillConditionId3": 31200000000003,
+        "MasterPassiveSkillId": 31100005000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543697754193968,
+        "MasterPassiveSkillConditionId3": 31200000000003,
+        "MasterPassiveSkillId": 31100005000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543740703866928,
+        "MasterPassiveSkillConditionId3": 31200000000003,
+        "MasterPassiveSkillId": 31100005000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630543998401904688,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544041351577648,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544084301250608,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544127250923568,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544170200596528,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544427898634288,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544470848307248,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544513797980208,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544556747653168,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544599697326128,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100005000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544857395363888,
+        "MasterPassiveSkillConditionId3": 31200109000002,
+        "MasterPassiveSkillId": 31100005000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544900345036848,
+        "MasterPassiveSkillConditionId3": 31200109000002,
+        "MasterPassiveSkillId": 31100005000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544943294709808,
+        "MasterPassiveSkillConditionId3": 31200109000002,
+        "MasterPassiveSkillId": 31100005000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630544986244382768,
+        "MasterPassiveSkillConditionId3": 31200109000002,
+        "MasterPassiveSkillId": 31100005000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 630545029194055728,
+        "MasterPassiveSkillConditionId3": 31200109000002,
+        "MasterPassiveSkillId": 31100005000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838106704445488,
+        "MasterPassiveSkillConditionId3": 31200110000004,
+        "MasterPassiveSkillId": 31100006000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838149654118448,
+        "MasterPassiveSkillConditionId3": 31200110000004,
+        "MasterPassiveSkillId": 31100006000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838192603791408,
+        "MasterPassiveSkillConditionId3": 31200110000004,
+        "MasterPassiveSkillId": 31100006000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838235553464368,
+        "MasterPassiveSkillConditionId3": 31200110000004,
+        "MasterPassiveSkillId": 31100006000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838278503137328,
+        "MasterPassiveSkillConditionId3": 31200110000004,
+        "MasterPassiveSkillId": 31100006000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838536201175088,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838579150848048,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838622100521008,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838665050193968,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838707999866928,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634838965697904688,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839008647577648,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839051597250608,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839094546923568,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839137496596528,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839395194634288,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839438144307248,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839481093980208,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839524043653168,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839566993326128,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839824691363888,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839867641036848,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839910590709808,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839953540382768,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634839996490055728,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100006000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656312943184445488,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656312986134118448,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313029083791408,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011000121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313072033464368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011000131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313114983137328,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011000141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313372681175088,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313415630848048,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313458580521008,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000221,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313501530193968,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000231,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313544479866928,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000241,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313802177904688,
+        "MasterPassiveSkillConditionId3": 31200125001040,
+        "MasterPassiveSkillId": 31100011000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313845127577648,
+        "MasterPassiveSkillConditionId3": 31200125001040,
+        "MasterPassiveSkillId": 31100011000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313888077250608,
+        "MasterPassiveSkillConditionId3": 31200125001040,
+        "MasterPassiveSkillId": 31100011000321,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313931026923568,
+        "MasterPassiveSkillConditionId3": 31200125001040,
+        "MasterPassiveSkillId": 31100011000331,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656313973976596528,
+        "MasterPassiveSkillConditionId3": 31200125001040,
+        "MasterPassiveSkillId": 31100011000341,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314231674634288,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314274624307248,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314317573980208,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000421,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314360523653168,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000431,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314403473326128,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100011000441,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314661171363888,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100011000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314704121036848,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100011000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314747070709808,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100011000521,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314790020382768,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100011000531,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656314832970055728,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100011000541,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656742439914045488,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011100101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656742482863718448,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011100111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656742525813391408,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011100121,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656742568763064368,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011100131,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656742611712737328,
+        "MasterPassiveSkillConditionId3": 31200000000000,
+        "MasterPassiveSkillId": 31100011100141,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000010,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743298907504688,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100301,
+        "ReleaseLabel": "release.event_scenario_1_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000010,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743341857177648,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100311,
+        "ReleaseLabel": "release.event_scenario_1_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000010,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743384806850608,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100321,
+        "ReleaseLabel": "release.event_scenario_1_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000010,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743427756523568,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100331,
+        "ReleaseLabel": "release.event_scenario_1_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000010,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743470706196528,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100341,
+        "ReleaseLabel": "release.event_scenario_1_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656745875887882288,
+        "MasterPassiveSkillConditionId3": 31200114200000,
+        "MasterPassiveSkillId": 31100011100901,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656745918837555248,
+        "MasterPassiveSkillConditionId3": 31200114220000,
+        "MasterPassiveSkillId": 31100011100911,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656745961787228208,
+        "MasterPassiveSkillConditionId3": 31200114230000,
+        "MasterPassiveSkillId": 31100011100921,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656746004736901168,
+        "MasterPassiveSkillConditionId3": 31200114240000,
+        "MasterPassiveSkillId": 31100011100931,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656746047686574128,
+        "MasterPassiveSkillConditionId3": 31200114250000,
+        "MasterPassiveSkillId": 31100011100941,
+        "ReleaseLabel": "release.initial"
+    }
+]

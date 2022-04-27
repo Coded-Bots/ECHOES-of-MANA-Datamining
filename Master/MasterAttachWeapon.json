@@ -1,0 +1,401 @@
+[
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/BronzeSword/Model/BronzeSword.fbx",
+        "MasterAttachWeaponId": 1,
+        "Name": "ブロンズソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/BastardSword/Model/BastardSword.fbx",
+        "MasterAttachWeaponId": 2,
+        "Name": "バスタードソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/MythrilSword/Model/MythrilSword.fbx",
+        "MasterAttachWeaponId": 3,
+        "Name": "ミスリルソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/EoMWoodLance/Model/EoMWoodLance.fbx",
+        "MasterAttachWeaponId": 4,
+        "Name": "収穫者の棒",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/BronzeLance/Model/BronzeLance.fbx",
+        "MasterAttachWeaponId": 5,
+        "Name": "ブロンズランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/SteelLance/Model/SteelLance.fbx",
+        "MasterAttachWeaponId": 6,
+        "Name": "スチールランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/Partisan/Model/Partisan.fbx",
+        "MasterAttachWeaponId": 7,
+        "Name": "パルティザン",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/KaiserKnuckle/Model/KaiserKnuckle.fbx",
+        "MasterAttachWeaponId": 8,
+        "Name": "カイザーナックル",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/PowerGlove/Model/PowerGlove.fbx",
+        "MasterAttachWeaponId": 9,
+        "Name": "パワーグローブ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/HyperFist/Model/HyperFist.fbx",
+        "MasterAttachWeaponId": 10,
+        "Name": "ハイパーフィスト",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/IronBow/Model/IronBow.fbx",
+        "MasterAttachWeaponId": 11,
+        "Name": "アイアンボウ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/BronzeBow/Model/BronzeBow.fbx",
+        "MasterAttachWeaponId": 12,
+        "Name": "ブロンズボウ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/GreatBow/Model/GreatBow.fbx",
+        "MasterAttachWeaponId": 13,
+        "Name": "グレートボウ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/SilverBow/Model/SilverBow.fbx",
+        "MasterAttachWeaponId": 14,
+        "Name": "銀の弓矢",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/DwarfAxe/Model/DwarfAxe.fbx",
+        "MasterAttachWeaponId": 15,
+        "Name": "ブロンズアックス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/BattleAxe/Model/BattleAxe.fbx",
+        "MasterAttachWeaponId": 16,
+        "Name": "バトルアックス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/GoldAxe/Model/GoldAxe.fbx",
+        "MasterAttachWeaponId": 17,
+        "Name": "ゴールドアックス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 7,
+        "EquipmentPath": "Knife/Dagger/Model/Dagger.fbx",
+        "MasterAttachWeaponId": 18,
+        "Name": "ブロンズナイフ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 7,
+        "EquipmentPath": "Knife/MainGauche/Model/MainGauche.fbx",
+        "MasterAttachWeaponId": 19,
+        "Name": "マインゴーシュ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 7,
+        "EquipmentPath": "Knife/MythrilKnife/Model/MythrilKnife.fbx",
+        "MasterAttachWeaponId": 20,
+        "Name": "ミスリルナイフ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 2,
+        "EquipmentPath": "Boomerang/Boomerang/Model/Boomerang.fbx",
+        "MasterAttachWeaponId": 21,
+        "Name": "ブーメラン",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 2,
+        "EquipmentPath": "Boomerang/Chakram/Model/Chakram.fbx",
+        "MasterAttachWeaponId": 22,
+        "Name": "チャクラム",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 2,
+        "EquipmentPath": "Boomerang/TitanBoomerang/Model/TitanBoomerang.fbx",
+        "MasterAttachWeaponId": 23,
+        "Name": "チタンブーメラン",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 4,
+        "EquipmentPath": "Flail/WoodFlail/Model/WoodFlail.fbx",
+        "MasterAttachWeaponId": 24,
+        "Name": "ウッドフレイル",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 4,
+        "EquipmentPath": "Flail/HammerFlail/Model/HammerFlail.fbx",
+        "MasterAttachWeaponId": 25,
+        "Name": "ハンマーフレイル",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 4,
+        "EquipmentPath": "Flail/MorningStar/Model/MorningStar.fbx",
+        "MasterAttachWeaponId": 26,
+        "Name": "モーニングスター",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 9,
+        "EquipmentPath": "Staff/Wand/Model/Wand.fbx",
+        "MasterAttachWeaponId": 27,
+        "Name": "木の杖",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 9,
+        "EquipmentPath": "Staff/PewterStaff/Model/PewterStaff.fbx",
+        "MasterAttachWeaponId": 28,
+        "Name": "ピューターロッド",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 9,
+        "EquipmentPath": "Staff/CrystalStaff/Model/CrystalStaff.fbx",
+        "MasterAttachWeaponId": 29,
+        "Name": "クリスタルロッド",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 12,
+        "EquipmentPath": "Shield/HeroShield/Model/HeroShield.fbx",
+        "MasterAttachWeaponId": 30,
+        "Name": "ヒーローシールド",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/EoMWoodLance/Model/EoMWoodLance.fbx",
+        "MasterAttachWeaponId": 31,
+        "Name": "収穫者の棒",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/RaxaGlove/Model/RaxaGlove.fbx",
+        "MasterAttachWeaponId": 32,
+        "Name": "ラシャグローブ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/BlanketBow/Model/BlanketBow.fbx",
+        "MasterAttachWeaponId": 33,
+        "Name": "ブランケットボウ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/DuffleLance/Model/DuffleLance.fbx",
+        "MasterAttachWeaponId": 34,
+        "Name": "ダッフルの剣",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/Excalibur/Model/Excalibur.fbx",
+        "MasterAttachWeaponId": 35,
+        "Name": "エクスカリバー",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/ExcaliburRusted/Model/ExcaliburRusted.fbx",
+        "MasterAttachWeaponId": 36,
+        "Name": "錆びたエクスカリバー",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 9,
+        "EquipmentPath": "Staff/HoneycombStaff/Model/HoneycombStaff.fbx",
+        "MasterAttachWeaponId": 37,
+        "Name": "セージスタッフ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 9,
+        "EquipmentPath": "Staff/MuslinStaff/Model/MuslinStaff.fbx",
+        "MasterAttachWeaponId": 38,
+        "Name": "モスリンスタッフ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/EoMManSwordA/Model/EoMManSwordA.fbx",
+        "MasterAttachWeaponId": 39,
+        "Name": "マナの剣（Gareth）",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/KeldySword/Model/KeldySword.fbx",
+        "MasterAttachWeaponId": 40,
+        "Name": "エルディの剣",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/UndineLance/Model/UndineLance.fbx",
+        "MasterAttachWeaponId": 41,
+        "Name": "ウンディーネランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/SalamanderLance/Model/SalamanderLance.fbx",
+        "MasterAttachWeaponId": 42,
+        "Name": "サラマンダーランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 11,
+        "EquipmentPath": "Whip/PoronWhip/Model/PoronWhip.fbx",
+        "MasterAttachWeaponId": 43,
+        "Name": "ポロンの鞭",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 3,
+        "EquipmentPath": "Bow/PoronBow/Model/PoronBow.fbx",
+        "MasterAttachWeaponId": 44,
+        "Name": "ポロンの弓",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/ChibiDevilLance/Model/ChibiDevilLance.fbx",
+        "MasterAttachWeaponId": 45,
+        "Name": "チビデビルランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 8,
+        "EquipmentPath": "Lance/SahuaginLance/Model/SahuaginLance.fbx",
+        "MasterAttachWeaponId": 46,
+        "Name": "サハギンランス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/GoblinAxe/Model/GoblinAxe.fbx",
+        "MasterAttachWeaponId": 47,
+        "Name": "ゴブリンアックス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 4,
+        "EquipmentPath": "Flail/ArmorKnightFlail/Model/ArmorKnightFlail.fbx",
+        "MasterAttachWeaponId": 48,
+        "Name": "アーマーナイトフレイル",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 4,
+        "EquipmentPath": "Flail/DuckSoldierFlail/Model/DuckSoldierFlail.fbx",
+        "MasterAttachWeaponId": 49,
+        "Name": "ダックソルジャーフレイル",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/NuinuiSword/Model/NuinuiSword.fbx",
+        "MasterAttachWeaponId": 50,
+        "Name": "ヌイヌイソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/SwordGiantFireSword/Model/SwordGiantFireSword.fbx",
+        "MasterAttachWeaponId": 51,
+        "Name": "ジャイアントソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/BlackKnightSword/Model/BlackKnightSword.fbx",
+        "MasterAttachWeaponId": 52,
+        "Name": "ブラックナイトソード",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/WarriorFaerieAxe/Model/WarriorFaerieAxe.fbx",
+        "MasterAttachWeaponId": 53,
+        "Name": "フェアリーウォーリアアクス",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 1,
+        "EquipmentPath": "Axe/DuInkeAxe/Model/DuInkeAxe.fbx",
+        "MasterAttachWeaponId": 54,
+        "Name": "ドゥ・インクの斧",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 10,
+        "EquipmentPath": "Sword/PolyceratEmethSword/Model/PolyceratEmethSword.fbx",
+        "MasterAttachWeaponId": 55,
+        "Name": "ポリケラエメスの剣",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/PowerGlove/Model/PowerGlove.fbx",
+        "MasterAttachWeaponId": 1000,
+        "Name": "プリムグローブ",
+        "ReleaseLabel": ""
+    },
+    {
+        "AttachWeaponType": 5,
+        "EquipmentPath": "Glove/PowerGlove/Model/PowerGlove.fbx",
+        "MasterAttachWeaponId": 1001,
+        "Name": "つよいプリムグローブ",
+        "ReleaseLabel": ""
+    }
+]

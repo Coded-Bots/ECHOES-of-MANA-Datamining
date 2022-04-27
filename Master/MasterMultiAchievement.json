@@ -1,0 +1,242 @@
+[
+    {
+        "Achievement": 6,
+        "MasterMultiAchievementId": 61005000106,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 0,
+        "Rank": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 9,
+        "MasterMultiAchievementId": 61005000109,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 3,
+        "MasterMultiAchievementId": 61005000103,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 2,
+        "MasterMultiAchievementId": 61005000102,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 8,
+        "MasterMultiAchievementId": 61005000108,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 7,
+        "MasterMultiAchievementId": 61005000107,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 5,
+        "MasterMultiAchievementId": 61005000105,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 4,
+        "MasterMultiAchievementId": 61005000104,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 1,
+        "MasterMultiAchievementId": 61005000101,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 10,
+        "MasterMultiAchievementId": 61005000110,
+        "MasterQuestEpisodeId": 200000050001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 6,
+        "MasterMultiAchievementId": 61005000206,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 0,
+        "Rank": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 9,
+        "MasterMultiAchievementId": 61005000209,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 3,
+        "MasterMultiAchievementId": 61005000203,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 2,
+        "MasterMultiAchievementId": 61005000202,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 8,
+        "MasterMultiAchievementId": 61005000208,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 7,
+        "MasterMultiAchievementId": 61005000207,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 5,
+        "MasterMultiAchievementId": 61005000205,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 4,
+        "MasterMultiAchievementId": 61005000204,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 1,
+        "MasterMultiAchievementId": 61005000201,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 10,
+        "MasterMultiAchievementId": 61005000210,
+        "MasterQuestEpisodeId": 200000050002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 6,
+        "MasterMultiAchievementId": 61003000106,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 0,
+        "Rank": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 9,
+        "MasterMultiAchievementId": 61003000109,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 3,
+        "MasterMultiAchievementId": 61003000103,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 2,
+        "MasterMultiAchievementId": 61003000102,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 8,
+        "MasterMultiAchievementId": 61003000108,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 7,
+        "MasterMultiAchievementId": 61003000107,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 5,
+        "MasterMultiAchievementId": 61003000105,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 4,
+        "MasterMultiAchievementId": 61003000104,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 1,
+        "MasterMultiAchievementId": 61003000101,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 10,
+        "MasterMultiAchievementId": 61003000110,
+        "MasterQuestEpisodeId": 200000030001,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.initial"
+    }
+]

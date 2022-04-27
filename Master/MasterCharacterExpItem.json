@@ -1,0 +1,38 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0015_ReinforceExp-SmallBook",
+        "ItemCategory": 2,
+        "MasterCharacterExpItemId": 1020001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 30,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0016_ReinforceExp-MediumBook",
+        "ItemCategory": 2,
+        "MasterCharacterExpItemId": 1020002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 60,
+        "ReleaseLabel": "release.initial",
+        "Value": 50
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0017_ReinforceExp-LargeBook",
+        "ItemCategory": 2,
+        "MasterCharacterExpItemId": 1020003,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 90,
+        "ReleaseLabel": "release.initial",
+        "Value": 100
+    }
+]

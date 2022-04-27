@@ -1,0 +1,632 @@
+[
+    {
+        "MasterBingoMissionCellId": 8004200011,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050001,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200012,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050002,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200013,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050003,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200014,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050004,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200015,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050005,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200016,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050006,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200017,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050007,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200018,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050008,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200019,
+        "MasterBingoMissionSheetId": 8003020001,
+        "MasterMissionId": 8001050009,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200021,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050011,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200022,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050012,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200023,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050013,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200024,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050014,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200025,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050015,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200026,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050016,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200027,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050017,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200028,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050018,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200029,
+        "MasterBingoMissionSheetId": 8003020002,
+        "MasterMissionId": 8001050019,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200031,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050021,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200032,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050022,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200033,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050023,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200034,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050024,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200035,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050025,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200036,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050026,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200037,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050027,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200038,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050028,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200039,
+        "MasterBingoMissionSheetId": 8003020003,
+        "MasterMissionId": 8001050029,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200041,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050031,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200042,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050032,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200043,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050033,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200044,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050034,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200045,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050035,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200046,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050036,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200047,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050037,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200048,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050038,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200049,
+        "MasterBingoMissionSheetId": 8003020004,
+        "MasterMissionId": 8001050039,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200051,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050041,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200052,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050042,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200053,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050043,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200054,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050044,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200055,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050045,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200056,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050046,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200057,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050047,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200058,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050048,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200059,
+        "MasterBingoMissionSheetId": 8003020005,
+        "MasterMissionId": 8001050049,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200061,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050051,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200062,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050052,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200063,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050053,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200064,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050054,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200065,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050055,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200066,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050056,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200067,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050057,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200068,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050058,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200069,
+        "MasterBingoMissionSheetId": 8003020006,
+        "MasterMissionId": 8001050059,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200071,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050061,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200072,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050062,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200073,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050063,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200074,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050064,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200075,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050065,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200076,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050066,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200077,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050067,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200078,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050068,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200079,
+        "MasterBingoMissionSheetId": 8003020007,
+        "MasterMissionId": 8001050069,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200081,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050071,
+        "Position": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200082,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050072,
+        "Position": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200083,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050073,
+        "Position": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200084,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050074,
+        "Position": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200085,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050075,
+        "Position": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200086,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050076,
+        "Position": 6,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200087,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050077,
+        "Position": 7,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200088,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050078,
+        "Position": 8,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004200089,
+        "MasterBingoMissionSheetId": 8003020008,
+        "MasterMissionId": 8001050079,
+        "Position": 9,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001111,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051111,
+        "Position": 1,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001112,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051112,
+        "Position": 2,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001113,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051113,
+        "Position": 3,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001114,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051114,
+        "Position": 4,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001115,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051115,
+        "Position": 5,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001116,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051116,
+        "Position": 6,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001117,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051117,
+        "Position": 7,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001118,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051118,
+        "Position": 8,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001119,
+        "MasterBingoMissionSheetId": 8003000111,
+        "MasterMissionId": 8001051119,
+        "Position": 9,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001121,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051121,
+        "Position": 1,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001122,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051122,
+        "Position": 2,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001123,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051123,
+        "Position": 3,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001124,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051124,
+        "Position": 4,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001125,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051125,
+        "Position": 5,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001126,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051126,
+        "Position": 6,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001127,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051127,
+        "Position": 7,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001128,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051128,
+        "Position": 8,
+        "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001129,
+        "MasterBingoMissionSheetId": 8003000112,
+        "MasterMissionId": 8001051129,
+        "Position": 9,
+        "ReleaseLabel": "release.event_scenario_1"
+    }
+]

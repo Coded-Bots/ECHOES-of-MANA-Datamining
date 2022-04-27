@@ -1,0 +1,522 @@
+[
+    {
+        "AnnouncementId": -8091296924818210792,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000017,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296920523243496,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000018,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296916228276200,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000019,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296911933308904,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000020,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296907638341608,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000021,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296903343374312,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000022,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296899048407016,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000023,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.004",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296894753439720,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000024,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.004",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296890458472424,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000025,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.005",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296886163505128,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000026,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.005",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296881868537832,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000027,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.006",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296877573570536,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000028,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.006",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296873278603240,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000029,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.007",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296868983635944,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000030,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.007",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296864688668652,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000031,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.campaign.once.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296860393701356,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000032,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.campaign.once.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296856098734060,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000033,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.campaign.once.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296851803766764,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000034,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.campaign.once.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296847508799468,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000035,
+        "ProductId": "com.sqex.EchoesofMana.jp.gem.campaign.once.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296843213832172,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000036,
+        "ProductId": "com.sqex.EchoesofMana.ww.gem.campaign.once.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296838918864872,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000037,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296834623897576,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000038,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296830328930280,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000039,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296826033962984,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000040,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296821738995688,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000041,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296817444028392,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000042,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296813149061096,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000043,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.004",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296808854093800,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000044,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.004",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296804559126504,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000045,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.005",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296800264159208,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000046,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.005",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296795969191912,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000047,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.006",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296791674224616,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000048,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.006",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296787379257320,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000049,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.007",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296783084290024,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000050,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.007",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 103079215160,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296778789322732,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000051,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.campaign.once.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296774494355436,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000052,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.campaign.once.001",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296770199388140,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000053,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.campaign.once.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296765904420844,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000054,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.campaign.once.002",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296761609453548,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000055,
+        "ProductId": "com.sqex.echoesofmana.jp.gem.campaign.once.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296757314486252,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000056,
+        "ProductId": "com.sqex.echoesofmana.ww.gem.campaign.once.003",
+        "ProductType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 85899345972,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296753019518948,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000057,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.001",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296748724551652,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000058,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.001",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296744429584356,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000059,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.003",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296740134617060,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000060,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.003",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296735839649764,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000061,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.004",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296731544682468,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000062,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.004",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296727249715172,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000063,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.006",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296722954747876,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000064,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.006",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296718659780580,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000065,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.007",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296714364813284,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000066,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.007",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296710069845988,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000067,
+        "ProductId": "com.sqex.echoesofmana.jp.package.campaign.008",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    },
+    {
+        "AnnouncementId": -8091296705774878692,
+        "BannerPath": "",
+        "MasterGamelibProductId": 11001000068,
+        "ProductId": "com.sqex.echoesofmana.ww.package.campaign.008",
+        "ProductType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardGroupId": 120259084348,
+        "ThumbnailPath": ""
+    }
+]

@@ -1,0 +1,1602 @@
+[
+    {
+        "Level": 1,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001001,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001002,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 3,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001003,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20
+    },
+    {
+        "Level": 4,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001004,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30
+    },
+    {
+        "Level": 5,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001005,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 40
+    },
+    {
+        "Level": 6,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001006,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 50
+    },
+    {
+        "Level": 7,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001007,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 60
+    },
+    {
+        "Level": 8,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001008,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 70
+    },
+    {
+        "Level": 9,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001009,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 80
+    },
+    {
+        "Level": 10,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001010,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 95
+    },
+    {
+        "Level": 11,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001011,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 115
+    },
+    {
+        "Level": 12,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001012,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 140
+    },
+    {
+        "Level": 13,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001013,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 170
+    },
+    {
+        "Level": 14,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001014,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 205
+    },
+    {
+        "Level": 15,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001015,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 245
+    },
+    {
+        "Level": 16,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001016,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 290
+    },
+    {
+        "Level": 17,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001017,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 340
+    },
+    {
+        "Level": 18,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001018,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 395
+    },
+    {
+        "Level": 19,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001019,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 455
+    },
+    {
+        "Level": 20,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001020,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 520
+    },
+    {
+        "Level": 21,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001021,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 590
+    },
+    {
+        "Level": 22,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001022,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 665
+    },
+    {
+        "Level": 23,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001023,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 745
+    },
+    {
+        "Level": 24,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001024,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 830
+    },
+    {
+        "Level": 25,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001025,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 920
+    },
+    {
+        "Level": 26,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001026,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1015
+    },
+    {
+        "Level": 27,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001027,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1115
+    },
+    {
+        "Level": 28,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001028,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1220
+    },
+    {
+        "Level": 29,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001029,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1330
+    },
+    {
+        "Level": 30,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001030,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1445
+    },
+    {
+        "Level": 31,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001031,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1565
+    },
+    {
+        "Level": 32,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001032,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1690
+    },
+    {
+        "Level": 33,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001033,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1820
+    },
+    {
+        "Level": 34,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001034,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1955
+    },
+    {
+        "Level": 35,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001035,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2095
+    },
+    {
+        "Level": 36,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001036,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2240
+    },
+    {
+        "Level": 37,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001037,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2390
+    },
+    {
+        "Level": 38,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001038,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2545
+    },
+    {
+        "Level": 39,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001039,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2705
+    },
+    {
+        "Level": 40,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001040,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2870
+    },
+    {
+        "Level": 41,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001041,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3050
+    },
+    {
+        "Level": 42,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001042,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3245
+    },
+    {
+        "Level": 43,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001043,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3455
+    },
+    {
+        "Level": 44,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001044,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3680
+    },
+    {
+        "Level": 45,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001045,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3920
+    },
+    {
+        "Level": 46,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001046,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4175
+    },
+    {
+        "Level": 47,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001047,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4445
+    },
+    {
+        "Level": 48,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001048,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4730
+    },
+    {
+        "Level": 49,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001049,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5030
+    },
+    {
+        "Level": 50,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001050,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5345
+    },
+    {
+        "Level": 51,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001051,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5675
+    },
+    {
+        "Level": 52,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001052,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6020
+    },
+    {
+        "Level": 53,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001053,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6380
+    },
+    {
+        "Level": 54,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001054,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6755
+    },
+    {
+        "Level": 55,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001055,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7145
+    },
+    {
+        "Level": 56,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001056,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7550
+    },
+    {
+        "Level": 57,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001057,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7970
+    },
+    {
+        "Level": 58,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001058,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8405
+    },
+    {
+        "Level": 59,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001059,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8855
+    },
+    {
+        "Level": 60,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001060,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9320
+    },
+    {
+        "Level": 61,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001061,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9800
+    },
+    {
+        "Level": 62,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001062,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10295
+    },
+    {
+        "Level": 63,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001063,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10805
+    },
+    {
+        "Level": 64,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001064,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11330
+    },
+    {
+        "Level": 65,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001065,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11870
+    },
+    {
+        "Level": 66,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001066,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12425
+    },
+    {
+        "Level": 67,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001067,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12995
+    },
+    {
+        "Level": 68,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001068,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 13580
+    },
+    {
+        "Level": 69,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001069,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14180
+    },
+    {
+        "Level": 70,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001070,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14795
+    },
+    {
+        "Level": 71,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001071,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 15425
+    },
+    {
+        "Level": 72,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001072,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16055
+    },
+    {
+        "Level": 73,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001073,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16685
+    },
+    {
+        "Level": 74,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001074,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17315
+    },
+    {
+        "Level": 75,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001075,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17945
+    },
+    {
+        "Level": 76,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001076,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 18575
+    },
+    {
+        "Level": 77,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001077,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19205
+    },
+    {
+        "Level": 78,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001078,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19835
+    },
+    {
+        "Level": 79,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001079,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20465
+    },
+    {
+        "Level": 80,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001080,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21095
+    },
+    {
+        "Level": 81,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001081,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21725
+    },
+    {
+        "Level": 82,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001082,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 22355
+    },
+    {
+        "Level": 83,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001083,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 22985
+    },
+    {
+        "Level": 84,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001084,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23615
+    },
+    {
+        "Level": 85,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001085,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 24245
+    },
+    {
+        "Level": 86,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001086,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 24875
+    },
+    {
+        "Level": 87,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001087,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 25505
+    },
+    {
+        "Level": 88,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001088,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26135
+    },
+    {
+        "Level": 89,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001089,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26765
+    },
+    {
+        "Level": 90,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001090,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 27395
+    },
+    {
+        "Level": 91,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001091,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 28025
+    },
+    {
+        "Level": 92,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001092,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 28655
+    },
+    {
+        "Level": 93,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001093,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 29285
+    },
+    {
+        "Level": 94,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001094,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 29915
+    },
+    {
+        "Level": 95,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001095,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 30545
+    },
+    {
+        "Level": 96,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001096,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31175
+    },
+    {
+        "Level": 97,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001097,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31805
+    },
+    {
+        "Level": 98,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001098,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 32435
+    },
+    {
+        "Level": 99,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001099,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 33065
+    },
+    {
+        "Level": 100,
+        "MasterCharacterLevelGroupId": 1,
+        "MasterCharacterLevelId": 610101001100,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 33695
+    },
+    {
+        "Level": 1,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002001,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002002,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3
+    },
+    {
+        "Level": 3,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002003,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6
+    },
+    {
+        "Level": 4,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002004,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 5,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002005,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 13
+    },
+    {
+        "Level": 6,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002006,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 16
+    },
+    {
+        "Level": 7,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002007,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 20
+    },
+    {
+        "Level": 8,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002008,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 23
+    },
+    {
+        "Level": 9,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002009,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26
+    },
+    {
+        "Level": 10,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002010,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31
+    },
+    {
+        "Level": 11,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002011,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 38
+    },
+    {
+        "Level": 12,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002012,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 46
+    },
+    {
+        "Level": 13,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002013,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 56
+    },
+    {
+        "Level": 14,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002014,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 68
+    },
+    {
+        "Level": 15,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002015,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 81
+    },
+    {
+        "Level": 16,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002016,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 96
+    },
+    {
+        "Level": 17,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002017,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 113
+    },
+    {
+        "Level": 18,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002018,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 131
+    },
+    {
+        "Level": 19,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002019,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 151
+    },
+    {
+        "Level": 20,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002020,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 173
+    },
+    {
+        "Level": 21,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002021,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 196
+    },
+    {
+        "Level": 22,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002022,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 221
+    },
+    {
+        "Level": 23,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002023,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 248
+    },
+    {
+        "Level": 24,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002024,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 276
+    },
+    {
+        "Level": 25,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002025,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 306
+    },
+    {
+        "Level": 26,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002026,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 338
+    },
+    {
+        "Level": 27,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002027,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 371
+    },
+    {
+        "Level": 28,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002028,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 406
+    },
+    {
+        "Level": 29,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002029,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 443
+    },
+    {
+        "Level": 30,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002030,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 481
+    },
+    {
+        "Level": 31,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002031,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 521
+    },
+    {
+        "Level": 32,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002032,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 563
+    },
+    {
+        "Level": 33,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002033,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 606
+    },
+    {
+        "Level": 34,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002034,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 651
+    },
+    {
+        "Level": 35,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002035,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 698
+    },
+    {
+        "Level": 36,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002036,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 746
+    },
+    {
+        "Level": 37,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002037,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 796
+    },
+    {
+        "Level": 38,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002038,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 848
+    },
+    {
+        "Level": 39,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002039,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 901
+    },
+    {
+        "Level": 40,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002040,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 956
+    },
+    {
+        "Level": 41,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002041,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1016
+    },
+    {
+        "Level": 42,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002042,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1081
+    },
+    {
+        "Level": 43,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002043,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1151
+    },
+    {
+        "Level": 44,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002044,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1226
+    },
+    {
+        "Level": 45,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002045,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1306
+    },
+    {
+        "Level": 46,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002046,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1391
+    },
+    {
+        "Level": 47,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002047,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1481
+    },
+    {
+        "Level": 48,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002048,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1576
+    },
+    {
+        "Level": 49,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002049,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1676
+    },
+    {
+        "Level": 50,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002050,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1781
+    },
+    {
+        "Level": 51,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002051,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1891
+    },
+    {
+        "Level": 52,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002052,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2006
+    },
+    {
+        "Level": 53,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002053,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2126
+    },
+    {
+        "Level": 54,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002054,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2251
+    },
+    {
+        "Level": 55,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002055,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2381
+    },
+    {
+        "Level": 56,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002056,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2516
+    },
+    {
+        "Level": 57,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002057,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2656
+    },
+    {
+        "Level": 58,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002058,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2801
+    },
+    {
+        "Level": 59,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002059,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2951
+    },
+    {
+        "Level": 60,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002060,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3106
+    },
+    {
+        "Level": 61,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002061,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3266
+    },
+    {
+        "Level": 62,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002062,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3431
+    },
+    {
+        "Level": 63,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002063,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3601
+    },
+    {
+        "Level": 64,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002064,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3776
+    },
+    {
+        "Level": 65,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002065,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3956
+    },
+    {
+        "Level": 66,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002066,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4141
+    },
+    {
+        "Level": 67,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002067,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4331
+    },
+    {
+        "Level": 68,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002068,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4526
+    },
+    {
+        "Level": 69,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002069,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4726
+    },
+    {
+        "Level": 70,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002070,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4931
+    },
+    {
+        "Level": 71,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002071,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5141
+    },
+    {
+        "Level": 72,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002072,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5351
+    },
+    {
+        "Level": 73,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002073,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5561
+    },
+    {
+        "Level": 74,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002074,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5771
+    },
+    {
+        "Level": 75,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002075,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5981
+    },
+    {
+        "Level": 76,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002076,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6191
+    },
+    {
+        "Level": 77,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002077,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6401
+    },
+    {
+        "Level": 78,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002078,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6611
+    },
+    {
+        "Level": 79,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002079,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6821
+    },
+    {
+        "Level": 80,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002080,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7031
+    },
+    {
+        "Level": 81,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002081,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7241
+    },
+    {
+        "Level": 82,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002082,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7451
+    },
+    {
+        "Level": 83,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002083,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7661
+    },
+    {
+        "Level": 84,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002084,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7871
+    },
+    {
+        "Level": 85,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002085,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8081
+    },
+    {
+        "Level": 86,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002086,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8291
+    },
+    {
+        "Level": 87,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002087,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8501
+    },
+    {
+        "Level": 88,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002088,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8711
+    },
+    {
+        "Level": 89,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002089,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8921
+    },
+    {
+        "Level": 90,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002090,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9131
+    },
+    {
+        "Level": 91,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002091,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9341
+    },
+    {
+        "Level": 92,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002092,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9551
+    },
+    {
+        "Level": 93,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002093,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9761
+    },
+    {
+        "Level": 94,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002094,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9971
+    },
+    {
+        "Level": 95,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002095,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10181
+    },
+    {
+        "Level": 96,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002096,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10391
+    },
+    {
+        "Level": 97,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002097,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10601
+    },
+    {
+        "Level": 98,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002098,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 10811
+    },
+    {
+        "Level": 99,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002099,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11021
+    },
+    {
+        "Level": 100,
+        "MasterCharacterLevelGroupId": 2,
+        "MasterCharacterLevelId": 610101002100,
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11231
+    }
+]

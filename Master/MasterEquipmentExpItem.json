@@ -1,0 +1,38 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0045_ReinforceEquipment-SmallStone",
+        "ItemCategory": 5,
+        "MasterEquipmentExpItemId": 1050001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 200,
+        "ReleaseLabel": "release.initial",
+        "Value": 10
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0046_ReinforceEquipment-MediumStone",
+        "ItemCategory": 5,
+        "MasterEquipmentExpItemId": 1050002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 400,
+        "ReleaseLabel": "release.initial",
+        "Value": 50
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0047_ReinforceEquipment-LargeStone",
+        "ItemCategory": 5,
+        "MasterEquipmentExpItemId": 1050003,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 600,
+        "ReleaseLabel": "release.initial",
+        "Value": 100
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "MasterQuestTimeRankId": 280002000001,
+        "RankABonusRate": 1000,
+        "RankATime": 60,
+        "RankBBonusRate": 0,
+        "RankBTime": 80,
+        "RankSBonusRate": 2000,
+        "RankSTime": 40,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000003,
+        "RankABonusRate": 1000,
+        "RankATime": 240,
+        "RankBBonusRate": 0,
+        "RankBTime": 270,
+        "RankSBonusRate": 2000,
+        "RankSTime": 210,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000004,
+        "RankABonusRate": 1000,
+        "RankATime": 90,
+        "RankBBonusRate": 0,
+        "RankBTime": 120,
+        "RankSBonusRate": 2000,
+        "RankSTime": 60,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000005,
+        "RankABonusRate": 1000,
+        "RankATime": 110,
+        "RankBBonusRate": 0,
+        "RankBTime": 140,
+        "RankSBonusRate": 2000,
+        "RankSTime": 80,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000006,
+        "RankABonusRate": 1000,
+        "RankATime": 150,
+        "RankBBonusRate": 0,
+        "RankBTime": 180,
+        "RankSBonusRate": 2000,
+        "RankSTime": 120,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000007,
+        "RankABonusRate": 1000,
+        "RankATime": 120,
+        "RankBBonusRate": 0,
+        "RankBTime": 150,
+        "RankSBonusRate": 2000,
+        "RankSTime": 90,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000008,
+        "RankABonusRate": 1000,
+        "RankATime": 140,
+        "RankBBonusRate": 0,
+        "RankBTime": 170,
+        "RankSBonusRate": 2000,
+        "RankSTime": 110,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000009,
+        "RankABonusRate": 1000,
+        "RankATime": 270,
+        "RankBBonusRate": 0,
+        "RankBTime": 300,
+        "RankSBonusRate": 2000,
+        "RankSTime": 240,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000010,
+        "RankABonusRate": 1000,
+        "RankATime": 260,
+        "RankBBonusRate": 0,
+        "RankBTime": 280,
+        "RankSBonusRate": 2000,
+        "RankSTime": 240,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000011,
+        "RankABonusRate": 1000,
+        "RankATime": 170,
+        "RankBBonusRate": 0,
+        "RankBTime": 200,
+        "RankSBonusRate": 2000,
+        "RankSTime": 140,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000012,
+        "RankABonusRate": 1000,
+        "RankATime": 200,
+        "RankBBonusRate": 0,
+        "RankBTime": 220,
+        "RankSBonusRate": 2000,
+        "RankSTime": 180,
+        "ReleaseLabel": "release.initial"
+    }
+]

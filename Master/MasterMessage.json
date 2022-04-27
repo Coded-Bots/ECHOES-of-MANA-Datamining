@@ -1,0 +1,2667 @@
+[
+    {
+        "Label": "BattleMassage.Skill",
+        "MasterMessageId": 303020001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.special_Atk",
+        "MasterMessageId": 303020002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Item",
+        "MasterMessageId": 303020003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Select",
+        "MasterMessageId": 303020004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.BeatEnemy",
+        "MasterMessageId": 303020005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.ShortOfMP",
+        "MasterMessageId": 303020006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.RecoverMP_HP",
+        "MasterMessageId": 303020007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.TreasureChest.Get",
+        "MasterMessageId": 303020008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.PrisonDoor.Locked",
+        "MasterMessageId": 303020009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Multi.Breakaway",
+        "MasterMessageId": 303020010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Multi.SingleMode",
+        "MasterMessageId": 303020011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.ShortOfItem",
+        "MasterMessageId": 303020012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Multi.HostChange",
+        "MasterMessageId": 303020013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Switch.Gimmick",
+        "MasterMessageId": 303020014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMassage.Multi.ConnectionUnstable",
+        "MasterMessageId": 303020015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "BattleMessage.SpecialAttackTitle",
+        "MasterMessageId": 303020016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.1",
+        "MasterMessageId": 303130001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.2",
+        "MasterMessageId": 303130002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.3",
+        "MasterMessageId": 303130003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.4",
+        "MasterMessageId": 303130004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.5",
+        "MasterMessageId": 303130005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.6",
+        "MasterMessageId": 303130006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.7",
+        "MasterMessageId": 303130007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.8",
+        "MasterMessageId": 303130008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.9",
+        "MasterMessageId": 303130009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.10",
+        "MasterMessageId": 303130010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.11",
+        "MasterMessageId": 303130011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.12",
+        "MasterMessageId": 303130012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.13",
+        "MasterMessageId": 303130013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.14",
+        "MasterMessageId": 303130014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.15",
+        "MasterMessageId": 303130015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.16",
+        "MasterMessageId": 303130016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.17",
+        "MasterMessageId": 303130017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.18",
+        "MasterMessageId": 303130018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.19",
+        "MasterMessageId": 303130019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.20",
+        "MasterMessageId": 303130020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.21",
+        "MasterMessageId": 303130021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.22",
+        "MasterMessageId": 303130022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.23",
+        "MasterMessageId": 303130023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.24",
+        "MasterMessageId": 303130024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.25",
+        "MasterMessageId": 303130025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.26",
+        "MasterMessageId": 303130026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.27",
+        "MasterMessageId": 303130027,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.28",
+        "MasterMessageId": 303130028,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Timeline.29",
+        "MasterMessageId": 303130029,
+        "ReleaseLabel": "release.event_tower_202205_start"
+    },
+    {
+        "Label": "Timeline.30",
+        "MasterMessageId": 303130030,
+        "ReleaseLabel": "release.event_tower_202205_start"
+    },
+    {
+        "Label": "General.Sort.Rarity",
+        "MasterMessageId": 303010001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.Level",
+        "MasterMessageId": 303010002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.Get",
+        "MasterMessageId": 303010003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.Hp",
+        "MasterMessageId": 303010004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.Mp",
+        "MasterMessageId": 303010005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.PhysicalAttack",
+        "MasterMessageId": 303010006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.PhysicalDefence",
+        "MasterMessageId": 303010007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.MagicalAttack",
+        "MasterMessageId": 303010008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.MagicalDefence",
+        "MasterMessageId": 303010009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Sort.Luck",
+        "MasterMessageId": 303010010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Axe",
+        "MasterMessageId": 303010011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Boomerang",
+        "MasterMessageId": 303010012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Bow",
+        "MasterMessageId": 303010013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Flail",
+        "MasterMessageId": 303010014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Glove",
+        "MasterMessageId": 303010015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Javelin",
+        "MasterMessageId": 303010016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Knife",
+        "MasterMessageId": 303010017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Lance",
+        "MasterMessageId": 303010018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Staff",
+        "MasterMessageId": 303010019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.WeaponType.Sword",
+        "MasterMessageId": 303010020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Order.Descend",
+        "MasterMessageId": 303010021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Order.Ascending",
+        "MasterMessageId": 303010022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Yes",
+        "MasterMessageId": 303010023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.No",
+        "MasterMessageId": 303010024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.ChoiceConfirm",
+        "MasterMessageId": 303010025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Confirm",
+        "MasterMessageId": 303010026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Close",
+        "MasterMessageId": 303010027,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.StaminaType.Normal",
+        "MasterMessageId": 303010028,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.StaminaType.Event",
+        "MasterMessageId": 303010029,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.ToTitle",
+        "MasterMessageId": 303010030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.GameTitle",
+        "MasterMessageId": 303010031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Success",
+        "MasterMessageId": 303010032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Agreement",
+        "MasterMessageId": 303010033,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.OK",
+        "MasterMessageId": 303010034,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.ON",
+        "MasterMessageId": 303010035,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.OFF",
+        "MasterMessageId": 303010036,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.First",
+        "MasterMessageId": 303010037,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Second",
+        "MasterMessageId": 303010038,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Third",
+        "MasterMessageId": 303010039,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Fourth",
+        "MasterMessageId": 303010040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Legend",
+        "MasterMessageId": 303010041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Children",
+        "MasterMessageId": 303010042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Friends",
+        "MasterMessageId": 303010043,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Heroes",
+        "MasterMessageId": 303010044,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Circle",
+        "MasterMessageId": 303010045,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Rise",
+        "MasterMessageId": 303010046,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.Echoes",
+        "MasterMessageId": 303010047,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Decide",
+        "MasterMessageId": 303010048,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Back",
+        "MasterMessageId": 303010049,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Notice",
+        "MasterMessageId": 303010050,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Warning",
+        "MasterMessageId": 303010051,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.Japanese",
+        "MasterMessageId": 303010052,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.English",
+        "MasterMessageId": 303010053,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.Chinese",
+        "MasterMessageId": 303010054,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.Korean",
+        "MasterMessageId": 303010055,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.German",
+        "MasterMessageId": 303010056,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Language.French",
+        "MasterMessageId": 303010057,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.ChargePrefix",
+        "MasterMessageId": 303010058,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Max",
+        "MasterMessageId": 303010059,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Region.NorthAmerica",
+        "MasterMessageId": 303010060,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Region.AsiaPacific",
+        "MasterMessageId": 303010061,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Region.EUAndOther",
+        "MasterMessageId": 303010062,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Retry",
+        "MasterMessageId": 303010063,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.Yes2",
+        "MasterMessageId": 303010064,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.No2",
+        "MasterMessageId": 303010065,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.BackKeyUnsupported",
+        "MasterMessageId": 303010066,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.0",
+        "MasterMessageId": 303200001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000001",
+        "MasterMessageId": 303200002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000002",
+        "MasterMessageId": 303200003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000003",
+        "MasterMessageId": 303200004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000004",
+        "MasterMessageId": 303200005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000005",
+        "MasterMessageId": 303200006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000006",
+        "MasterMessageId": 303200007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.1000007",
+        "MasterMessageId": 303200008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.2000001",
+        "MasterMessageId": 303200009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.3000001",
+        "MasterMessageId": 303200010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.3000002",
+        "MasterMessageId": 303200011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.3000003",
+        "MasterMessageId": 303200012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.3100001",
+        "MasterMessageId": 303200013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.4000001",
+        "MasterMessageId": 303200014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.4000002",
+        "MasterMessageId": 303200015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.4000003",
+        "MasterMessageId": 303200016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.4000004",
+        "MasterMessageId": 303200017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.4000005",
+        "MasterMessageId": 303200018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.5000001",
+        "MasterMessageId": 303200019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.6000001",
+        "MasterMessageId": 303200020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.7000001",
+        "MasterMessageId": 303200021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.8000001",
+        "MasterMessageId": 303200022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000001",
+        "MasterMessageId": 303200023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000002",
+        "MasterMessageId": 303200024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000003",
+        "MasterMessageId": 303200025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000004",
+        "MasterMessageId": 303200026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000005",
+        "MasterMessageId": 303200027,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000006",
+        "MasterMessageId": 303200028,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000011",
+        "MasterMessageId": 303200029,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000012",
+        "MasterMessageId": 303200030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000013",
+        "MasterMessageId": 303200031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000014",
+        "MasterMessageId": 303200032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000021",
+        "MasterMessageId": 303200033,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000022",
+        "MasterMessageId": 303200034,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000023",
+        "MasterMessageId": 303200035,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000031",
+        "MasterMessageId": 303200036,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000041",
+        "MasterMessageId": 303200037,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000042",
+        "MasterMessageId": 303200038,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000043",
+        "MasterMessageId": 303200039,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010001",
+        "MasterMessageId": 303200040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010002",
+        "MasterMessageId": 303200041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010003",
+        "MasterMessageId": 303200042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010004",
+        "MasterMessageId": 303200043,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010005",
+        "MasterMessageId": 303200044,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11010006",
+        "MasterMessageId": 303200045,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11020001",
+        "MasterMessageId": 303200046,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.11020002",
+        "MasterMessageId": 303200047,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000001",
+        "MasterMessageId": 303200048,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000002",
+        "MasterMessageId": 303200049,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000003",
+        "MasterMessageId": 303200050,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000004",
+        "MasterMessageId": 303200051,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000005",
+        "MasterMessageId": 303200052,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.12000006",
+        "MasterMessageId": 303200053,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.13000001",
+        "MasterMessageId": 303200054,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.13000101",
+        "MasterMessageId": 303200055,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.13000201",
+        "MasterMessageId": 303200056,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.13000301",
+        "MasterMessageId": 303200057,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.13001001",
+        "MasterMessageId": 303200058,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.14000001",
+        "MasterMessageId": 303200059,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.14000101",
+        "MasterMessageId": 303200060,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.15000001",
+        "MasterMessageId": 303200061,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.16000001",
+        "MasterMessageId": 303200062,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.16000002",
+        "MasterMessageId": 303200063,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.17000001",
+        "MasterMessageId": 303200064,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.18000001",
+        "MasterMessageId": 303200065,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.19000001",
+        "MasterMessageId": 303200066,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.19000002",
+        "MasterMessageId": 303200067,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.19000003",
+        "MasterMessageId": 303200068,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000001",
+        "MasterMessageId": 303200069,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000002",
+        "MasterMessageId": 303200070,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000003",
+        "MasterMessageId": 303200071,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000004",
+        "MasterMessageId": 303200072,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000005",
+        "MasterMessageId": 303200073,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000006",
+        "MasterMessageId": 303200074,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000007",
+        "MasterMessageId": 303200075,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.21000001",
+        "MasterMessageId": 303200076,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.22000001",
+        "MasterMessageId": 303200077,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.22000002",
+        "MasterMessageId": 303200078,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.23000001",
+        "MasterMessageId": 303200079,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.99000001",
+        "MasterMessageId": 303200080,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.99000002",
+        "MasterMessageId": 303200081,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.99000003",
+        "MasterMessageId": 303200082,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Error",
+        "MasterMessageId": 303150001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Client.DateChanged",
+        "MasterMessageId": 303150002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Client.CBTExpiredTitle",
+        "MasterMessageId": 303150003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Client.CBTExpiredDescription",
+        "MasterMessageId": 303150004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.MaintenanceTitle",
+        "MasterMessageId": 303150005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.MaintenanceMessage",
+        "MasterMessageId": 303150006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.PaymentNotPermitted",
+        "MasterMessageId": 303230001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.SubmitFamilyDeffered",
+        "MasterMessageId": 303230002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.SubmitCanceled",
+        "MasterMessageId": 303230003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.SubmitPending",
+        "MasterMessageId": 303230004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.QueryOrderExistUnfinishedPendingOrder",
+        "MasterMessageId": 303230005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.QueryOrderExceededMaxAmount",
+        "MasterMessageId": 303230006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.QueryOrderExceededMaxGemBalance",
+        "MasterMessageId": 303230007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.CommonNetworkError",
+        "MasterMessageId": 303230008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.CommonProcessingIsProgress",
+        "MasterMessageId": 303230009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.CommonPaymentUnderMaintenance",
+        "MasterMessageId": 303230010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.CommonError",
+        "MasterMessageId": 303230011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.PaymentCommonError",
+        "MasterMessageId": 303230012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.QueryOrderProductIdNotExist",
+        "MasterMessageId": 303230013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "PaymentError.PaymentNotPermittedForAndroid",
+        "MasterMessageId": 303230014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.AuthorizationError",
+        "MasterMessageId": 303150007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Migration.InvalidCode",
+        "MasterMessageId": 303150008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.gglxuiderr",
+        "MasterMessageId": 303150009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.20000008",
+        "MasterMessageId": 303200083,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.WebViewError",
+        "MasterMessageId": 303150010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.NetworkError",
+        "MasterMessageId": 303150011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Maintenance.DataTimeFormat.Unit",
+        "MasterMessageId": 303150012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Maintenance.DisplayLimitTime.Message",
+        "MasterMessageId": 303150013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.Maintenance.Period.Undecided",
+        "MasterMessageId": 303150014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.18000002",
+        "MasterMessageId": 303150015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.10000032",
+        "MasterMessageId": 303150016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.KeywordFilter.Input",
+        "MasterMessageId": 303150017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.ToTitle",
+        "MasterMessageId": 303150018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.MigratedDevice",
+        "MasterMessageId": 303150019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.LotteryExpired",
+        "MasterMessageId": 303150020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.ExchangeExpired",
+        "MasterMessageId": 303150021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ServerError.90000001",
+        "MasterMessageId": 303200084,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Error.JoinRoomFailed",
+        "MasterMessageId": 303150022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.UIEquipmentChangeConfirmModal",
+        "MasterMessageId": 303030001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.UIEquipmentChangeUnsettledConfirmModal",
+        "MasterMessageId": 303030002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UIOpenPassiveSkill",
+        "MasterMessageId": 303040001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.UsingRefinedCharacterConfirmModal",
+        "MasterMessageId": 303100001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.Result.SellModal",
+        "MasterMessageId": 303090001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.Result.WeaponLevelUp",
+        "MasterMessageId": 303090002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Giftbox.Indefinite",
+        "MasterMessageId": 303990001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AutoRepeat.CancelModalTitle",
+        "MasterMessageId": 303090003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AutoRepeat.CancelModal",
+        "MasterMessageId": 303090004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.SortieConditions.SubMember",
+        "MasterMessageId": 303090005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.SortieConditions.Item",
+        "MasterMessageId": 303090006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.DisableEvolution",
+        "MasterMessageId": 303100002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.EvolutionMoveModal",
+        "MasterMessageId": 303100003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.ManaBoardOpenModal",
+        "MasterMessageId": 303100004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Formation",
+        "MasterMessageId": 303160001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Blacksmith",
+        "MasterMessageId": 303160002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Refine",
+        "MasterMessageId": 303160003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lottery",
+        "MasterMessageId": 303160004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Shop",
+        "MasterMessageId": 303160005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Mission",
+        "MasterMessageId": 303160006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Friend",
+        "MasterMessageId": 303160007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Quest",
+        "MasterMessageId": 303160008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Transition",
+        "MasterMessageId": 303160009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.Clear1",
+        "MasterMessageId": 303160010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.Clear2",
+        "MasterMessageId": 303160011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.Clear3",
+        "MasterMessageId": 303160012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.Clear4",
+        "MasterMessageId": 303160013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.OpeningConditions",
+        "MasterMessageId": 303160014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Lock.QuestNo",
+        "MasterMessageId": 303160015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Event",
+        "MasterMessageId": 303160016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Tower",
+        "MasterMessageId": 303160017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Evolve",
+        "MasterMessageId": 303160018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Awake",
+        "MasterMessageId": 303160019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.HardQuest",
+        "MasterMessageId": 303160020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.EquipmentRefineDungeon",
+        "MasterMessageId": 303160021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.EquipmentDropDungeon",
+        "MasterMessageId": 303160022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Open",
+        "MasterMessageId": 303160023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.UseFromRefine",
+        "MasterMessageId": 303160024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "LoginBonus.Daily.Message1",
+        "MasterMessageId": 303110001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "LoginBonus.Daily.Message2",
+        "MasterMessageId": 303110002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Tower.QuestClearReward.Floor",
+        "MasterMessageId": 303090007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Tower.QuestClearReward.Every",
+        "MasterMessageId": 303090008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LinkLevelReward.Talk",
+        "MasterMessageId": 303100005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverItemDescription",
+        "MasterMessageId": 303090009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.Overflow.Chara",
+        "MasterMessageId": 303140001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.Overflow.MemoryGem",
+        "MasterMessageId": 303140002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.Overflow.CharaAndMemoryGem",
+        "MasterMessageId": 303140003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GenderSelection",
+        "MasterMessageId": 303990002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GenderConfirm",
+        "MasterMessageId": 303990003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecover",
+        "MasterMessageId": 303090010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverComplete",
+        "MasterMessageId": 303090011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverTitle",
+        "MasterMessageId": 303090012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.UnableStaminaRecover",
+        "MasterMessageId": 303090013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaDescription",
+        "MasterMessageId": 303090014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.EventStaminaDescription",
+        "MasterMessageId": 303090015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverGemLimit",
+        "MasterMessageId": 303090016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverChoose",
+        "MasterMessageId": 303090017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaRecoverConfirmDescription",
+        "MasterMessageId": 303090018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.SerialCode.Success",
+        "MasterMessageId": 303990004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.SerialCode.Failed",
+        "MasterMessageId": 303990005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.SerialCode.NotFound",
+        "MasterMessageId": 303990006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.SerialCode.AlreadyRegistered",
+        "MasterMessageId": 303990007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Agreement.WarningDisagree",
+        "MasterMessageId": 303990008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.MultiQuest.CBTTimeOutTitle",
+        "MasterMessageId": 303990009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.MultiQuest.CBTTimeDescription",
+        "MasterMessageId": 303990010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Agreement.Description",
+        "MasterMessageId": 303990011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.HardOpen",
+        "MasterMessageId": 303090019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.VeryHardOpen",
+        "MasterMessageId": 303090020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ToCbtQuestionnaire",
+        "MasterMessageId": 303990012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.UserIdCopy",
+        "MasterMessageId": 303990013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.UserIdDisplay",
+        "MasterMessageId": 303990014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.UserIdCopyComplete",
+        "MasterMessageId": 303990015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AutoRepeat",
+        "MasterMessageId": 303090021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AutoRepeatDisableWithSupport",
+        "MasterMessageId": 303090022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AutoRepeatSet",
+        "MasterMessageId": 303090023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.ConfirmText",
+        "MasterMessageId": 303100006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.WarningText",
+        "MasterMessageId": 303100007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.RemainExchangeCount",
+        "MasterMessageId": 303170001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.UnlockExchangeCondition",
+        "MasterMessageId": 303170002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.ExchangeComplete",
+        "MasterMessageId": 303170003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.MissionChallengeDisabledTitle",
+        "MasterMessageId": 303180001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.MissionChallengeDisabledBody",
+        "MasterMessageId": 303180002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.MissionChallengeFeatureLockedBody",
+        "MasterMessageId": 303180003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.DrawButton",
+        "MasterMessageId": 303140004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.DrawButtonDaily",
+        "MasterMessageId": 303140005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Lottery.RetryDraw",
+        "MasterMessageId": 303140006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Weapon.NormalAttackBonus",
+        "MasterMessageId": 303190001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Weapon.SkillAttackBonus",
+        "MasterMessageId": 303190002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Weapon.SpecialAttackBonus",
+        "MasterMessageId": 303190003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Party.FailedRecommendPartyTitle",
+        "MasterMessageId": 303210001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Party.FailedRecommendPartyMessage",
+        "MasterMessageId": 303210002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.PurchaseGem",
+        "MasterMessageId": 303220001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.Consume",
+        "MasterMessageId": 303220002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.DateFormat",
+        "MasterMessageId": 303220003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.LeaveRoom",
+        "MasterMessageId": 303050001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.LeaveRoomConfirm",
+        "MasterMessageId": 303050002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaShortage",
+        "MasterMessageId": 303090024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.StaminaShortageWarning",
+        "MasterMessageId": 303090025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.RoomDeleted",
+        "MasterMessageId": 303050003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.RoomDeletedWarning",
+        "MasterMessageId": 303050004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.SortieConfirm",
+        "MasterMessageId": 303050005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.SortieUnreadyWarning",
+        "MasterMessageId": 303050006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.SortieMemberShortageWarning",
+        "MasterMessageId": 303050007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.DontHaveEpisodeUnlockItem",
+        "MasterMessageId": 303090026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.EpisodeUnlockWithItemConfirm",
+        "MasterMessageId": 303090027,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.SortieConditionConfirm",
+        "MasterMessageId": 303090028,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.FailedAddChallengeCount",
+        "MasterMessageId": 303090029,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ExpiredRelease",
+        "MasterMessageId": 303090030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ChallengeCountAddLimit",
+        "MasterMessageId": 303090031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ReceivedFirstClearReward",
+        "MasterMessageId": 303090032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.AddChallengeCountConfirm",
+        "MasterMessageId": 303090033,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRankConditionTimeOver",
+        "MasterMessageId": 303090034,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRankConditionTimeLeft",
+        "MasterMessageId": 303090035,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.Empty",
+        "MasterMessageId": 303030003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.ListView",
+        "MasterMessageId": 303030004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.Sort",
+        "MasterMessageId": 303030005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.Sort",
+        "MasterMessageId": 303060001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.LimitBreakMaterialWarning",
+        "MasterMessageId": 303060002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.SelectSellCountMaxWarning",
+        "MasterMessageId": 303060003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.SellHighRarityWarning",
+        "MasterMessageId": 303060004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.SellRefinedWarning",
+        "MasterMessageId": 303060005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.NoRemainExchangeCount",
+        "MasterMessageId": 303170004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.Awakening.ConfirmModalTitle",
+        "MasterMessageId": 303100008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.ConfirmModalTitle",
+        "MasterMessageId": 303100009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.Evolve.ConfirmModalTitle",
+        "MasterMessageId": 303100010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.Evolve.ConfirmModal",
+        "MasterMessageId": 303100011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.LanguageSelectConfirm",
+        "MasterMessageId": 303990016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.LanguageChanged",
+        "MasterMessageId": 303990017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.ArmorSetEfficacyTitle",
+        "MasterMessageId": 303030006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.AccessorySetEfficacyTitle",
+        "MasterMessageId": 303030007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.RefineTitle",
+        "MasterMessageId": 303030008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SellComplete",
+        "MasterMessageId": 303030009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SelectSellLimit",
+        "MasterMessageId": 303030010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SelectSellAlreadyEquip",
+        "MasterMessageId": 303030011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SelectSellRarity4",
+        "MasterMessageId": 303030012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SelectSellRefined",
+        "MasterMessageId": 303030013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Equipment.SellCompleteTitle",
+        "MasterMessageId": 303030014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.Hp",
+        "MasterMessageId": 303040002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.Mp",
+        "MasterMessageId": 303040003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.PhysicalAttack",
+        "MasterMessageId": 303040004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.PhysicalDefence",
+        "MasterMessageId": 303040005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.MagicalAttack",
+        "MasterMessageId": 303040006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.MagicalDefence",
+        "MasterMessageId": 303040007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.RewardType.Luck",
+        "MasterMessageId": 303040008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.Sort",
+        "MasterMessageId": 303100012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.HoursAgo",
+        "MasterMessageId": 303990018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.WithinMinute",
+        "MasterMessageId": 303990019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.MinutesAgo",
+        "MasterMessageId": 303990020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Item.LongPressDetail",
+        "MasterMessageId": 303070001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.JoinRoomFailed",
+        "MasterMessageId": 303050008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.DisabledJoinRoom",
+        "MasterMessageId": 303050009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.CreateRoomFailed",
+        "MasterMessageId": 303050010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.KickGuest",
+        "MasterMessageId": 303050011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.KickGuestConfirm",
+        "MasterMessageId": 303050012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.KickGuestCompleted",
+        "MasterMessageId": 303050013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendCharacterMaxCount",
+        "MasterMessageId": 303080001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendCharacterMaxCountComplete",
+        "MasterMessageId": 303080002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendMemoryGemMaxCount",
+        "MasterMessageId": 303080003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendMemoryGemMaxCountComplete",
+        "MasterMessageId": 303080004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendEquipmentMaxCount",
+        "MasterMessageId": 303080005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ExtendEquipmentMaxCountComplete",
+        "MasterMessageId": 303080006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.PossessionLimit",
+        "MasterMessageId": 303080007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ReceiveTitle",
+        "MasterMessageId": 303080008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ReceiveFailed",
+        "MasterMessageId": 303080009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Gift.ReceiveFailedWithOverLimitDescription",
+        "MasterMessageId": 303080010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.EvolveConfirm",
+        "MasterMessageId": 303100013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UnlockPanel",
+        "MasterMessageId": 303040009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UnlockPanelConfirm",
+        "MasterMessageId": 303040010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UnlockPanelMaterialShortage",
+        "MasterMessageId": 303040011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UnlockPanelConsumeGemConfirm",
+        "MasterMessageId": 303040012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.UnlockPanelConsumeGemShortage",
+        "MasterMessageId": 303040013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.SelectSellCountMaxWarning",
+        "MasterMessageId": 303100014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.SellHighRarityWarning",
+        "MasterMessageId": 303100015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.SelectSellRefined",
+        "MasterMessageId": 303100016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.InputPlayerName",
+        "MasterMessageId": 303990021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ReturnFromSuspension",
+        "MasterMessageId": 303090036,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.BackToTitleConfirm",
+        "MasterMessageId": 303990022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ClearCache",
+        "MasterMessageId": 303990023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ClearCacheConfirm",
+        "MasterMessageId": 303990024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ClearCacheComplete",
+        "MasterMessageId": 303990025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.BatchDownload",
+        "MasterMessageId": 303990026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.BatchDownloadConfirm",
+        "MasterMessageId": 303990027,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.BatchDownloadComplete",
+        "MasterMessageId": 303990028,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DataDownloadConfirm",
+        "MasterMessageId": 303990029,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DownloadFailed",
+        "MasterMessageId": 303990030,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DownloadFailedDescription",
+        "MasterMessageId": 303990031,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DaysAgo",
+        "MasterMessageId": 303990032,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRemoveConfirm",
+        "MasterMessageId": 303120001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRemoveComplete",
+        "MasterMessageId": 303120002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRemoveCompleteDescription",
+        "MasterMessageId": 303120003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestRejectConfirm",
+        "MasterMessageId": 303120004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestRejectComplete",
+        "MasterMessageId": 303120005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestAcceptConfirm",
+        "MasterMessageId": 303120006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestAcceptComplete",
+        "MasterMessageId": 303120007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestCancelConfirm",
+        "MasterMessageId": 303120008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestCanceled",
+        "MasterMessageId": 303120009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestConfirm",
+        "MasterMessageId": 303120010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRequestComplete",
+        "MasterMessageId": 303120011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendTargetOverLimit",
+        "MasterMessageId": 303120012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendOverLimit",
+        "MasterMessageId": 303120013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendSearchResult",
+        "MasterMessageId": 303120014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendSearchNotFound",
+        "MasterMessageId": 303120015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.WeeksAgo",
+        "MasterMessageId": 303990033,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.MonthsAgo",
+        "MasterMessageId": 303990034,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.WithinHours",
+        "MasterMessageId": 303990035,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.RetireConfirm",
+        "MasterMessageId": 303090037,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.RetryConfirm",
+        "MasterMessageId": 303090038,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.LeftDays",
+        "MasterMessageId": 303990036,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.OpSkipConfirm",
+        "MasterMessageId": 303990037,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.NoneLevelLimit",
+        "MasterMessageId": 303050014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.LevelLimit",
+        "MasterMessageId": 303050015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.OnlyClearedUser",
+        "MasterMessageId": 303050016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.AllowUnclearedUser",
+        "MasterMessageId": 303050017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.NotSet",
+        "MasterMessageId": 303050018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.StaminaAllRecover",
+        "MasterMessageId": 303990038,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.LimitDate",
+        "MasterMessageId": 303220004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.StaminaRecover",
+        "MasterMessageId": 303220005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.EventStaminaRecover",
+        "MasterMessageId": 303220006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.ExtendCharacterCount",
+        "MasterMessageId": 303220007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.ExtendMemoryGemCount",
+        "MasterMessageId": 303220008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.ExtendEquipmentCount",
+        "MasterMessageId": 303220009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.Lottery",
+        "MasterMessageId": 303220010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.Exchange",
+        "MasterMessageId": 303220011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.ManaBoardRefine",
+        "MasterMessageId": 303220012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.QuestContinue",
+        "MasterMessageId": 303220013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.QuestEpisodeTicketCharge",
+        "MasterMessageId": 303220014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.Gift",
+        "MasterMessageId": 303220015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.RestoreOrder",
+        "MasterMessageId": 303220016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DeleteUserData",
+        "MasterMessageId": 303990039,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DeleteUserDataConfirm",
+        "MasterMessageId": 303990040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DeleteUserDataFinal",
+        "MasterMessageId": 303990041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DeleteUserDataFinalConfirm",
+        "MasterMessageId": 303990042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DeleteUserDataComplete",
+        "MasterMessageId": 303990043,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.FirstLanguageSelectConfirm",
+        "MasterMessageId": 303990044,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Event.RankingRewardConfirmModalMainText",
+        "MasterMessageId": 303240001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ApplicationQuit",
+        "MasterMessageId": 303990045,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.RegionSelectConfirm",
+        "MasterMessageId": 303990046,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "User.FriendRemoveConfirmTitle",
+        "MasterMessageId": 303120016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Until",
+        "MasterMessageId": 303990047,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.NextBingoReward",
+        "MasterMessageId": 303180004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.BingoCompleteReward",
+        "MasterMessageId": 303180005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.BingoSheetCategory.Beginner",
+        "MasterMessageId": 303180006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.UnlockedNewBingoSheet",
+        "MasterMessageId": 303180007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GdprConfirmAgeTitle",
+        "MasterMessageId": 303990048,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GdprConfirmAgeDescription",
+        "MasterMessageId": 303990049,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Multi.JoinRoomFull",
+        "MasterMessageId": 303050019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DataDownloadContentsConfirming",
+        "MasterMessageId": 303990050,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.ReleasePassiveSkill",
+        "MasterMessageId": 303100017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.LevelUpSpecialAttack",
+        "MasterMessageId": 303100018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.LevelUpSkill1",
+        "MasterMessageId": 303100019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.LevelUpSkill2",
+        "MasterMessageId": 303100020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.LevelUpPassiveSkill",
+        "MasterMessageId": 303100021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "ManaBoard.BlockMessage",
+        "MasterMessageId": 303040014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.LeftTime",
+        "MasterMessageId": 303990051,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Days",
+        "MasterMessageId": 303990052,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Hours",
+        "MasterMessageId": 303990053,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Minutes",
+        "MasterMessageId": 303990054,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.LimitBreak.SkillOptionTitle",
+        "MasterMessageId": 303100022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRank.S",
+        "MasterMessageId": 303090039,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRank.A",
+        "MasterMessageId": 303090040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRank.B",
+        "MasterMessageId": 303090041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.ClearRank.C",
+        "MasterMessageId": 303090042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.Result.ClearRank.Bonus",
+        "MasterMessageId": 303090043,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Character.TitleBrackets",
+        "MasterMessageId": 303100023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ConfirmDenyGdprOptin",
+        "MasterMessageId": 303990055,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.CannotReacceptGdprOptin",
+        "MasterMessageId": 303990056,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.DownloadFailedDueToCapacityShortage",
+        "MasterMessageId": 303990057,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.WeaponName",
+        "MasterMessageId": 303990058,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.EquipmentName",
+        "MasterMessageId": 303990059,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.TitleName",
+        "MasterMessageId": 303990060,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.ProfileDefaultComment",
+        "MasterMessageId": 303990061,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.TutorialSkipConfirm",
+        "MasterMessageId": 303990062,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.ExchangeLeftTime",
+        "MasterMessageId": 303170005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.RemainExchangeCountDaily",
+        "MasterMessageId": 303170006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.RemainExchangeCountWeekly",
+        "MasterMessageId": 303170007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.RemainExchangeCountMonthly",
+        "MasterMessageId": 303170008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Shop.ExchangeCountUnlimited",
+        "MasterMessageId": 303170009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Mission.BingoSheetCategory.Event",
+        "MasterMessageId": 303180008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GdprDescriptionInOption",
+        "MasterMessageId": 303990063,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.GdprDescriptionInTitle",
+        "MasterMessageId": 303990064,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.RewardResult.Item",
+        "MasterMessageId": 303090044,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Tower.NewFloorsOpen",
+        "MasterMessageId": 303090045,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.RegionSelectTitle",
+        "MasterMessageId": 303990065,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.EpisodeClearRewardNormal",
+        "MasterMessageId": 303090046,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.EpisodeClearRewardHard",
+        "MasterMessageId": 303090047,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.EpisodeClearRewardVeryHard",
+        "MasterMessageId": 303090048,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.LanguageSelectTitle",
+        "MasterMessageId": 303990066,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.TrainingDungeon",
+        "MasterMessageId": 303160025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Feature.Multi",
+        "MasterMessageId": 303160026,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "MemoryGem.GetBonusParameter",
+        "MasterMessageId": 303060006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Party.NoneTitlePassiveSkillEffect",
+        "MasterMessageId": 303210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Other.Seconds",
+        "MasterMessageId": 303990067,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.PleaseWaitEpisodeUpdate",
+        "MasterMessageId": 303090049,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.Mission",
+        "MasterMessageId": 303220017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.BingoMission",
+        "MasterMessageId": 303220018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.LinkLevel",
+        "MasterMessageId": 303220019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.MissionLevel",
+        "MasterMessageId": 303220020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.QuestFirst",
+        "MasterMessageId": 303220021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.QuestMission",
+        "MasterMessageId": 303220022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.QuestTreasure",
+        "MasterMessageId": 303220023,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "HcShop.GamelibReasonType.Tower",
+        "MasterMessageId": 303220024,
+        "ReleaseLabel": "release.initial"
+    }
+]

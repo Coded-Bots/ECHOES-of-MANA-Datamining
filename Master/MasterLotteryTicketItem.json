@@ -1,0 +1,14 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.initial",
+        "Value": 1
+    }
+]

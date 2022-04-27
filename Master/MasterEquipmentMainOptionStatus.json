@@ -1,0 +1,1822 @@
+[
+    {
+        "GroupId": 101,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011010101,
+        "ReleaseLabel": "release.initial",
+        "Value": 74
+    },
+    {
+        "GroupId": 101,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011010102,
+        "ReleaseLabel": "release.initial",
+        "Value": 86
+    },
+    {
+        "GroupId": 101,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011010103,
+        "ReleaseLabel": "release.initial",
+        "Value": 99
+    },
+    {
+        "GroupId": 101,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011010104,
+        "ReleaseLabel": "release.initial",
+        "Value": 111
+    },
+    {
+        "GroupId": 101,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011010105,
+        "ReleaseLabel": "release.initial",
+        "Value": 119
+    },
+    {
+        "GroupId": 101,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011010106,
+        "ReleaseLabel": "release.initial",
+        "Value": 127
+    },
+    {
+        "GroupId": 101,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011010107,
+        "ReleaseLabel": "release.initial",
+        "Value": 134
+    },
+    {
+        "GroupId": 101,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011010108,
+        "ReleaseLabel": "release.initial",
+        "Value": 142
+    },
+    {
+        "GroupId": 101,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011010109,
+        "ReleaseLabel": "release.initial",
+        "Value": 150
+    },
+    {
+        "GroupId": 101,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011010110,
+        "ReleaseLabel": "release.initial",
+        "Value": 158
+    },
+    {
+        "GroupId": 101,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011010111,
+        "ReleaseLabel": "release.initial",
+        "Value": 165
+    },
+    {
+        "GroupId": 101,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011010112,
+        "ReleaseLabel": "release.initial",
+        "Value": 173
+    },
+    {
+        "GroupId": 101,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011010113,
+        "ReleaseLabel": "release.initial",
+        "Value": 185
+    },
+    {
+        "GroupId": 101,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011010114,
+        "ReleaseLabel": "release.initial",
+        "Value": 196
+    },
+    {
+        "GroupId": 101,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011010115,
+        "ReleaseLabel": "release.initial",
+        "Value": 208
+    },
+    {
+        "GroupId": 101,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011010116,
+        "ReleaseLabel": "release.initial",
+        "Value": 219
+    },
+    {
+        "GroupId": 101,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011010117,
+        "ReleaseLabel": "release.initial",
+        "Value": 231
+    },
+    {
+        "GroupId": 101,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011010118,
+        "ReleaseLabel": "release.initial",
+        "Value": 242
+    },
+    {
+        "GroupId": 101,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011010119,
+        "ReleaseLabel": "release.initial",
+        "Value": 254
+    },
+    {
+        "GroupId": 101,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011010120,
+        "ReleaseLabel": "release.initial",
+        "Value": 265
+    },
+    {
+        "GroupId": 102,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011010201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10530
+    },
+    {
+        "GroupId": 102,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011010202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10620
+    },
+    {
+        "GroupId": 102,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011010203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10710
+    },
+    {
+        "GroupId": 102,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011010204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10800
+    },
+    {
+        "GroupId": 102,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011010205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10850
+    },
+    {
+        "GroupId": 102,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011010206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10900
+    },
+    {
+        "GroupId": 102,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011010207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10950
+    },
+    {
+        "GroupId": 102,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011010208,
+        "ReleaseLabel": "release.initial",
+        "Value": 11000
+    },
+    {
+        "GroupId": 102,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011010209,
+        "ReleaseLabel": "release.initial",
+        "Value": 11050
+    },
+    {
+        "GroupId": 102,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011010210,
+        "ReleaseLabel": "release.initial",
+        "Value": 11100
+    },
+    {
+        "GroupId": 102,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011010211,
+        "ReleaseLabel": "release.initial",
+        "Value": 11150
+    },
+    {
+        "GroupId": 102,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011010212,
+        "ReleaseLabel": "release.initial",
+        "Value": 11200
+    },
+    {
+        "GroupId": 102,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011010213,
+        "ReleaseLabel": "release.initial",
+        "Value": 11300
+    },
+    {
+        "GroupId": 102,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011010214,
+        "ReleaseLabel": "release.initial",
+        "Value": 11400
+    },
+    {
+        "GroupId": 102,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011010215,
+        "ReleaseLabel": "release.initial",
+        "Value": 11500
+    },
+    {
+        "GroupId": 102,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011010216,
+        "ReleaseLabel": "release.initial",
+        "Value": 11600
+    },
+    {
+        "GroupId": 102,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011010217,
+        "ReleaseLabel": "release.initial",
+        "Value": 11700
+    },
+    {
+        "GroupId": 102,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011010218,
+        "ReleaseLabel": "release.initial",
+        "Value": 11800
+    },
+    {
+        "GroupId": 102,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011010219,
+        "ReleaseLabel": "release.initial",
+        "Value": 11900
+    },
+    {
+        "GroupId": 102,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011010220,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "GroupId": 201,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011020101,
+        "ReleaseLabel": "release.initial",
+        "Value": 4
+    },
+    {
+        "GroupId": 201,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011020102,
+        "ReleaseLabel": "release.initial",
+        "Value": 8
+    },
+    {
+        "GroupId": 201,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011020103,
+        "ReleaseLabel": "release.initial",
+        "Value": 12
+    },
+    {
+        "GroupId": 201,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011020104,
+        "ReleaseLabel": "release.initial",
+        "Value": 16
+    },
+    {
+        "GroupId": 201,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011020105,
+        "ReleaseLabel": "release.initial",
+        "Value": 17
+    },
+    {
+        "GroupId": 201,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011020106,
+        "ReleaseLabel": "release.initial",
+        "Value": 18
+    },
+    {
+        "GroupId": 201,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011020107,
+        "ReleaseLabel": "release.initial",
+        "Value": 19
+    },
+    {
+        "GroupId": 201,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011020108,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "GroupId": 201,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011020109,
+        "ReleaseLabel": "release.initial",
+        "Value": 21
+    },
+    {
+        "GroupId": 201,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011020110,
+        "ReleaseLabel": "release.initial",
+        "Value": 22
+    },
+    {
+        "GroupId": 201,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011020111,
+        "ReleaseLabel": "release.initial",
+        "Value": 23
+    },
+    {
+        "GroupId": 201,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011020112,
+        "ReleaseLabel": "release.initial",
+        "Value": 24
+    },
+    {
+        "GroupId": 201,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011020113,
+        "ReleaseLabel": "release.initial",
+        "Value": 26
+    },
+    {
+        "GroupId": 201,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011020114,
+        "ReleaseLabel": "release.initial",
+        "Value": 28
+    },
+    {
+        "GroupId": 201,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011020115,
+        "ReleaseLabel": "release.initial",
+        "Value": 30
+    },
+    {
+        "GroupId": 201,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011020116,
+        "ReleaseLabel": "release.initial",
+        "Value": 32
+    },
+    {
+        "GroupId": 201,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011020117,
+        "ReleaseLabel": "release.initial",
+        "Value": 34
+    },
+    {
+        "GroupId": 201,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011020118,
+        "ReleaseLabel": "release.initial",
+        "Value": 36
+    },
+    {
+        "GroupId": 201,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011020119,
+        "ReleaseLabel": "release.initial",
+        "Value": 38
+    },
+    {
+        "GroupId": 201,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011020120,
+        "ReleaseLabel": "release.initial",
+        "Value": 40
+    },
+    {
+        "GroupId": 301,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011030101,
+        "ReleaseLabel": "release.initial",
+        "Value": 17
+    },
+    {
+        "GroupId": 301,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011030102,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "GroupId": 301,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011030103,
+        "ReleaseLabel": "release.initial",
+        "Value": 23
+    },
+    {
+        "GroupId": 301,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011030104,
+        "ReleaseLabel": "release.initial",
+        "Value": 26
+    },
+    {
+        "GroupId": 301,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011030105,
+        "ReleaseLabel": "release.initial",
+        "Value": 28
+    },
+    {
+        "GroupId": 301,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011030106,
+        "ReleaseLabel": "release.initial",
+        "Value": 30
+    },
+    {
+        "GroupId": 301,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011030107,
+        "ReleaseLabel": "release.initial",
+        "Value": 32
+    },
+    {
+        "GroupId": 301,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011030108,
+        "ReleaseLabel": "release.initial",
+        "Value": 34
+    },
+    {
+        "GroupId": 301,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011030109,
+        "ReleaseLabel": "release.initial",
+        "Value": 36
+    },
+    {
+        "GroupId": 301,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011030110,
+        "ReleaseLabel": "release.initial",
+        "Value": 38
+    },
+    {
+        "GroupId": 301,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011030111,
+        "ReleaseLabel": "release.initial",
+        "Value": 39
+    },
+    {
+        "GroupId": 301,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011030112,
+        "ReleaseLabel": "release.initial",
+        "Value": 41
+    },
+    {
+        "GroupId": 301,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011030113,
+        "ReleaseLabel": "release.initial",
+        "Value": 43
+    },
+    {
+        "GroupId": 301,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011030114,
+        "ReleaseLabel": "release.initial",
+        "Value": 45
+    },
+    {
+        "GroupId": 301,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011030115,
+        "ReleaseLabel": "release.initial",
+        "Value": 47
+    },
+    {
+        "GroupId": 301,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011030116,
+        "ReleaseLabel": "release.initial",
+        "Value": 49
+    },
+    {
+        "GroupId": 301,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011030117,
+        "ReleaseLabel": "release.initial",
+        "Value": 53
+    },
+    {
+        "GroupId": 301,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011030118,
+        "ReleaseLabel": "release.initial",
+        "Value": 57
+    },
+    {
+        "GroupId": 301,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011030119,
+        "ReleaseLabel": "release.initial",
+        "Value": 60
+    },
+    {
+        "GroupId": 301,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011030120,
+        "ReleaseLabel": "release.initial",
+        "Value": 64
+    },
+    {
+        "GroupId": 302,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011030201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10270
+    },
+    {
+        "GroupId": 302,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011030202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10310
+    },
+    {
+        "GroupId": 302,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011030203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10360
+    },
+    {
+        "GroupId": 302,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011030204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10400
+    },
+    {
+        "GroupId": 302,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011030205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10430
+    },
+    {
+        "GroupId": 302,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011030206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10450
+    },
+    {
+        "GroupId": 302,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011030207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10480
+    },
+    {
+        "GroupId": 302,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011030208,
+        "ReleaseLabel": "release.initial",
+        "Value": 10500
+    },
+    {
+        "GroupId": 302,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011030209,
+        "ReleaseLabel": "release.initial",
+        "Value": 10530
+    },
+    {
+        "GroupId": 302,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011030210,
+        "ReleaseLabel": "release.initial",
+        "Value": 10550
+    },
+    {
+        "GroupId": 302,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011030211,
+        "ReleaseLabel": "release.initial",
+        "Value": 10580
+    },
+    {
+        "GroupId": 302,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011030212,
+        "ReleaseLabel": "release.initial",
+        "Value": 10600
+    },
+    {
+        "GroupId": 302,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011030213,
+        "ReleaseLabel": "release.initial",
+        "Value": 10650
+    },
+    {
+        "GroupId": 302,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011030214,
+        "ReleaseLabel": "release.initial",
+        "Value": 10700
+    },
+    {
+        "GroupId": 302,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011030215,
+        "ReleaseLabel": "release.initial",
+        "Value": 10750
+    },
+    {
+        "GroupId": 302,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011030216,
+        "ReleaseLabel": "release.initial",
+        "Value": 10800
+    },
+    {
+        "GroupId": 302,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011030217,
+        "ReleaseLabel": "release.initial",
+        "Value": 10850
+    },
+    {
+        "GroupId": 302,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011030218,
+        "ReleaseLabel": "release.initial",
+        "Value": 10900
+    },
+    {
+        "GroupId": 302,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011030219,
+        "ReleaseLabel": "release.initial",
+        "Value": 10950
+    },
+    {
+        "GroupId": 302,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011030220,
+        "ReleaseLabel": "release.initial",
+        "Value": 11000
+    },
+    {
+        "GroupId": 401,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011040101,
+        "ReleaseLabel": "release.initial",
+        "Value": 28
+    },
+    {
+        "GroupId": 401,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011040102,
+        "ReleaseLabel": "release.initial",
+        "Value": 33
+    },
+    {
+        "GroupId": 401,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011040103,
+        "ReleaseLabel": "release.initial",
+        "Value": 38
+    },
+    {
+        "GroupId": 401,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011040104,
+        "ReleaseLabel": "release.initial",
+        "Value": 43
+    },
+    {
+        "GroupId": 401,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011040105,
+        "ReleaseLabel": "release.initial",
+        "Value": 46
+    },
+    {
+        "GroupId": 401,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011040106,
+        "ReleaseLabel": "release.initial",
+        "Value": 49
+    },
+    {
+        "GroupId": 401,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011040107,
+        "ReleaseLabel": "release.initial",
+        "Value": 52
+    },
+    {
+        "GroupId": 401,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011040108,
+        "ReleaseLabel": "release.initial",
+        "Value": 55
+    },
+    {
+        "GroupId": 401,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011040109,
+        "ReleaseLabel": "release.initial",
+        "Value": 58
+    },
+    {
+        "GroupId": 401,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011040110,
+        "ReleaseLabel": "release.initial",
+        "Value": 61
+    },
+    {
+        "GroupId": 401,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011040111,
+        "ReleaseLabel": "release.initial",
+        "Value": 64
+    },
+    {
+        "GroupId": 401,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011040112,
+        "ReleaseLabel": "release.initial",
+        "Value": 67
+    },
+    {
+        "GroupId": 401,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011040113,
+        "ReleaseLabel": "release.initial",
+        "Value": 70
+    },
+    {
+        "GroupId": 401,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011040114,
+        "ReleaseLabel": "release.initial",
+        "Value": 73
+    },
+    {
+        "GroupId": 401,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011040115,
+        "ReleaseLabel": "release.initial",
+        "Value": 76
+    },
+    {
+        "GroupId": 401,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011040116,
+        "ReleaseLabel": "release.initial",
+        "Value": 79
+    },
+    {
+        "GroupId": 401,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011040117,
+        "ReleaseLabel": "release.initial",
+        "Value": 85
+    },
+    {
+        "GroupId": 401,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011040118,
+        "ReleaseLabel": "release.initial",
+        "Value": 91
+    },
+    {
+        "GroupId": 401,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011040119,
+        "ReleaseLabel": "release.initial",
+        "Value": 96
+    },
+    {
+        "GroupId": 401,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011040120,
+        "ReleaseLabel": "release.initial",
+        "Value": 102
+    },
+    {
+        "GroupId": 402,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011040201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10530
+    },
+    {
+        "GroupId": 402,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011040202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10620
+    },
+    {
+        "GroupId": 402,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011040203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10710
+    },
+    {
+        "GroupId": 402,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011040204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10800
+    },
+    {
+        "GroupId": 402,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011040205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10850
+    },
+    {
+        "GroupId": 402,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011040206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10900
+    },
+    {
+        "GroupId": 402,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011040207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10950
+    },
+    {
+        "GroupId": 402,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011040208,
+        "ReleaseLabel": "release.initial",
+        "Value": 11000
+    },
+    {
+        "GroupId": 402,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011040209,
+        "ReleaseLabel": "release.initial",
+        "Value": 11050
+    },
+    {
+        "GroupId": 402,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011040210,
+        "ReleaseLabel": "release.initial",
+        "Value": 11100
+    },
+    {
+        "GroupId": 402,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011040211,
+        "ReleaseLabel": "release.initial",
+        "Value": 11150
+    },
+    {
+        "GroupId": 402,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011040212,
+        "ReleaseLabel": "release.initial",
+        "Value": 11200
+    },
+    {
+        "GroupId": 402,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011040213,
+        "ReleaseLabel": "release.initial",
+        "Value": 11300
+    },
+    {
+        "GroupId": 402,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011040214,
+        "ReleaseLabel": "release.initial",
+        "Value": 11400
+    },
+    {
+        "GroupId": 402,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011040215,
+        "ReleaseLabel": "release.initial",
+        "Value": 11500
+    },
+    {
+        "GroupId": 402,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011040216,
+        "ReleaseLabel": "release.initial",
+        "Value": 11600
+    },
+    {
+        "GroupId": 402,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011040217,
+        "ReleaseLabel": "release.initial",
+        "Value": 11700
+    },
+    {
+        "GroupId": 402,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011040218,
+        "ReleaseLabel": "release.initial",
+        "Value": 11800
+    },
+    {
+        "GroupId": 402,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011040219,
+        "ReleaseLabel": "release.initial",
+        "Value": 11900
+    },
+    {
+        "GroupId": 402,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011040220,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "GroupId": 501,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011050101,
+        "ReleaseLabel": "release.initial",
+        "Value": 17
+    },
+    {
+        "GroupId": 501,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011050102,
+        "ReleaseLabel": "release.initial",
+        "Value": 20
+    },
+    {
+        "GroupId": 501,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011050103,
+        "ReleaseLabel": "release.initial",
+        "Value": 23
+    },
+    {
+        "GroupId": 501,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011050104,
+        "ReleaseLabel": "release.initial",
+        "Value": 26
+    },
+    {
+        "GroupId": 501,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011050105,
+        "ReleaseLabel": "release.initial",
+        "Value": 28
+    },
+    {
+        "GroupId": 501,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011050106,
+        "ReleaseLabel": "release.initial",
+        "Value": 30
+    },
+    {
+        "GroupId": 501,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011050107,
+        "ReleaseLabel": "release.initial",
+        "Value": 32
+    },
+    {
+        "GroupId": 501,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011050108,
+        "ReleaseLabel": "release.initial",
+        "Value": 34
+    },
+    {
+        "GroupId": 501,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011050109,
+        "ReleaseLabel": "release.initial",
+        "Value": 36
+    },
+    {
+        "GroupId": 501,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011050110,
+        "ReleaseLabel": "release.initial",
+        "Value": 38
+    },
+    {
+        "GroupId": 501,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011050111,
+        "ReleaseLabel": "release.initial",
+        "Value": 39
+    },
+    {
+        "GroupId": 501,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011050112,
+        "ReleaseLabel": "release.initial",
+        "Value": 41
+    },
+    {
+        "GroupId": 501,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011050113,
+        "ReleaseLabel": "release.initial",
+        "Value": 43
+    },
+    {
+        "GroupId": 501,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011050114,
+        "ReleaseLabel": "release.initial",
+        "Value": 45
+    },
+    {
+        "GroupId": 501,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011050115,
+        "ReleaseLabel": "release.initial",
+        "Value": 47
+    },
+    {
+        "GroupId": 501,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011050116,
+        "ReleaseLabel": "release.initial",
+        "Value": 49
+    },
+    {
+        "GroupId": 501,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011050117,
+        "ReleaseLabel": "release.initial",
+        "Value": 53
+    },
+    {
+        "GroupId": 501,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011050118,
+        "ReleaseLabel": "release.initial",
+        "Value": 57
+    },
+    {
+        "GroupId": 501,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011050119,
+        "ReleaseLabel": "release.initial",
+        "Value": 60
+    },
+    {
+        "GroupId": 501,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011050120,
+        "ReleaseLabel": "release.initial",
+        "Value": 64
+    },
+    {
+        "GroupId": 502,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011050201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10270
+    },
+    {
+        "GroupId": 502,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011050202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10310
+    },
+    {
+        "GroupId": 502,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011050203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10360
+    },
+    {
+        "GroupId": 502,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011050204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10400
+    },
+    {
+        "GroupId": 502,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011050205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10430
+    },
+    {
+        "GroupId": 502,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011050206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10450
+    },
+    {
+        "GroupId": 502,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011050207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10480
+    },
+    {
+        "GroupId": 502,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011050208,
+        "ReleaseLabel": "release.initial",
+        "Value": 10500
+    },
+    {
+        "GroupId": 502,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011050209,
+        "ReleaseLabel": "release.initial",
+        "Value": 10530
+    },
+    {
+        "GroupId": 502,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011050210,
+        "ReleaseLabel": "release.initial",
+        "Value": 10550
+    },
+    {
+        "GroupId": 502,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011050211,
+        "ReleaseLabel": "release.initial",
+        "Value": 10580
+    },
+    {
+        "GroupId": 502,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011050212,
+        "ReleaseLabel": "release.initial",
+        "Value": 10600
+    },
+    {
+        "GroupId": 502,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011050213,
+        "ReleaseLabel": "release.initial",
+        "Value": 10650
+    },
+    {
+        "GroupId": 502,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011050214,
+        "ReleaseLabel": "release.initial",
+        "Value": 10700
+    },
+    {
+        "GroupId": 502,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011050215,
+        "ReleaseLabel": "release.initial",
+        "Value": 10750
+    },
+    {
+        "GroupId": 502,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011050216,
+        "ReleaseLabel": "release.initial",
+        "Value": 10800
+    },
+    {
+        "GroupId": 502,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011050217,
+        "ReleaseLabel": "release.initial",
+        "Value": 10850
+    },
+    {
+        "GroupId": 502,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011050218,
+        "ReleaseLabel": "release.initial",
+        "Value": 10900
+    },
+    {
+        "GroupId": 502,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011050219,
+        "ReleaseLabel": "release.initial",
+        "Value": 10950
+    },
+    {
+        "GroupId": 502,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011050220,
+        "ReleaseLabel": "release.initial",
+        "Value": 11000
+    },
+    {
+        "GroupId": 601,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011060101,
+        "ReleaseLabel": "release.initial",
+        "Value": 28
+    },
+    {
+        "GroupId": 601,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011060102,
+        "ReleaseLabel": "release.initial",
+        "Value": 33
+    },
+    {
+        "GroupId": 601,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011060103,
+        "ReleaseLabel": "release.initial",
+        "Value": 38
+    },
+    {
+        "GroupId": 601,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011060104,
+        "ReleaseLabel": "release.initial",
+        "Value": 43
+    },
+    {
+        "GroupId": 601,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011060105,
+        "ReleaseLabel": "release.initial",
+        "Value": 46
+    },
+    {
+        "GroupId": 601,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011060106,
+        "ReleaseLabel": "release.initial",
+        "Value": 49
+    },
+    {
+        "GroupId": 601,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011060107,
+        "ReleaseLabel": "release.initial",
+        "Value": 52
+    },
+    {
+        "GroupId": 601,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011060108,
+        "ReleaseLabel": "release.initial",
+        "Value": 55
+    },
+    {
+        "GroupId": 601,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011060109,
+        "ReleaseLabel": "release.initial",
+        "Value": 58
+    },
+    {
+        "GroupId": 601,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011060110,
+        "ReleaseLabel": "release.initial",
+        "Value": 61
+    },
+    {
+        "GroupId": 601,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011060111,
+        "ReleaseLabel": "release.initial",
+        "Value": 64
+    },
+    {
+        "GroupId": 601,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011060112,
+        "ReleaseLabel": "release.initial",
+        "Value": 67
+    },
+    {
+        "GroupId": 601,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011060113,
+        "ReleaseLabel": "release.initial",
+        "Value": 70
+    },
+    {
+        "GroupId": 601,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011060114,
+        "ReleaseLabel": "release.initial",
+        "Value": 73
+    },
+    {
+        "GroupId": 601,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011060115,
+        "ReleaseLabel": "release.initial",
+        "Value": 76
+    },
+    {
+        "GroupId": 601,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011060116,
+        "ReleaseLabel": "release.initial",
+        "Value": 79
+    },
+    {
+        "GroupId": 601,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011060117,
+        "ReleaseLabel": "release.initial",
+        "Value": 85
+    },
+    {
+        "GroupId": 601,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011060118,
+        "ReleaseLabel": "release.initial",
+        "Value": 91
+    },
+    {
+        "GroupId": 601,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011060119,
+        "ReleaseLabel": "release.initial",
+        "Value": 96
+    },
+    {
+        "GroupId": 601,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011060120,
+        "ReleaseLabel": "release.initial",
+        "Value": 102
+    },
+    {
+        "GroupId": 602,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011060201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10530
+    },
+    {
+        "GroupId": 602,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011060202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10620
+    },
+    {
+        "GroupId": 602,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011060203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10710
+    },
+    {
+        "GroupId": 602,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011060204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10800
+    },
+    {
+        "GroupId": 602,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011060205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10850
+    },
+    {
+        "GroupId": 602,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011060206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10900
+    },
+    {
+        "GroupId": 602,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011060207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10950
+    },
+    {
+        "GroupId": 602,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011060208,
+        "ReleaseLabel": "release.initial",
+        "Value": 11000
+    },
+    {
+        "GroupId": 602,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011060209,
+        "ReleaseLabel": "release.initial",
+        "Value": 11050
+    },
+    {
+        "GroupId": 602,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011060210,
+        "ReleaseLabel": "release.initial",
+        "Value": 11100
+    },
+    {
+        "GroupId": 602,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011060211,
+        "ReleaseLabel": "release.initial",
+        "Value": 11150
+    },
+    {
+        "GroupId": 602,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011060212,
+        "ReleaseLabel": "release.initial",
+        "Value": 11200
+    },
+    {
+        "GroupId": 602,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011060213,
+        "ReleaseLabel": "release.initial",
+        "Value": 11300
+    },
+    {
+        "GroupId": 602,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011060214,
+        "ReleaseLabel": "release.initial",
+        "Value": 11400
+    },
+    {
+        "GroupId": 602,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011060215,
+        "ReleaseLabel": "release.initial",
+        "Value": 11500
+    },
+    {
+        "GroupId": 602,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011060216,
+        "ReleaseLabel": "release.initial",
+        "Value": 11600
+    },
+    {
+        "GroupId": 602,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011060217,
+        "ReleaseLabel": "release.initial",
+        "Value": 11700
+    },
+    {
+        "GroupId": 602,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011060218,
+        "ReleaseLabel": "release.initial",
+        "Value": 11800
+    },
+    {
+        "GroupId": 602,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011060219,
+        "ReleaseLabel": "release.initial",
+        "Value": 11900
+    },
+    {
+        "GroupId": 602,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011060220,
+        "ReleaseLabel": "release.initial",
+        "Value": 12000
+    },
+    {
+        "GroupId": 701,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011070101,
+        "ReleaseLabel": "release.initial",
+        "Value": 29
+    },
+    {
+        "GroupId": 701,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011070102,
+        "ReleaseLabel": "release.initial",
+        "Value": 34
+    },
+    {
+        "GroupId": 701,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011070103,
+        "ReleaseLabel": "release.initial",
+        "Value": 39
+    },
+    {
+        "GroupId": 701,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011070104,
+        "ReleaseLabel": "release.initial",
+        "Value": 44
+    },
+    {
+        "GroupId": 701,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011070105,
+        "ReleaseLabel": "release.initial",
+        "Value": 47
+    },
+    {
+        "GroupId": 701,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011070106,
+        "ReleaseLabel": "release.initial",
+        "Value": 50
+    },
+    {
+        "GroupId": 701,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011070107,
+        "ReleaseLabel": "release.initial",
+        "Value": 52
+    },
+    {
+        "GroupId": 701,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011070108,
+        "ReleaseLabel": "release.initial",
+        "Value": 55
+    },
+    {
+        "GroupId": 701,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011070109,
+        "ReleaseLabel": "release.initial",
+        "Value": 58
+    },
+    {
+        "GroupId": 701,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011070110,
+        "ReleaseLabel": "release.initial",
+        "Value": 61
+    },
+    {
+        "GroupId": 701,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011070111,
+        "ReleaseLabel": "release.initial",
+        "Value": 63
+    },
+    {
+        "GroupId": 701,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011070112,
+        "ReleaseLabel": "release.initial",
+        "Value": 66
+    },
+    {
+        "GroupId": 701,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011070113,
+        "ReleaseLabel": "release.initial",
+        "Value": 72
+    },
+    {
+        "GroupId": 701,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011070114,
+        "ReleaseLabel": "release.initial",
+        "Value": 77
+    },
+    {
+        "GroupId": 701,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011070115,
+        "ReleaseLabel": "release.initial",
+        "Value": 83
+    },
+    {
+        "GroupId": 701,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011070116,
+        "ReleaseLabel": "release.initial",
+        "Value": 88
+    },
+    {
+        "GroupId": 701,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011070117,
+        "ReleaseLabel": "release.initial",
+        "Value": 94
+    },
+    {
+        "GroupId": 701,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011070118,
+        "ReleaseLabel": "release.initial",
+        "Value": 99
+    },
+    {
+        "GroupId": 701,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011070119,
+        "ReleaseLabel": "release.initial",
+        "Value": 105
+    },
+    {
+        "GroupId": 701,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011070120,
+        "ReleaseLabel": "release.initial",
+        "Value": 110
+    },
+    {
+        "GroupId": 702,
+        "Level": 1,
+        "MasterEquipmentMainOptionStatusId": 3011070201,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 2,
+        "MasterEquipmentMainOptionStatusId": 3011070202,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 3,
+        "MasterEquipmentMainOptionStatusId": 3011070203,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 4,
+        "MasterEquipmentMainOptionStatusId": 3011070204,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 5,
+        "MasterEquipmentMainOptionStatusId": 3011070205,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 6,
+        "MasterEquipmentMainOptionStatusId": 3011070206,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 7,
+        "MasterEquipmentMainOptionStatusId": 3011070207,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 8,
+        "MasterEquipmentMainOptionStatusId": 3011070208,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 9,
+        "MasterEquipmentMainOptionStatusId": 3011070209,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 10,
+        "MasterEquipmentMainOptionStatusId": 3011070210,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 11,
+        "MasterEquipmentMainOptionStatusId": 3011070211,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 12,
+        "MasterEquipmentMainOptionStatusId": 3011070212,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 13,
+        "MasterEquipmentMainOptionStatusId": 3011070213,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 14,
+        "MasterEquipmentMainOptionStatusId": 3011070214,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 15,
+        "MasterEquipmentMainOptionStatusId": 3011070215,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 16,
+        "MasterEquipmentMainOptionStatusId": 3011070216,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 17,
+        "MasterEquipmentMainOptionStatusId": 3011070217,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 18,
+        "MasterEquipmentMainOptionStatusId": 3011070218,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 19,
+        "MasterEquipmentMainOptionStatusId": 3011070219,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    },
+    {
+        "GroupId": 702,
+        "Level": 20,
+        "MasterEquipmentMainOptionStatusId": 3011070220,
+        "ReleaseLabel": "release.initial",
+        "Value": 10000
+    }
+]

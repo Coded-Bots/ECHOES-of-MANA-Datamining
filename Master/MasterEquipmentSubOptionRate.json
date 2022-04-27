@@ -1,0 +1,86 @@
+[
+    {
+        "MasterEquipmentSubOptionRateId": 3007000100,
+        "OpenCount": 0,
+        "Rarity": 1,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000101,
+        "OpenCount": 1,
+        "Rarity": 1,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000201,
+        "OpenCount": 1,
+        "Rarity": 2,
+        "Rate": 6000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000202,
+        "OpenCount": 2,
+        "Rarity": 2,
+        "Rate": 3000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000203,
+        "OpenCount": 3,
+        "Rarity": 2,
+        "Rate": 1000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000301,
+        "OpenCount": 1,
+        "Rarity": 3,
+        "Rate": 3000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000302,
+        "OpenCount": 2,
+        "Rarity": 3,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000303,
+        "OpenCount": 3,
+        "Rarity": 3,
+        "Rate": 2000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000402,
+        "OpenCount": 2,
+        "Rarity": 4,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000403,
+        "OpenCount": 3,
+        "Rarity": 4,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000503,
+        "OpenCount": 3,
+        "Rarity": 5,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSubOptionRateId": 3007000504,
+        "OpenCount": 4,
+        "Rarity": 5,
+        "Rate": 5000,
+        "ReleaseLabel": "release.initial"
+    }
+]

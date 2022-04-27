@@ -1,0 +1,38 @@
+[
+    {
+        "MasterCharacterSellPriceId": 610102000001,
+        "Price": 800,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterSellPriceId": 610102000002,
+        "Price": 800,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterSellPriceId": 610102000003,
+        "Price": 900,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterSellPriceId": 610102000004,
+        "Price": 1000,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterSellPriceId": 610102000005,
+        "Price": 1100,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterSellPriceId": 610102000006,
+        "Price": 1200,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    }
+]

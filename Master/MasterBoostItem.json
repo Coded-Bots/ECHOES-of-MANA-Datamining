@@ -1,0 +1,26 @@
+[
+    {
+        "BoostRatio": 10000,
+        "BoostType": 1,
+        "Description": "",
+        "Icon": "Item_0009_BoostRuku-AmpleAroma",
+        "ItemCategory": 10,
+        "MasterBoostItemId": 1100001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 220,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BoostRatio": 10000,
+        "BoostType": 2,
+        "Description": "",
+        "Icon": "Item_0012_BoostExp-CuriousCookie",
+        "ItemCategory": 10,
+        "MasterBoostItemId": 1100004,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 280,
+        "ReleaseLabel": "release.initial"
+    }
+]

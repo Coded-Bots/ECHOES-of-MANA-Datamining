@@ -1,0 +1,20 @@
+[
+    {
+        "Blackout": 100,
+        "Burn": 100,
+        "Confusion": 100,
+        "Down": 100,
+        "Guard": 100,
+        "Knockback": 100,
+        "MasterCharacterDurabilityId": 610105000100,
+        "Petrifaction": 100,
+        "Poison": 100,
+        "ReleaseLabel": "release.initial",
+        "Silence": 100,
+        "Sleep": 100,
+        "Slow": 100,
+        "Small": 100,
+        "Snowman": 100,
+        "Stun": 100
+    }
+]

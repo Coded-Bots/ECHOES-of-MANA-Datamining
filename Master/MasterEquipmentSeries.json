@@ -1,0 +1,65 @@
+[
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 4,
+        "MasterEquipmentFilterId": 103079227104,
+        "MasterEquipmentSeriesId": 3002000001,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 3,
+        "MasterEquipmentFilterId": 103079226904,
+        "MasterEquipmentSeriesId": 3002000003,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentFilterId": 103079227104,
+        "MasterEquipmentSeriesId": 3002000014,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 6,
+        "MasterEquipmentFilterId": 103079227104,
+        "MasterEquipmentSeriesId": 3002000018,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "MasterEquipmentFilterId": 103079215124,
+        "MasterEquipmentSeriesId": 3002000024,
+        "ReleaseLabel": "release.initial",
+        "Value": 1
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "MasterEquipmentFilterId": 103079227104,
+        "MasterEquipmentSeriesId": 3002000025,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 5,
+        "MasterEquipmentFilterId": 103079226904,
+        "MasterEquipmentSeriesId": 3002000027,
+        "ReleaseLabel": "release.initial",
+        "Value": 2
+    }
+]

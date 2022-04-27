@@ -1,0 +1,13 @@
+[
+    {
+        "Bgm": "",
+        "ImagePath": "loginimage_0001",
+        "LoginAnnouncementType": 0,
+        "MasterLoginAnnouncementId": 12003001001,
+        "MoviePath": "",
+        "Priority": 11,
+        "ReleaseLabel": "release.initial",
+        "TargetId": 0,
+        "TransitionType": 0
+    }
+]

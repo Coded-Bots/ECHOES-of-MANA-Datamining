@@ -1,0 +1,608 @@
+[
+    {
+        "CardPath": "CardEffect/card_EoMManDefaultR1LanceLight/card_EoMManDefaultR1LanceLight",
+        "MasterCharacterImageId": 600511101001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EoMManDefaultR1LanceLight"
+    },
+    {
+        "CardPath": "CardEffect/card_EoMWomanDefaultR1LanceLight/card_EoMWomanDefaultR1LanceLight",
+        "MasterCharacterImageId": 600511102001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EoMWomanDefaultR1LanceLight"
+    },
+    {
+        "CardPath": "CardEffect/card_DuffleDefaultR2LanceFire/card_DuffleDefaultR2LanceFire",
+        "MasterCharacterImageId": 600511103001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "DuffleDefaultR2LanceFire"
+    },
+    {
+        "CardPath": "CardEffect/card_HoneycombDefaultR2StaffMoon/card_HoneycombDefaultR2StaffMoon",
+        "MasterCharacterImageId": 600511104001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "HoneycombDefaultR2StaffMoon"
+    },
+    {
+        "CardPath": "CardEffect/card_BlanketDefaultR2BowWind/card_BlanketDefaultR2BowWind",
+        "MasterCharacterImageId": 600511105001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "BlanketDefaultR2BowWind"
+    },
+    {
+        "CardPath": "CardEffect/card_RaxaDefaultR2GloveWind/card_RaxaDefaultR2GloveWind",
+        "MasterCharacterImageId": 600511106001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "RaxaDefaultR2GloveWind"
+    },
+    {
+        "CardPath": "CardEffect/card_MuslinDefaultR2StaffWood/card_MuslinDefaultR2StaffWood",
+        "MasterCharacterImageId": 600511107001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "MuslinDefaultR2StaffWood"
+    },
+    {
+        "CardPath": "CardEffect/card_HeroDefaultR4SwordLight/card_HeroDefaultR4SwordLight",
+        "MasterCharacterImageId": 600510101001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "HeroDefaultR4SwordLight"
+    },
+    {
+        "CardPath": "CardEffect/card_HeroDefaultR3LanceWater/card_HeroDefaultR3LanceWater",
+        "MasterCharacterImageId": 600510101002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "HeroDefaultR3LanceWater"
+    },
+    {
+        "CardPath": "CardEffect/card_AmandaDefaultR3KnifeWind/card_AmandaDefaultR3KnifeWind",
+        "MasterCharacterImageId": 600510102001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "AmandaDefaultR3KnifeWind"
+    },
+    {
+        "CardPath": "CardEffect/card_AmandaDefaultR2KnifeEarth/card_AmandaDefaultR2KnifeEarth",
+        "MasterCharacterImageId": 600510102002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "AmandaDefaultR2KnifeEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_ShadowKnightDefaultR3SwordDark/card_ShadowKnightDefaultR3SwordDark",
+        "MasterCharacterImageId": 600510103001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "ShadowKnightDefaultR3SwordDark"
+    },
+    {
+        "CardPath": "CardEffect/card_ShadowKnightDefaultR2SwordWater/card_ShadowKnightDefaultR2SwordWater",
+        "MasterCharacterImageId": 600510103002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "ShadowKnightDefaultR2SwordWater"
+    },
+    {
+        "CardPath": "CardEffect/card_JuliusDefaultR3StaffFire/card_JuliusDefaultR3StaffFire",
+        "MasterCharacterImageId": 600510104001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "JuliusDefaultR3StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_JuliusDefaultR2StaffWind/card_JuliusDefaultR2StaffWind",
+        "MasterCharacterImageId": 600510104002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "JuliusDefaultR2StaffWind"
+    },
+    {
+        "CardPath": "CardEffect/card_RandiDefaultR3SwordLight/card_RandiDefaultR3SwordLight",
+        "MasterCharacterImageId": 600510201001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "RandiDefaultR3SwordLight"
+    },
+    {
+        "CardPath": "CardEffect/card_RandiDefaultR3LanceWind/card_RandiDefaultR3LanceWind",
+        "MasterCharacterImageId": 600510201002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "RandiDefaultR3LanceWind"
+    },
+    {
+        "CardPath": "CardEffect/card_PrimeDefaultR3GloveWater/card_PrimeDefaultR3GloveWater",
+        "MasterCharacterImageId": 600510202001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "PrimeDefaultR3GloveWater"
+    },
+    {
+        "CardPath": "CardEffect/card_PrimeDefaultR3BoomerangWind/card_PrimeDefaultR3BoomerangWind",
+        "MasterCharacterImageId": 600510202002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "PrimeDefaultR3BoomerangWind"
+    },
+    {
+        "CardPath": "CardEffect/card_PopoiDefaultR4BoomerangFire/card_PopoiDefaultR4BoomerangFire",
+        "MasterCharacterImageId": 600510203001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "PopoiDefaultR4BoomerangFire"
+    },
+    {
+        "CardPath": "CardEffect/card_PopoiDefaultR3BowEarth/card_PopoiDefaultR3BowEarth",
+        "MasterCharacterImageId": 600510203002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "PopoiDefaultR3BowEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_ThanatosDefaultR3StaffDark/card_ThanatosDefaultR3StaffDark",
+        "MasterCharacterImageId": 600510206001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "ThanatosDefaultR3StaffDark"
+    },
+    {
+        "CardPath": "CardEffect/card_ThanatosDefaultR2StaffFire/card_ThanatosDefaultR2StaffFire",
+        "MasterCharacterImageId": 600510206002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "ThanatosDefaultR2StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_DuranDefaultR4SwordEarth/card_DuranDefaultR4SwordEarth",
+        "MasterCharacterImageId": 600510301001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "DuranDefaultR4SwordEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_DuranDefaultR3SwordFire/card_DuranDefaultR3SwordFire",
+        "MasterCharacterImageId": 600510301002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "DuranDefaultR3SwordFire"
+    },
+    {
+        "CardPath": "CardEffect/card_AngelaDefaultR4StaffWater/card_AngelaDefaultR4StaffWater",
+        "MasterCharacterImageId": 600510302001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "AngelaDefaultR4StaffWater"
+    },
+    {
+        "CardPath": "CardEffect/card_AngelaDefaultR3StaffFire/card_AngelaDefaultR3StaffFire",
+        "MasterCharacterImageId": 600510302002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "AngelaDefaultR3StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_KevinDefaultR3GloveEarth/card_KevinDefaultR3GloveEarth",
+        "MasterCharacterImageId": 600510303001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "KevinDefaultR3GloveEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_CharlotteDefaultR3FlailLight/card_CharlotteDefaultR3FlailLight",
+        "MasterCharacterImageId": 600510304001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "CharlotteDefaultR3FlailLight"
+    },
+    {
+        "CardPath": "CardEffect/card_HawkeyeDefaultR3KnifeDark/card_HawkeyeDefaultR3KnifeDark",
+        "MasterCharacterImageId": 600510305001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "HawkeyeDefaultR3KnifeDark"
+    },
+    {
+        "CardPath": "CardEffect/card_HawkeyeDefaultR3KnifeDark/card_HawkeyeDefaultR3KnifeDark",
+        "MasterCharacterImageId": 600510305099,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "HawkeyeDefaultR3KnifeDark"
+    },
+    {
+        "CardPath": "CardEffect/card_RieszDefaultR4LanceWind/card_RieszDefaultR4LanceWind",
+        "MasterCharacterImageId": 600510306001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "RieszDefaultR4LanceWind"
+    },
+    {
+        "CardPath": "CardEffect/card_RieszDefaultR3LanceWater/card_RieszDefaultR3LanceWater",
+        "MasterCharacterImageId": 600510306002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "RieszDefaultR3LanceWater"
+    },
+    {
+        "CardPath": "CardEffect/card_BillDefaultR2KnifeFire/card_BillDefaultR2KnifeFire",
+        "MasterCharacterImageId": 600510307001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "BillDefaultR2KnifeFire"
+    },
+    {
+        "CardPath": "CardEffect/card_BenDefaultR2KnifeWater/card_BenDefaultR2KnifeWater",
+        "MasterCharacterImageId": 600510308001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "BenDefaultR2KnifeWater"
+    },
+    {
+        "CardPath": "CardEffect/card_LudgarDefaultR3GloveDark/card_LudgarDefaultR3GloveDark",
+        "MasterCharacterImageId": 600510309001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LudgarDefaultR3GloveDark"
+    },
+    {
+        "CardPath": "CardEffect/card_LudgarDefaultR2GloveEarth/card_LudgarDefaultR2GloveEarth",
+        "MasterCharacterImageId": 600510309002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LudgarDefaultR2GloveEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_CrimsonWizardDefaultR5StaffFire/card_CrimsonWizardDefaultR5StaffFire",
+        "MasterCharacterImageId": 600510310001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "CrimsonWizardDefaultR5StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_LekiusDefaultR3BowWater/card_LekiusDefaultR3BowWater",
+        "MasterCharacterImageId": 600510401001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LekiusDefaultR3BowWater"
+    },
+    {
+        "CardPath": "CardEffect/card_LekiusDefaultR3BowFire/card_LekiusDefaultR3BowFire",
+        "MasterCharacterImageId": 600510401002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LekiusDefaultR3BowFire"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMManDefaultR4SwordDark/card_LoMManDefaultR4SwordDark",
+        "MasterCharacterImageId": 600510501001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LoMManDefaultR4SwordDark"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMManDefaultR3AxeLight/card_LoMManDefaultR3AxeLight",
+        "MasterCharacterImageId": 600510501002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LoMManDefaultR3AxeLight"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMWomanDefaultR3LanceWater/card_LoMWomanDefaultR3LanceWater",
+        "MasterCharacterImageId": 600510502001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LoMWomanDefaultR3LanceWater"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMWomanDefaultR3BowEarth/card_LoMWomanDefaultR3BowEarth",
+        "MasterCharacterImageId": 600510502002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LoMWomanDefaultR3BowEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMNikitaDefaultR3GloveWind/card_LoMNikitaDefaultR3GloveWind",
+        "MasterCharacterImageId": 600510503001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LoMNikitaDefaultR3GloveWind"
+    },
+    {
+        "CardPath": "CardEffect/card_SierraDefaultR3KnifeLight/card_SierraDefaultR3KnifeLight",
+        "MasterCharacterImageId": 600510504001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "SierraDefaultR3KnifeLight"
+    },
+    {
+        "CardPath": "CardEffect/card_SierraDefaultR2KnifeWater/card_SierraDefaultR2KnifeWater",
+        "MasterCharacterImageId": 600510504002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "SierraDefaultR2KnifeWater"
+    },
+    {
+        "CardPath": "CardEffect/card_FrickDefaultR3SwordEarth/card_FrickDefaultR3SwordEarth",
+        "MasterCharacterImageId": 600510601001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "FrickDefaultR3SwordEarth"
+    },
+    {
+        "CardPath": "CardEffect/card_FrickDefaultR2SwordWind/card_FrickDefaultR2SwordWind",
+        "MasterCharacterImageId": 600510601002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "FrickDefaultR2SwordWind"
+    },
+    {
+        "CardPath": "CardEffect/card_WandererDefaultR3AxeEarth/card_WandererDefaultR3AxeEarth",
+        "MasterCharacterImageId": 600510602001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "WandererDefaultR3AxeEarth"
+    },
+    {
+        "CardPath": "CardEffect/EvolutionR1/EvolutionR1",
+        "MasterCharacterImageId": 600570001001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EvolutionR1"
+    },
+    {
+        "CardPath": "CardEffect/EvolutionR1/EvolutionR1",
+        "MasterCharacterImageId": 600570001002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EvolutionR1"
+    },
+    {
+        "CardPath": "CardEffect/EvolutionR1/EvolutionR1",
+        "MasterCharacterImageId": 600570001003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EvolutionR1"
+    },
+    {
+        "CardPath": "CardEffect/EvolutionR1/EvolutionR1",
+        "MasterCharacterImageId": 600570001004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "EvolutionR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Earth/LimitBreakR1Earth",
+        "MasterCharacterImageId": 600570011001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Earth"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Earth/LimitBreakR1Earth",
+        "MasterCharacterImageId": 600570011002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Earth"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Earth/LimitBreakR1Earth",
+        "MasterCharacterImageId": 600570011003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Earth"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Earth/LimitBreakR1Earth",
+        "MasterCharacterImageId": 600570011004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Earth"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Earth/LimitBreakR1Earth",
+        "MasterCharacterImageId": 600570011005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Earth"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wind/LimitBreakR1Wind",
+        "MasterCharacterImageId": 600570012001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wind/LimitBreakR1Wind",
+        "MasterCharacterImageId": 600570012002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wind/LimitBreakR1Wind",
+        "MasterCharacterImageId": 600570012003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wind/LimitBreakR1Wind",
+        "MasterCharacterImageId": 600570012004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wind/LimitBreakR1Wind",
+        "MasterCharacterImageId": 600570012005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Water/LimitBreakR1Water",
+        "MasterCharacterImageId": 600570013001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Water"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Water/LimitBreakR1Water",
+        "MasterCharacterImageId": 600570013002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Water"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Water/LimitBreakR1Water",
+        "MasterCharacterImageId": 600570013003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Water"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Water/LimitBreakR1Water",
+        "MasterCharacterImageId": 600570013004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Water"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Water/LimitBreakR1Water",
+        "MasterCharacterImageId": 600570013005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Water"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Fire/LimitBreakR1Fire",
+        "MasterCharacterImageId": 600570014001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Fire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Fire/LimitBreakR1Fire",
+        "MasterCharacterImageId": 600570014002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Fire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Fire/LimitBreakR1Fire",
+        "MasterCharacterImageId": 600570014003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Fire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Fire/LimitBreakR1Fire",
+        "MasterCharacterImageId": 600570014004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Fire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Fire/LimitBreakR1Fire",
+        "MasterCharacterImageId": 600570014005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Fire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Dark/LimitBreakR1Dark",
+        "MasterCharacterImageId": 600570015001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Dark"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Dark/LimitBreakR1Dark",
+        "MasterCharacterImageId": 600570015002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Dark"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Dark/LimitBreakR1Dark",
+        "MasterCharacterImageId": 600570015003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Dark"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Dark/LimitBreakR1Dark",
+        "MasterCharacterImageId": 600570015004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Dark"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Dark/LimitBreakR1Dark",
+        "MasterCharacterImageId": 600570015005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Dark"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Light/LimitBreakR1Light",
+        "MasterCharacterImageId": 600570016001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Light"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Light/LimitBreakR1Light",
+        "MasterCharacterImageId": 600570016002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Light"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Light/LimitBreakR1Light",
+        "MasterCharacterImageId": 600570016003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Light"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Light/LimitBreakR1Light",
+        "MasterCharacterImageId": 600570016004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Light"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Light/LimitBreakR1Light",
+        "MasterCharacterImageId": 600570016005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Light"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Moon/LimitBreakR1Moon",
+        "MasterCharacterImageId": 600570017001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Moon"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Moon/LimitBreakR1Moon",
+        "MasterCharacterImageId": 600570017002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Moon"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Moon/LimitBreakR1Moon",
+        "MasterCharacterImageId": 600570017003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Moon"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Moon/LimitBreakR1Moon",
+        "MasterCharacterImageId": 600570017004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Moon"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Moon/LimitBreakR1Moon",
+        "MasterCharacterImageId": 600570017005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Moon"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wood/LimitBreakR1Wood",
+        "MasterCharacterImageId": 600570018001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wood"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wood/LimitBreakR1Wood",
+        "MasterCharacterImageId": 600570018002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wood"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wood/LimitBreakR1Wood",
+        "MasterCharacterImageId": 600570018003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wood"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wood/LimitBreakR1Wood",
+        "MasterCharacterImageId": 600570018004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wood"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1Wood/LimitBreakR1Wood",
+        "MasterCharacterImageId": 600570018005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1Wood"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1/LimitBreakR1",
+        "MasterCharacterImageId": 600570019001,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1/LimitBreakR1",
+        "MasterCharacterImageId": 600570019002,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1/LimitBreakR1",
+        "MasterCharacterImageId": 600570019003,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1/LimitBreakR1",
+        "MasterCharacterImageId": 600570019004,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakR1/LimitBreakR1",
+        "MasterCharacterImageId": 600570019005,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakR1"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakCharacterRandiDefaultR3LanceWind/LimitBreakCharacterRandiDefaultR3LanceWind",
+        "MasterCharacterImageId": 600570019006,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakCharacterRandiDefaultR3LanceWind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakCharacterPrimeDefaultR3BoomerangWind/LimitBreakCharacterPrimeDefaultR3BoomerangWind",
+        "MasterCharacterImageId": 600570019007,
+        "ReleaseLabel": "release.initial",
+        "Thumbnail": "LimitBreakCharacterPrimeDefaultR3BoomerangWind"
+    }
+]

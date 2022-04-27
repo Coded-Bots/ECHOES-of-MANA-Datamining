@@ -1,0 +1,14 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0062_Awaken-Orb",
+        "ItemCategory": 7,
+        "MasterCharacterAwakeItemId": 1070001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 10,
+        "ReleaseLabel": "release.initial",
+        "Value": 1
+    }
+]

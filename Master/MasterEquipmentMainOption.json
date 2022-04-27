@@ -1,0 +1,212 @@
+[
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": false,
+        "EquipmentType": 1,
+        "MainOptionStatusGroupId": 101,
+        "MasterEquipmentMainOptionEffectGroupId": 101,
+        "MasterEquipmentMainOptionId": 3004010101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 4,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": false,
+        "EquipmentType": 2,
+        "MainOptionStatusGroupId": 401,
+        "MasterEquipmentMainOptionEffectGroupId": 401,
+        "MasterEquipmentMainOptionId": 3004020401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 6,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": false,
+        "EquipmentType": 3,
+        "MainOptionStatusGroupId": 601,
+        "MasterEquipmentMainOptionEffectGroupId": 601,
+        "MasterEquipmentMainOptionId": 3004030601,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 101,
+        "MasterEquipmentMainOptionEffectGroupId": 101,
+        "MasterEquipmentMainOptionId": 3004040101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 102,
+        "MasterEquipmentMainOptionEffectGroupId": 102,
+        "MasterEquipmentMainOptionId": 3004040102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 201,
+        "MasterEquipmentMainOptionEffectGroupId": 201,
+        "MasterEquipmentMainOptionId": 3004040201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 301,
+        "MasterEquipmentMainOptionEffectGroupId": 301,
+        "MasterEquipmentMainOptionId": 3004040301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 302,
+        "MasterEquipmentMainOptionEffectGroupId": 302,
+        "MasterEquipmentMainOptionId": 3004040302,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 4,
+        "MainOptionStatusGroupId": 701,
+        "MasterEquipmentMainOptionEffectGroupId": 701,
+        "MasterEquipmentMainOptionId": 3004040701,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 101,
+        "MasterEquipmentMainOptionEffectGroupId": 101,
+        "MasterEquipmentMainOptionId": 3004050101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 102,
+        "MasterEquipmentMainOptionEffectGroupId": 102,
+        "MasterEquipmentMainOptionId": 3004050102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 301,
+        "MasterEquipmentMainOptionEffectGroupId": 301,
+        "MasterEquipmentMainOptionId": 3004050301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 3,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 302,
+        "MasterEquipmentMainOptionEffectGroupId": 302,
+        "MasterEquipmentMainOptionId": 3004050302,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 501,
+        "MasterEquipmentMainOptionEffectGroupId": 501,
+        "MasterEquipmentMainOptionId": 3004050501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 5,
+        "MainOptionStatusGroupId": 502,
+        "MasterEquipmentMainOptionEffectGroupId": 502,
+        "MasterEquipmentMainOptionId": 3004050502,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 101,
+        "MasterEquipmentMainOptionEffectGroupId": 101,
+        "MasterEquipmentMainOptionId": 3004060101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 1,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 102,
+        "MasterEquipmentMainOptionEffectGroupId": 102,
+        "MasterEquipmentMainOptionId": 3004060102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 2,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 201,
+        "MasterEquipmentMainOptionEffectGroupId": 201,
+        "MasterEquipmentMainOptionId": 3004060201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 501,
+        "MasterEquipmentMainOptionEffectGroupId": 501,
+        "MasterEquipmentMainOptionId": 3004060501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 5,
+        "EfficacyValueType": 2,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 502,
+        "MasterEquipmentMainOptionEffectGroupId": 502,
+        "MasterEquipmentMainOptionId": 3004060502,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EfficacyType": 7,
+        "EfficacyValueType": 1,
+        "EnableDuplicatedWithSubOption": true,
+        "EquipmentType": 6,
+        "MainOptionStatusGroupId": 701,
+        "MasterEquipmentMainOptionEffectGroupId": 701,
+        "MasterEquipmentMainOptionId": 3004060701,
+        "ReleaseLabel": "release.initial"
+    }
+]

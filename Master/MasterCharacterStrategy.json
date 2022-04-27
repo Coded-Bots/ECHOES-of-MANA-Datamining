@@ -1,0 +1,92 @@
+[
+    {
+        "Category": 1,
+        "MasterCharacterStrategyId": 610103000100,
+        "ReleaseLabel": "release.initial",
+        "Type": 0
+    },
+    {
+        "Category": 1,
+        "MasterCharacterStrategyId": 610103000101,
+        "ReleaseLabel": "release.initial",
+        "Type": 1
+    },
+    {
+        "Category": 1,
+        "MasterCharacterStrategyId": 610103000102,
+        "ReleaseLabel": "release.initial",
+        "Type": 2
+    },
+    {
+        "Category": 1,
+        "MasterCharacterStrategyId": 610103000103,
+        "ReleaseLabel": "release.initial",
+        "Type": 3
+    },
+    {
+        "Category": 2,
+        "MasterCharacterStrategyId": 610103000200,
+        "ReleaseLabel": "release.initial",
+        "Type": 0
+    },
+    {
+        "Category": 2,
+        "MasterCharacterStrategyId": 610103000201,
+        "ReleaseLabel": "release.initial",
+        "Type": 1
+    },
+    {
+        "Category": 2,
+        "MasterCharacterStrategyId": 610103000202,
+        "ReleaseLabel": "release.initial",
+        "Type": 2
+    },
+    {
+        "Category": 2,
+        "MasterCharacterStrategyId": 610103000203,
+        "ReleaseLabel": "release.initial",
+        "Type": 3
+    },
+    {
+        "Category": 3,
+        "MasterCharacterStrategyId": 610103000300,
+        "ReleaseLabel": "release.initial",
+        "Type": 0
+    },
+    {
+        "Category": 3,
+        "MasterCharacterStrategyId": 610103000301,
+        "ReleaseLabel": "release.initial",
+        "Type": 1
+    },
+    {
+        "Category": 4,
+        "MasterCharacterStrategyId": 610103000400,
+        "ReleaseLabel": "release.initial",
+        "Type": 0
+    },
+    {
+        "Category": 4,
+        "MasterCharacterStrategyId": 610103000401,
+        "ReleaseLabel": "release.initial",
+        "Type": 1
+    },
+    {
+        "Category": 4,
+        "MasterCharacterStrategyId": 610103000402,
+        "ReleaseLabel": "release.initial",
+        "Type": 2
+    },
+    {
+        "Category": 5,
+        "MasterCharacterStrategyId": 610103000500,
+        "ReleaseLabel": "release.initial",
+        "Type": 0
+    },
+    {
+        "Category": 5,
+        "MasterCharacterStrategyId": 610103000501,
+        "ReleaseLabel": "release.initial",
+        "Type": 1
+    }
+]

@@ -1,0 +1,198 @@
+[
+    {
+        "Day": 1,
+        "MasterLoginBonusContentId": 52000001001,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 2,
+        "MasterLoginBonusContentId": 52000001002,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 3,
+        "MasterLoginBonusContentId": 52000001003,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 4,
+        "MasterLoginBonusContentId": 52000001004,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 5,
+        "MasterLoginBonusContentId": 52000001005,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 6,
+        "MasterLoginBonusContentId": 52000001006,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 7,
+        "MasterLoginBonusContentId": 52000001007,
+        "MasterLoginBonusId": 51000000001,
+        "MasterRewardGroupId": 420051000005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 1,
+        "MasterLoginBonusContentId": 52020001001,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 2,
+        "MasterLoginBonusContentId": 52020001002,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 3,
+        "MasterLoginBonusContentId": 52020001003,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 4,
+        "MasterLoginBonusContentId": 52020001004,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 5,
+        "MasterLoginBonusContentId": 52020001005,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 6,
+        "MasterLoginBonusContentId": 52020001006,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 7,
+        "MasterLoginBonusContentId": 52020001007,
+        "MasterLoginBonusId": 51000020001,
+        "MasterRewardGroupId": 420051000009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Day": 1,
+        "MasterLoginBonusContentId": 52021001001,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100011,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 2,
+        "MasterLoginBonusContentId": 52021001002,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100013,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 3,
+        "MasterLoginBonusContentId": 52021001003,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100010,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 4,
+        "MasterLoginBonusContentId": 52021001004,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100016,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 5,
+        "MasterLoginBonusContentId": 52021001005,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100017,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 6,
+        "MasterLoginBonusContentId": 52021001006,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100010,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 7,
+        "MasterLoginBonusContentId": 52021001007,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100014,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 8,
+        "MasterLoginBonusContentId": 52021001008,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100011,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 9,
+        "MasterLoginBonusContentId": 52021001009,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100015,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 10,
+        "MasterLoginBonusContentId": 52021001010,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100010,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 11,
+        "MasterLoginBonusContentId": 52021001011,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100016,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 12,
+        "MasterLoginBonusContentId": 52021001012,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100017,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 13,
+        "MasterLoginBonusContentId": 52021001013,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100010,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    },
+    {
+        "Day": 14,
+        "MasterLoginBonusContentId": 52021001014,
+        "MasterLoginBonusId": 51000021001,
+        "MasterRewardGroupId": 420051100012,
+        "ReleaseLabel": "release.login_bonus_202205_1"
+    }
+]

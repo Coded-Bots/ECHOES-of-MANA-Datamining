@@ -1,0 +1,576 @@
+[
+    {
+        "EnemyImage": "RabiDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005001,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SnowRabi",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005002,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Rabirion",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005003,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "KingRabi",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005004,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BudFlowerDefault",
+        "EnemyType": 2,
+        "MasterEnemyIdentityId": 700100005005,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BloodPansy",
+        "EnemyType": 2,
+        "MasterEnemyIdentityId": 700100005006,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PoronDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005007,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PorobinHood",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005008,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "AssasinBugDefault",
+        "EnemyType": 3,
+        "MasterEnemyIdentityId": 700100005009,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "LusterBug",
+        "EnemyType": 3,
+        "MasterEnemyIdentityId": 700100005010,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SahaginDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005011,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PuchiPoseidon",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005012,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ChibiDevilDefault",
+        "EnemyType": 7,
+        "MasterEnemyIdentityId": 700100005013,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Gremlin",
+        "EnemyType": 7,
+        "MasterEnemyIdentityId": 700100005014,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "CockatriceDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005015,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NeedleBirdDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005016,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "CockatBird",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005017,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ZombieDefault",
+        "EnemyType": 6,
+        "MasterEnemyIdentityId": 700100005018,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Ghoul",
+        "EnemyType": 6,
+        "MasterEnemyIdentityId": 700100005019,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PuchiDragonDefault",
+        "EnemyType": 8,
+        "MasterEnemyIdentityId": 700100005022,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "FrostDragon",
+        "EnemyType": 8,
+        "MasterEnemyIdentityId": 700100005023,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PuchiTiamat",
+        "EnemyType": 8,
+        "MasterEnemyIdentityId": 700100005024,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PuchiDragonZombie",
+        "EnemyType": 8,
+        "MasterEnemyIdentityId": 700100005025,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GuleruDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005026,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GuleruMage",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005027,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SirenGuleru",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005028,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "UnicornHeadDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005029,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GoldUnicorn",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005030,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PotoDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005031,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "MamaPoto",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005032,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "PapaPoto",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005033,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "MyconidDefault",
+        "EnemyType": 2,
+        "MasterEnemyIdentityId": 700100005034,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DarthMatango",
+        "EnemyType": 2,
+        "MasterEnemyIdentityId": 700100005035,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "MolebearDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005036,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Needlelion",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005037,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GreenSlimeDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005038,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "RedMarshmallow",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005039,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BlueBavarois",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005040,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SlimePrince",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005041,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ArmorKnightDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005042,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DarkKnight",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005043,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Terminator",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005044,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "HarpyDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005045,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "Siren",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005046,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BattomDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005047,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GoblinDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005048,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GoblinLord",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005049,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BeastMaster",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005050,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GoblinGuard",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005051,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BasiliskDefault",
+        "EnemyType": 4,
+        "MasterEnemyIdentityId": 700100005052,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "FireDrake",
+        "EnemyType": 4,
+        "MasterEnemyIdentityId": 700100005053,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "EvilSwordDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005054,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ElementSwordDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005055,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "WolfDevil",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005057,
+        "Name": "",
+        "ReleaseLabel": "release.event_tower_202205_start"
+    },
+    {
+        "EnemyImage": "SilverWolf",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005058,
+        "Name": "",
+        "ReleaseLabel": "release.event_tower_202205_start"
+    },
+    {
+        "EnemyImage": "GasCloudDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005059,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DarkSmog",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005060,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DeathScorpionDefault",
+        "EnemyType": 3,
+        "MasterEnemyIdentityId": 700100005061,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "MetalScorpion",
+        "EnemyType": 3,
+        "MasterEnemyIdentityId": 700100005062,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DuckSoldierDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005063,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "DuckGeneral",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005064,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiEarthDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005065,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiWindDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005066,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiWaterDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005067,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiFireDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005068,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiDarkDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005069,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiLightDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005070,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiMoonDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005071,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "NuinuiWoodDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005072,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "AssassinDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005073,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ZableFahrDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005074,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ZableFahrLeftDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005075,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "ZableFahrRightDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005076,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "BlackKnightBossDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005077,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "MantisAntDefault",
+        "EnemyType": 3,
+        "MasterEnemyIdentityId": 700100005078,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "RaxaBossDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005079,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SwordGiantFire",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005080,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "FullMetalHuggerDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005081,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "WarriorFaerie",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005082,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "GuardianDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005086,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "YadoriSistersDefault",
+        "EnemyType": 10,
+        "MasterEnemyIdentityId": 700100005087,
+        "Name": "",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "EnemyImage": "SwordGiantFire",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005088,
+        "Name": "",
+        "ReleaseLabel": "release.event_tower_202205_start"
+    }
+]

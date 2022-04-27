@@ -1,0 +1,398 @@
+[
+    {
+        "MasterQuestMissionGroupId": 1001,
+        "MasterQuestMissionId": 280003100101,
+        "MasterRewardGroupId": 3565792921288441880,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1001,
+        "MasterQuestMissionId": 280003100102,
+        "MasterRewardGroupId": 3565792925583409172,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 3
+    },
+    {
+        "MasterQuestMissionGroupId": 1001,
+        "MasterQuestMissionId": 280003100103,
+        "MasterRewardGroupId": 3565792929878376472,
+        "MissionType": 3,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1001,
+        "MasterQuestMissionId": 280003100104,
+        "MasterRewardGroupId": 3565792934173343768,
+        "MissionType": 2,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 10
+    },
+    {
+        "MasterQuestMissionGroupId": 1002,
+        "MasterQuestMissionId": 280003100201,
+        "MasterRewardGroupId": 3565793350785171480,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1002,
+        "MasterQuestMissionId": 280003100202,
+        "MasterRewardGroupId": 3565793355080138776,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 3
+    },
+    {
+        "MasterQuestMissionGroupId": 1002,
+        "MasterQuestMissionId": 280003100203,
+        "MasterRewardGroupId": 3565793359375106068,
+        "MissionType": 13,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1002,
+        "MasterQuestMissionId": 280003100204,
+        "MasterRewardGroupId": 3565793363670073364,
+        "MissionType": 2,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 10
+    },
+    {
+        "MasterQuestMissionGroupId": 1003,
+        "MasterQuestMissionId": 280003100301,
+        "MasterRewardGroupId": 3565793780281901076,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1003,
+        "MasterQuestMissionId": 280003100302,
+        "MasterRewardGroupId": 3565793784576868376,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1003,
+        "MasterQuestMissionId": 280003100303,
+        "MasterRewardGroupId": 3565793788871835668,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1003,
+        "MasterQuestMissionId": 280003100304,
+        "MasterRewardGroupId": 3565793793166802968,
+        "MissionType": 6,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 2
+    },
+    {
+        "MasterQuestMissionGroupId": 1004,
+        "MasterQuestMissionId": 280003100401,
+        "MasterRewardGroupId": 3565794209778630676,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1004,
+        "MasterQuestMissionId": 280003100402,
+        "MasterRewardGroupId": 3565794214073597976,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1004,
+        "MasterQuestMissionId": 280003100403,
+        "MasterRewardGroupId": 3565794218368565268,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1004,
+        "MasterQuestMissionId": 280003100404,
+        "MasterRewardGroupId": 3565794222663532568,
+        "MissionType": 3,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1005,
+        "MasterQuestMissionId": 280003100501,
+        "MasterRewardGroupId": 3565794639275360280,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1005,
+        "MasterQuestMissionId": 280003100502,
+        "MasterRewardGroupId": 3565794643570327576,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1005,
+        "MasterQuestMissionId": 280003100503,
+        "MasterRewardGroupId": 3565794647865294868,
+        "MissionType": 3,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1005,
+        "MasterQuestMissionId": 280003100504,
+        "MasterRewardGroupId": 3565794652160262168,
+        "MissionType": 2,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 10
+    },
+    {
+        "MasterQuestMissionGroupId": 1006,
+        "MasterQuestMissionId": 280003100601,
+        "MasterRewardGroupId": 3565795068772089876,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1006,
+        "MasterQuestMissionId": 280003100602,
+        "MasterRewardGroupId": 3565795073067057176,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1006,
+        "MasterQuestMissionId": 280003100603,
+        "MasterRewardGroupId": 3565795077362024468,
+        "MissionType": 3,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1006,
+        "MasterQuestMissionId": 280003100604,
+        "MasterRewardGroupId": 3565795081656991768,
+        "MissionType": 2,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 20
+    },
+    {
+        "MasterQuestMissionGroupId": 1007,
+        "MasterQuestMissionId": 280003100701,
+        "MasterRewardGroupId": 3565795498268819476,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1007,
+        "MasterQuestMissionId": 280003100702,
+        "MasterRewardGroupId": 3565795502563786776,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1007,
+        "MasterQuestMissionId": 280003100703,
+        "MasterRewardGroupId": 3565795506858754068,
+        "MissionType": 13,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1007,
+        "MasterQuestMissionId": 280003100704,
+        "MasterRewardGroupId": 3565795511153721368,
+        "MissionType": 2,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 20
+    },
+    {
+        "MasterQuestMissionGroupId": 1008,
+        "MasterQuestMissionId": 280003100801,
+        "MasterRewardGroupId": 3565795927765549076,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1008,
+        "MasterQuestMissionId": 280003100802,
+        "MasterRewardGroupId": 3565795932060516376,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1008,
+        "MasterQuestMissionId": 280003100803,
+        "MasterRewardGroupId": 3565795936355483668,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1008,
+        "MasterQuestMissionId": 280003100804,
+        "MasterRewardGroupId": 3565795940650450968,
+        "MissionType": 5,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 1
+    },
+    {
+        "MasterQuestMissionGroupId": 1009,
+        "MasterQuestMissionId": 280003100901,
+        "MasterRewardGroupId": 3565796357262278676,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1009,
+        "MasterQuestMissionId": 280003100902,
+        "MasterRewardGroupId": 3565796361557245976,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1009,
+        "MasterQuestMissionId": 280003100903,
+        "MasterRewardGroupId": 3565796365852213268,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1009,
+        "MasterQuestMissionId": 280003100904,
+        "MasterRewardGroupId": 3565796370147180568,
+        "MissionType": 5,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 2
+    },
+    {
+        "MasterQuestMissionGroupId": 1010,
+        "MasterQuestMissionId": 280003101001,
+        "MasterRewardGroupId": 3565796786759008276,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1010,
+        "MasterQuestMissionId": 280003101002,
+        "MasterRewardGroupId": 3565796791053975576,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1010,
+        "MasterQuestMissionId": 280003101003,
+        "MasterRewardGroupId": 3565796795348942868,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1010,
+        "MasterQuestMissionId": 280003101004,
+        "MasterRewardGroupId": 3565796799643910168,
+        "MissionType": 4,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 1
+    },
+    {
+        "MasterQuestMissionGroupId": 1011,
+        "MasterQuestMissionId": 280003101101,
+        "MasterRewardGroupId": 3565797216255737876,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1011,
+        "MasterQuestMissionId": 280003101102,
+        "MasterRewardGroupId": 3565797220550705176,
+        "MissionType": 3,
+        "Order": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1011,
+        "MasterQuestMissionId": 280003101103,
+        "MasterRewardGroupId": 3565797224845672472,
+        "MissionType": 4,
+        "Order": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1011,
+        "MasterQuestMissionId": 280003101104,
+        "MasterRewardGroupId": 3565797229140639768,
+        "MissionType": 4,
+        "Order": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredValue": 1
+    }
+]

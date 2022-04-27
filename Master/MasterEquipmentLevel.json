@@ -1,0 +1,202 @@
+[
+    {
+        "IsGrowSuboption": 0,
+        "Level": 1,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001001,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 0
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 2,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001002,
+        "Price": 100,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 145
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 3,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001003,
+        "Price": 220,
+        "RefineCost": 3,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 245
+    },
+    {
+        "IsGrowSuboption": 1,
+        "Level": 4,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001004,
+        "Price": 360,
+        "RefineCost": 4,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 360
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 5,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001005,
+        "Price": 520,
+        "RefineCost": 5,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 490
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 6,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001006,
+        "Price": 710,
+        "RefineCost": 7,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 640
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 7,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001007,
+        "Price": 930,
+        "RefineCost": 10,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 805
+    },
+    {
+        "IsGrowSuboption": 1,
+        "Level": 8,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001008,
+        "Price": 1190,
+        "RefineCost": 12,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 990
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 9,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001009,
+        "Price": 1500,
+        "RefineCost": 15,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1195
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 10,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001010,
+        "Price": 1870,
+        "RefineCost": 17,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1420
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 11,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001011,
+        "Price": 2310,
+        "RefineCost": 20,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1665
+    },
+    {
+        "IsGrowSuboption": 1,
+        "Level": 12,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001012,
+        "Price": 2830,
+        "RefineCost": 22,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1930
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 13,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001013,
+        "Price": 3450,
+        "RefineCost": 25,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2215
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 14,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001014,
+        "Price": 4190,
+        "RefineCost": 27,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2555
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 15,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001015,
+        "Price": 5070,
+        "RefineCost": 30,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2945
+    },
+    {
+        "IsGrowSuboption": 1,
+        "Level": 16,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001016,
+        "Price": 6120,
+        "RefineCost": 32,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3395
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 17,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001017,
+        "Price": 7380,
+        "RefineCost": 35,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3915
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 18,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001018,
+        "Price": 8890,
+        "RefineCost": 37,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4515
+    },
+    {
+        "IsGrowSuboption": 0,
+        "Level": 19,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001019,
+        "Price": 10700,
+        "RefineCost": 40,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5195
+    },
+    {
+        "IsGrowSuboption": 1,
+        "Level": 20,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentLevelId": 3003001020,
+        "Price": 12870,
+        "RefineCost": 50,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5980
+    }
+]

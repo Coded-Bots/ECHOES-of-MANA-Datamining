@@ -1,0 +1,26 @@
+[
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001040001,
+        "PackImage": "Home/HomePack/beginner_mission",
+        "ReleaseLabel": "release.initial",
+        "ShopType": 0,
+        "ShowPackTrigger": 0,
+        "Transition": 4,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": true,
+        "LimitedDayFromTrigger": 7,
+        "MasterHomePackId": 12001021001,
+        "PackImage": "Home/HomePack/banner_icon01",
+        "ReleaseLabel": "release.initial",
+        "ShopType": 2,
+        "ShowPackTrigger": 1,
+        "Transition": 2,
+        "TransitionParameter": 0
+    }
+]

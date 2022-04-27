@@ -1,0 +1,122 @@
+[
+    {
+        "LimitBreakCount": 0,
+        "MasterMemoryGemLimitBreakId": 4004000200,
+        "MaxLevel": 20,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 2
+    },
+    {
+        "LimitBreakCount": 1,
+        "MasterMemoryGemLimitBreakId": 4004000201,
+        "MaxLevel": 25,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 2
+    },
+    {
+        "LimitBreakCount": 2,
+        "MasterMemoryGemLimitBreakId": 4004000202,
+        "MaxLevel": 30,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 2
+    },
+    {
+        "LimitBreakCount": 3,
+        "MasterMemoryGemLimitBreakId": 4004000203,
+        "MaxLevel": 35,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 2
+    },
+    {
+        "LimitBreakCount": 4,
+        "MasterMemoryGemLimitBreakId": 4004000204,
+        "MaxLevel": 40,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 3
+    },
+    {
+        "LimitBreakCount": 0,
+        "MasterMemoryGemLimitBreakId": 4004000300,
+        "MaxLevel": 30,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 3
+    },
+    {
+        "LimitBreakCount": 1,
+        "MasterMemoryGemLimitBreakId": 4004000301,
+        "MaxLevel": 35,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 3
+    },
+    {
+        "LimitBreakCount": 2,
+        "MasterMemoryGemLimitBreakId": 4004000302,
+        "MaxLevel": 40,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 3
+    },
+    {
+        "LimitBreakCount": 3,
+        "MasterMemoryGemLimitBreakId": 4004000303,
+        "MaxLevel": 45,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 3
+    },
+    {
+        "LimitBreakCount": 4,
+        "MasterMemoryGemLimitBreakId": 4004000304,
+        "MaxLevel": 50,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 4
+    },
+    {
+        "LimitBreakCount": 0,
+        "MasterMemoryGemLimitBreakId": 4004000400,
+        "MaxLevel": 40,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 4
+    },
+    {
+        "LimitBreakCount": 1,
+        "MasterMemoryGemLimitBreakId": 4004000401,
+        "MaxLevel": 45,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 4
+    },
+    {
+        "LimitBreakCount": 2,
+        "MasterMemoryGemLimitBreakId": 4004000402,
+        "MaxLevel": 50,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 4
+    },
+    {
+        "LimitBreakCount": 3,
+        "MasterMemoryGemLimitBreakId": 4004000403,
+        "MaxLevel": 55,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 4
+    },
+    {
+        "LimitBreakCount": 4,
+        "MasterMemoryGemLimitBreakId": 4004000404,
+        "MaxLevel": 60,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial",
+        "SpiritMagicLevel": 5
+    }
+]

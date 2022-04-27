@@ -1,0 +1,62 @@
+[
+    {
+        "BattleBringLimit": 9,
+        "Description": "",
+        "Icon": "Item_0003_CureHp-Candy",
+        "ItemCategory": 1,
+        "MasterBattleItemId": 1010001,
+        "MasterEfficacyGroupId": 40100000000101,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 100,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BattleBringLimit": 5,
+        "Description": "",
+        "Icon": "Item_0004_CureHp-Chocolate",
+        "ItemCategory": 1,
+        "MasterBattleItemId": 1010002,
+        "MasterEfficacyGroupId": 40100000000102,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 120,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BattleBringLimit": 3,
+        "Description": "",
+        "Icon": "Item_0005_CureHp-HoneyDrink",
+        "ItemCategory": 1,
+        "MasterBattleItemId": 1010003,
+        "MasterEfficacyGroupId": 40100000000103,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 140,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BattleBringLimit": 2,
+        "Description": "",
+        "Icon": "Item_0006_CureStatus-MedicalHerb",
+        "ItemCategory": 1,
+        "MasterBattleItemId": 1010004,
+        "MasterEfficacyGroupId": 40100000000120,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 160,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "BattleBringLimit": 2,
+        "Description": "",
+        "Icon": "Item_0007_CureMp-MagicWalnut",
+        "ItemCategory": 1,
+        "MasterBattleItemId": 1010005,
+        "MasterEfficacyGroupId": 40100000000110,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 180,
+        "ReleaseLabel": "release.initial"
+    }
+]

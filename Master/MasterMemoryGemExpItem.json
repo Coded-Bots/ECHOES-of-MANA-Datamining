@@ -1,0 +1,38 @@
+[
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0018_ReinforceMemory-Seed",
+        "ItemCategory": 3,
+        "MasterMemoryGemExpItemId": 1030001,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 600,
+        "ReleaseLabel": "release.initial",
+        "Value": 16
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0019_ReinforceMemory-Leaf",
+        "ItemCategory": 3,
+        "MasterMemoryGemExpItemId": 1030002,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 1200,
+        "ReleaseLabel": "release.initial",
+        "Value": 80
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 1,
+        "Icon": "Item_0020_ReinforceMemory-Flower",
+        "ItemCategory": 3,
+        "MasterMemoryGemExpItemId": 1030003,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 1800,
+        "ReleaseLabel": "release.initial",
+        "Value": 400
+    }
+]

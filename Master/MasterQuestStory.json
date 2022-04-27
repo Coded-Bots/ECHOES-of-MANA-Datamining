@@ -1,0 +1,632 @@
+[
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_0_1",
+        "MasterQuestChapterId": 210010000101,
+        "MasterQuestStoryId": 221000010101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 6,
+        "LuaName": "adventure_1_0_2",
+        "MasterQuestChapterId": 210010000102,
+        "MasterQuestStoryId": 221000010201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 1,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 9,
+        "LuaName": "adventure_1_0_3",
+        "MasterQuestChapterId": 210010000103,
+        "MasterQuestStoryId": 221000010301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 103,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 6,
+        "LuaName": "adventure_1_0_3_2",
+        "MasterQuestChapterId": 210010000103,
+        "MasterQuestStoryId": 221000010302,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 1,
+        "StoryNum": 2
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_0_4",
+        "MasterQuestChapterId": 210010000104,
+        "MasterQuestStoryId": 221000010401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_1",
+        "MasterQuestChapterId": 210010001101,
+        "MasterQuestStoryId": 221000110101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_1_2",
+        "MasterQuestChapterId": 210010001102,
+        "MasterQuestStoryId": 221000110201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_3",
+        "MasterQuestChapterId": 210010001103,
+        "MasterQuestStoryId": 221000110301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_4",
+        "MasterQuestChapterId": 210010001104,
+        "MasterQuestStoryId": 221000110401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_1_5",
+        "MasterQuestChapterId": 210010001105,
+        "MasterQuestStoryId": 221000110501,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_6",
+        "MasterQuestChapterId": 210010001106,
+        "MasterQuestStoryId": 221000110601,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 6,
+        "LuaName": "adventure_1_1_7",
+        "MasterQuestChapterId": 210010001107,
+        "MasterQuestStoryId": 221000110701,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_8",
+        "MasterQuestChapterId": 210010001108,
+        "MasterQuestStoryId": 221000110801,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_1_9",
+        "MasterQuestChapterId": 210010001109,
+        "MasterQuestStoryId": 221000110901,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_1",
+        "MasterQuestChapterId": 210010002101,
+        "MasterQuestStoryId": 221000210101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_2",
+        "MasterQuestChapterId": 210010002102,
+        "MasterQuestStoryId": 221000210201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_3",
+        "MasterQuestChapterId": 210010002103,
+        "MasterQuestStoryId": 221000210301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_2_4",
+        "MasterQuestChapterId": 210010002104,
+        "MasterQuestStoryId": 221000210401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_5",
+        "MasterQuestChapterId": 210010002105,
+        "MasterQuestStoryId": 221000210501,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_6",
+        "MasterQuestChapterId": 210010002106,
+        "MasterQuestStoryId": 221000210601,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_2_8",
+        "MasterQuestChapterId": 210010002108,
+        "MasterQuestStoryId": 221000210801,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_9",
+        "MasterQuestChapterId": 210010002109,
+        "MasterQuestStoryId": 221000210901,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_2_10",
+        "MasterQuestChapterId": 210010002110,
+        "MasterQuestStoryId": 221000211001,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 2,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_2_11",
+        "MasterQuestChapterId": 210010002111,
+        "MasterQuestStoryId": 221000211101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_3_1",
+        "MasterQuestChapterId": 210010003101,
+        "MasterQuestStoryId": 221000310101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_2",
+        "MasterQuestChapterId": 210010003102,
+        "MasterQuestStoryId": 221000310201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_3",
+        "MasterQuestChapterId": 210010003103,
+        "MasterQuestStoryId": 221000310301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_4",
+        "MasterQuestChapterId": 210010003104,
+        "MasterQuestStoryId": 221000310401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_3_5",
+        "MasterQuestChapterId": 210010003105,
+        "MasterQuestStoryId": 221000310501,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_6",
+        "MasterQuestChapterId": 210010003106,
+        "MasterQuestStoryId": 221000310601,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_7",
+        "MasterQuestChapterId": 210010003107,
+        "MasterQuestStoryId": 221000310701,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_3_8",
+        "MasterQuestChapterId": 210010003108,
+        "MasterQuestStoryId": 221000310801,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_9",
+        "MasterQuestChapterId": 210010003109,
+        "MasterQuestStoryId": 221000310901,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_10",
+        "MasterQuestChapterId": 210010003110,
+        "MasterQuestStoryId": 221000311001,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_3_11",
+        "MasterQuestChapterId": 210010003111,
+        "MasterQuestStoryId": 221000311101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_3_12",
+        "MasterQuestChapterId": 210010003112,
+        "MasterQuestStoryId": 221000311201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_4_1",
+        "MasterQuestChapterId": 210010004101,
+        "MasterQuestStoryId": 221000410101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_2",
+        "MasterQuestChapterId": 210010004102,
+        "MasterQuestStoryId": 221000410201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 6,
+        "LuaName": "adventure_1_4_3",
+        "MasterQuestChapterId": 210010004103,
+        "MasterQuestStoryId": 221000410301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 2,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_4_4",
+        "MasterQuestChapterId": 210010004104,
+        "MasterQuestStoryId": 221000410401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_5",
+        "MasterQuestChapterId": 210010004105,
+        "MasterQuestStoryId": 221000410501,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_4_6",
+        "MasterQuestChapterId": 210010004106,
+        "MasterQuestStoryId": 221000410601,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_7",
+        "MasterQuestChapterId": 210010004107,
+        "MasterQuestStoryId": 221000410701,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_8",
+        "MasterQuestChapterId": 210010004108,
+        "MasterQuestStoryId": 221000410801,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_9",
+        "MasterQuestChapterId": 210010004109,
+        "MasterQuestStoryId": 221000410901,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_10",
+        "MasterQuestChapterId": 210010004110,
+        "MasterQuestStoryId": 221000411001,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_4_11",
+        "MasterQuestChapterId": 210010004111,
+        "MasterQuestStoryId": 221000411101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_4_12_1",
+        "MasterQuestChapterId": 210010004112,
+        "MasterQuestStoryId": 221000411201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 6,
+        "LuaName": "adventure_1_4_12_2",
+        "MasterQuestChapterId": 210010004112,
+        "MasterQuestStoryId": 221000411202,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 2
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_4_13",
+        "MasterQuestChapterId": 210010004113,
+        "MasterQuestStoryId": 221000411301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_5_1",
+        "MasterQuestChapterId": 210010005101,
+        "MasterQuestStoryId": 221000510101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_2",
+        "MasterQuestChapterId": 210010005102,
+        "MasterQuestStoryId": 221000510201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_3",
+        "MasterQuestChapterId": 210010005103,
+        "MasterQuestStoryId": 221000510301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_5_4",
+        "MasterQuestChapterId": 210010005104,
+        "MasterQuestStoryId": 221000510401,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_5",
+        "MasterQuestChapterId": 210010005105,
+        "MasterQuestStoryId": 221000510501,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_5_6",
+        "MasterQuestChapterId": 210010005106,
+        "MasterQuestStoryId": 221000510601,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_7",
+        "MasterQuestChapterId": 210010005107,
+        "MasterQuestStoryId": 221000510701,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_8",
+        "MasterQuestChapterId": 210010005108,
+        "MasterQuestStoryId": 221000510801,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_5_9",
+        "MasterQuestChapterId": 210010005109,
+        "MasterQuestStoryId": 221000510901,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_10",
+        "MasterQuestChapterId": 210010005110,
+        "MasterQuestStoryId": 221000511001,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_11",
+        "MasterQuestChapterId": 210010005111,
+        "MasterQuestStoryId": 221000511101,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 1,
+        "LuaName": "adventure_1_5_12",
+        "MasterQuestChapterId": 210010005112,
+        "MasterQuestStoryId": 221000511201,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_1_5_14",
+        "MasterQuestChapterId": 210010005113,
+        "MasterQuestStoryId": 221000511301,
+        "ReleaseLabel": "release.initial",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_0",
+        "MasterQuestChapterId": 210030001101,
+        "MasterQuestStoryId": 223000110101,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_1",
+        "MasterQuestChapterId": 210030001102,
+        "MasterQuestStoryId": 223000110201,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_2",
+        "MasterQuestChapterId": 210030001105,
+        "MasterQuestStoryId": 223000110501,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_3",
+        "MasterQuestChapterId": 210030001108,
+        "MasterQuestStoryId": 223000110801,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_4",
+        "MasterQuestChapterId": 210030001111,
+        "MasterQuestStoryId": 223000111101,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_5",
+        "MasterQuestChapterId": 210030001114,
+        "MasterQuestStoryId": 223000111401,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    },
+    {
+        "ConnectionType": 8,
+        "LuaName": "adventure_30001_6",
+        "MasterQuestChapterId": 210030001116,
+        "MasterQuestStoryId": 223000111601,
+        "ReleaseLabel": "release.event_scenario_1",
+        "StageNum": 0,
+        "StoryNum": 1
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010101,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000101",
+        "StampName": "preset01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010102,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000102",
+        "StampName": "preset02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010103,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000103",
+        "StampName": "preset03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010104,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000104",
+        "StampName": "preset04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010105,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000105",
+        "StampName": "preset05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010106,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000106",
+        "StampName": "preset06"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010107,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000107",
+        "StampName": "preset07"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010108,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000108",
+        "StampName": "preset08"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010109,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000109",
+        "StampName": "preset09"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000101,
+        "MasterMultiStampId": 64003010110,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "1000110",
+        "StampName": "preset10"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000201,
+        "MasterMultiStampId": 64003020101,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000101",
+        "StampName": "rabi01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000201,
+        "MasterMultiStampId": 64003020102,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000102",
+        "StampName": "rabi02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000201,
+        "MasterMultiStampId": 64003020103,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000103",
+        "StampName": "rabi03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000201,
+        "MasterMultiStampId": 64003020104,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000104",
+        "StampName": "rabi04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000201,
+        "MasterMultiStampId": 64003020105,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000105",
+        "StampName": "rabi05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000202,
+        "MasterMultiStampId": 64003020206,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000201",
+        "StampName": "som01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000202,
+        "MasterMultiStampId": 64003020207,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000202",
+        "StampName": "som02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000202,
+        "MasterMultiStampId": 64003020208,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000203",
+        "StampName": "som03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000202,
+        "MasterMultiStampId": 64003020209,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000204",
+        "StampName": "som04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000202,
+        "MasterMultiStampId": 64003020210,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000205",
+        "StampName": "som05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020301,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000301",
+        "StampName": "tomA01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020302,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000302",
+        "StampName": "tomA02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020303,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000303",
+        "StampName": "tomA03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000204,
+        "MasterMultiStampId": 64003020404,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000304",
+        "StampName": "tomA04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020305,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000305",
+        "StampName": "tomA05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020306,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000401",
+        "StampName": "tomB01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020307,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000402",
+        "StampName": "tomB01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020308,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000403",
+        "StampName": "tomB01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020309,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000404",
+        "StampName": "tomB01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000203,
+        "MasterMultiStampId": 64003020310,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000405",
+        "StampName": "tomB01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000205,
+        "MasterMultiStampId": 64003020501,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000501",
+        "StampName": "lom01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000205,
+        "MasterMultiStampId": 64003020502,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000502",
+        "StampName": "lom02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000205,
+        "MasterMultiStampId": 64003020503,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000503",
+        "StampName": "lom03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000205,
+        "MasterMultiStampId": 64003020504,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000504",
+        "StampName": "lom04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000205,
+        "MasterMultiStampId": 64003020505,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000505",
+        "StampName": "lom05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000206,
+        "MasterMultiStampId": 64003020601,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000601",
+        "StampName": "gaiden01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000206,
+        "MasterMultiStampId": 64003020602,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000602",
+        "StampName": "gaiden02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000206,
+        "MasterMultiStampId": 64003020603,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000603",
+        "StampName": "gaiden03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000206,
+        "MasterMultiStampId": 64003020604,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000604",
+        "StampName": "gaiden04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000206,
+        "MasterMultiStampId": 64003020605,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000605",
+        "StampName": "gaiden05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000207,
+        "MasterMultiStampId": 64003020701,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000701",
+        "StampName": "pairRabi01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000207,
+        "MasterMultiStampId": 64003020702,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000702",
+        "StampName": "pairRabi02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000207,
+        "MasterMultiStampId": 64003020703,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000703",
+        "StampName": "pairRabi03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000207,
+        "MasterMultiStampId": 64003020704,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000704",
+        "StampName": "pairRabi04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000207,
+        "MasterMultiStampId": 64003020705,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000705",
+        "StampName": "pairRabi05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000208,
+        "MasterMultiStampId": 64003020801,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000801",
+        "StampName": "BlackRabi01"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000208,
+        "MasterMultiStampId": 64003020802,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000802",
+        "StampName": "BlackRabi02"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000208,
+        "MasterMultiStampId": 64003020803,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000803",
+        "StampName": "BlackRabi03"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000208,
+        "MasterMultiStampId": 64003020804,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000804",
+        "StampName": "BlackRabi04"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000208,
+        "MasterMultiStampId": 64003020805,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "2000805",
+        "StampName": "BlackRabi05"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000301,
+        "MasterMultiStampId": 64003030101,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000101",
+        "StampName": "camp001"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000302,
+        "MasterMultiStampId": 64003030202,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000201",
+        "StampName": "camp002"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000303,
+        "MasterMultiStampId": 64003030303,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000301",
+        "StampName": "camp003"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000304,
+        "MasterMultiStampId": 64003030404,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000401",
+        "StampName": "camp004"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000305,
+        "MasterMultiStampId": 64003030505,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000501",
+        "StampName": "camp005"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000306,
+        "MasterMultiStampId": 64003030606,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000601",
+        "StampName": "camp006"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000307,
+        "MasterMultiStampId": 64003030707,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000701",
+        "StampName": "camp007"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000308,
+        "MasterMultiStampId": 64003030808,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000801",
+        "StampName": "camp008"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000309,
+        "MasterMultiStampId": 64003030909,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3000901",
+        "StampName": "camp009"
+    },
+    {
+        "MasterMultiStampGroupId": 63002000310,
+        "MasterMultiStampId": 64003031010,
+        "ReleaseLabel": "release.initial",
+        "StampImage": "3001001",
+        "StampName": "camp010"
+    }
+]

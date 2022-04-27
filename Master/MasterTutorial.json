@@ -1,0 +1,410 @@
+[
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010000101,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010000102,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010000103,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010000104,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001101,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001102,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001102,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001102,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000103,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000104,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002112,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000105,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010004113,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000106,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002109,
+        "MasterRewardGroupId": 420061000004,
+        "MasterTutorialId": 14001000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000112,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000113,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002101,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000202,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000203,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002112,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002112,
+        "MasterRewardGroupId": 420061000002,
+        "MasterTutorialId": 14001000302,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 420061000001,
+        "MasterTutorialId": 14001000303,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000304,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000305,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002112,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000402,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000403,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000404,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000405,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000406,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000407,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001109,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000502,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000503,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000504,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001107,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000601,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000602,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000603,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000604,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010001105,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000701,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000702,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000703,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000704,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000705,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000706,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002109,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000711,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000712,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000713,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010003106,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000721,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000722,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000723,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010004105,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000731,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000732,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000733,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000801,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000802,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010004113,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000803,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010002112,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000804,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000805,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010003107,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000806,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010003111,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000807,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 0,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000808,
+        "ReleaseLabel": "release.initial"
+    }
+]

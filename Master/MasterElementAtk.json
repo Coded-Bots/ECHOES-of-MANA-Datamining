@@ -1,0 +1,722 @@
+[
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000101,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000102,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000103,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000104,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000105,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000106,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000107,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000108,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000109,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000110,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000111,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000112,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000113,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000114,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000115,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000201,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000202,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000203,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000204,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000205,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000206,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000207,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000208,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000209,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000210,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000211,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000212,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000213,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000214,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000215,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000301,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000302,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000303,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000304,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000305,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000306,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000307,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000308,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000309,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000310,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000311,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000312,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000313,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000314,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000315,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000401,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000402,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000403,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000404,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000405,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000406,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000407,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000408,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000409,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000410,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000411,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000412,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000413,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000414,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000415,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000501,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000502,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000503,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000504,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000505,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000506,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000507,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000508,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000509,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000510,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000511,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000512,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000513,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000514,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000515,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000601,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000602,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000603,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000604,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000605,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000606,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000607,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000608,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000609,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000610,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000611,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000612,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000613,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000614,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000615,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000701,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000702,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000703,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000704,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000705,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000706,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000707,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000708,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000709,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000710,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000711,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000712,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000713,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000714,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000715,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000801,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000802,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000803,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000804,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000805,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000806,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000807,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000808,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000809,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000810,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000811,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000812,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000813,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000814,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeType": 24,
+        "Level": 36,
+        "MasterElementAtkId": 10400000000815,
+        "ReleaseLabel": "release.initial"
+    }
+]

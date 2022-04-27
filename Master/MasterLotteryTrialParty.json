@@ -1,0 +1,24 @@
+[
+    {
+        "MasterCharacterIdMain1": 600210301001,
+        "MasterCharacterIdMain2": 600210306001,
+        "MasterCharacterIdMain3": 600210203001,
+        "MasterCharacterIdSub1": 600210101001,
+        "MasterCharacterIdSub2": 600210302001,
+        "MasterCharacterIdSub3": 600210501001,
+        "MasterLotteryShopId": 6001002001,
+        "MasterLotteryTrialPartyId": 6008002001,
+        "ReleaseLabel": "release.lottery_202204_release"
+    },
+    {
+        "MasterCharacterIdMain1": 600210301001,
+        "MasterCharacterIdMain2": 600210302001,
+        "MasterCharacterIdMain3": 600210306001,
+        "MasterCharacterIdSub1": 600210101001,
+        "MasterCharacterIdSub2": 600210203001,
+        "MasterCharacterIdSub3": 600210501001,
+        "MasterLotteryShopId": 6001003001,
+        "MasterLotteryTrialPartyId": 6008003001,
+        "ReleaseLabel": "release.initial"
+    }
+]

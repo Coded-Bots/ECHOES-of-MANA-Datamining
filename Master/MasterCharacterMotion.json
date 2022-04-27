@@ -1,0 +1,14 @@
+[
+    {
+        "AttackSpeed": 10,
+        "DownTime": 1000,
+        "ImpactRatio": 100,
+        "MasterCharacterMotionId": 610104000100,
+        "ReleaseLabel": "release.initial",
+        "RunSpeed": 90,
+        "Scale": 1,
+        "StepBackwardSpeed": 120,
+        "StepForwardSpeed": 120,
+        "WalkSpeed": 20
+    }
+]

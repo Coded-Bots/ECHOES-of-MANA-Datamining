@@ -1,0 +1,345 @@
+[
+    {
+        "AnimationName": "",
+        "Attribute": 68,
+        "MasterSpecialAtkId": 30211101001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 68,
+        "MasterSpecialAtkId": 30211102001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211103001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211104001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211105001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211106001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 60,
+        "MasterSpecialAtkId": 30211107001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210101001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210101002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210102001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210102002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210103001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210103002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 56,
+        "MasterSpecialAtkId": 30210104001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210104002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210201001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210201002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210202001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210202002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210203001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210203002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210206001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210206002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210301001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210301002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210302001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210302002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210303001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210304001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210305001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210306001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210306002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210307001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210308001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210309001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210309002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210310001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210401001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210401002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210501001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210501002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210502001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210502002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210503001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210504001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210504002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 72,
+        "MasterSpecialAtkId": 30210601001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210601002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210602001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.initial"
+    }
+]

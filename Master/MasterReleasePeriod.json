@@ -1,0 +1,50 @@
+[
+    {
+        "EndTime": "8:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000001,
+        "ReleaseLabel": "release.cbt_event_veryhard",
+        "StartTime": "8:00:00",
+        "Week": 127
+    },
+    {
+        "EndTime": "12:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000002,
+        "ReleaseLabel": "release.cbt_event_veryhard",
+        "StartTime": "12:00:00",
+        "Week": 127
+    },
+    {
+        "EndTime": "22:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000003,
+        "ReleaseLabel": "release.cbt_event_veryhard",
+        "StartTime": "21:00:00",
+        "Week": 127
+    },
+    {
+        "EndTime": "8:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000011,
+        "ReleaseLabel": "release.cbt_event_hard",
+        "StartTime": "8:00:00",
+        "Week": 127
+    },
+    {
+        "EndTime": "12:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000012,
+        "ReleaseLabel": "release.cbt_event_hard",
+        "StartTime": "12:00:00",
+        "Week": 127
+    },
+    {
+        "EndTime": "22:59:59",
+        "IsLocal": true,
+        "MasterReleasePeriodId": 302000013,
+        "ReleaseLabel": "release.cbt_event_hard",
+        "StartTime": "21:00:00",
+        "Week": 127
+    }
+]

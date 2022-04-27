@@ -1,0 +1,44 @@
+[
+    {
+        "MasterEquipmentSeriesId": 3002000001,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000001,
+        "MasterLotteryEquipmentSeriesId": 533003000001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000003,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000003,
+        "MasterLotteryEquipmentSeriesId": 533005000003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000014,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000014,
+        "MasterLotteryEquipmentSeriesId": 533016000014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000018,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000018,
+        "MasterLotteryEquipmentSeriesId": 533020000018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000024,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000024,
+        "MasterLotteryEquipmentSeriesId": 533026000024,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000025,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000025,
+        "MasterLotteryEquipmentSeriesId": 533027000025,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000027,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000027,
+        "MasterLotteryEquipmentSeriesId": 533029000027,
+        "ReleaseLabel": "release.initial"
+    }
+]

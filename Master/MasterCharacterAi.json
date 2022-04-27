@@ -1,0 +1,345 @@
+[
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600611101001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/EoMMan/001_AS_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600611103001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Duffle/001_AS_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/HR/AI_AutoPlay",
+        "MasterCharacterAiId": 600611104001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/HR/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Honeycomb/001_HR_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600611105001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Blanket/001_AS_Bow/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600611106001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Raxa/001_AA_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AR/AI_AutoPlay",
+        "MasterCharacterAiId": 600611107001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AR/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Muslin/001_AH_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/HS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610101001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/HS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Hero/001_HS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610101002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Hero/002_AA_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610102001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Amanda/001_AS_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610102002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Amanda/002_AA_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610103001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/ShadowKnight/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610103002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/ShadowKnight/002_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610104001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Julius/001_AS_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610104002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Julius/002_AS_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610201001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Randi/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610201002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Randi/002_AA_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AR/AI_AutoPlay",
+        "MasterCharacterAiId": 600610202001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AR/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Prime/001_AR_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610202002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Prime/002_AA_Boomerang/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610203001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Popoi/001_AS_Boomerang/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610203002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Popoi/002_AA_Bow/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610206001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Thanatos/001_AA_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610206002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Thanatos/002_AS_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610301001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Duran/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610301002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Duran/002_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610302001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Angela/001_AS_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610302002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Angela/002_AA_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610303001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Kevin/001_AA_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AH/AI_AutoPlay",
+        "MasterCharacterAiId": 600610304001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AH/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Charlotte/001_AH_Flail/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610305001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Hawkeye/001_AS_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610306001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Riesz/001_AS_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610306002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Riesz/002_AS_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610307001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Bill/001_AA_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610308001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Ben/001_AA_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610309001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Ludgar/001_AA_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610309002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Ludgar/002_AA_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610310001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/CrimsonWizard/001_AS_Staff/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610401001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Lekius/001_AS_Bow/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610401002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Lekius/002_AA_Bow/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610501001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LoMMan/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610501002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LoMMan/002_AA_Axe/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610502001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LoMWoman/001_AA_Lance/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610502002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LoMWoman/002_AA_Bow/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610503001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LoMNikita/001_AA_Glove/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610504001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Sierra/001_AA_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_AutoPlay",
+        "MasterCharacterAiId": 600610504002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AA/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Sierra/002_AA_Knife/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610601001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Frick/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610601002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Frick/002_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610602001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Wanderer/001_AS_Axe/AI_Range",
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_AutoPlay",
+        "MasterCharacterAiId": 600610305099,
+        "NpcAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_NPC",
+        "RangeAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_Range",
+        "ReleaseLabel": "release.initial"
+    }
+]

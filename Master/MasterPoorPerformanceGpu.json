@@ -1,0 +1,422 @@
+[
+    {
+        "DeviceName": "Apple A9 GPU",
+        "MasterPoorPerformanceGpuId": 305000001,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Apple A9X GPU",
+        "MasterPoorPerformanceGpuId": 305000002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Apple A10 GPU",
+        "MasterPoorPerformanceGpuId": 305000003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Apple A10X GPU",
+        "MasterPoorPerformanceGpuId": 305000004,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 304",
+        "MasterPoorPerformanceGpuId": 305000005,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 305",
+        "MasterPoorPerformanceGpuId": 305000006,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 306",
+        "MasterPoorPerformanceGpuId": 305000007,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 308",
+        "MasterPoorPerformanceGpuId": 305000008,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 320",
+        "MasterPoorPerformanceGpuId": 305000009,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 330",
+        "MasterPoorPerformanceGpuId": 305000010,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 405",
+        "MasterPoorPerformanceGpuId": 305000011,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 418",
+        "MasterPoorPerformanceGpuId": 305000012,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 420",
+        "MasterPoorPerformanceGpuId": 305000013,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 430",
+        "MasterPoorPerformanceGpuId": 305000014,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 504",
+        "MasterPoorPerformanceGpuId": 305000015,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 505",
+        "MasterPoorPerformanceGpuId": 305000016,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 506",
+        "MasterPoorPerformanceGpuId": 305000017,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 508",
+        "MasterPoorPerformanceGpuId": 305000018,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 509",
+        "MasterPoorPerformanceGpuId": 305000019,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 510",
+        "MasterPoorPerformanceGpuId": 305000020,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 512",
+        "MasterPoorPerformanceGpuId": 305000021,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Adreno (TM) 530",
+        "MasterPoorPerformanceGpuId": 305000022,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T604",
+        "MasterPoorPerformanceGpuId": 305000035,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T658",
+        "MasterPoorPerformanceGpuId": 305000036,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T622",
+        "MasterPoorPerformanceGpuId": 305000037,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T624",
+        "MasterPoorPerformanceGpuId": 305000038,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T628",
+        "MasterPoorPerformanceGpuId": 305000039,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T678",
+        "MasterPoorPerformanceGpuId": 305000040,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T720",
+        "MasterPoorPerformanceGpuId": 305000041,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T820",
+        "MasterPoorPerformanceGpuId": 305000042,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-T830",
+        "MasterPoorPerformanceGpuId": 305000043,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-G31",
+        "MasterPoorPerformanceGpuId": 305000044,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-G51",
+        "MasterPoorPerformanceGpuId": 305000045,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-G71",
+        "MasterPoorPerformanceGpuId": 305000046,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-G52",
+        "MasterPoorPerformanceGpuId": 305000047,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "Mali-G72",
+        "MasterPoorPerformanceGpuId": 305000048,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6100",
+        "MasterPoorPerformanceGpuId": 305000049,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6200",
+        "MasterPoorPerformanceGpuId": 305000050,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6230",
+        "MasterPoorPerformanceGpuId": 305000051,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6400",
+        "MasterPoorPerformanceGpuId": 305000052,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6430",
+        "MasterPoorPerformanceGpuId": 305000053,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6630",
+        "MasterPoorPerformanceGpuId": 305000054,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6050",
+        "MasterPoorPerformanceGpuId": 305000055,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6060",
+        "MasterPoorPerformanceGpuId": 305000056,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6100(XE)",
+        "MasterPoorPerformanceGpuId": 305000057,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue G6110",
+        "MasterPoorPerformanceGpuId": 305000058,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GX6240",
+        "MasterPoorPerformanceGpuId": 305000059,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GX6250",
+        "MasterPoorPerformanceGpuId": 305000060,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GX6450",
+        "MasterPoorPerformanceGpuId": 305000061,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GX6650",
+        "MasterPoorPerformanceGpuId": 305000062,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GXA6850",
+        "MasterPoorPerformanceGpuId": 305000063,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE7400",
+        "MasterPoorPerformanceGpuId": 305000064,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE7800",
+        "MasterPoorPerformanceGpuId": 305000065,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7200",
+        "MasterPoorPerformanceGpuId": 305000066,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7400",
+        "MasterPoorPerformanceGpuId": 305000067,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7600",
+        "MasterPoorPerformanceGpuId": 305000068,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7800",
+        "MasterPoorPerformanceGpuId": 305000069,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GTA7850",
+        "MasterPoorPerformanceGpuId": 305000070,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7900",
+        "MasterPoorPerformanceGpuId": 305000071,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7200 Plus",
+        "MasterPoorPerformanceGpuId": 305000072,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7400 Plus",
+        "MasterPoorPerformanceGpuId": 305000073,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GT7600 Plus",
+        "MasterPoorPerformanceGpuId": 305000074,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8100",
+        "MasterPoorPerformanceGpuId": 305000075,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8200",
+        "MasterPoorPerformanceGpuId": 305000076,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8300",
+        "MasterPoorPerformanceGpuId": 305000077,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8310",
+        "MasterPoorPerformanceGpuId": 305000078,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8430",
+        "MasterPoorPerformanceGpuId": 305000079,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8320",
+        "MasterPoorPerformanceGpuId": 305000080,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8325",
+        "MasterPoorPerformanceGpuId": 305000081,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE8340",
+        "MasterPoorPerformanceGpuId": 305000082,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Furian GT8525",
+        "MasterPoorPerformanceGpuId": 305000083,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Furian GT8540",
+        "MasterPoorPerformanceGpuId": 305000084,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9000",
+        "MasterPoorPerformanceGpuId": 305000085,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9100",
+        "MasterPoorPerformanceGpuId": 305000086,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9115",
+        "MasterPoorPerformanceGpuId": 305000087,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9210",
+        "MasterPoorPerformanceGpuId": 305000088,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9215",
+        "MasterPoorPerformanceGpuId": 305000089,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9420",
+        "MasterPoorPerformanceGpuId": 305000090,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GM9220",
+        "MasterPoorPerformanceGpuId": 305000091,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GM9240",
+        "MasterPoorPerformanceGpuId": 305000092,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9608",
+        "MasterPoorPerformanceGpuId": 305000093,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9610",
+        "MasterPoorPerformanceGpuId": 305000094,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9710",
+        "MasterPoorPerformanceGpuId": 305000095,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "DeviceName": "PowerVR Rogue GE9920",
+        "MasterPoorPerformanceGpuId": 305000096,
+        "ReleaseLabel": "release.initial"
+    }
+]

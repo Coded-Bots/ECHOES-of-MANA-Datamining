@@ -1,0 +1,38 @@
+[
+    {
+        "MasterExchangeShopId": 41000030001,
+        "Priority": 16,
+        "ReleaseLabel": "release.initial",
+        "ShopCategory": 3
+    },
+    {
+        "MasterExchangeShopId": 41000050001,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_tower_start",
+        "ShopCategory": 5
+    },
+    {
+        "MasterExchangeShopId": 41000010001,
+        "Priority": 16,
+        "ReleaseLabel": "release.initial",
+        "ShopCategory": 1
+    },
+    {
+        "MasterExchangeShopId": 41000010002,
+        "Priority": 16,
+        "ReleaseLabel": "release.initial",
+        "ShopCategory": 1
+    },
+    {
+        "MasterExchangeShopId": 41000040001,
+        "Priority": 12,
+        "ReleaseLabel": "release.event_scenario_1_exchange",
+        "ShopCategory": 4
+    },
+    {
+        "MasterExchangeShopId": 41000060002,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202204_release_exchange",
+        "ShopCategory": 6
+    }
+]

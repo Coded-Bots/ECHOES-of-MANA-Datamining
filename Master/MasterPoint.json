@@ -1,0 +1,82 @@
+[
+    {
+        "Icon": "Item_0001_HardCurrency-SpiritStone",
+        "IsItemCollection": false,
+        "MasterPointId": 401000001,
+        "Name": "",
+        "PointCategory": 0,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "Item_0002_SoftCurrency-Ruku",
+        "IsItemCollection": false,
+        "MasterPointId": 401010001,
+        "Name": "",
+        "PointCategory": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "",
+        "IsItemCollection": false,
+        "MasterPointId": 401020001,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "",
+        "IsItemCollection": false,
+        "MasterPointId": 401020002,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "",
+        "IsItemCollection": false,
+        "MasterPointId": 401020003,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "",
+        "IsItemCollection": false,
+        "MasterPointId": 401020004,
+        "Name": "",
+        "PointCategory": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020011,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020012,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "Item_0098_LotteryExchangePoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020013,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "Icon": "Item_0079_TowerPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401030001,
+        "Name": "",
+        "PointCategory": 3,
+        "ReleaseLabel": "release.initial"
+    }
+]

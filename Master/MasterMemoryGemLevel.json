@@ -1,0 +1,542 @@
+[
+    {
+        "Level": 1,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001001,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001002,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26
+    },
+    {
+        "Level": 3,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001003,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 111
+    },
+    {
+        "Level": 4,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001004,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 260
+    },
+    {
+        "Level": 5,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001005,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 476
+    },
+    {
+        "Level": 6,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001006,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 761
+    },
+    {
+        "Level": 7,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001007,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1116
+    },
+    {
+        "Level": 8,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001008,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 1543
+    },
+    {
+        "Level": 9,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001009,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2043
+    },
+    {
+        "Level": 10,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001010,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 2616
+    },
+    {
+        "Level": 11,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001011,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3264
+    },
+    {
+        "Level": 12,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001012,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 3987
+    },
+    {
+        "Level": 13,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001013,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 4786
+    },
+    {
+        "Level": 14,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001014,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 5663
+    },
+    {
+        "Level": 15,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001015,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 6616
+    },
+    {
+        "Level": 16,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001016,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 7648
+    },
+    {
+        "Level": 17,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001017,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 8758
+    },
+    {
+        "Level": 18,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001018,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 9947
+    },
+    {
+        "Level": 19,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001019,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 11215
+    },
+    {
+        "Level": 20,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001020,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 12614
+    },
+    {
+        "Level": 21,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001021,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 14128
+    },
+    {
+        "Level": 22,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001022,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 15778
+    },
+    {
+        "Level": 23,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001023,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 17540
+    },
+    {
+        "Level": 24,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001024,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 19472
+    },
+    {
+        "Level": 25,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001025,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 21661
+    },
+    {
+        "Level": 26,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001026,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 24024
+    },
+    {
+        "Level": 27,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001027,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 26540
+    },
+    {
+        "Level": 28,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001028,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 29195
+    },
+    {
+        "Level": 29,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001029,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 31979
+    },
+    {
+        "Level": 30,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001030,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 35133
+    },
+    {
+        "Level": 31,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001031,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 38487
+    },
+    {
+        "Level": 32,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001032,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 42127
+    },
+    {
+        "Level": 33,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001033,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 45952
+    },
+    {
+        "Level": 34,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001034,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 49971
+    },
+    {
+        "Level": 35,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001035,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 54502
+    },
+    {
+        "Level": 36,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001036,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 59229
+    },
+    {
+        "Level": 37,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001037,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 64093
+    },
+    {
+        "Level": 38,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001038,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 69089
+    },
+    {
+        "Level": 39,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001039,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 74212
+    },
+    {
+        "Level": 40,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001040,
+        "Price": 0,
+        "RefineCost": 2,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 79459
+    },
+    {
+        "Level": 41,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001041,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 85459
+    },
+    {
+        "Level": 42,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001042,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 91459
+    },
+    {
+        "Level": 43,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001043,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 97459
+    },
+    {
+        "Level": 44,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001044,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 103459
+    },
+    {
+        "Level": 45,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001045,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 109459
+    },
+    {
+        "Level": 46,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001046,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 115459
+    },
+    {
+        "Level": 47,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001047,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 121459
+    },
+    {
+        "Level": 48,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001048,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 127459
+    },
+    {
+        "Level": 49,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001049,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 133459
+    },
+    {
+        "Level": 50,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001050,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 139459
+    },
+    {
+        "Level": 51,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001051,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 145459
+    },
+    {
+        "Level": 52,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001052,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 151459
+    },
+    {
+        "Level": 53,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001053,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 157459
+    },
+    {
+        "Level": 54,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001054,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 163459
+    },
+    {
+        "Level": 55,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001055,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 169459
+    },
+    {
+        "Level": 56,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001056,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 175459
+    },
+    {
+        "Level": 57,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001057,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 181459
+    },
+    {
+        "Level": 58,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001058,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 187459
+    },
+    {
+        "Level": 59,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001059,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 193459
+    },
+    {
+        "Level": 60,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemLevelId": 4003001060,
+        "Price": 0,
+        "RefineCost": 1,
+        "ReleaseLabel": "release.initial",
+        "RequiredExp": 199459
+    }
+]

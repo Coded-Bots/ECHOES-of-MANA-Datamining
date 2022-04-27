@@ -1,0 +1,359 @@
+[
+    {
+        "Level": 1,
+        "MasterMissionLevelId": 8002000001,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 0
+    },
+    {
+        "Level": 2,
+        "MasterMissionLevelId": 8002000002,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 10
+    },
+    {
+        "Level": 3,
+        "MasterMissionLevelId": 8002000003,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 20
+    },
+    {
+        "Level": 4,
+        "MasterMissionLevelId": 8002000004,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 30
+    },
+    {
+        "Level": 5,
+        "MasterMissionLevelId": 8002000005,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 40
+    },
+    {
+        "Level": 6,
+        "MasterMissionLevelId": 8002000006,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 50
+    },
+    {
+        "Level": 7,
+        "MasterMissionLevelId": 8002000007,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 60
+    },
+    {
+        "Level": 8,
+        "MasterMissionLevelId": 8002000008,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 70
+    },
+    {
+        "Level": 9,
+        "MasterMissionLevelId": 8002000009,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 80
+    },
+    {
+        "Level": 10,
+        "MasterMissionLevelId": 8002000010,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 90
+    },
+    {
+        "Level": 11,
+        "MasterMissionLevelId": 8002000011,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 100
+    },
+    {
+        "Level": 12,
+        "MasterMissionLevelId": 8002000012,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 110
+    },
+    {
+        "Level": 13,
+        "MasterMissionLevelId": 8002000013,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 120
+    },
+    {
+        "Level": 14,
+        "MasterMissionLevelId": 8002000014,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 130
+    },
+    {
+        "Level": 15,
+        "MasterMissionLevelId": 8002000015,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 140
+    },
+    {
+        "Level": 16,
+        "MasterMissionLevelId": 8002000016,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 150
+    },
+    {
+        "Level": 17,
+        "MasterMissionLevelId": 8002000017,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 160
+    },
+    {
+        "Level": 18,
+        "MasterMissionLevelId": 8002000018,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 170
+    },
+    {
+        "Level": 19,
+        "MasterMissionLevelId": 8002000019,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 180
+    },
+    {
+        "Level": 20,
+        "MasterMissionLevelId": 8002000020,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 190
+    },
+    {
+        "Level": 21,
+        "MasterMissionLevelId": 8002000021,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 200
+    },
+    {
+        "Level": 22,
+        "MasterMissionLevelId": 8002000022,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 210
+    },
+    {
+        "Level": 23,
+        "MasterMissionLevelId": 8002000023,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 220
+    },
+    {
+        "Level": 24,
+        "MasterMissionLevelId": 8002000024,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 230
+    },
+    {
+        "Level": 25,
+        "MasterMissionLevelId": 8002000025,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 240
+    },
+    {
+        "Level": 26,
+        "MasterMissionLevelId": 8002000026,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 250
+    },
+    {
+        "Level": 27,
+        "MasterMissionLevelId": 8002000027,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 260
+    },
+    {
+        "Level": 28,
+        "MasterMissionLevelId": 8002000028,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 270
+    },
+    {
+        "Level": 29,
+        "MasterMissionLevelId": 8002000029,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 280
+    },
+    {
+        "Level": 30,
+        "MasterMissionLevelId": 8002000030,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 290
+    },
+    {
+        "Level": 31,
+        "MasterMissionLevelId": 8002000031,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 300
+    },
+    {
+        "Level": 32,
+        "MasterMissionLevelId": 8002000032,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 310
+    },
+    {
+        "Level": 33,
+        "MasterMissionLevelId": 8002000033,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 320
+    },
+    {
+        "Level": 34,
+        "MasterMissionLevelId": 8002000034,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 330
+    },
+    {
+        "Level": 35,
+        "MasterMissionLevelId": 8002000035,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 340
+    },
+    {
+        "Level": 36,
+        "MasterMissionLevelId": 8002000036,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 350
+    },
+    {
+        "Level": 37,
+        "MasterMissionLevelId": 8002000037,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 360
+    },
+    {
+        "Level": 38,
+        "MasterMissionLevelId": 8002000038,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 370
+    },
+    {
+        "Level": 39,
+        "MasterMissionLevelId": 8002000039,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 380
+    },
+    {
+        "Level": 40,
+        "MasterMissionLevelId": 8002000040,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 390
+    },
+    {
+        "Level": 41,
+        "MasterMissionLevelId": 8002000041,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 400
+    },
+    {
+        "Level": 42,
+        "MasterMissionLevelId": 8002000042,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 410
+    },
+    {
+        "Level": 43,
+        "MasterMissionLevelId": 8002000043,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 420
+    },
+    {
+        "Level": 44,
+        "MasterMissionLevelId": 8002000044,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 430
+    },
+    {
+        "Level": 45,
+        "MasterMissionLevelId": 8002000045,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 440
+    },
+    {
+        "Level": 46,
+        "MasterMissionLevelId": 8002000046,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 450
+    },
+    {
+        "Level": 47,
+        "MasterMissionLevelId": 8002000047,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 460
+    },
+    {
+        "Level": 48,
+        "MasterMissionLevelId": 8002000048,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 470
+    },
+    {
+        "Level": 49,
+        "MasterMissionLevelId": 8002000049,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 480
+    },
+    {
+        "Level": 50,
+        "MasterMissionLevelId": 8002000050,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 490
+    },
+    {
+        "Level": 51,
+        "MasterMissionLevelId": 8002000051,
+        "MasterRewardGroupId": 420021001000,
+        "ReleaseLabel": "release.initial",
+        "RequiredTotalPoint": 500
+    }
+]

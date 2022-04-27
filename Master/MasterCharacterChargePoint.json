@@ -1,0 +1,44 @@
+[
+    {
+        "AttributeChargePointRatio": 1500,
+        "DefaultChargePointRatio": 500,
+        "MasterCharacterChargePointId": 610106000001,
+        "Rarity": 1,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeChargePointRatio": 2000,
+        "DefaultChargePointRatio": 1000,
+        "MasterCharacterChargePointId": 610106000002,
+        "Rarity": 2,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeChargePointRatio": 2500,
+        "DefaultChargePointRatio": 1500,
+        "MasterCharacterChargePointId": 610106000003,
+        "Rarity": 3,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeChargePointRatio": 3000,
+        "DefaultChargePointRatio": 2000,
+        "MasterCharacterChargePointId": 610106000004,
+        "Rarity": 4,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeChargePointRatio": 3500,
+        "DefaultChargePointRatio": 2500,
+        "MasterCharacterChargePointId": 610106000005,
+        "Rarity": 5,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "AttributeChargePointRatio": 4000,
+        "DefaultChargePointRatio": 3000,
+        "MasterCharacterChargePointId": 610106000006,
+        "Rarity": 6,
+        "ReleaseLabel": "release.initial"
+    }
+]

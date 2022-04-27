@@ -1,0 +1,32 @@
+[
+    {
+        "BackgroundImagePath": "",
+        "DisplayPriority": 4,
+        "Laps": 0,
+        "LoginBonusTargetType": 0,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000000001,
+        "ReleaseLabel": "release.initial",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/start",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000020001,
+        "ReleaseLabel": "release.initial",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_release_202205",
+        "DisplayPriority": 2,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021001,
+        "ReleaseLabel": "release.login_bonus_202205_1",
+        "TargetValue": 0
+    }
+]

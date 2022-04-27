@@ -1,0 +1,32 @@
+[
+    {
+        "MasterManaBoardId": 71000075010,
+        "MasterManaBoardPanelGroupId": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterManaBoardId": 71000064010,
+        "MasterManaBoardPanelGroupId": 16,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterManaBoardId": 71000063010,
+        "MasterManaBoardPanelGroupId": 16,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterManaBoardId": 71000062010,
+        "MasterManaBoardPanelGroupId": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterManaBoardId": 71000051010,
+        "MasterManaBoardPanelGroupId": 20,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterManaBoardId": 71000083010,
+        "MasterManaBoardPanelGroupId": 20,
+        "ReleaseLabel": "release.initial"
+    }
+]

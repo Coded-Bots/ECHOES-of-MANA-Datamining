@@ -1,0 +1,65 @@
+[
+    {
+        "IsRepeat": 10,
+        "MasterRewardGroupId": 42949672961,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000110,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871794005,
+        "TowerRewardType": 40
+    },
+    {
+        "IsRepeat": 20,
+        "MasterRewardGroupId": 85899345922,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000120,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871794005,
+        "TowerRewardType": 40
+    },
+    {
+        "IsRepeat": 30,
+        "MasterRewardGroupId": 128849018883,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000130,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871794005,
+        "TowerRewardType": 36
+    },
+    {
+        "IsRepeat": 40,
+        "MasterRewardGroupId": 171798691844,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000140,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871794003,
+        "TowerRewardType": 40
+    },
+    {
+        "IsRepeat": 50,
+        "MasterRewardGroupId": 0,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000150,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871794003,
+        "TowerRewardType": 32
+    },
+    {
+        "IsRepeat": 60,
+        "MasterRewardGroupId": 0,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000160,
+        "ReleaseLabel": "release.initial",
+        "TargetFloor": -871695007,
+        "TowerRewardType": 32
+    },
+    {
+        "IsRepeat": 70,
+        "MasterRewardGroupId": 0,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000170,
+        "ReleaseLabel": "release.event_tower_202205_start",
+        "TargetFloor": -871695007,
+        "TowerRewardType": 32
+    }
+]
