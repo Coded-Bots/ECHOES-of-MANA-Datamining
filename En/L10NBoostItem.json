@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1100001,
+        "Textoffset": "Ample Incense"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1100001,
+        "Textoffset": "Lucre from battle: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1100004,
+        "Textoffset": "Curious Cookie"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1100004,
+        "Textoffset": "Ally EXP from battle: +{0}%"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6002000101,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6002200101,
+        "Textoffset": "Standard"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6002200102,
+        "Textoffset": "Free Bonus Havest!\nOne 3\u2605 Guaranteed!"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6002300101,
+        "Textoffset": ""
+    }
+]

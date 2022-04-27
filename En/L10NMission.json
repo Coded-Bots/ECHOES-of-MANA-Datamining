@@ -1,0 +1,1372 @@
+[
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010001,
+        "Textoffset": "Log in for 7 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010002,
+        "Textoffset": "Log in for 14 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010003,
+        "Textoffset": "Log in for 30 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010004,
+        "Textoffset": "Log in for 60 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010005,
+        "Textoffset": "Log in for 90 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010006,
+        "Textoffset": "Log in for 180 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010007,
+        "Textoffset": "Log in for 360 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010101,
+        "Textoffset": "Reach Rank: 5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010102,
+        "Textoffset": "Reach Rank: 10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010103,
+        "Textoffset": "Reach Rank: 20"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010104,
+        "Textoffset": "Reach Rank: 30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010105,
+        "Textoffset": "Reach Rank: 40"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010106,
+        "Textoffset": "Reach Rank: 50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010201,
+        "Textoffset": "Clear a quest: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010202,
+        "Textoffset": "Clear a quest: x100"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010203,
+        "Textoffset": "Clear a quest: x200"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010204,
+        "Textoffset": "Clear a quest: x500"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010205,
+        "Textoffset": "Clear a quest: x1000"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010206,
+        "Textoffset": "Clear a quest: x3000"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010207,
+        "Textoffset": "Clear a quest: x5000"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010211,
+        "Textoffset": "S-Rank a quest: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010212,
+        "Textoffset": "S-Rank a quest: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010213,
+        "Textoffset": "S-Rank a quest: x100"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010301,
+        "Textoffset": "Clear a co-op quest: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010302,
+        "Textoffset": "Clear a co-op quest: x30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010303,
+        "Textoffset": "Clear a co-op quest: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010304,
+        "Textoffset": "Clear a co-op quest: x100"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010305,
+        "Textoffset": "Clear a co-op quest: x300"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010306,
+        "Textoffset": "Clear a co-op quest: x500"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010401,
+        "Textoffset": "Collect 5 allies"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010402,
+        "Textoffset": "Collect 10 allies"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010403,
+        "Textoffset": "Collect 20 allies"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010404,
+        "Textoffset": "Collect 5 memory gems"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010405,
+        "Textoffset": "Collect 10 memory gems"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010406,
+        "Textoffset": "Collect 20 memory gems"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010407,
+        "Textoffset": "Use experience tome (S) for ally upgrade: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010408,
+        "Textoffset": "Ascend an ally: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010409,
+        "Textoffset": "Ascend an ally: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010410,
+        "Textoffset": "Ascend an ally: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010411,
+        "Textoffset": "Unleash an ally: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010412,
+        "Textoffset": "Unleash an ally: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010413,
+        "Textoffset": "Unleash an ally: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010414,
+        "Textoffset": "Awaken an ally: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010415,
+        "Textoffset": "Raise a 3\u2605 ally to Lv. 40: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010416,
+        "Textoffset": "Raise a 4\u2605 ally to Lv. 50: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010417,
+        "Textoffset": "Upgrade a memory gem: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010418,
+        "Textoffset": "Upgrade a memory gem: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010419,
+        "Textoffset": "Upgrade a memory gem: x30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010420,
+        "Textoffset": "Upgrade a memory gem: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010421,
+        "Textoffset": "Upgrade a memory gem: x100"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010422,
+        "Textoffset": "Raise a memory gem to Lv. 20: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010423,
+        "Textoffset": "Raise a 3\u2605 memory gem to Lv. 20: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010424,
+        "Textoffset": "Unleash a memory gem: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010425,
+        "Textoffset": "Unleash a memory gem: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010426,
+        "Textoffset": "Unleash a memory gem: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010501,
+        "Textoffset": "Get 3 allies equipped with armor set skill effects"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010502,
+        "Textoffset": "Get 3 allies equipped with accessory set skill effects"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010503,
+        "Textoffset": "Upgrade gear: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010504,
+        "Textoffset": "Upgrade gear: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010505,
+        "Textoffset": "Upgrade gear: x30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010506,
+        "Textoffset": "Upgrade gear: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010507,
+        "Textoffset": "Upgrade gear: x100"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010508,
+        "Textoffset": "Collect 5 types of gear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010509,
+        "Textoffset": "Collect 10 types of gear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001010510,
+        "Textoffset": "Collect 20 types of gear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011001,
+        "Textoffset": "Fully clear main quest episode 1 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011002,
+        "Textoffset": "Clear main quest episode 2: The Lost Lackey"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011003,
+        "Textoffset": "Fully clear main quest episode 2 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011004,
+        "Textoffset": "Clear main quest episode 3: Poison in the Shadows"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011005,
+        "Textoffset": "Clear main quest episode 3: Armor-Guardian Lurking Deep"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011006,
+        "Textoffset": "Fully clear main quest episode 3 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011007,
+        "Textoffset": "Clear main quest episode 4: Another Flies In"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011008,
+        "Textoffset": "Fully clear main quest episode 4 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011009,
+        "Textoffset": "Clear main quest episode 1: Monster Bash (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011010,
+        "Textoffset": "Clear main quest episode 1: Baashear Breakout (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011011,
+        "Textoffset": "Clear main quest episode 1: Dark-Armored Assault (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011012,
+        "Textoffset": "Fully clear main quest episode 1 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011013,
+        "Textoffset": "Clear main quest episode 2: Looking for Lackeys (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011014,
+        "Textoffset": "Clear main quest episode 2: Through the Woods (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011015,
+        "Textoffset": "Clear main quest episode 2: Follow the Phantasm (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011016,
+        "Textoffset": "Fully clear main quest episode 2 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011017,
+        "Textoffset": "Clear main quest episode 3: Riyama Ruins: Entrance (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011018,
+        "Textoffset": "Clear main quest episode 3: Poison in the Shadows (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011019,
+        "Textoffset": "Clear main quest episode 3: Armor-Guardian Lurking Deep (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011020,
+        "Textoffset": "Fully clear main quest episode 3 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011021,
+        "Textoffset": "Clear main quest episode 4: Upside Down (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011022,
+        "Textoffset": "Clear main quest episode 4: Roaming the Gusthall (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011023,
+        "Textoffset": "Clear main quest episode 4: Giant Crab Lurking in the Cavern (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011024,
+        "Textoffset": "Clear main quest episode 4: A Passage to the Sky (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011025,
+        "Textoffset": "Clear main quest episode 4: Of Sheep and Faeries (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011026,
+        "Textoffset": "Fully clear main quest episode 4 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011027,
+        "Textoffset": "Clear main quest chapter 1: Monster Bash (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011028,
+        "Textoffset": "Clear main quest chapter 1: Dark-Armored Assault (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011029,
+        "Textoffset": "Fully clear main quest chapter 1 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011030,
+        "Textoffset": "Clear main quest chapter 2: Looking for Lackeys (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011031,
+        "Textoffset": "Clear main quest chapter 2: Through the Woods (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011032,
+        "Textoffset": "Fully clear main quest chapter 2 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011033,
+        "Textoffset": "Clear main quest episode 3: Poison in the Shadows (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011034,
+        "Textoffset": "Clear main quest episode 3: Armor-Guardian Lurking Deep (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011035,
+        "Textoffset": "Fully clear main quest chapter 3 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011036,
+        "Textoffset": "Clear main quest episode 4: A Passage to the Sky (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011037,
+        "Textoffset": "Clear main quest chapter 4: Of Sheep and Faeries (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011038,
+        "Textoffset": "Fully clear main quest chapter 4 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001011100,
+        "Textoffset": "Fully clear main quest episode 1 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012001,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 1 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012002,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 2 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012003,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 3 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012004,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 4 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012006,
+        "Textoffset": "S-Rank Warriors Hall Lezuede Lvl 1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012007,
+        "Textoffset": "S-Rank Warriors Hall Lezuede Lvl 2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012008,
+        "Textoffset": "S-Rank Warriors Hall Lezuede Lvl 3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012009,
+        "Textoffset": "S-Rank Warriors Hall Lezuede Lvl 4"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012010,
+        "Textoffset": "Clear Wisemen Hall Amgette Lvl 1 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012011,
+        "Textoffset": "Clear Wisemen Hall Amgette Lvl 2 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012012,
+        "Textoffset": "Clear Wisemen Hall Amgette Lvl 3 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012013,
+        "Textoffset": "Clear Wisemen Hall Amgette Lvl 4 on co-op: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012014,
+        "Textoffset": "S-Rank Wisemen Hall Amgette Lvl 1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012015,
+        "Textoffset": "S-Rank Wisemen Hall Amgette Lvl 2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012016,
+        "Textoffset": "S-Rank Wisemen Hall Amgette Lvl 3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001012017,
+        "Textoffset": "S-Rank Wisemen Hall Amgette Lvl 4"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013001,
+        "Textoffset": "Harvest an echo: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013002,
+        "Textoffset": "Harvest an echo: x20"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013003,
+        "Textoffset": "Harvest an echo: x50"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013101,
+        "Textoffset": "Friend another player: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013102,
+        "Textoffset": "Friend another player: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013103,
+        "Textoffset": "Friend another player: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013201,
+        "Textoffset": "Clear main quest chapter 5: A Dangerous Faerie Villa"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013202,
+        "Textoffset": "Fully clear main quest chapter 5 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013203,
+        "Textoffset": "Clear main quest chapter 5: On a Faerie Mission (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013204,
+        "Textoffset": "Clear main quest chapter 5: A Human, a Sheep, and a Faerie (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013205,
+        "Textoffset": "Clear main quest chapter 5: A Dangerous Faerie Villa (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013206,
+        "Textoffset": "Fully clear main quest chapter 5 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013207,
+        "Textoffset": "Clear main quest chapter 5: On a Faerie Mission (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013208,
+        "Textoffset": "Clear main quest chapter 5: A Human, a Sheep, and a Faerie (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013209,
+        "Textoffset": "Clear main quest chapter 5: A Dangerous Faerie Villa (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013210,
+        "Textoffset": "Fully clear main quest chapter 5 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001013301,
+        "Textoffset": "Sign up for the SQEX Bridge E-Newsletter"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001020001,
+        "Textoffset": "Clear a quest: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001020002,
+        "Textoffset": "Clear a quest: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001020003,
+        "Textoffset": "Clear a training dungeon: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001020004,
+        "Textoffset": "Clear a training dungeon: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001020005,
+        "Textoffset": "Clear all missions"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031001,
+        "Textoffset": "Clear Searing Stage (Hard) on co-op: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031002,
+        "Textoffset": "Clear Searing Stage (Very Hard) on co-op: x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031003,
+        "Textoffset": "Clear Searing Stage (Hard) on co-op: x30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031004,
+        "Textoffset": "Clear Searing Stage (Very Hard) on co-op: x30"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031005,
+        "Textoffset": "S-Rank Searing Stage (Hard): x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031006,
+        "Textoffset": "S-Rank Searing Stage (Very Hard): x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031007,
+        "Textoffset": "S-Rank Searing Stage (Hard): x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001031008,
+        "Textoffset": "S-Rank Searing Stage (Very Hard): x10"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034001,
+        "Textoffset": "S-Rank Twillwool Tower 1F-2F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034002,
+        "Textoffset": "S-Rank Twillwool Tower 3F-5F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034003,
+        "Textoffset": "S-Rank Twillwool Tower 6F-7F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034004,
+        "Textoffset": "S-Rank Twillwool Tower 8F-9F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034005,
+        "Textoffset": "S-Rank Twillwool Tower 10F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034006,
+        "Textoffset": "S-Rank Twillwool Tower 11F-12F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034007,
+        "Textoffset": "S-Rank Twillwool Tower 13F-14F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034008,
+        "Textoffset": "S-Rank Twillwool Tower 15F-17F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034009,
+        "Textoffset": "S-Rank Twillwool Tower 18F-19F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034010,
+        "Textoffset": "S-Rank Twillwool Tower 20F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034011,
+        "Textoffset": "S-Rank Twillwool Tower 21F-22F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034012,
+        "Textoffset": "S-Rank Twillwool Tower 23F-24F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034013,
+        "Textoffset": "S-Rank Twillwool Tower 25F-26F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034014,
+        "Textoffset": "S-Rank Twillwool Tower 27F-29F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034015,
+        "Textoffset": "S-Rank Twillwool Tower 30F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034016,
+        "Textoffset": "S-Rank Twillwool Tower 31F-32F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034017,
+        "Textoffset": "S-Rank Twillwool Tower 33F-34F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034018,
+        "Textoffset": "S-Rank Twillwool Tower 35F-37F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034019,
+        "Textoffset": "S-Rank Twillwool Tower 38F-39F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034020,
+        "Textoffset": "S-Rank Twillwool Tower 40F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034021,
+        "Textoffset": "S-Rank Twillwool Tower 50F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034022,
+        "Textoffset": "S-Rank Twillwool Tower 60F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034023,
+        "Textoffset": "S-Rank Twillwool Tower 70F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034030,
+        "Textoffset": "Clear Twillwool Tower 30F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034031,
+        "Textoffset": "Clear Twillwool Tower 50F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034032,
+        "Textoffset": "Clear Twillwool Tower 60F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034033,
+        "Textoffset": "Clear Twillwool Tower 70F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034044,
+        "Textoffset": "S-Rank Twillwool Tower 10F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034045,
+        "Textoffset": "S-Rank Twillwool Tower 20F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034046,
+        "Textoffset": "S-Rank Twillwool Tower 30F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034047,
+        "Textoffset": "S-Rank Twillwool Tower 40F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034048,
+        "Textoffset": "S-Rank Twillwool Tower 50F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034049,
+        "Textoffset": "S-Rank Twillwool Tower 60F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001034050,
+        "Textoffset": "S-Rank Twillwool Tower 70F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050001,
+        "Textoffset": "Clear main story chapter 2: The Lost Lackey"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050002,
+        "Textoffset": "Unlock Mana Board panels: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050003,
+        "Textoffset": "Fully clear main story chapter 1 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050004,
+        "Textoffset": "Clear a quest with memory gem equipped: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050005,
+        "Textoffset": "Upgrade a memory gem: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050006,
+        "Textoffset": "Clear a quest: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050007,
+        "Textoffset": "Clear a quest: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050008,
+        "Textoffset": "Harvest an echo: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050009,
+        "Textoffset": "Unlock Mana Board panels: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050011,
+        "Textoffset": "Clear main story chapter 2 scout quests (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050012,
+        "Textoffset": "Fully clear main story chapter 2 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050013,
+        "Textoffset": "Use experience tome (S) for ally upgrade"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050014,
+        "Textoffset": "Raise a memory gem to Lv. 10: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050015,
+        "Textoffset": "Raise a memory gem to Lv. 10: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050016,
+        "Textoffset": "Clear a training dungeon: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050017,
+        "Textoffset": "Clear a training dungeon: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050018,
+        "Textoffset": "Unlock Mana Board panels: x7"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050019,
+        "Textoffset": "Unlock Mana Board panels: x14"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050021,
+        "Textoffset": "Clear main story chapter 3: Poison in the Shadows"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050022,
+        "Textoffset": "Fully clear main story chapter 3 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050023,
+        "Textoffset": "Ascend an ally: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050024,
+        "Textoffset": "Unleash a memory gem: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050025,
+        "Textoffset": "Raise any gear to Lv. 4: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050026,
+        "Textoffset": "Raise any gear to Lv. 4: x4"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050027,
+        "Textoffset": "Clear main story chapter 1: Monster Bash (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050028,
+        "Textoffset": "Fully clear main story chapter 1 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050029,
+        "Textoffset": "Raise a 1\u2605 ally to Lv. 15: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050031,
+        "Textoffset": "Beat main story chapter 4 Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050032,
+        "Textoffset": "Fully clear main story chapter 2 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050033,
+        "Textoffset": "Unlock Mana Board panels: x35"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050034,
+        "Textoffset": "Raise a memory gem to Lv. 20: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050035,
+        "Textoffset": "Raise a memory gem to Lv. 20: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050036,
+        "Textoffset": "Raise any gear to Lv. 8: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050037,
+        "Textoffset": "Raise any gear to Lv. 8: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050038,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050039,
+        "Textoffset": "Equip Holly series gear and activate set effect"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050041,
+        "Textoffset": "Fully clear main story chapter 4 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050042,
+        "Textoffset": "Raise a 4\u2605 ally to Lv. 50: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050043,
+        "Textoffset": "Ascend an ally: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050044,
+        "Textoffset": "Unleash an ally: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050045,
+        "Textoffset": "Clear Twillwool Tower 1F-2F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050046,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050047,
+        "Textoffset": "Unlock Mana Board panels: x70"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050048,
+        "Textoffset": "Raise any gear to Lv. 8: x6"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050049,
+        "Textoffset": "Unleash a memory gem: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050051,
+        "Textoffset": "Fully clear main story chapter 5 (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050052,
+        "Textoffset": "Fully clear main story chapter 3 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050053,
+        "Textoffset": "Raise a 4\u2605 ally to Lv. 70: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050054,
+        "Textoffset": "Raise a memory gem to Lv. 30: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050055,
+        "Textoffset": "Clear Twillwool Tower 10F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050056,
+        "Textoffset": "Raise a memory gem to Lv. 30: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050057,
+        "Textoffset": "Clear Warriors Hall Lezuede Lvl 3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050058,
+        "Textoffset": "Raise any gear to Lv. 12: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050059,
+        "Textoffset": "Raise any gear to Lv. 12: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050061,
+        "Textoffset": "Fully clear main quest chapter 5 (Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050062,
+        "Textoffset": "Raise an ally to Lv. 5: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050063,
+        "Textoffset": "Equip Valsena series gear and activate set effect"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050064,
+        "Textoffset": "Raise a memory gem to Lv. 40: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050065,
+        "Textoffset": "Log in for 14 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050066,
+        "Textoffset": "Raise a 4\u2605 ally to Lv. 70: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050067,
+        "Textoffset": "Raise a 5\u2605 ally to Lv. 75: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050068,
+        "Textoffset": "Raise any gear to Lv. 16: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050069,
+        "Textoffset": "Raise any gear to Lv. 16: x6"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050071,
+        "Textoffset": "Fully clear main quest chapter 5 (Very Hard)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050072,
+        "Textoffset": "Raise an ally to Lv. 5: x6"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050073,
+        "Textoffset": "Equip Maple series gear and activate set effect"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050074,
+        "Textoffset": "Raise a memory gem to Lv. 40: x2"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050075,
+        "Textoffset": "Log in for 30 days"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050076,
+        "Textoffset": "Raise a memory gem to Lv. 40: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050077,
+        "Textoffset": "Raise a 4\u2605 ally to Lv. 70: x6"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050078,
+        "Textoffset": "Raise any gear to Lv. 20: x4"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001050079,
+        "Textoffset": "Raise any gear to Lv. 20: x6"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051111,
+        "Textoffset": "Clear All-Valsena Tournament Begins II"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051112,
+        "Textoffset": "Clear Reason to Fight III"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051113,
+        "Textoffset": "Clear Recollections on the Edge II"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051114,
+        "Textoffset": "Clear Searing Stage III"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051115,
+        "Textoffset": "Clear Fierce Finale II"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051116,
+        "Textoffset": "Unlock Mana Board panels for Randi -In Fervor and Fearlessness-: x7"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051117,
+        "Textoffset": "Unlock Mana Board panels for Randi -In Fervor and Fearlessness-: x14"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051118,
+        "Textoffset": "Unlock Mana Board panels for Randi -In Fervor and Fearlessness-: x21"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051119,
+        "Textoffset": "Ascend Randi -In Fervor and Fearlessness-: x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051121,
+        "Textoffset": "Clear Searing Stage (Normal)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051122,
+        "Textoffset": "Clear Searing Stage (Hard) on co-op: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051123,
+        "Textoffset": "Clear Searing Stage (Very Hard) on co-op: x3"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051124,
+        "Textoffset": "Clear Searing Stage (Hard) on co-op: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051125,
+        "Textoffset": "Clear Searing Stage (Very Hard) on co-op: x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051126,
+        "Textoffset": "S-Rank Searing Stage (Hard): x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051127,
+        "Textoffset": "S-Rank Searing Stage (Very Hard): x1"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051128,
+        "Textoffset": "S-Rank Searing Stage (Very Hard): x5"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 8001051129,
+        "Textoffset": "S-Rank Searing Stage (Very Hard): x10"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1020001,
+        "Textoffset": "Experience Tome (S)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1020001,
+        "Textoffset": "Use to upgrade an ally (S)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1020002,
+        "Textoffset": "Experience Tome (M)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1020002,
+        "Textoffset": "Use to upgrade an ally (M)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1020003,
+        "Textoffset": "Experience Tome (L)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1020003,
+        "Textoffset": "Use to upgrade an ally (L)"
+    }
+]

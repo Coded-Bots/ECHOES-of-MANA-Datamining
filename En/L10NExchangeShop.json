@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000010001,
+        "Textoffset": "Dryad Coin Trader"
+    },
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000010002,
+        "Textoffset": "Luna Coin Trader"
+    },
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000030001,
+        "Textoffset": "Lucre Shop"
+    },
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000040001,
+        "Textoffset": "EP Trader"
+    },
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000050001,
+        "Textoffset": "Spell Shard Trader"
+    },
+    {
+        "ColumnNameoffset": "shop_name",
+        "LocalizationTargetId": 41000060002,
+        "Textoffset": "Release Celebration Harvest Point Trader"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1061001,
+        "Textoffset": "AP Filler (S)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1061001,
+        "Textoffset": "Use to recover AP. AP is required to play main quests and event quests."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1061002,
+        "Textoffset": "AP Filler (L)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1061002,
+        "Textoffset": "Use to recover AP. AP is required to play main quests and event quests."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1062001,
+        "Textoffset": "SP Filler (S)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1062001,
+        "Textoffset": "Use to recover SP. SP is required to play training quests."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1062002,
+        "Textoffset": "SP Filler (L)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1062002,
+        "Textoffset": "Use to recover SP. SP is required to play training quests."
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000110,
+        "Textoffset": "Twillwool Tower 10F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000120,
+        "Textoffset": "Twillwool Tower 20F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000130,
+        "Textoffset": "Twillwool Tower 30F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000140,
+        "Textoffset": "Twillwool Tower 40F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000150,
+        "Textoffset": "Twillwool Tower 50F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000160,
+        "Textoffset": "Twillwool Tower 60F Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "quest_episode_name",
+        "LocalizationTargetId": 330004000170,
+        "Textoffset": "Twillwool Tower 70F Clear Reward"
+    }
+]

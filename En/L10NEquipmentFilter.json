@@ -1,0 +1,37 @@
+[
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000001,
+        "Textoffset": "All"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000002,
+        "Textoffset": "HP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000003,
+        "Textoffset": "MP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000004,
+        "Textoffset": "STR"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000005,
+        "Textoffset": "CON"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000006,
+        "Textoffset": "INT"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 3012000007,
+        "Textoffset": "SPR"
+    }
+]

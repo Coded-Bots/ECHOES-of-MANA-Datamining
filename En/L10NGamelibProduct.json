@@ -1,0 +1,522 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000017,
+        "Textoffset": "Spirit Crystal Pack A"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000017,
+        "Textoffset": "Get Spirit Crystal Pack A!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000018,
+        "Textoffset": "Spirit Crystal Pack A"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000018,
+        "Textoffset": "Get Spirit Crystal Pack A!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000019,
+        "Textoffset": "Spirit Crystal Pack B"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000019,
+        "Textoffset": "Get Spirit Crystal Pack B!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000020,
+        "Textoffset": "Spirit Crystal Pack B"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000020,
+        "Textoffset": "Get Spirit Crystal Pack B!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000021,
+        "Textoffset": "Spirit Crystal Pack C"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000021,
+        "Textoffset": "Get Spirit Crystal Pack C!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000022,
+        "Textoffset": "Spirit Crystal Pack C"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000022,
+        "Textoffset": "Get Spirit Crystal Pack C!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000023,
+        "Textoffset": "Spirit Crystal Pack D"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000023,
+        "Textoffset": "Get Spirit Crystal Pack D!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000024,
+        "Textoffset": "Spirit Crystal Pack D"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000024,
+        "Textoffset": "Get Spirit Crystal Pack D!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000025,
+        "Textoffset": "Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000025,
+        "Textoffset": "Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000026,
+        "Textoffset": "Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000026,
+        "Textoffset": "Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000027,
+        "Textoffset": "Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000027,
+        "Textoffset": "Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000028,
+        "Textoffset": "Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000028,
+        "Textoffset": "Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000029,
+        "Textoffset": "Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000029,
+        "Textoffset": "Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000030,
+        "Textoffset": "Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000030,
+        "Textoffset": "Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000031,
+        "Textoffset": "1-Time Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000031,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000032,
+        "Textoffset": "1-Time Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000032,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000033,
+        "Textoffset": "1-Time Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000033,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000034,
+        "Textoffset": "1-Time Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000034,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000035,
+        "Textoffset": "1-Time Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000035,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000036,
+        "Textoffset": "1-Time Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000036,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000037,
+        "Textoffset": "Spirit Crystal Pack A"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000037,
+        "Textoffset": "Get Spirit Crystal Pack A!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000038,
+        "Textoffset": "Spirit Crystal Pack A"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000038,
+        "Textoffset": "Get Spirit Crystal Pack A!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000039,
+        "Textoffset": "Spirit Crystal Pack B"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000039,
+        "Textoffset": "Get Spirit Crystal Pack B!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000040,
+        "Textoffset": "Spirit Crystal Pack B"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000040,
+        "Textoffset": "Get Spirit Crystal Pack B!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000041,
+        "Textoffset": "Spirit Crystal Pack C"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000041,
+        "Textoffset": "Get Spirit Crystal Pack C!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000042,
+        "Textoffset": "Spirit Crystal Pack C"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000042,
+        "Textoffset": "Get Spirit Crystal Pack C!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000043,
+        "Textoffset": "Spirit Crystal Pack D"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000043,
+        "Textoffset": "Get Spirit Crystal Pack D!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000044,
+        "Textoffset": "Spirit Crystal Pack D"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000044,
+        "Textoffset": "Get Spirit Crystal Pack D!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000045,
+        "Textoffset": "Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000045,
+        "Textoffset": "Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000046,
+        "Textoffset": "Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000046,
+        "Textoffset": "Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000047,
+        "Textoffset": "Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000047,
+        "Textoffset": "Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000048,
+        "Textoffset": "Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000048,
+        "Textoffset": "Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000049,
+        "Textoffset": "Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000049,
+        "Textoffset": "Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000050,
+        "Textoffset": "Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000050,
+        "Textoffset": "Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000051,
+        "Textoffset": "1-Time Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000051,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000052,
+        "Textoffset": "1-Time Spirit Crystal Pack E"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000052,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack E!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000053,
+        "Textoffset": "1-Time Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000053,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000054,
+        "Textoffset": "1-Time Spirit Crystal Pack F"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000054,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack F!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000055,
+        "Textoffset": "1-Time Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000055,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000056,
+        "Textoffset": "1-Time Spirit Crystal Pack G"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000056,
+        "Textoffset": "Limit 1! Get Spirit Crystal Pack G!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000057,
+        "Textoffset": "4-star Ally-Echo Pack (7-Day)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000057,
+        "Textoffset": "Get a 4-star Ally-Echo Ticket Pack! (7-Day)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000058,
+        "Textoffset": "4-star Ally-Echo Pack (7-Day)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000058,
+        "Textoffset": "Get a 4-star Ally-Echo Ticket Pack! (7-Day)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000059,
+        "Textoffset": "4-star Ally Unleash Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000059,
+        "Textoffset": "Get a 4-star Ally Unleash Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000060,
+        "Textoffset": "4-star Ally Unleash Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000060,
+        "Textoffset": "Get a 4-star Ally Unleash Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000061,
+        "Textoffset": "4-star Ally Ascend Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000061,
+        "Textoffset": "Get a 4-star Ally Ascend Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000062,
+        "Textoffset": "4-star Ally Ascend Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000062,
+        "Textoffset": "Get a 4-star Ally Ascend Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000063,
+        "Textoffset": "AoM Sticker x5 Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000063,
+        "Textoffset": "Get an AoM Sticker x5 Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000064,
+        "Textoffset": "AoM Sticker x5 Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000064,
+        "Textoffset": "Get an AoM Sticker x5 Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000065,
+        "Textoffset": "SeOM Sticker x5 Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000065,
+        "Textoffset": "Get an SeOM Sticker x5 Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000066,
+        "Textoffset": "SeOM Sticker x5 Pack"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000066,
+        "Textoffset": "Get an SeOM Sticker x5 Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000067,
+        "Textoffset": "ToM Sticker x9 Pack!"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000067,
+        "Textoffset": "Get a ToM Sticker x9 Pack!"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 11001000068,
+        "Textoffset": "ToM Sticker x9 Pack!"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 11001000068,
+        "Textoffset": "Get a ToM Sticker x9 Pack!"
+    }
+]

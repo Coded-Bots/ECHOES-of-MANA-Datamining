@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1080002,
+        "Textoffset": "4\u2605 Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1080002,
+        "Textoffset": "Used for harvesting at the 4\u2605 Ally Echo Harvest"
+    }
+]

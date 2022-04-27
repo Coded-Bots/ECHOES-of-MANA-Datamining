@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1030001,
+        "Textoffset": "Echo Seed"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1030001,
+        "Textoffset": "Use to upgrade memory gems (S)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1030002,
+        "Textoffset": "Echo Sprout"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1030002,
+        "Textoffset": "Use to upgrade memory gems (M)"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1030003,
+        "Textoffset": "Echo Bloom"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1030003,
+        "Textoffset": "Use to upgrade memory gems (L)"
+    }
+]

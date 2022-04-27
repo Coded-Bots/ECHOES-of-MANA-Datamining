@@ -1,0 +1,2667 @@
+[
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030001,
+        "Textoffset": "Your selection includes gear that is already equipped.\nUnequip and then equip?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030002,
+        "Textoffset": "Changes will not be saved.\nAre you sure?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030003,
+        "Textoffset": "No Gear to display"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030004,
+        "Textoffset": "Gear"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030005,
+        "Textoffset": "Order"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030006,
+        "Textoffset": "{0} Armor Set Effect"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030007,
+        "Textoffset": "{0} Accessory Set Effect"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030008,
+        "Textoffset": "Gear Upgrade"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030009,
+        "Textoffset": "Pieces of gear sold: {0}\nYou got {1} lucre!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030010,
+        "Textoffset": "Selection limit has been exceeded."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030011,
+        "Textoffset": "This gear is currently equipped.\nUnequip and sell this gear?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030012,
+        "Textoffset": "4\u2605 or higher gear is selected.\nSell this gear?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030013,
+        "Textoffset": "This item has been upgraded.\nSell anyway?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303030014,
+        "Textoffset": "Sale Complete"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040001,
+        "Textoffset": "Unlocks with {0}\u2605 Mana Board"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040002,
+        "Textoffset": "HP +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040003,
+        "Textoffset": "MP +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040004,
+        "Textoffset": "STR +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040005,
+        "Textoffset": "CON +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040006,
+        "Textoffset": "INT +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040007,
+        "Textoffset": "SPR +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040008,
+        "Textoffset": "LCK +{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040009,
+        "Textoffset": "Panel Unlock"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040010,
+        "Textoffset": "Use the material below?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040011,
+        "Textoffset": "You don't have enough of the material required for unlocking."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040012,
+        "Textoffset": "Use spirit crystals instead of material to unlock panels?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040013,
+        "Textoffset": "You can use spirit crystals instead of material to unlock panels,\nbut you don't have enough spirit crystals. Buy spirit crystals?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303040014,
+        "Textoffset": "Unlocks from Lv. {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050001,
+        "Textoffset": "Leave Room"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050002,
+        "Textoffset": "Are you sure you want to leave this room?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050003,
+        "Textoffset": "Disband Room"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050004,
+        "Textoffset": "The room was disbanded."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050005,
+        "Textoffset": "Quest Start Check"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050006,
+        "Textoffset": "Not all players are ready.\nBegin the quest with players who are ready?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050007,
+        "Textoffset": "Still waiting on more players to join the room.\nBegin the quest with players who are already here?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050008,
+        "Textoffset": "Room Entry Failed"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050009,
+        "Textoffset": "Could not join room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050010,
+        "Textoffset": "Room Creation Failed"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050011,
+        "Textoffset": "Remove Player"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050012,
+        "Textoffset": "Remove the selected player(s) from the room?\n<style=Notes>Once removed, they cannot rejoin the room.</style>"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050013,
+        "Textoffset": "{0} was removed from the room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050014,
+        "Textoffset": "None"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050015,
+        "Textoffset": "{0} and up"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050016,
+        "Textoffset": "Cleared"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050017,
+        "Textoffset": "None"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050018,
+        "Textoffset": "Not Set"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303050019,
+        "Textoffset": "This room is full."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060001,
+        "Textoffset": "Order"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060002,
+        "Textoffset": "Unleashed memory gem material has been selected.\nWhen used up, unleashed levels will not carry over.\nAre you sure you want to continue?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060003,
+        "Textoffset": "You can't select any more."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060004,
+        "Textoffset": "Selection includes 4\u2605 rarity items.\nAre you sure you want to sell this selection?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060005,
+        "Textoffset": "Selection includes trained items.\nAre you sure you want to sell this selection?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303060006,
+        "Textoffset": "Get bonus stat from Lv. {0}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303070001,
+        "Textoffset": "Press and hold an item to view details"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080001,
+        "Textoffset": "Expand Ally Slots"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080002,
+        "Textoffset": "Number of available ally slots was expanded."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080003,
+        "Textoffset": "Expand Memory Gem Slots"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080004,
+        "Textoffset": "Number of available memory gem slots was expanded."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080005,
+        "Textoffset": "Expand Gear Slots"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080006,
+        "Textoffset": "Number of available gear slots was expanded."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080007,
+        "Textoffset": "Limit"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080008,
+        "Textoffset": "Gift Collected"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080009,
+        "Textoffset": "Collection Failed"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303080010,
+        "Textoffset": "You have reached the limit for an item you are trying to collect.\nYou were therefore unable to collect that item."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090001,
+        "Textoffset": "Sell {0} for {1} Lucre?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090002,
+        "Textoffset": "{0} skill level rose by {1}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090003,
+        "Textoffset": "Cancel Autoventure"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090004,
+        "Textoffset": "Cancel battle skip?\nBy canceling an autoventure, the results will only include progress to this point."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090005,
+        "Textoffset": "Sub members cannot be used in this battle.\nCommencing battle with main members only."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090006,
+        "Textoffset": "You cannot carry over items."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090007,
+        "Textoffset": "{1} {0}th floor cleared"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090008,
+        "Textoffset": "Every"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090009,
+        "Textoffset": "Use {0} x{1} to recover {2} x{3}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090010,
+        "Textoffset": "Recover {0} stamina"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090011,
+        "Textoffset": "You recovered {0} stamina"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090012,
+        "Textoffset": "Recover Stamina"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090013,
+        "Textoffset": "You cannot recover stamina because your stamina is already fully recovered."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090014,
+        "Textoffset": "Use to play main story quests"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090015,
+        "Textoffset": "Use to play training dungeons and event quests"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090016,
+        "Textoffset": "You can't recover any more times today.\nYou've reached your daily limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090017,
+        "Textoffset": "Choose a way to recover {0}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090018,
+        "Textoffset": "Use {0} x{1} to recover {2} x{3}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090019,
+        "Textoffset": "Main quest chapter {0} (Hard) is unlocked!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090020,
+        "Textoffset": "Main quest chapter {0} (Very Hard) is unlocked!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090021,
+        "Textoffset": "Autoventure Settings"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090022,
+        "Textoffset": "You can't Autoventure while a supporter is selected.\nAutoventure will be switched off."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090023,
+        "Textoffset": "Autoventure was set to {0}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090024,
+        "Textoffset": "Not Enough Stamina"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090025,
+        "Textoffset": "You don't have enough stamina."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090026,
+        "Textoffset": "You don't have {0}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090027,
+        "Textoffset": "Use {0} to unlock?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090028,
+        "Textoffset": "Quest Requirement Check"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090029,
+        "Textoffset": "You can't add more chances."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090030,
+        "Textoffset": "The availability period has ended."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090031,
+        "Textoffset": "You've reached the limit of additional chances.\nTry again tomorrow."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090032,
+        "Textoffset": "You got the first clear reward!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090033,
+        "Textoffset": "Use {0} x{1} to add chances?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090034,
+        "Textoffset": "\u2267 {0} seconds"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090035,
+        "Textoffset": "< {0} seconds"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090036,
+        "Textoffset": "A quest is still in progress.\nResume quest?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090037,
+        "Textoffset": "Quit this quest?\nYou will lose all item drops."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090038,
+        "Textoffset": "Retry this quest?\nYou will lose all item drops."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090039,
+        "Textoffset": "S Rank"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090040,
+        "Textoffset": "A Rank"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090041,
+        "Textoffset": "B Rank"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090042,
+        "Textoffset": "C Rank"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090043,
+        "Textoffset": "<color=#2BA114>{0} Bonus {1} x{2}</color>"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090044,
+        "Textoffset": "{0} x{1}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090045,
+        "Textoffset": "{0}F has been unlocked!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090046,
+        "Textoffset": "Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090047,
+        "Textoffset": "Hard Mode Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090048,
+        "Textoffset": "Very Hard Mode Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303090049,
+        "Textoffset": "All chapters have been cleared.\nMore story coming soon in a later update."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100001,
+        "Textoffset": "Your selection includes trained ally material.\nUse this selection for ascend?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100002,
+        "Textoffset": "The following must be achieved first.\n\u30fbReach Required Level"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100003,
+        "Textoffset": "This ally is ready to ascend.\nAscend this ally?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100004,
+        "Textoffset": "Ascension complete!\nA new rarity Mana Board has been unlocked!\nCheck the Mana Board?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100005,
+        "Textoffset": "New Home screen message"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100006,
+        "Textoffset": "Use ally material to unleash?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100007,
+        "Textoffset": "Unleashed ally material has been selected.\nWhen used up, unleashed levels will not carry over.\nAre you sure you want to continue?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100008,
+        "Textoffset": "Awaken Ally"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100009,
+        "Textoffset": "Unleash Ally"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100010,
+        "Textoffset": "Ascend Ally"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100011,
+        "Textoffset": "Use ally material to ascend?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100012,
+        "Textoffset": "Order"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100013,
+        "Textoffset": "Use the selected ally material to ascend?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100014,
+        "Textoffset": "You can't select any more."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100015,
+        "Textoffset": "Selection includes 4\u2605 rarity items.\nAre you sure you want to sell this selection?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100016,
+        "Textoffset": "Selection includes trained items.\nAre you sure you want to sell this selection?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100017,
+        "Textoffset": "Support Skill Unlocked"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100018,
+        "Textoffset": "ST Level-Up"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100019,
+        "Textoffset": "Skill 1 Level-Up"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100020,
+        "Textoffset": "Skill 2 Level-Up"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100021,
+        "Textoffset": "Support Skill Level-Up"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100022,
+        "Textoffset": "+{0} effect"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303100023,
+        "Textoffset": "-{0}-"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303110001,
+        "Textoffset": "Welcome baaack! I've been waiting for ewe!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303110002,
+        "Textoffset": "The login bonus is reset daily at {0}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120001,
+        "Textoffset": "Unfriend {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120002,
+        "Textoffset": "Unfriend Player"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120003,
+        "Textoffset": "You unfriended {0}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120004,
+        "Textoffset": "Reject {0}'s friend request?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120005,
+        "Textoffset": "{0}'s friend request was rejected."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120006,
+        "Textoffset": "Accept {0}'s friend request?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120007,
+        "Textoffset": "You friended {0}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120008,
+        "Textoffset": "Cancel your friend request to {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120009,
+        "Textoffset": "Your friend request to {0} was canceled."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120010,
+        "Textoffset": "Send a friend request to {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120011,
+        "Textoffset": "You sent a friend request to {0}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120012,
+        "Textoffset": "This player has already friended the max number of players."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120013,
+        "Textoffset": "You have friended the max number of players."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120014,
+        "Textoffset": "Search Results"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120015,
+        "Textoffset": "Cannot find player ID."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303120016,
+        "Textoffset": "Unfriend Player"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140001,
+        "Textoffset": "Allies were sent to your gift box because your inventory is full."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140002,
+        "Textoffset": "Memory Gems were sent to your gift box because your inventory is full."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140003,
+        "Textoffset": "Allies and Memory Gems were sent to your gift box because your inventory is full."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140004,
+        "Textoffset": "Harvest x{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140005,
+        "Textoffset": "Harvest x{0} Daily"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303140006,
+        "Textoffset": "Draw Again"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160001,
+        "Textoffset": "Party"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160002,
+        "Textoffset": "Blacksmith"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160003,
+        "Textoffset": "Upgrade"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160004,
+        "Textoffset": "Harvest"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160005,
+        "Textoffset": "Shop"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160006,
+        "Textoffset": "Missions"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160007,
+        "Textoffset": "Friends"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160008,
+        "Textoffset": "Quests"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160009,
+        "Textoffset": "Go to {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160010,
+        "Textoffset": "Clear Ch. 1"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160011,
+        "Textoffset": "Clear Ch. 2"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160012,
+        "Textoffset": "Clear Ch. 3"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160013,
+        "Textoffset": "Clear Ch. 4"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160014,
+        "Textoffset": "Unlock {0} with {1}."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160015,
+        "Textoffset": "Clear Chapter {0} Quest {1}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160016,
+        "Textoffset": "Events"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160017,
+        "Textoffset": "Towers"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160018,
+        "Textoffset": "Ally Ascend Feature"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160019,
+        "Textoffset": "Ally Awaken Feature"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160020,
+        "Textoffset": "High Level Dungeon"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160021,
+        "Textoffset": "Training Dungeon and Memory Gem Item Dungeon\n{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160022,
+        "Textoffset": "Training Dungeon and Gear Item Dungeon\n{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160023,
+        "Textoffset": "{0} has been unlocked!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160024,
+        "Textoffset": "You can find it on the Upgrades screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160025,
+        "Textoffset": "Training Dungeon"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303160026,
+        "Textoffset": "Co-op"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170001,
+        "Textoffset": "{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170002,
+        "Textoffset": "Trade for {0} x{1}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170003,
+        "Textoffset": "Trade successful."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170004,
+        "Textoffset": "You've reached your trade limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170005,
+        "Textoffset": "{0} left until renewal"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170006,
+        "Textoffset": "Daily: {0} left"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170007,
+        "Textoffset": "Weekly: {0} left"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170008,
+        "Textoffset": "Monthly: {0} left"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303170009,
+        "Textoffset": "Unlimited"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180001,
+        "Textoffset": "Locked"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180002,
+        "Textoffset": "Quest is locked."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180003,
+        "Textoffset": "Must be unlocked to play."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180004,
+        "Textoffset": "Next Bingo Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180005,
+        "Textoffset": "Bingo Board Complete Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180006,
+        "Textoffset": "Newbie"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180007,
+        "Textoffset": "New bingo missions have been unlocked!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303180008,
+        "Textoffset": "Event {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303190001,
+        "Textoffset": "Normal DMG Bonus"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303190002,
+        "Textoffset": "Skill DMG Bonus"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303190003,
+        "Textoffset": "ST DMG Bonus"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303210001,
+        "Textoffset": "Auto Party"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303210002,
+        "Textoffset": "Cannot set party. You don't have enough allies of the selected elemental type."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303210003,
+        "Textoffset": "No Effect"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220001,
+        "Textoffset": "Buy Spirit Crystals"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220002,
+        "Textoffset": "Use"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220003,
+        "Textoffset": "{1}/{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220004,
+        "Textoffset": "{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220005,
+        "Textoffset": "Recover Stamina"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220006,
+        "Textoffset": "Event Stamina Recovery"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220007,
+        "Textoffset": "Ally Slot Expansion"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220008,
+        "Textoffset": "Memory Gem Slot Expansion"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220009,
+        "Textoffset": "Gear Slot Expansion"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220010,
+        "Textoffset": "Harvest"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220011,
+        "Textoffset": "Shop"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220012,
+        "Textoffset": "Panel Unlock"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220013,
+        "Textoffset": "Party Revive"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220014,
+        "Textoffset": "Start Quest"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220015,
+        "Textoffset": "Gift"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220016,
+        "Textoffset": "Your unfinalized item purchase has been completed."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220017,
+        "Textoffset": "Missions"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220018,
+        "Textoffset": "Bingo Mission"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220019,
+        "Textoffset": "Bond Level Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220020,
+        "Textoffset": "Glory Points Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220021,
+        "Textoffset": "Quest First Clear Reward"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220022,
+        "Textoffset": "Quest Mission"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220023,
+        "Textoffset": "Quest Treasure Box"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303220024,
+        "Textoffset": "Towers"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303240001,
+        "Textoffset": "Test"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990001,
+        "Textoffset": "No Limit"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990002,
+        "Textoffset": "Select Style"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990003,
+        "Textoffset": "Is this the form in which ye shall be seen?\nYou cannot make changes later."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990004,
+        "Textoffset": "Your serial code entry has been confirmed.\n\nThank you for participating in the closed beta test. We hope you have fun playing {0}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990005,
+        "Textoffset": "Serial code confirmation failed.\n\nPlease check your serial code and try again."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990006,
+        "Textoffset": "The serial code entered is not valid."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990007,
+        "Textoffset": "The serial code entered has already been registered."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990008,
+        "Textoffset": "You must agree to accept our terms of service and privacy policy to play."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990009,
+        "Textoffset": "Co-op Quest Playable Times"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990010,
+        "Textoffset": "Test"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990011,
+        "Textoffset": "You must agree to accept our terms of service and privacy policy to play. Read our terms of service and tap 'Agree' to accept."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990012,
+        "Textoffset": "Answer"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990013,
+        "Textoffset": "Copy Player ID"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990014,
+        "Textoffset": "Player ID: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990015,
+        "Textoffset": "Your player ID was copied.\nPlayer ID: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990016,
+        "Textoffset": "Change to {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990017,
+        "Textoffset": "Language settings have been changed.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990018,
+        "Textoffset": "{0}h ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990019,
+        "Textoffset": "<{0}m ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990020,
+        "Textoffset": "{0}m ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990021,
+        "Textoffset": "Player Name"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990022,
+        "Textoffset": "Return to the title screen?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990023,
+        "Textoffset": "Clear Cache"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990024,
+        "Textoffset": "Are you sure to want to clear the cache?\nGame resources will be be reloaded.\n\nNote: Your game data will not be deleted."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990025,
+        "Textoffset": "The cache has been cleared."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990026,
+        "Textoffset": "Batch Download"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990027,
+        "Textoffset": "Download the data batch?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990028,
+        "Textoffset": "Data batch download is complete."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990029,
+        "Textoffset": "Data Download Check"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990030,
+        "Textoffset": "Download Failed"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990031,
+        "Textoffset": "Data download failed."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990032,
+        "Textoffset": "{0}d ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990033,
+        "Textoffset": "{0}w ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990034,
+        "Textoffset": "{0}M ago"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990035,
+        "Textoffset": "<{0}h"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990036,
+        "Textoffset": "{0}d left"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990037,
+        "Textoffset": "Skip the opening?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990038,
+        "Textoffset": "{0} is fully recovered."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990039,
+        "Textoffset": "Delete User Data"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990040,
+        "Textoffset": "Once your user data is deleted, it cannot be restored.\nAre you sure?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990041,
+        "Textoffset": "Final Confirmation: Delete User Data"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990042,
+        "Textoffset": "Once your user data is deleted, it cannot be restored.\nAre you sure you want to delete your user data?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990043,
+        "Textoffset": "User data was deleted."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990044,
+        "Textoffset": "Set language to {0}?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990045,
+        "Textoffset": "The app will close.\nAre you sure you want to proceed?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990046,
+        "Textoffset": "Set region to {0}?\nYou cannot change your region later. When transferring data, be sure to select the same region.\nYou cannot play with users outside your region."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990047,
+        "Textoffset": "until {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990048,
+        "Textoffset": "Age Verification"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990049,
+        "Textoffset": "Are you 16 years of age or older?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990050,
+        "Textoffset": "Checking update content..."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990051,
+        "Textoffset": "{0} left"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990052,
+        "Textoffset": "{0}d"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990053,
+        "Textoffset": "{0}h"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990054,
+        "Textoffset": "{0}m"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990055,
+        "Textoffset": "You can't switch on the ad-tracker once it's off.\nAre you sure?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990056,
+        "Textoffset": "The ad-tracker cannot be switched on."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990057,
+        "Textoffset": "More free space is required for this device.\nCheck available space for your device and try again."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990058,
+        "Textoffset": "Weapon: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990059,
+        "Textoffset": "Gear: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990060,
+        "Textoffset": "Trophy: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990061,
+        "Textoffset": "Nice to meet you!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990062,
+        "Textoffset": "Skip the tutorial?"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990063,
+        "Textoffset": "Turn on to share your personal information and see ads tailored to your interest. If you turn this off, you may still receive the same number of ads but they will be less relevant to you.\n\nDetails of the data collected and the third party ad tech vendors' policies can be viewed by tapping Confirm."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990064,
+        "Textoffset": "You can choose to share your personal information for us to better understand your interests in order to deliver relevant advertising and offers via our advertising partners. Would you like to share your personal information?\n\nYou can change your answer at any time in the [Settings] menu.\n\nTap 'Confirm' for details regarding the data collected and our policies for third-party ad technology vendors."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990065,
+        "Textoffset": "Select Region"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990066,
+        "Textoffset": "Language Settings"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303990067,
+        "Textoffset": "{0} sec"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150001,
+        "Textoffset": "Error"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150002,
+        "Textoffset": "It's a brand new day in the world of Mana.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150003,
+        "Textoffset": "Notice: End of Closed Beta Testing"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150004,
+        "Textoffset": "Closed beta testing for {1} ended as of {0}.\n\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150005,
+        "Textoffset": "App maintenance is in progress."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150006,
+        "Textoffset": "App maintenance is underway. You will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150007,
+        "Textoffset": "Authentication Error"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150008,
+        "Textoffset": "Data entered is invalid."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150009,
+        "Textoffset": "An error has occurred. ({0})"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150010,
+        "Textoffset": "An error has occurred."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150011,
+        "Textoffset": "A connection error has occurred."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150012,
+        "Textoffset": "yyyy/MM/dd HH:mm"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150013,
+        "Textoffset": "{0}\n{1}~{2} ({3})"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150014,
+        "Textoffset": "Pending"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150015,
+        "Textoffset": "This item cannot be claimed.\nThe claim period has expired."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150016,
+        "Textoffset": "You cannot recover more than the stamina limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150017,
+        "Textoffset": "Entry includes prohibited term. Please try again."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150018,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150019,
+        "Textoffset": "Your user data has been transferred to another device.\nYou cannot play on this device with the same user data."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150020,
+        "Textoffset": "The availability period has ended."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150021,
+        "Textoffset": "The availability period has ended."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303150022,
+        "Textoffset": "Could not enter room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200001,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200002,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200003,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200004,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200005,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200006,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200007,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200008,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200009,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200010,
+        "Textoffset": "The app is currently under maintenance.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200011,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200012,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200013,
+        "Textoffset": "This feature is currently under maintenance."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200014,
+        "Textoffset": "A new app version is available for download from your app store. Please update to the new version."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200015,
+        "Textoffset": "New game data is now available. You will be returned to the title screen for the update."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200016,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200017,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200018,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200019,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200020,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200021,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200022,
+        "Textoffset": "This event has ended.\nYou will be returned to the home screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200023,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200024,
+        "Textoffset": "The app cannot be used currently.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200025,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200026,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200027,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200028,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200029,
+        "Textoffset": "You don't have enough spirit crystals."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200030,
+        "Textoffset": "You don't have enough stamina."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200031,
+        "Textoffset": "You don't have enough of this item."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200032,
+        "Textoffset": "You don't have enough of this item."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200033,
+        "Textoffset": "You can't hold any more allies."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200034,
+        "Textoffset": "You can't hold any more memory gems."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200035,
+        "Textoffset": "You can't hold any more gear."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200036,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200037,
+        "Textoffset": "You cannot expand your slots. You've reached your ally slot expansion limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200038,
+        "Textoffset": "You cannot expand your slots. You've reached your memory gem slot expansion limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200039,
+        "Textoffset": "You cannot expand your slots. You've reached your gear slot expansion limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200040,
+        "Textoffset": "Cannot find room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200041,
+        "Textoffset": "Room is not open."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200042,
+        "Textoffset": "You were kicked from the room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200043,
+        "Textoffset": "Cannot find room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200044,
+        "Textoffset": "This room is full."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200045,
+        "Textoffset": "You must have cleared this quest to join this room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200046,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200047,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200048,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200049,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200050,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200051,
+        "Textoffset": "Cannot equip."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200052,
+        "Textoffset": "Cannot equip."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200053,
+        "Textoffset": "Cannot equip."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200054,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200055,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200056,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200057,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200058,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200059,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200060,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200061,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200062,
+        "Textoffset": "Cannot create a room."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200063,
+        "Textoffset": "Failed to update room details."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200064,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200065,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200066,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200067,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200068,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200069,
+        "Textoffset": "Cannot find player ID."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200070,
+        "Textoffset": "Cannot accept friend request. Player cannot be found."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200071,
+        "Textoffset": "You've already sent a friend request to this player."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200072,
+        "Textoffset": "You've already friended this player."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200073,
+        "Textoffset": "You've friended the max number of players."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200074,
+        "Textoffset": "Your friend requests are currently at max limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200075,
+        "Textoffset": "This player's pending friend requests are at max limit."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200076,
+        "Textoffset": "No gifts available to collect"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200077,
+        "Textoffset": "The serial code you entered cannot be used."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200078,
+        "Textoffset": "The serial code you entered cannot be used."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200079,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200080,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200081,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200082,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200083,
+        "Textoffset": "This player has already friended the max number of players."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303200084,
+        "Textoffset": "An unexpected error has occurred.\nYou will be returned to the title screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230001,
+        "Textoffset": "Your device's payment function cannot be used."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230002,
+        "Textoffset": "Permission from a parent or guardian is needed to make a purchase."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230003,
+        "Textoffset": "Purchase was canceled."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230004,
+        "Textoffset": "Please complete your purchase at a convenience store."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230005,
+        "Textoffset": "You can't make a new purchase until your current purchase is completed at a convenience store."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230006,
+        "Textoffset": "At your current balance, this purchase will exceed your purchase limit amount."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230007,
+        "Textoffset": "The resulting amount of spirit crystals will exceed the number of spirit crystals you can hold."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230008,
+        "Textoffset": "A connection error has occurred."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230009,
+        "Textoffset": "This process is already in progress."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230010,
+        "Textoffset": "System maintenance is in progress."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230011,
+        "Textoffset": "An error has occurred. ({0})"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230012,
+        "Textoffset": "An error occurred during purchase. ({0})"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230013,
+        "Textoffset": "Purchase period has ended."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303230014,
+        "Textoffset": "You must log into Google Play."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010001,
+        "Textoffset": "Rarity"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010002,
+        "Textoffset": "Lv."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010003,
+        "Textoffset": "Obtained"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010004,
+        "Textoffset": "HP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010005,
+        "Textoffset": "MP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010006,
+        "Textoffset": "STR"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010007,
+        "Textoffset": "CON"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010008,
+        "Textoffset": "INT"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010009,
+        "Textoffset": "SPR"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010010,
+        "Textoffset": "LCK"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010011,
+        "Textoffset": "Axe"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010012,
+        "Textoffset": "Boomerang"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010013,
+        "Textoffset": "Bow"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010014,
+        "Textoffset": "Flail"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010015,
+        "Textoffset": "Glove"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010016,
+        "Textoffset": "Javelin"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010017,
+        "Textoffset": "Knife"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010018,
+        "Textoffset": "Polearm"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010019,
+        "Textoffset": "Staff"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010020,
+        "Textoffset": "Sword"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010021,
+        "Textoffset": "Descending"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010022,
+        "Textoffset": "Ascending"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010023,
+        "Textoffset": "OK"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010024,
+        "Textoffset": "Cancel"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010025,
+        "Textoffset": "Selection Details"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010026,
+        "Textoffset": "Confirm"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010027,
+        "Textoffset": "Close"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010028,
+        "Textoffset": "AP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010029,
+        "Textoffset": "SP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010030,
+        "Textoffset": "Title Screen"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010031,
+        "Textoffset": "Echoes of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010032,
+        "Textoffset": "Success"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010033,
+        "Textoffset": "Terms of Service"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010034,
+        "Textoffset": "OK"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010035,
+        "Textoffset": "On"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010036,
+        "Textoffset": "Off"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010037,
+        "Textoffset": "Adventures of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010038,
+        "Textoffset": "Secret of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010039,
+        "Textoffset": "Trials of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010040,
+        "Textoffset": "Dawn of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010041,
+        "Textoffset": "Legend of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010042,
+        "Textoffset": "Children of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010043,
+        "Textoffset": "Friends of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010044,
+        "Textoffset": "Heroes of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010045,
+        "Textoffset": "Circle of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010046,
+        "Textoffset": "Rise of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010047,
+        "Textoffset": "Echoes of Mana"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010048,
+        "Textoffset": "OK"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010049,
+        "Textoffset": "Back"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010050,
+        "Textoffset": "News"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010051,
+        "Textoffset": "Alert"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010052,
+        "Textoffset": "Japanese"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010053,
+        "Textoffset": "English"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010054,
+        "Textoffset": "Chinese"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010055,
+        "Textoffset": "Korean"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010056,
+        "Textoffset": "German"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010057,
+        "Textoffset": "French"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010058,
+        "Textoffset": "Paid {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010059,
+        "Textoffset": "Max"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010060,
+        "Textoffset": "Americas"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010061,
+        "Textoffset": "Asia Pacific"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010062,
+        "Textoffset": "Europe or Other"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010063,
+        "Textoffset": "Retry"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010064,
+        "Textoffset": "YES"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010065,
+        "Textoffset": "NO"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303010066,
+        "Textoffset": "You cannot use your device's back button on this screen."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020001,
+        "Textoffset": "{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020002,
+        "Textoffset": "{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020003,
+        "Textoffset": "{0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020004,
+        "Textoffset": "Tap an ally who will use the item"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020005,
+        "Textoffset": "All foes are defeated!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020006,
+        "Textoffset": "Not enough MP"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020007,
+        "Textoffset": "HP and MP were recovered!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020008,
+        "Textoffset": "Got {0}!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020009,
+        "Textoffset": "You've been surrounded!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020010,
+        "Textoffset": "{0} withdrew."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020011,
+        "Textoffset": "Switched to solo mode."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020012,
+        "Textoffset": "Not enough {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020013,
+        "Textoffset": "{0} is now the room host."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020014,
+        "Textoffset": "Sounds like something's moving..."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020015,
+        "Textoffset": "Connecting..."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303020016,
+        "Textoffset": "{0} Lv.{1}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130001,
+        "Textoffset": "Look out! A fearsome enemy approaches: {0}"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130002,
+        "Textoffset": "Evil Gate"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130003,
+        "Textoffset": "Dark Force"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130004,
+        "Textoffset": "Southern Slice"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130005,
+        "Textoffset": "Gem Missile"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130006,
+        "Textoffset": "Acid Breath"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130007,
+        "Textoffset": "Venomous Sweep"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130008,
+        "Textoffset": "Poisonous Burst"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130009,
+        "Textoffset": "Foe lost its target in a rampage!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130010,
+        "Textoffset": "Fiery Ray"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130011,
+        "Textoffset": "Fanning Flare"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130012,
+        "Textoffset": "Bubbleblast"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130013,
+        "Textoffset": "Dive Bomb"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130014,
+        "Textoffset": "Illusionary Slice"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130015,
+        "Textoffset": "Fading Dusk Slash"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130016,
+        "Textoffset": "Foe ATK is boosted!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130017,
+        "Textoffset": "Foe on the rampage!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130018,
+        "Textoffset": "Foe is amassing power..."
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130019,
+        "Textoffset": "Fiery Heart"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130020,
+        "Textoffset": "Rust Hurricane"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130021,
+        "Textoffset": "Energy Blast"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130022,
+        "Textoffset": "A foe has called for backup!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130023,
+        "Textoffset": "Faeriely Frenzied"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130024,
+        "Textoffset": "Attack the enemy from behind!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130025,
+        "Textoffset": "DMG boosted! Perfect time for an attack!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130026,
+        "Textoffset": "Hurry and back away!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130027,
+        "Textoffset": "Thunderous Reign"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130028,
+        "Textoffset": "Perfect time for an attack!"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130029,
+        "Textoffset": "Energy Blast"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 303130030,
+        "Textoffset": "Twisted Oblivion"
+    }
+]

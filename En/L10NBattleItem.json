@@ -1,0 +1,52 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1010001,
+        "Textoffset": "Candy"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1010001,
+        "Textoffset": "Recovers HP: S"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1010002,
+        "Textoffset": "Chocolate"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1010002,
+        "Textoffset": "Recovers HP: M"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1010003,
+        "Textoffset": "Honey Elixir"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1010003,
+        "Textoffset": "Recovers HP: L"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1010004,
+        "Textoffset": "Medical Herb"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1010004,
+        "Textoffset": "Cures status ailments"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1010005,
+        "Textoffset": "Faerie Walnut"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1010005,
+        "Textoffset": "Recovers MP"
+    }
+]

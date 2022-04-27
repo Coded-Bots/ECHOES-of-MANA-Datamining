@@ -1,0 +1,202 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000002001,
+        "Textoffset": "Harvest Trial Quest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000002001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010000,
+        "Textoffset": "Awakening Unto the Void"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010000,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010001,
+        "Textoffset": "Beginniberry: Problems in Pinzton"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010002,
+        "Textoffset": "Verdigourd: The Mana Sword Song"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010003,
+        "Textoffset": "Epicorn: Legend on the Lake"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010004,
+        "Textoffset": "Soaramame: Wings for Wear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000010005,
+        "Textoffset": "Faerieberry: Confronting Confusion"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000010005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020001,
+        "Textoffset": "Flame Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020002,
+        "Textoffset": "Aqua Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020003,
+        "Textoffset": "Zephyr Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020004,
+        "Textoffset": "Terra Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020005,
+        "Textoffset": "Dawn Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000020006,
+        "Textoffset": "Dusk Altar Vigil"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000020006,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000024001,
+        "Textoffset": "Echoing Maze"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000024001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000025001,
+        "Textoffset": "Daily Training Quest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000025001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000030001,
+        "Textoffset": "Trail to the Toughest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000030001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000033001,
+        "Textoffset": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000033001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000040001,
+        "Textoffset": "Twillwool Tower"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000040001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000050001,
+        "Textoffset": "Warriors Hall Lezuede"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000050001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 200000050002,
+        "Textoffset": "Wisemen Hall Amgette"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 200000050002,
+        "Textoffset": ""
+    }
+]

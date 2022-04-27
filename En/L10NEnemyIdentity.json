@@ -1,0 +1,412 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005001,
+        "Textoffset": "Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005002,
+        "Textoffset": "Snowy Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005003,
+        "Textoffset": "Silktail"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005004,
+        "Textoffset": "King Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005005,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005006,
+        "Textoffset": "Trap Flower"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005007,
+        "Textoffset": "Chobin Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005008,
+        "Textoffset": "Quilted Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005009,
+        "Textoffset": "Assassinant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005010,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005011,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005012,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005013,
+        "Textoffset": "Imp"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005014,
+        "Textoffset": "Gremlin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005015,
+        "Textoffset": "Eggatrice"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005016,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005017,
+        "Textoffset": "Pricklebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005018,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005019,
+        "Textoffset": "Ghoul"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005022,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005023,
+        "Textoffset": "Frost Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005024,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005025,
+        "Textoffset": "Kid Drazombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005026,
+        "Textoffset": "Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005027,
+        "Textoffset": "Magic Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005028,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005029,
+        "Textoffset": "Chess Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005030,
+        "Textoffset": "Golden Chess"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005031,
+        "Textoffset": "Poto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005032,
+        "Textoffset": "Marmpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005033,
+        "Textoffset": "Parpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005034,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005035,
+        "Textoffset": "Mushgloom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005036,
+        "Textoffset": "Molebear"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005037,
+        "Textoffset": "Needlion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005038,
+        "Textoffset": "Green Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005039,
+        "Textoffset": "Red Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005040,
+        "Textoffset": "Blue Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005041,
+        "Textoffset": "Prime Slime"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005042,
+        "Textoffset": "Copper Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005043,
+        "Textoffset": "Dark Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005044,
+        "Textoffset": "Mace Menace"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005045,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005046,
+        "Textoffset": "Siren"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005047,
+        "Textoffset": "Batmo"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005048,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005049,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005050,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005051,
+        "Textoffset": "Ma Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005052,
+        "Textoffset": "Basilisk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005053,
+        "Textoffset": "Fire Drake"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005054,
+        "Textoffset": "Evil Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005055,
+        "Textoffset": "Doom Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005057,
+        "Textoffset": "Wolfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005058,
+        "Textoffset": "Silverwolf"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005059,
+        "Textoffset": "Bluster Gas"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005060,
+        "Textoffset": "Dark Funk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005061,
+        "Textoffset": "Sand Stinger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005062,
+        "Textoffset": "Steelpion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005063,
+        "Textoffset": "Mad Mallard"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005064,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005065,
+        "Textoffset": "Gritty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005066,
+        "Textoffset": "Huffy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005067,
+        "Textoffset": "Drippy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005068,
+        "Textoffset": "Burny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005069,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005070,
+        "Textoffset": "Dawny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005071,
+        "Textoffset": "Moony Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005072,
+        "Textoffset": "Twiggy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005073,
+        "Textoffset": "Nevarl Agent"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005074,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005075,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005076,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005077,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005078,
+        "Textoffset": "Mantis Ant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005079,
+        "Textoffset": "Raxa"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005080,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005081,
+        "Textoffset": "Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005082,
+        "Textoffset": "Warrior Faerie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005086,
+        "Textoffset": "Guardian"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005087,
+        "Textoffset": "Mistletoe Marauders"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700100005088,
+        "Textoffset": "Polycerameth"
+    }
+]

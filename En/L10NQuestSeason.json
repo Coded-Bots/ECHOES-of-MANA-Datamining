@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 280001000001,
+        "Textoffset": "test"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 280001000001,
+        "Textoffset": "test"
+    }
+]

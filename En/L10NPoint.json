@@ -1,0 +1,52 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401000001,
+        "Textoffset": "Spirit Crystal"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401010001,
+        "Textoffset": " Lucre"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020001,
+        "Textoffset": "Salamando Coin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020002,
+        "Textoffset": "Undine Coin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020003,
+        "Textoffset": "Sylphid Coin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020004,
+        "Textoffset": "Glory"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020011,
+        "Textoffset": "EP"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020012,
+        "Textoffset": "High Level EP"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401020013,
+        "Textoffset": "Rabite Coin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 401030001,
+        "Textoffset": "Spell Shard"
+    }
+]

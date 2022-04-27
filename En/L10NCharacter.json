@@ -1,0 +1,507 @@
+[
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210101001,
+        "Textoffset": "Overcoming Myriad Farewells"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210101002,
+        "Textoffset": "Swordsman Starting Out"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210102001,
+        "Textoffset": "For Affection's Sake"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210102002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210103001,
+        "Textoffset": "Knight in Brutal Armor"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210103002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210104001,
+        "Textoffset": "Hidden Ambitions"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210104002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210201001,
+        "Textoffset": "Fate by Fluke"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210201002,
+        "Textoffset": "In Fervor and Fearlessness"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210202001,
+        "Textoffset": "Lovely Rowdy Lass"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210202002,
+        "Textoffset": "Strong and Sweet"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210203001,
+        "Textoffset": "Headed for the Home Village"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210203002,
+        "Textoffset": "I'm the Boss!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210206001,
+        "Textoffset": "Stealthy Shadow"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210206002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210301001,
+        "Textoffset": "Thrilling Blade Flash"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210301002,
+        "Textoffset": "Young Soldier of Valsena"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210302001,
+        "Textoffset": "Magic Power in Bloom"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210302002,
+        "Textoffset": "Rebelling Against Fate"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210303001,
+        "Textoffset": "To Save a Friend"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210304001,
+        "Textoffset": "Fifteen in the Flush of Youth"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210305001,
+        "Textoffset": "Sentiments for a Friend"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210305099,
+        "Textoffset": "Tutorial"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210306001,
+        "Textoffset": "Pride of Amazon"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210306002,
+        "Textoffset": "Search for a Brother"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210307001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210308001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210309001,
+        "Textoffset": "Body of Practical Study"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210309002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210310001,
+        "Textoffset": "Flaming Dark Magic"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210401001,
+        "Textoffset": "Unwavering Friendship"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210401002,
+        "Textoffset": "Guardian's Resolve"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210501001,
+        "Textoffset": "Encounter Sprung from a Seed"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210501002,
+        "Textoffset": "Weaver of Fantasies"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210502001,
+        "Textoffset": "Guided by Calling Dreams"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210502002,
+        "Textoffset": "A Sprouting Encounter"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210503001,
+        "Textoffset": "Smile for Mew!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210504001,
+        "Textoffset": "Proud Dragoon"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210504002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210601001,
+        "Textoffset": "Beyond the Great Calamity"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210601002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600210602001,
+        "Textoffset": "The Niccolo Vagabond"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211101001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211102001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211103001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211104001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211105001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211106001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600211107001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270001001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270001002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270001003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270001004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270011001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270011002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270011003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270011004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270011005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270012001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270012002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270012003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270012004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270012005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270013001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270013002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270013003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270013004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270013005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270014001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270014002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270014003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270014004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270014005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270015001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270015002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270015003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270015004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270015005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270016001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270016002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270016003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270016004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270016005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270017001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270017002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270017003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270017004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270017005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270018001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270018002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270018003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270018004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270018005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019001,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019002,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019003,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019004,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019005,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019006,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 600270019007,
+        "Textoffset": ""
+    }
+]

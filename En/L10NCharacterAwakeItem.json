@@ -1,0 +1,12 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 1070001,
+        "Textoffset": "Awakening Orb"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 1070001,
+        "Textoffset": "Use to awaken allies"
+    }
+]

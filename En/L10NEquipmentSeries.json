@@ -1,0 +1,72 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000001,
+        "Textoffset": "Menos"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000001,
+        "Textoffset": "[SELF] CON: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000003,
+        "Textoffset": "Valsena"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000003,
+        "Textoffset": "[SELF] STR: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000014,
+        "Textoffset": "Cotton"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000014,
+        "Textoffset": "[SELF] HP: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000018,
+        "Textoffset": "Ivory"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000018,
+        "Textoffset": "[SELF] SPR: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000024,
+        "Textoffset": "Oak"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000024,
+        "Textoffset": "[SELF] MP: +{0}"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000025,
+        "Textoffset": "Holly"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000025,
+        "Textoffset": "[SELF] HP: +{0}%"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3002000027,
+        "Textoffset": "Maple"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3002000027,
+        "Textoffset": "[SELF] INT: +{0}%"
+    }
+]

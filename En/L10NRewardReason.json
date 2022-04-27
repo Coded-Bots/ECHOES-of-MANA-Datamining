@@ -1,0 +1,177 @@
+[
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000000001,
+        "Textoffset": "Remaining amount that exceeded the limit held"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000000002,
+        "Textoffset": "Reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000110000,
+        "Textoffset": "Quest drop reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000120000,
+        "Textoffset": "Reward for clearing quest mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000120001,
+        "Textoffset": "Reward for completing quest missions"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000130000,
+        "Textoffset": "Reward for clearing quest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000130001,
+        "Textoffset": "Reward for clearing event quest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000140000,
+        "Textoffset": "Reward for clearing quest for the first time"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000140001,
+        "Textoffset": "Reward for clearing story quest for the first time"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000140002,
+        "Textoffset": "Reward for clearing event quest for the first time"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000150000,
+        "Textoffset": "Reward from scout quest treasure box"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210000,
+        "Textoffset": "Reward for completing normal mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210001,
+        "Textoffset": "Reward for completing newbie mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210002,
+        "Textoffset": "Reward for completing daily mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210003,
+        "Textoffset": "Reward for completing exclusive mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210004,
+        "Textoffset": "Mission points reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000210005,
+        "Textoffset": "Reward for completing bingo mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000220000,
+        "Textoffset": "Reward for raising your player rank"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000230000,
+        "Textoffset": "Reward for raising bond level"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000310000,
+        "Textoffset": "Harvest bonus reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000320000,
+        "Textoffset": "Shop reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000330000,
+        "Textoffset": "Pack reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000340000,
+        "Textoffset": "Reward from trader"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000350000,
+        "Textoffset": "Reward from Twillwool Tower mission"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000510000,
+        "Textoffset": "Standard login bonus reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000510001,
+        "Textoffset": "Special login bonus reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000510002,
+        "Textoffset": "Pre-registration reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000510999,
+        "Textoffset": "Closed beta testing exclusive login bonus reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000520000,
+        "Textoffset": "Event points reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000530000,
+        "Textoffset": "Reward from event trader"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000540000,
+        "Textoffset": "Ranking reward"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000610000,
+        "Textoffset": "Reward for completing the tutorial"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000610999,
+        "Textoffset": "Closed beta testing exclusive special gift"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000900000,
+        "Textoffset": "App issue resolution gift"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 430000900001,
+        "Textoffset": "App maintenance completion gift"
+    }
+]

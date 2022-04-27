@@ -1,0 +1,322 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000002,
+        "Textoffset": "Bronze Lance"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000002,
+        "Textoffset": "From end to end, a solid one-piece bronze polearm."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000003,
+        "Textoffset": "Spiked Knuckle"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000003,
+        "Textoffset": "A simple four-fingered fighting glove."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000006,
+        "Textoffset": "Boomerang"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000006,
+        "Textoffset": "A common curved wooden boomerang."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000007,
+        "Textoffset": "Bronze Sword"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000007,
+        "Textoffset": "This standard issue weapon for mercenaries has its blade and hilt form one part, making it difficult to break. But the design allows every impact to be felt through the wielder's sword arm."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000008,
+        "Textoffset": "Bastard Sword"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000008,
+        "Textoffset": "This well-balanced sword can be used one-handed or two-handed due to its long hilt. It's said that the blade's length is comparable to that of a small child."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000009,
+        "Textoffset": "Mythril Sword"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000009,
+        "Textoffset": "A narrow-bladed sword made of Mythril silver, imbued with magical power. Mythril itself is very tough, requiring tremendous effort to forge."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000010,
+        "Textoffset": "Power Glove"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000010,
+        "Textoffset": "A leather weapon with sharp, metal points on the knuckles."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000011,
+        "Textoffset": "Hyper-Fist"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000011,
+        "Textoffset": "A ghastly glove that willfully seeks sacrifices to satisfy its unceasing thirst for blood."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000012,
+        "Textoffset": "Bronze Bow"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000012,
+        "Textoffset": "A bow made of Menos bronze often used for hunting, but not quite suitable for combat."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000013,
+        "Textoffset": "Great Bow"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000013,
+        "Textoffset": "A trigger-aided bow whose tension strength allows its arrows to pierce through enemies."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000014,
+        "Textoffset": "Silver Bow"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000014,
+        "Textoffset": "A bow with pure silver-tipped arrows whose organic makeup alone deems it a masterpiece in weaponry."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000015,
+        "Textoffset": "Steel Lance"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000015,
+        "Textoffset": "The most commonplace lance among knights, this weapon can be used for sparring, but is often capped on the tip during exercises."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000016,
+        "Textoffset": "Partisan"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000016,
+        "Textoffset": "A polearm with sharp points alined evenly on the wide double-edged spearhead, allowing the wielder to both pierce and slice."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000017,
+        "Textoffset": "Bronze Axe"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000017,
+        "Textoffset": "This inexpensive axe made of Menos bronze boasts a high destructive strength due to the centrifugal force wielded by the heavy axe-head and long handle."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000018,
+        "Textoffset": "Lode Axe"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000018,
+        "Textoffset": "A conventional and easy-to-use battle axe."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000019,
+        "Textoffset": "Pyrite Axe"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000019,
+        "Textoffset": "The tip of this weapon's handle is equipped with sharp, metallic arrowhead-like point that can be used to skewer foes."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000020,
+        "Textoffset": "Bronze Knife"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000020,
+        "Textoffset": "A very common knife made of Menos bronze."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000021,
+        "Textoffset": "Parry Dagger"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000021,
+        "Textoffset": "Originally a dagger that was used in place of a shield to fend off enemy swords, it has a large guard that covers the wielder's hand entirely with a blade thin and suitable for piercing."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000022,
+        "Textoffset": "Mythril Knife"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000022,
+        "Textoffset": "A simple dagger of magical Mythril silver, the blade is longer than most knives as it deals damage by slashing over piercing."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000023,
+        "Textoffset": "Chakram"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000023,
+        "Textoffset": "A thin, wooden circular weapon edged with metal."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000024,
+        "Textoffset": "Titan Boomerang"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000024,
+        "Textoffset": "A boomerang made of tough but light titanium said to have been used to armor the Mana Fortress in ancient times."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000025,
+        "Textoffset": "Wood Flail"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000025,
+        "Textoffset": "This wooden-beater flail has a simple design, but being that it is a weapon, it has slightly higher attack power than an average flail."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000026,
+        "Textoffset": "Hammer Flail"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000026,
+        "Textoffset": "A flail with a beater shaped like the head of the fierce hammerhead shark. Its eerie appearance has the added effect of instilling fear into foes."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000027,
+        "Textoffset": "Morning Star"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000027,
+        "Textoffset": "A flail named after its metallic star-shaped beaters. It's been nicknamed \"The Starry Aspergill\" due to its habit of splattering enemy blood on the battlefield."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000028,
+        "Textoffset": "Wand"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000028,
+        "Textoffset": "A weapon carved from the wood of a common tree, cast with a simple spell so that even the greenest of mages can wield it with ease."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000029,
+        "Textoffset": "Pewter Staff"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000029,
+        "Textoffset": "A beautiful staff made with pure shining silver. It's said to be a bit heavy, but makes for a convenient weapon."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000030,
+        "Textoffset": "Crystal Staff"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000030,
+        "Textoffset": "A staff wrapped in pure crystal, which is most suitable for focus in spellcasting. All the crystal used in this weapon we mined by dwarves."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000032,
+        "Textoffset": "Harvester Staff"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000032,
+        "Textoffset": "The wooden stick you found after awakening in the sanctuary. It fits well in the hand and is just right for harvesting fruits from the tree."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000044,
+        "Textoffset": "Blainchet Bow"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000044,
+        "Textoffset": "Blainchet's favored bow may lack a flawless finish, but the careful detail in its craftsmanship lends most to its fine make."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000045,
+        "Textoffset": "Duffle Edge"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000045,
+        "Textoffset": "Duffle's favorite weapon that she just calls a \"sword,\" but the blade is more like an axe and the length is more like a spear. It is well loved as evidenced by its many scrapes."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000048,
+        "Textoffset": "Sage Staff"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000048,
+        "Textoffset": "Honeycomb's favorite wand. It's an item passed down through generations, given as the first instrument to be used by an apprentice wizard. Even so, by the polish it looks to be lovingly cared for even now."
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 3201000050,
+        "Textoffset": "Harvester Staff"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 3201000050,
+        "Textoffset": "The wooden stick you found after awakening in the sanctuary. It fits well in the hand and is just right for harvesting fruits from the tree."
+    }
+]

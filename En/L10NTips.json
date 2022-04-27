@@ -1,0 +1,432 @@
+[
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000001,
+        "Textoffset": "Using Evade"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000001,
+        "Textoffset": "Try tapping evade or flicking the screen to evade foe attacks!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000002,
+        "Textoffset": "Switching Auto Modes"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000002,
+        "Textoffset": "Tap the Auto button in the top right corner of the screen for manual to full auto play!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000003,
+        "Textoffset": "Using Auto Modes"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000003,
+        "Textoffset": "Use Semi Auto to automatically attack foes and use Full Auto to automatically advance and attack!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000004,
+        "Textoffset": "Using Autoventure"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000004,
+        "Textoffset": "You can use Autoventure for cleared quests! Use it to auto play through quests multiple times!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000005,
+        "Textoffset": "Getting EXP"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000005,
+        "Textoffset": "EXP earned after clearing a quest will be added to all allies in your party. The amount earned doesn't vary by number of allies."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000006,
+        "Textoffset": "Co-op Quests"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000006,
+        "Textoffset": "Co-op is displayed for some quests' ideal party power. Teaming up with other players is recommended for these high level battles!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000007,
+        "Textoffset": "AP (Adventure Points)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000007,
+        "Textoffset": "Spend AP to play main & event quests. AP is restored by 1 point every 5 minutes."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000008,
+        "Textoffset": "SP (Special Points)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000008,
+        "Textoffset": "Spend SP to play training quests. SP is restored by 1 point every 5 minutes."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000009,
+        "Textoffset": "Using Elements Wisely"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000009,
+        "Textoffset": "Check elemental weaknesses from the quest details or foe icons in battle. Allies don't have elemental weaknesses."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000010,
+        "Textoffset": "Weapon Types: Axe"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000010,
+        "Textoffset": "Tap and hold Attack to fill the ST gauge when wielding axe weapons!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000011,
+        "Textoffset": "Weapon Types: Boomerang"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000011,
+        "Textoffset": "Boomerangs are great for distance attacks! Piercing through enemy clusters, you can aim for many foes in one throw!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000012,
+        "Textoffset": "Weapon Types: Bow"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000012,
+        "Textoffset": "Bows can be used to attack foes from a great distance!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000013,
+        "Textoffset": "Weapon Types: Staff and Flail"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000013,
+        "Textoffset": "Staffs and flails are weapons of magic. Their normal attacks both fill the ST gauge and restore MP!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000014,
+        "Textoffset": "Weapon Types: Glove and Knife"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000014,
+        "Textoffset": "Glove and knife weapons are great for multiattacks and racking up combos!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000015,
+        "Textoffset": "Weapon Types: Polearm"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000015,
+        "Textoffset": "Use polearms to attack foes while keeping your distance and automatically attack targets just by stepping forward!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000016,
+        "Textoffset": "Weapon Types: Sword"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000016,
+        "Textoffset": "Swords are easy to wield with a good balance of multiattacks, range, and power! Swords also gain the wielder a Super Armor skill!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000017,
+        "Textoffset": "Super Armor (SA)"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000017,
+        "Textoffset": "Use Super Armor to dodge attacks and be immune to knock-backs!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000018,
+        "Textoffset": "Ascending Allies"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000018,
+        "Textoffset": "You can ascend allies of any rarity to the highest rarity through training!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000019,
+        "Textoffset": "Ascend Material"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000019,
+        "Textoffset": "You can ascend allies of any rarity to the highest rarity through training!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000020,
+        "Textoffset": "High-Level Quests: Tower"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000020,
+        "Textoffset": "Twillwool Tower is a high-level quest where a boss awaits you every 10 floors!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000021,
+        "Textoffset": "High-Level Quests: Spell Shards"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000021,
+        "Textoffset": "Get spell shards obtained from Twillwool Tower to trade for even better items!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000022,
+        "Textoffset": "Character Bonds"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000022,
+        "Textoffset": "Clearing battles earns bond EXP for characters in your party. Earn a set amount to raise bond levels!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000023,
+        "Textoffset": "Bond Levels"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000023,
+        "Textoffset": "Bond level stats are tied to characters, so allies of the same character will share bond levels regardless of rarity or element."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000024,
+        "Textoffset": "Bond Level Rewards"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000024,
+        "Textoffset": "You can get rewards for leveling up characters bonds! Earn a set amount of bond EXP to raise bond levels!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000025,
+        "Textoffset": "Home Screen"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000025,
+        "Textoffset": "You can stroll around your home screen to speak to characters and visit different spots around the town!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000026,
+        "Textoffset": "Home Screen Characters"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000026,
+        "Textoffset": "Characters will appear randomly on your home screen based on which allies you've acquired."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000027,
+        "Textoffset": "Co-Op Battles"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000027,
+        "Textoffset": "Team up with other players to take on quests! Tap Co-op from the Home screen to play!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000028,
+        "Textoffset": "Player Sharing in Co-op Battles"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000028,
+        "Textoffset": "Mega Spirit Magic gauges and combos can be shared between players!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000029,
+        "Textoffset": "Moon and Wood Mana Board Materials"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000029,
+        "Textoffset": "You can't get materials for moon and wood mana boards from item drops. So be sure to check the traders to get the items you need!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000030,
+        "Textoffset": "Getting Powerful Gear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000030,
+        "Textoffset": "Play gear drop dungeons to get even more powerful gear and easily sweep through co-op battles!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000031,
+        "Textoffset": "Gear: Main Stat"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000031,
+        "Textoffset": "All gear comes with a main stat. Level up the gear to boost its main stat!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000032,
+        "Textoffset": "Gear: Bonus Stats"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000032,
+        "Textoffset": "Gear can gain bonus stats at certain levels, and these stats increase at random!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000033,
+        "Textoffset": "Forming Strategies"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000033,
+        "Textoffset": "Check \"Change Strategy\" on the Ally Details screen to change actions for allies you don't control. (Strategy settings cannot be changed during battle.)"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000034,
+        "Textoffset": "Using Co-op Chat"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000034,
+        "Textoffset": "Use Chat to send stickers and preset phrases to communicate with players in co-op rooms. You can even send stickers during battle!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000035,
+        "Textoffset": "Mega Spirit Magic"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000035,
+        "Textoffset": "Mega Spirit Magic power varies by its Mega Spirit Magic level and the STR & INT of the ally using it."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000036,
+        "Textoffset": "Selling Gear"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000036,
+        "Textoffset": "Sell gear to get lucre and gear upgrade material! Material gained varies by level and rarity of the gear sold."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000037,
+        "Textoffset": "Settings Screen"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000037,
+        "Textoffset": "Use Settings to customize game and battle settings, stamina recovery notifications, and more!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000038,
+        "Textoffset": "Weapons"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000038,
+        "Textoffset": "You can change weapons for any ally from the Ally Details screen!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000039,
+        "Textoffset": "Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000039,
+        "Textoffset": "Equip memory gems to boost stats, gain aegis skills, and boost mega spirit magic levels!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000040,
+        "Textoffset": "Upgrading Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000040,
+        "Textoffset": "Don't forget to level up and unleash your memory gems for party stats boosts!"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000041,
+        "Textoffset": "Equipping Items for Battle"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000041,
+        "Textoffset": "You can equip up to 3 types of items to each of your parties! The item type and number you can equip varies by quest."
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000042,
+        "Textoffset": "Extra Quests"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000042,
+        "Textoffset": "Extra quests are added to cleared main quest chapters! Multiple playthroughs are perfect for toughening up your party! (There are no extra quests for Chapter 1 normal difficulty.)"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 16001000043,
+        "Textoffset": "Weapon Attack Types"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 16001000043,
+        "Textoffset": "Weapons attacks have different types such as slash, piercing, blunt, and magic attacks!"
+    }
+]

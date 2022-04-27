@@ -1,0 +1,62 @@
+[
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001010001,
+        "Textoffset": "Popoi's Lackey"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001010002,
+        "Textoffset": "A Mazing Forester"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001011001,
+        "Textoffset": "The Faerie's Guide"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001012001,
+        "Textoffset": "The Remnant"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001022001,
+        "Textoffset": "Mana Sword's Chosen"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001022002,
+        "Textoffset": "Gemma Knight"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001041001,
+        "Textoffset": "Mana Sword Seeker"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001050001,
+        "Textoffset": "Twillwool Toppler 50F"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001051001,
+        "Textoffset": "Twillwool Toppler 60F"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001051002,
+        "Textoffset": "Twillwool Toppler 70F"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001062001,
+        "Textoffset": "Heroic Weaver of Bonds"
+    },
+    {
+        "ColumnNameoffset": "title_name",
+        "LocalizationTargetId": 15001062002,
+        "Textoffset": "Mana's Swordsmen Summoner"
+    }
+]

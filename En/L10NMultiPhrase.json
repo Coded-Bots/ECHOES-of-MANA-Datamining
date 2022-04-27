@@ -1,0 +1,102 @@
+[
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000001,
+        "Textoffset": "Hello!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000002,
+        "Textoffset": "Thanks!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000003,
+        "Textoffset": "Nice job!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000004,
+        "Textoffset": "Sorry!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000005,
+        "Textoffset": "No worries!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000006,
+        "Textoffset": "Follow me!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000007,
+        "Textoffset": "I'll follow you!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000008,
+        "Textoffset": "Roger that!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000009,
+        "Textoffset": "Let's attack!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000010,
+        "Textoffset": "Help!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000011,
+        "Textoffset": "Wait a sec!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000012,
+        "Textoffset": "I'm ready!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000013,
+        "Textoffset": "Good work!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000014,
+        "Textoffset": "Til next time!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000015,
+        "Textoffset": "Wonderful!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000016,
+        "Textoffset": "Halt!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000017,
+        "Textoffset": "Bring it on!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000018,
+        "Textoffset": "Too bad."
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000019,
+        "Textoffset": "Awesome!"
+    },
+    {
+        "ColumnNameoffset": "phrase_body",
+        "LocalizationTargetId": 62001000020,
+        "Textoffset": "That was close..."
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002000301,
+        "Textoffset": "Battle Basics"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002000301,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002000302,
+        "Textoffset": "Battle Basics"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002000302,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002000403,
+        "Textoffset": "Battle Basics"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002000403,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010101,
+        "Textoffset": "Upgrading Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010101,
+        "Textoffset": "Description"
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010102,
+        "Textoffset": "Upgrading Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010102,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010201,
+        "Textoffset": "Ascending Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010201,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010202,
+        "Textoffset": "Ascending Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010202,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010301,
+        "Textoffset": "Unleashing Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010301,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010401,
+        "Textoffset": "Awakening Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010401,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002010402,
+        "Textoffset": "Awakening Allies"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002010402,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002020201,
+        "Textoffset": "Upgrading Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002020201,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002020202,
+        "Textoffset": "Upgrading Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002020202,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002020301,
+        "Textoffset": "Unleashing Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002020301,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002020302,
+        "Textoffset": "Unleashing Memory Gems"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002020302,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002030401,
+        "Textoffset": "Upgrading Gear"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002030401,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002030402,
+        "Textoffset": "Upgrading Gear"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002030402,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002040201,
+        "Textoffset": "Events"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002040201,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002040401,
+        "Textoffset": "Training"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002040401,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002040501,
+        "Textoffset": "Events"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002040501,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002040601,
+        "Textoffset": "Breach Battle Events"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002040601,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002040701,
+        "Textoffset": "Ranking Events"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002040701,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002080101,
+        "Textoffset": "Character Bond"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002080101,
+        "Textoffset": ""
+    },
+    {
+        "ColumnNameoffset": "title",
+        "LocalizationTargetId": 14002080201,
+        "Textoffset": "Friends"
+    },
+    {
+        "ColumnNameoffset": "message",
+        "LocalizationTargetId": 14002080201,
+        "Textoffset": ""
+    }
+]

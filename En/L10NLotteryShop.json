@@ -1,0 +1,32 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 6001000001,
+        "Textoffset": "Tutorial Gacha"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6001000001,
+        "Textoffset": "Standard Harvest"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 6001002001,
+        "Textoffset": "Standard Harvest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6001002001,
+        "Textoffset": "Standard Harvest"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 6001003001,
+        "Textoffset": "Ticket Harvest"
+    },
+    {
+        "ColumnNameoffset": "description",
+        "LocalizationTargetId": 6001003001,
+        "Textoffset": "Standard Harvest"
+    }
+]

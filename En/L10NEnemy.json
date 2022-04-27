@@ -1,0 +1,1557 @@
+[
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205001001,
+        "Textoffset": "Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205001002,
+        "Textoffset": "Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205001003,
+        "Textoffset": "Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205002001,
+        "Textoffset": "Snowy Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205002002,
+        "Textoffset": "Snowy Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205002003,
+        "Textoffset": "Snowy Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205003001,
+        "Textoffset": "Silktail"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205003002,
+        "Textoffset": "Silktail"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205003003,
+        "Textoffset": "Silktail"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205004001,
+        "Textoffset": "King Rabite"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005001,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005002,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005003,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005004,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005005,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005006,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205005007,
+        "Textoffset": "Lullabud"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205006001,
+        "Textoffset": "Trap Flower"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205006002,
+        "Textoffset": "Trap Flower"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205006003,
+        "Textoffset": "Trap Flower"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205006004,
+        "Textoffset": "Trap Flower"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205007001,
+        "Textoffset": "Chobin Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205007002,
+        "Textoffset": "Chobin Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205008001,
+        "Textoffset": "Quilted Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205008002,
+        "Textoffset": "Quilted Hood"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205009001,
+        "Textoffset": "Assassinant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205009002,
+        "Textoffset": "Assassinant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205009003,
+        "Textoffset": "Assassinant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205009004,
+        "Textoffset": "Assassinant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205010001,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205010002,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205010003,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205010004,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205010005,
+        "Textoffset": "Antversary"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011001,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011002,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011003,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011004,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011005,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011006,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205011007,
+        "Textoffset": "Sahagin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205012001,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205012002,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205012003,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205012004,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205012005,
+        "Textoffset": "Petit Poseidon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205013001,
+        "Textoffset": "Imp"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205013002,
+        "Textoffset": "Imp"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205013003,
+        "Textoffset": "Imp"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205014001,
+        "Textoffset": "Gremlin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205014002,
+        "Textoffset": "Gremlin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205014003,
+        "Textoffset": "Gremlin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205014004,
+        "Textoffset": "Gremlin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205015001,
+        "Textoffset": "Eggatrice"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205015002,
+        "Textoffset": "Eggatrice"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205015003,
+        "Textoffset": "Eggatrice"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016001,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016002,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016003,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016004,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016005,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205016006,
+        "Textoffset": "Needlebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205017001,
+        "Textoffset": "Pricklebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205017002,
+        "Textoffset": "Pricklebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205017003,
+        "Textoffset": "Pricklebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205017004,
+        "Textoffset": "Pricklebeak"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205018001,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205018002,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205018003,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205018004,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205018005,
+        "Textoffset": "Zombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205019001,
+        "Textoffset": "Ghoul"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205019002,
+        "Textoffset": "Ghoul"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205019003,
+        "Textoffset": "Ghoul"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205019004,
+        "Textoffset": "Ghoul"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205022001,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205022002,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205022003,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205022004,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205022005,
+        "Textoffset": "Kid Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205023001,
+        "Textoffset": "Frost Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205023002,
+        "Textoffset": "Frost Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205023003,
+        "Textoffset": "Frost Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205023004,
+        "Textoffset": "Frost Dragon"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024001,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024002,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024003,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024004,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024005,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205024006,
+        "Textoffset": "Kid Drakonis"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205025001,
+        "Textoffset": "Kid Drazombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205025002,
+        "Textoffset": "Kid Drazombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205025003,
+        "Textoffset": "Kid Drazombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205025004,
+        "Textoffset": "Kid Drazombie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205026001,
+        "Textoffset": "Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205026002,
+        "Textoffset": "Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205026003,
+        "Textoffset": "Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205026004,
+        "Textoffset": "Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205027001,
+        "Textoffset": "Magic Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205027002,
+        "Textoffset": "Magic Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205027003,
+        "Textoffset": "Magic Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205027004,
+        "Textoffset": "Magic Tezla"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205028001,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205028002,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205028003,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205028004,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205028005,
+        "Textoffset": "Marmablue"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205029001,
+        "Textoffset": "Chess Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205029002,
+        "Textoffset": "Chess Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205029003,
+        "Textoffset": "Chess Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205030001,
+        "Textoffset": "Golden Chess"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205030002,
+        "Textoffset": "Golden Chess"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205030003,
+        "Textoffset": "Golden Chess"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205031001,
+        "Textoffset": "Poto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205031002,
+        "Textoffset": "Poto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205031003,
+        "Textoffset": "Poto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205032001,
+        "Textoffset": "Marmpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205032002,
+        "Textoffset": "Marmpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205032003,
+        "Textoffset": "Marmpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205033001,
+        "Textoffset": "Parpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205033002,
+        "Textoffset": "Parpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205033003,
+        "Textoffset": "Parpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205033004,
+        "Textoffset": "Parpoto"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034001,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034002,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034003,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034004,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034005,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034006,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205034007,
+        "Textoffset": "Mushboom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205035001,
+        "Textoffset": "Mushgloom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205035002,
+        "Textoffset": "Mushgloom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205035003,
+        "Textoffset": "Mushgloom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205035004,
+        "Textoffset": "Mushgloom"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205036001,
+        "Textoffset": "Molebear"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205036002,
+        "Textoffset": "Molebear"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205036003,
+        "Textoffset": "Molebear"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205036004,
+        "Textoffset": "Molebear"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205037001,
+        "Textoffset": "Needlion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205037002,
+        "Textoffset": "Needlion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205037003,
+        "Textoffset": "Needlion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205037004,
+        "Textoffset": "Needlion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205038001,
+        "Textoffset": "Green Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205038002,
+        "Textoffset": "Green Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205038003,
+        "Textoffset": "Green Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205038004,
+        "Textoffset": "Green Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205039001,
+        "Textoffset": "Red Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205039002,
+        "Textoffset": "Red Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205039003,
+        "Textoffset": "Red Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205039004,
+        "Textoffset": "Red Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205040001,
+        "Textoffset": "Blue Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205040002,
+        "Textoffset": "Blue Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205040003,
+        "Textoffset": "Blue Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205040004,
+        "Textoffset": "Blue Drop"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205041001,
+        "Textoffset": "Prime Slime"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205041002,
+        "Textoffset": "Prime Slime"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205041003,
+        "Textoffset": "Prime Slime"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205042001,
+        "Textoffset": "Copper Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205042002,
+        "Textoffset": "Copper Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205042003,
+        "Textoffset": "Copper Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205042004,
+        "Textoffset": "Copper Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205043001,
+        "Textoffset": "Dark Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205043002,
+        "Textoffset": "Dark Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205043003,
+        "Textoffset": "Dark Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205044001,
+        "Textoffset": "Mace Menace"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205044002,
+        "Textoffset": "Mace Menace"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205044003,
+        "Textoffset": "Mace Menace"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205044004,
+        "Textoffset": "Mace Menace"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205045001,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205045002,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205045003,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205045004,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205045005,
+        "Textoffset": "Harpy"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205046001,
+        "Textoffset": "Siren"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205046002,
+        "Textoffset": "Siren"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205046003,
+        "Textoffset": "Siren"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205046004,
+        "Textoffset": "Siren"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205047001,
+        "Textoffset": "Batmo"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205047002,
+        "Textoffset": "Batmo"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205047003,
+        "Textoffset": "Batmo"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048001,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048002,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048003,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048004,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048005,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048006,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205048007,
+        "Textoffset": "Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049001,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049002,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049003,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049004,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049005,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049006,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205049007,
+        "Textoffset": "Hobgoblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205050001,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205050002,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205050003,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205050004,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205050005,
+        "Textoffset": "Gobfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205051001,
+        "Textoffset": "Ma Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205051002,
+        "Textoffset": "Ma Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205051003,
+        "Textoffset": "Ma Goblin"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205052001,
+        "Textoffset": "Basilisk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205052002,
+        "Textoffset": "Basilisk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205052003,
+        "Textoffset": "Basilisk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205053001,
+        "Textoffset": "Fire Drake"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205053002,
+        "Textoffset": "Fire Drake"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205053003,
+        "Textoffset": "Fire Drake"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205053004,
+        "Textoffset": "Fire Drake"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205054001,
+        "Textoffset": "Evil Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205054002,
+        "Textoffset": "Evil Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205055001,
+        "Textoffset": "Doom Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205055002,
+        "Textoffset": "Doom Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205055003,
+        "Textoffset": "Doom Sword"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205057002,
+        "Textoffset": "Wolfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205057003,
+        "Textoffset": "Wolfiend"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205058002,
+        "Textoffset": "Silverwolf"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205059001,
+        "Textoffset": "Bluster Gas"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205059002,
+        "Textoffset": "Bluster Gas"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205059003,
+        "Textoffset": "Bluster Gas"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205060001,
+        "Textoffset": "Dark Funk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205060002,
+        "Textoffset": "Dark Funk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205060003,
+        "Textoffset": "Dark Funk"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205061001,
+        "Textoffset": "Sand Stinger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205061002,
+        "Textoffset": "Sand Stinger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205061003,
+        "Textoffset": "Sand Stinger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205062001,
+        "Textoffset": "Steelpion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205062002,
+        "Textoffset": "Steelpion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205062003,
+        "Textoffset": "Steelpion"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205063001,
+        "Textoffset": "Mad Mallard"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205063002,
+        "Textoffset": "Mad Mallard"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205063003,
+        "Textoffset": "Mad Mallard"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064001,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064002,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064003,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064004,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064005,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205064006,
+        "Textoffset": "Captain Duck"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205065001,
+        "Textoffset": "Gritty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205065002,
+        "Textoffset": "Gritty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205065003,
+        "Textoffset": "Gritty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205066001,
+        "Textoffset": "Huffy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205066002,
+        "Textoffset": "Huffy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205066003,
+        "Textoffset": "Huffy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205066004,
+        "Textoffset": "Huffy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205067001,
+        "Textoffset": "Drippy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205067002,
+        "Textoffset": "Drippy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205067003,
+        "Textoffset": "Drippy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205068001,
+        "Textoffset": "Burny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205068002,
+        "Textoffset": "Burny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205068003,
+        "Textoffset": "Burny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069001,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069002,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069003,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069004,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069005,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069006,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069007,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205069008,
+        "Textoffset": "Nighty Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205070001,
+        "Textoffset": "Dawny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205070002,
+        "Textoffset": "Dawny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205070003,
+        "Textoffset": "Dawny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205070004,
+        "Textoffset": "Dawny Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205071001,
+        "Textoffset": "Moony Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205071002,
+        "Textoffset": "Moony Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205071003,
+        "Textoffset": "Moony Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205072001,
+        "Textoffset": "Twiggy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205072002,
+        "Textoffset": "Twiggy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205072003,
+        "Textoffset": "Twiggy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205072004,
+        "Textoffset": "Twiggy Knitwit"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205073001,
+        "Textoffset": "Nevarl Agent"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205073002,
+        "Textoffset": "Nevarl Agent"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205073003,
+        "Textoffset": "Nevarl Agent"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205074001,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205074002,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205075001,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205076001,
+        "Textoffset": "Zable Fahr"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077001,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077002,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077003,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077004,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077005,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077006,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205077007,
+        "Textoffset": "Ebon Knight"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205078001,
+        "Textoffset": "Mantis Ant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205078002,
+        "Textoffset": "Mantis Ant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205078003,
+        "Textoffset": "Mantis Ant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205078004,
+        "Textoffset": "Mantis Ant"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205079001,
+        "Textoffset": "Raxa"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205079002,
+        "Textoffset": "Raxa"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205079003,
+        "Textoffset": "Raxa"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205079004,
+        "Textoffset": "Raxa"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205080001,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205080002,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205080003,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205080004,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205080005,
+        "Textoffset": "Armored Inferno"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205081001,
+        "Textoffset": "Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205081002,
+        "Textoffset": "Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205081003,
+        "Textoffset": "Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205081004,
+        "Textoffset": "Fullmetal Hugger"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205082001,
+        "Textoffset": "Warrior Faerie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205082002,
+        "Textoffset": "Warrior Faerie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205082003,
+        "Textoffset": "Warrior Faerie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205082004,
+        "Textoffset": "Warrior Faerie"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205086001,
+        "Textoffset": "Guardian"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205086002,
+        "Textoffset": "Guardian"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205086003,
+        "Textoffset": "Guardian"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205086004,
+        "Textoffset": "Guardian"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205087001,
+        "Textoffset": "Mistletoe Marauders"
+    },
+    {
+        "ColumnNameoffset": "name",
+        "LocalizationTargetId": 700205088002,
+        "Textoffset": "Polycerameth"
+    }
+]
