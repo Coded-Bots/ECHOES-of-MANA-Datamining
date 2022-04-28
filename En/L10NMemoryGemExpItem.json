@@ -1,32 +1,32 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1030001,
-        "Textoffset": "Echo Seed"
+        "Text": "Echo Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1030001,
-        "Textoffset": "Use to upgrade memory gems (S)"
+        "Text": "Use to upgrade memory gems (S)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1030002,
-        "Textoffset": "Echo Sprout"
+        "Text": "Echo Sprout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1030002,
-        "Textoffset": "Use to upgrade memory gems (M)"
+        "Text": "Use to upgrade memory gems (M)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1030003,
-        "Textoffset": "Echo Bloom"
+        "Text": "Echo Bloom"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1030003,
-        "Textoffset": "Use to upgrade memory gems (L)"
+        "Text": "Use to upgrade memory gems (L)"
     }
 ]

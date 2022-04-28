@@ -1,3932 +1,3932 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210002001101,
-        "Textoffset": "Harvest Trial Quest"
+        "Text": "Harvest Trial Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210002001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210002001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010000101,
-        "Textoffset": "The Last Sanctuary I"
+        "Text": "The Last Sanctuary I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010000101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010000101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010000102,
-        "Textoffset": "The Last Sanctuary II"
+        "Text": "The Last Sanctuary II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010000102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010000102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010000103,
-        "Textoffset": "The Last Sanctuary III"
+        "Text": "The Last Sanctuary III"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010000103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010000103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010000104,
-        "Textoffset": "The Last Sanctuary IV"
+        "Text": "The Last Sanctuary IV"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010000104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010000104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001101,
-        "Textoffset": "Knights of Slight Stature"
+        "Text": "Knights of Slight Stature"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001102,
-        "Textoffset": "Monster Bash"
+        "Text": "Monster Bash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001102,
-        "Textoffset": "Effective: Fire, Light"
+        "Text": "Effective: Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001103,
-        "Textoffset": "Trio Teams Up"
+        "Text": "Trio Teams Up"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001104,
-        "Textoffset": "Perusing Pinzton"
+        "Text": "Perusing Pinzton"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001105,
-        "Textoffset": "Baashear Breakout"
+        "Text": "Baashear Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001105,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001106,
-        "Textoffset": "Mr. Legendary Swordsman"
+        "Text": "Mr. Legendary Swordsman"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001107,
-        "Textoffset": "Dark-Armored Assault"
+        "Text": "Dark-Armored Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001107,
-        "Textoffset": "Be on the look out for attack-area markers and run to safety!"
+        "Text": "Be on the look out for attack-area markers and run to safety!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001108,
-        "Textoffset": "Away with Trouble"
+        "Text": "Away with Trouble"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001109,
-        "Textoffset": "Echoes of Memories"
+        "Text": "Echoes of Memories"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001202,
-        "Textoffset": "Monster Bash"
+        "Text": "Monster Bash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001202,
-        "Textoffset": "Effective: Fire, Light"
+        "Text": "Effective: Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001205,
-        "Textoffset": "Baashear Breakout"
+        "Text": "Baashear Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001205,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001205,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001207,
-        "Textoffset": "Dark-Armored Assault"
+        "Text": "Dark-Armored Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001207,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001207,
-        "Textoffset": "Be on the look out for attack-area markers and run to safety!"
+        "Text": "Be on the look out for attack-area markers and run to safety!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001210,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001210,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001210,
-        "Textoffset": "Effective: Fire, Light"
+        "Text": "Effective: Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001302,
-        "Textoffset": "Monster Bash"
+        "Text": "Monster Bash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001302,
-        "Textoffset": "Effective: Fire, Light"
+        "Text": "Effective: Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001305,
-        "Textoffset": "Baashear Breakout"
+        "Text": "Baashear Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001305,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001307,
-        "Textoffset": "Dark-Armored Assault"
+        "Text": "Dark-Armored Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001307,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001307,
-        "Textoffset": "Be on the look out for attack-area markers and run to safety!"
+        "Text": "Be on the look out for attack-area markers and run to safety!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010001310,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010001310,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010001310,
-        "Textoffset": "Effective: Fire, Light"
+        "Text": "Effective: Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002101,
-        "Textoffset": "The Lost Lackey"
+        "Text": "The Lost Lackey"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002101,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002102,
-        "Textoffset": "Boss Knows Best"
+        "Text": "Boss Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002102,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002103,
-        "Textoffset": "Looking for Lackeys"
+        "Text": "Looking for Lackeys"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002103,
-        "Textoffset": "Effective: Moon, Fire, Wind"
+        "Text": "Effective: Moon, Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002104,
-        "Textoffset": "Pink and Spotted"
+        "Text": "Pink and Spotted"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002105,
-        "Textoffset": "Who's the Guide Here?"
+        "Text": "Who's the Guide Here?"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002105,
-        "Textoffset": "Effective: Moon, Fire, Light"
+        "Text": "Effective: Moon, Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002106,
-        "Textoffset": "Primm Knows Best"
+        "Text": "Primm Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002106,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002107,
-        "Textoffset": "Through the Woods"
+        "Text": "Through the Woods"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002107,
-        "Textoffset": "Effective: Moon, Wind, Fire"
+        "Text": "Effective: Moon, Wind, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002108,
-        "Textoffset": "A Pleasant Place Called Potos"
+        "Text": "A Pleasant Place Called Potos"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002109,
-        "Textoffset": "Follow the Phantasm"
+        "Text": "Follow the Phantasm"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002109,
-        "Textoffset": "Effective: Fire, Wind"
+        "Text": "Effective: Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002110,
-        "Textoffset": "Mantis Ant Lurking Underfoot"
+        "Text": "Mantis Ant Lurking Underfoot"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002110,
-        "Textoffset": "Effective: Wind/Ineffective: Earth"
+        "Text": "Effective: Wind/Ineffective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002111,
-        "Textoffset": "Blade Beneath the Waterfall"
+        "Text": "Blade Beneath the Waterfall"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002112,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002112,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002201,
-        "Textoffset": "The Lost Lackey"
+        "Text": "The Lost Lackey"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002201,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002202,
-        "Textoffset": "Boss Knows Best"
+        "Text": "Boss Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002202,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002203,
-        "Textoffset": "Looking for Lackeys"
+        "Text": "Looking for Lackeys"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002203,
-        "Textoffset": "Effective: Moon, Fire, Wind"
+        "Text": "Effective: Moon, Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002205,
-        "Textoffset": "Who's the Guide Here?"
+        "Text": "Who's the Guide Here?"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002205,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002205,
-        "Textoffset": "Effective: Moon, Fire, Light"
+        "Text": "Effective: Moon, Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002206,
-        "Textoffset": "Primm Knows Best"
+        "Text": "Primm Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002206,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002206,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002207,
-        "Textoffset": "Through the Woods"
+        "Text": "Through the Woods"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002207,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002207,
-        "Textoffset": "Effective: Moon, Wind, Fire"
+        "Text": "Effective: Moon, Wind, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002209,
-        "Textoffset": "Follow the Phantasm"
+        "Text": "Follow the Phantasm"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002209,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002209,
-        "Textoffset": "Effective: Fire, Wind"
+        "Text": "Effective: Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002210,
-        "Textoffset": "Mantis Ant Lurking Underfoot"
+        "Text": "Mantis Ant Lurking Underfoot"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002210,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002210,
-        "Textoffset": "Effective: Wind/Ineffective: Earth"
+        "Text": "Effective: Wind/Ineffective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002212,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002212,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002212,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002301,
-        "Textoffset": "The Lost Lackey"
+        "Text": "The Lost Lackey"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002301,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002302,
-        "Textoffset": "Boss Knows Best"
+        "Text": "Boss Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002302,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002303,
-        "Textoffset": "Looking for Lackeys"
+        "Text": "Looking for Lackeys"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002303,
-        "Textoffset": "Effective: Moon, Fire, Wind"
+        "Text": "Effective: Moon, Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002305,
-        "Textoffset": "Who's the Guide Here?"
+        "Text": "Who's the Guide Here?"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002305,
-        "Textoffset": "Effective: Moon, Fire, Light"
+        "Text": "Effective: Moon, Fire, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002306,
-        "Textoffset": "Primm Knows Best"
+        "Text": "Primm Knows Best"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002306,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002306,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002307,
-        "Textoffset": "Through the Woods"
+        "Text": "Through the Woods"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002307,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002307,
-        "Textoffset": "Effective: Moon, Wind, Fire"
+        "Text": "Effective: Moon, Wind, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002309,
-        "Textoffset": "Follow the Phantasm"
+        "Text": "Follow the Phantasm"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002309,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002309,
-        "Textoffset": "Effective: Fire, Wind"
+        "Text": "Effective: Fire, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002310,
-        "Textoffset": "Mantis Ant Lurking Underfoot"
+        "Text": "Mantis Ant Lurking Underfoot"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002310,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002310,
-        "Textoffset": "Effective: Wind/Ineffective: Earth"
+        "Text": "Effective: Wind/Ineffective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010002312,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010002312,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010002312,
-        "Textoffset": "Effective: Moon, Light, Wind"
+        "Text": "Effective: Moon, Light, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003101,
-        "Textoffset": "Mana Sword Memories"
+        "Text": "Mana Sword Memories"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003102,
-        "Textoffset": "The Adventurous Tales We Spin"
+        "Text": "The Adventurous Tales We Spin"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003102,
-        "Textoffset": "Effective: Water, Earth"
+        "Text": "Effective: Water, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003103,
-        "Textoffset": "Cotton Candy Trail Mixup"
+        "Text": "Cotton Candy Trail Mixup"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003103,
-        "Textoffset": "Effective: Dark, Earth, Water"
+        "Text": "Effective: Dark, Earth, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003104,
-        "Textoffset": "The Road to the Lake"
+        "Text": "The Road to the Lake"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003104,
-        "Textoffset": "Effective: Water, Earth, Moon"
+        "Text": "Effective: Water, Earth, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003105,
-        "Textoffset": "A Lakeside View of the Ruins"
+        "Text": "A Lakeside View of the Ruins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003106,
-        "Textoffset": "Riyama Ruins: Entrance"
+        "Text": "Riyama Ruins: Entrance"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003106,
-        "Textoffset": "Effective: Light, Wind, Water"
+        "Text": "Effective: Light, Wind, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003107,
-        "Textoffset": "Poison in the Shadows"
+        "Text": "Poison in the Shadows"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003107,
-        "Textoffset": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
+        "Text": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003108,
-        "Textoffset": "A Trustworthy Companion"
+        "Text": "A Trustworthy Companion"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003109,
-        "Textoffset": "Riyama Ruins: Middle Area"
+        "Text": "Riyama Ruins: Middle Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003109,
-        "Textoffset": "Effective: Water, Wind"
+        "Text": "Effective: Water, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003110,
-        "Textoffset": "Riyama Ruins: Back Area"
+        "Text": "Riyama Ruins: Back Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003110,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003111,
-        "Textoffset": "Armor-Guardian Lurking Deep"
+        "Text": "Armor-Guardian Lurking Deep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003111,
-        "Textoffset": "Effective: Water\nAttack its back for increased damage!"
+        "Text": "Effective: Water\nAttack its back for increased damage!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003112,
-        "Textoffset": "End to an Adventurous Tale"
+        "Text": "End to an Adventurous Tale"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003113,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003113,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003202,
-        "Textoffset": "The Adventurous Tales We Spin"
+        "Text": "The Adventurous Tales We Spin"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003202,
-        "Textoffset": "Effective: Water, Earth"
+        "Text": "Effective: Water, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003203,
-        "Textoffset": "Cotton Candy Trail Mixup"
+        "Text": "Cotton Candy Trail Mixup"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003203,
-        "Textoffset": "Effective: Dark, Earth, Water"
+        "Text": "Effective: Dark, Earth, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003204,
-        "Textoffset": "The Road to the Lake"
+        "Text": "The Road to the Lake"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003204,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003204,
-        "Textoffset": "Effective: Water, Earth, Moon"
+        "Text": "Effective: Water, Earth, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003206,
-        "Textoffset": "Riyama Ruins: Entrance"
+        "Text": "Riyama Ruins: Entrance"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003206,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003206,
-        "Textoffset": "Effective: Light, Wind, Water"
+        "Text": "Effective: Light, Wind, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003207,
-        "Textoffset": "Poison in the Shadows"
+        "Text": "Poison in the Shadows"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003207,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003207,
-        "Textoffset": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
+        "Text": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003209,
-        "Textoffset": "Riyama Ruins: Middle Area"
+        "Text": "Riyama Ruins: Middle Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003209,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003209,
-        "Textoffset": "Effective: Water, Wind"
+        "Text": "Effective: Water, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003210,
-        "Textoffset": "Riyama Ruins: Back Area"
+        "Text": "Riyama Ruins: Back Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003210,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003210,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003211,
-        "Textoffset": "Armor-Guardian Lurking Deep"
+        "Text": "Armor-Guardian Lurking Deep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003211,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003211,
-        "Textoffset": "Effective: Water\nAttack its back for increased damage!"
+        "Text": "Effective: Water\nAttack its back for increased damage!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003213,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003213,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003213,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003302,
-        "Textoffset": "The Adventurous Tales We Spin"
+        "Text": "The Adventurous Tales We Spin"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003302,
-        "Textoffset": "Effective: Water, Earth"
+        "Text": "Effective: Water, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003303,
-        "Textoffset": "Cotton Candy Trail Mixup"
+        "Text": "Cotton Candy Trail Mixup"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003303,
-        "Textoffset": "Effective: Dark, Earth, Water"
+        "Text": "Effective: Dark, Earth, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003304,
-        "Textoffset": "The Road to the Lake"
+        "Text": "The Road to the Lake"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003304,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003304,
-        "Textoffset": "Effective: Water, Earth, Moon"
+        "Text": "Effective: Water, Earth, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003306,
-        "Textoffset": "Riyama Ruins: Entrance"
+        "Text": "Riyama Ruins: Entrance"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003306,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003306,
-        "Textoffset": "Effective: Light, Wind, Water"
+        "Text": "Effective: Light, Wind, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003307,
-        "Textoffset": "Poison in the Shadows"
+        "Text": "Poison in the Shadows"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003307,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003307,
-        "Textoffset": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
+        "Text": "Poison alert! When the enemy is fully charged, keep your distance and try not to get hit!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003309,
-        "Textoffset": "Riyama Ruins: Middle Area"
+        "Text": "Riyama Ruins: Middle Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003309,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003309,
-        "Textoffset": "Effective: Water, Wind"
+        "Text": "Effective: Water, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003310,
-        "Textoffset": "Riyama Ruins: Back Area"
+        "Text": "Riyama Ruins: Back Area"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003310,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003310,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003311,
-        "Textoffset": "Armor-Guardian Lurking Deep"
+        "Text": "Armor-Guardian Lurking Deep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003311,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003311,
-        "Textoffset": "Effective: Water\nAttack its back for increased damage!"
+        "Text": "Effective: Water\nAttack its back for increased damage!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010003313,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010003313,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010003313,
-        "Textoffset": "Effective: Wind, Light, Water"
+        "Text": "Effective: Wind, Light, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004101,
-        "Textoffset": "A Memorable Adventure"
+        "Text": "A Memorable Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004102,
-        "Textoffset": "Upside Down"
+        "Text": "Upside Down"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004102,
-        "Textoffset": "Effective: Wind, Fire, Earth"
+        "Text": "Effective: Wind, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004103,
-        "Textoffset": "Little Lonesome Travel"
+        "Text": "Little Lonesome Travel"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004103,
-        "Textoffset": "Effective: Wind, Earth, Fire"
+        "Text": "Effective: Wind, Earth, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004104,
-        "Textoffset": "Frayed and Blown Away"
+        "Text": "Frayed and Blown Away"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004105,
-        "Textoffset": "Roaming Gusthall"
+        "Text": "Roaming Gusthall"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004105,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004106,
-        "Textoffset": "Fleeing Wings and a Bandit Found"
+        "Text": "Fleeing Wings and a Bandit Found"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004107,
-        "Textoffset": "Giant Crab Lurking in the Cavern"
+        "Text": "Giant Crab Lurking in the Cavern"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004107,
-        "Textoffset": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004108,
-        "Textoffset": "A Passage to the Sky"
+        "Text": "A Passage to the Sky"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004108,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004109,
-        "Textoffset": "Of Sheep and Faeries"
+        "Text": "Of Sheep and Faeries"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004109,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004110,
-        "Textoffset": "To the Skytop"
+        "Text": "To the Skytop"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004110,
-        "Textoffset": "Effective: Wind, Light"
+        "Text": "Effective: Wind, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004111,
-        "Textoffset": "The Winged Defender"
+        "Text": "The Winged Defender"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004112,
-        "Textoffset": "Another Flies In"
+        "Text": "Another Flies In"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004112,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004113,
-        "Textoffset": "Not of This World"
+        "Text": "Not of This World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004114,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004114,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004202,
-        "Textoffset": "Upside Down"
+        "Text": "Upside Down"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004202,
-        "Textoffset": "Effective: Wind, Fire, Earth"
+        "Text": "Effective: Wind, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004203,
-        "Textoffset": "Little Lonesome Travel"
+        "Text": "Little Lonesome Travel"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004203,
-        "Textoffset": "Effective: Wind, Earth, Fire"
+        "Text": "Effective: Wind, Earth, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004205,
-        "Textoffset": "Roaming Gusthall"
+        "Text": "Roaming Gusthall"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004205,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004205,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004207,
-        "Textoffset": "Giant Crab Lurking in the Cavern"
+        "Text": "Giant Crab Lurking in the Cavern"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004207,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004207,
-        "Textoffset": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004208,
-        "Textoffset": "A Passage to the Sky"
+        "Text": "A Passage to the Sky"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004208,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004208,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004209,
-        "Textoffset": "Of Sheep and Faeries"
+        "Text": "Of Sheep and Faeries"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004209,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004209,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004210,
-        "Textoffset": "To the Skytop"
+        "Text": "To the Skytop"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004210,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004210,
-        "Textoffset": "Effective: Wind, Light"
+        "Text": "Effective: Wind, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004212,
-        "Textoffset": "Another Flies In"
+        "Text": "Another Flies In"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004212,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004212,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004214,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004214,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004214,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004302,
-        "Textoffset": "Upside Down"
+        "Text": "Upside Down"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004302,
-        "Textoffset": "Effective: Wind, Fire, Earth"
+        "Text": "Effective: Wind, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004303,
-        "Textoffset": "Little Lonesome Travel"
+        "Text": "Little Lonesome Travel"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004303,
-        "Textoffset": "Effective: Wind, Earth, Fire"
+        "Text": "Effective: Wind, Earth, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004305,
-        "Textoffset": "Roaming Gusthall"
+        "Text": "Roaming Gusthall"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004305,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004307,
-        "Textoffset": "Giant Crab Lurking in the Cavern"
+        "Text": "Giant Crab Lurking in the Cavern"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004307,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004307,
-        "Textoffset": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004308,
-        "Textoffset": "A Passage to the Sky"
+        "Text": "A Passage to the Sky"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004308,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004308,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004309,
-        "Textoffset": "Of Sheep and Faeries"
+        "Text": "Of Sheep and Faeries"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004309,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004309,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004310,
-        "Textoffset": "To the Skytop"
+        "Text": "To the Skytop"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004310,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004310,
-        "Textoffset": "Effective: Wind, Light"
+        "Text": "Effective: Wind, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004312,
-        "Textoffset": "Another Flies In"
+        "Text": "Another Flies In"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004312,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004312,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010004314,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010004314,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010004314,
-        "Textoffset": "Effective: Light, Earth"
+        "Text": "Effective: Light, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005101,
-        "Textoffset": "A Faerie of My Own"
+        "Text": "A Faerie of My Own"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005102,
-        "Textoffset": "Faeries' Forest"
+        "Text": "Faeries' Forest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005102,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005103,
-        "Textoffset": "A Very Familiar Place"
+        "Text": "A Very Familiar Place"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005103,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005104,
-        "Textoffset": "The Faerie Mousseline"
+        "Text": "The Faerie Mousseline"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005105,
-        "Textoffset": "The Faerie Big Secret"
+        "Text": "The Faerie Big Secret"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005105,
-        "Textoffset": "Effective: Earth, Light, Moon"
+        "Text": "Effective: Earth, Light, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005106,
-        "Textoffset": "A Quiet Faerie Villa"
+        "Text": "A Quiet Faerie Villa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005107,
-        "Textoffset": "On a Faerie Mission"
+        "Text": "On a Faerie Mission"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005107,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005108,
-        "Textoffset": "Onward, Ambassadors!"
+        "Text": "Onward, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005108,
-        "Textoffset": "Effective: Moon, Earth, Light"
+        "Text": "Effective: Moon, Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005109,
-        "Textoffset": "A Rowdy Faerie Villa"
+        "Text": "A Rowdy Faerie Villa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005110,
-        "Textoffset": "A Human, a Sheep, and a Faerie"
+        "Text": "A Human, a Sheep, and a Faerie"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005110,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005111,
-        "Textoffset": "March on, Ambassadors!"
+        "Text": "March on, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005111,
-        "Textoffset": "Effective: Fire, Earth"
+        "Text": "Effective: Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005112,
-        "Textoffset": "A Dangerous Faerie Villa"
+        "Text": "A Dangerous Faerie Villa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005112,
-        "Textoffset": "Effective: Earth\nThey'll call in for help when their HP gets low!"
+        "Text": "Effective: Earth\nThey'll call in for help when their HP gets low!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005113,
-        "Textoffset": "A Faerie of Your Own"
+        "Text": "A Faerie of Your Own"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005114,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005114,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005202,
-        "Textoffset": "Faeries' Forest"
+        "Text": "Faeries' Forest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005202,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005203,
-        "Textoffset": "A Very Familiar Place"
+        "Text": "A Very Familiar Place"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005203,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005205,
-        "Textoffset": "The Faerie Big Secret"
+        "Text": "The Faerie Big Secret"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005205,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005205,
-        "Textoffset": "Effective: Earth, Light, Moon"
+        "Text": "Effective: Earth, Light, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005207,
-        "Textoffset": "On a Faerie Mission"
+        "Text": "On a Faerie Mission"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005207,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005207,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005208,
-        "Textoffset": "Onward, Ambassadors!"
+        "Text": "Onward, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005208,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005208,
-        "Textoffset": "Effective: Moon, Earth, Light"
+        "Text": "Effective: Moon, Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005210,
-        "Textoffset": "A Human, a Sheep, and a Faerie"
+        "Text": "A Human, a Sheep, and a Faerie"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005210,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005210,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005211,
-        "Textoffset": "March on, Ambassadors!"
+        "Text": "March on, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005211,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005211,
-        "Textoffset": "Effective: Fire, Earth"
+        "Text": "Effective: Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005212,
-        "Textoffset": "A Dangerous Faerie Villa"
+        "Text": "A Dangerous Faerie Villa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005212,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005212,
-        "Textoffset": "Effective: Earth\nThey'll call in for help when their HP gets low!"
+        "Text": "Effective: Earth\nThey'll call in for help when their HP gets low!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005214,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005214,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005214,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005302,
-        "Textoffset": "Faeries' Forest"
+        "Text": "Faeries' Forest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005302,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005303,
-        "Textoffset": "A Very Familiar Place"
+        "Text": "A Very Familiar Place"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005303,
-        "Textoffset": "Effective: Moon, Light"
+        "Text": "Effective: Moon, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005305,
-        "Textoffset": "The Faerie Big Secret"
+        "Text": "The Faerie Big Secret"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005305,
-        "Textoffset": "Effective: Earth, Light, Moon"
+        "Text": "Effective: Earth, Light, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005307,
-        "Textoffset": "On a Faerie Mission"
+        "Text": "On a Faerie Mission"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005307,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005307,
-        "Textoffset": "Effective: Earth, Light"
+        "Text": "Effective: Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005308,
-        "Textoffset": "Onward, Ambassadors!"
+        "Text": "Onward, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005308,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005308,
-        "Textoffset": "Effective: Moon, Earth, Light"
+        "Text": "Effective: Moon, Earth, Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005310,
-        "Textoffset": "A Human, a Sheep, and a Faerie"
+        "Text": "A Human, a Sheep, and a Faerie"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005310,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005310,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005311,
-        "Textoffset": "March on, Ambassadors!"
+        "Text": "March on, Ambassadors!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005311,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005311,
-        "Textoffset": "Effective: Fire, Earth"
+        "Text": "Effective: Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005312,
-        "Textoffset": "A Dangerous Faerie Villa"
+        "Text": "A Dangerous Faerie Villa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005312,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005312,
-        "Textoffset": "Effective: Earth\nThey'll call in for help when their HP gets low!"
+        "Text": "Effective: Earth\nThey'll call in for help when their HP gets low!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210010005314,
-        "Textoffset": "Extra Quest"
+        "Text": "Extra Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210010005314,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210010005314,
-        "Textoffset": "Effective: Earth, Fire, Moon"
+        "Text": "Effective: Earth, Fire, Moon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001101,
-        "Textoffset": "Flame Altar Vigil (Easy I)"
+        "Text": "Flame Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001101,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001102,
-        "Textoffset": "Flame Altar Vigil (Easy II)"
+        "Text": "Flame Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001102,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001103,
-        "Textoffset": "Flame Altar Vigil (Normal I)"
+        "Text": "Flame Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001103,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001104,
-        "Textoffset": "Flame Altar Vigil (Normal II)"
+        "Text": "Flame Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001104,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001105,
-        "Textoffset": "Flame Altar Vigil (Hard I)"
+        "Text": "Flame Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001105,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001106,
-        "Textoffset": "Flame Altar Vigil (Hard II)"
+        "Text": "Flame Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020001106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020001106,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002101,
-        "Textoffset": "Aqua Altar Vigil (Easy I)"
+        "Text": "Aqua Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002101,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002102,
-        "Textoffset": "Aqua Altar Vigil (Easy II)"
+        "Text": "Aqua Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002102,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002103,
-        "Textoffset": "Aqua Altar Vigil (Normal I)"
+        "Text": "Aqua Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002103,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002104,
-        "Textoffset": "Aqua Altar Vigil (Normal II)"
+        "Text": "Aqua Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002104,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002105,
-        "Textoffset": "Aqua Altar Vigil (Hard I)"
+        "Text": "Aqua Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002105,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020002106,
-        "Textoffset": "Aqua Altar Vigil (Hard II)"
+        "Text": "Aqua Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020002106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020002106,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003101,
-        "Textoffset": "Zephyr Altar Vigil (Easy I)"
+        "Text": "Zephyr Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003101,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003102,
-        "Textoffset": "Zephyr Altar Vigil (Easy II)"
+        "Text": "Zephyr Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003102,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003103,
-        "Textoffset": "Zephyr Altar Vigil (Normal I)"
+        "Text": "Zephyr Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003103,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003104,
-        "Textoffset": "Zephyr Altar Vigil (Normal II)"
+        "Text": "Zephyr Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003104,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003105,
-        "Textoffset": "Zephyr Altar Vigil (Hard I)"
+        "Text": "Zephyr Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003105,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020003106,
-        "Textoffset": "Zephyr Altar Vigil (Hard II)"
+        "Text": "Zephyr Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020003106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020003106,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004101,
-        "Textoffset": "Terra Altar Vigil (Easy I)"
+        "Text": "Terra Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004101,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004102,
-        "Textoffset": "Terra Altar Vigil (Easy II)"
+        "Text": "Terra Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004102,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004103,
-        "Textoffset": "Terra Altar Vigil (Normal I)"
+        "Text": "Terra Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004103,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004104,
-        "Textoffset": "Terra Altar Vigil (Normal II)"
+        "Text": "Terra Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004104,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004105,
-        "Textoffset": "Terra Altar Vigil (Hard I)"
+        "Text": "Terra Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004105,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020004106,
-        "Textoffset": "Terra Altar Vigil (Hard II)"
+        "Text": "Terra Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020004106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020004106,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005101,
-        "Textoffset": "Dawn Altar Vigil (Easy I)"
+        "Text": "Dawn Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005101,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005102,
-        "Textoffset": "Dawn Altar Vigil (Easy II)"
+        "Text": "Dawn Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005102,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005103,
-        "Textoffset": "Dawn Altar Vigil (Normal I)"
+        "Text": "Dawn Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005103,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005104,
-        "Textoffset": "Dawn Altar Vigil (Normal II)"
+        "Text": "Dawn Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005104,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005105,
-        "Textoffset": "Dawn Altar Vigil (Hard I)"
+        "Text": "Dawn Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005105,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020005106,
-        "Textoffset": "Dawn Altar Vigil (Hard II)"
+        "Text": "Dawn Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020005106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020005106,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006101,
-        "Textoffset": "Dusk Altar Vigil (Easy I)"
+        "Text": "Dusk Altar Vigil (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006101,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006102,
-        "Textoffset": "Dusk Altar Vigil (Easy II)"
+        "Text": "Dusk Altar Vigil (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006102,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006103,
-        "Textoffset": "Dusk Altar Vigil (Normal I)"
+        "Text": "Dusk Altar Vigil (Normal I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006103,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006104,
-        "Textoffset": "Dusk Altar Vigil (Normal II)"
+        "Text": "Dusk Altar Vigil (Normal II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006104,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006105,
-        "Textoffset": "Dusk Altar Vigil (Hard I)"
+        "Text": "Dusk Altar Vigil (Hard I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006105,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210020006106,
-        "Textoffset": "Dusk Altar Vigil (Hard II)"
+        "Text": "Dusk Altar Vigil (Hard II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210020006106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210020006106,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210024001101,
-        "Textoffset": "Echoing Maze (Easy I)"
+        "Text": "Echoing Maze (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210024001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210024001101,
-        "Textoffset": "Effective: Fire, Earth, Water"
+        "Text": "Effective: Fire, Earth, Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210024001102,
-        "Textoffset": "Echoing Maze (Easy II)"
+        "Text": "Echoing Maze (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210024001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210024001102,
-        "Textoffset": "Effective: Earth, Water, Fire"
+        "Text": "Effective: Earth, Water, Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210024001103,
-        "Textoffset": "Echoing Maze (Normal)"
+        "Text": "Echoing Maze (Normal)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210024001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210024001103,
-        "Textoffset": "Effective: Fire, Water, Earth"
+        "Text": "Effective: Fire, Water, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210024001104,
-        "Textoffset": "Echoing Maze (Hard)"
+        "Text": "Echoing Maze (Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210024001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210024001104,
-        "Textoffset": "Effective: Fire, Water, Earth"
+        "Text": "Effective: Fire, Water, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001101,
-        "Textoffset": "Daily Training Quest: Ally Upgrade (Easy I)"
+        "Text": "Daily Training Quest: Ally Upgrade (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001101,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001102,
-        "Textoffset": "Daily Training Quest: Ally Upgrade (Easy II)"
+        "Text": "Daily Training Quest: Ally Upgrade (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001102,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001103,
-        "Textoffset": "Daily Training Quest: Ally Upgrade (Normal)"
+        "Text": "Daily Training Quest: Ally Upgrade (Normal)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001103,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001104,
-        "Textoffset": "Daily Training Quest: Ally Upgrade (Hard)"
+        "Text": "Daily Training Quest: Ally Upgrade (Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001104,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001111,
-        "Textoffset": "Daily Training Quest: Memogem Upgrade (Easy I)"
+        "Text": "Daily Training Quest: Memogem Upgrade (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001111,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001112,
-        "Textoffset": "Daily Training Quest: Memogem Upgrade (Easy II)"
+        "Text": "Daily Training Quest: Memogem Upgrade (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001112,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001113,
-        "Textoffset": "Daily Training Quest: Memogem Upgrade (Normal)"
+        "Text": "Daily Training Quest: Memogem Upgrade (Normal)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001113,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001114,
-        "Textoffset": "Daily Training Quest: Memogem Upgrade (Hard)"
+        "Text": "Daily Training Quest: Memogem Upgrade (Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001114,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001121,
-        "Textoffset": "Daily Training Quest: Lucre (Easy I)"
+        "Text": "Daily Training Quest: Lucre (Easy I)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001121,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001121,
-        "Textoffset": "Effective: Moon, Wood"
+        "Text": "Effective: Moon, Wood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001122,
-        "Textoffset": "Daily Training Quest: Lucre (Easy II)"
+        "Text": "Daily Training Quest: Lucre (Easy II)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001122,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001122,
-        "Textoffset": "Effective: Moon, Wood"
+        "Text": "Effective: Moon, Wood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001123,
-        "Textoffset": "Daily Training Quest: Lucre (Normal)"
+        "Text": "Daily Training Quest: Lucre (Normal)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001123,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001123,
-        "Textoffset": "Effective: Moon, Wood"
+        "Text": "Effective: Moon, Wood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210025001124,
-        "Textoffset": "Daily Training Quest: Lucre (Hard)"
+        "Text": "Daily Training Quest: Lucre (Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210025001124,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210025001124,
-        "Textoffset": "Effective: Moon, Wood"
+        "Text": "Effective: Moon, Wood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001101,
-        "Textoffset": "Prologue"
+        "Text": "Prologue"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001102,
-        "Textoffset": "All-Valsena Tournament Begins I"
+        "Text": "All-Valsena Tournament Begins I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001103,
-        "Textoffset": "All-Valsena Tournament Begins II"
+        "Text": "All-Valsena Tournament Begins II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001103,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001104,
-        "Textoffset": "All-Valsena Tournament Begins III"
+        "Text": "All-Valsena Tournament Begins III"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001104,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001105,
-        "Textoffset": "Reason to Fight I"
+        "Text": "Reason to Fight I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001106,
-        "Textoffset": "Reason to Fight II"
+        "Text": "Reason to Fight II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001106,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001106,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001107,
-        "Textoffset": "Reason to Fight III"
+        "Text": "Reason to Fight III"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001107,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001108,
-        "Textoffset": "Recollections on the Edge I"
+        "Text": "Recollections on the Edge I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001108,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001109,
-        "Textoffset": "Recollections on the Edge II"
+        "Text": "Recollections on the Edge II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001109,
-        "Textoffset": "Effective: Earth, Wind"
+        "Text": "Effective: Earth, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001110,
-        "Textoffset": "Recollections on the Edge III"
+        "Text": "Recollections on the Edge III"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001110,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001111,
-        "Textoffset": "Searing Stage I"
+        "Text": "Searing Stage I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001111,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001112,
-        "Textoffset": "Searing Stage II"
+        "Text": "Searing Stage II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001112,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001113,
-        "Textoffset": "Searing Stage III"
+        "Text": "Searing Stage III"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001113,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001113,
-        "Textoffset": "Effective: Wind, Earth"
+        "Text": "Effective: Wind, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001114,
-        "Textoffset": "Fierce Finale I"
+        "Text": "Fierce Finale I"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001115,
-        "Textoffset": "Fierce Finale II"
+        "Text": "Fierce Finale II"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001115,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001115,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001116,
-        "Textoffset": "The Advancing Road"
+        "Text": "The Advancing Road"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001116,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001116,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001117,
-        "Textoffset": "Searing Stage (Normal)"
+        "Text": "Searing Stage (Normal)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001117,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001117,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001118,
-        "Textoffset": "Searing Stage (Hard)"
+        "Text": "Searing Stage (Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001118,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001118,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210030001119,
-        "Textoffset": "Searing Stage (Very Hard)"
+        "Text": "Searing Stage (Very Hard)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210030001119,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210030001119,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210033001101,
-        "Textoffset": "Spirit Crystal Sweep"
+        "Text": "Spirit Crystal Sweep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210033001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210033001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001102,
-        "Textoffset": "Twillwool Tower 1F-2F"
+        "Text": "Twillwool Tower 1F-2F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001102,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001105,
-        "Textoffset": "Twillwool Tower 3F-5F"
+        "Text": "Twillwool Tower 3F-5F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001105,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001105,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001107,
-        "Textoffset": "Twillwool Tower 6F-7F"
+        "Text": "Twillwool Tower 6F-7F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001107,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001109,
-        "Textoffset": "Twillwool Tower 8F-9F"
+        "Text": "Twillwool Tower 8F-9F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001109,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001109,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001110,
-        "Textoffset": "Twillwool Tower 10F"
+        "Text": "Twillwool Tower 10F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001110,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001110,
-        "Textoffset": "Effective: Wind/Ineffective: Earth"
+        "Text": "Effective: Wind/Ineffective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001112,
-        "Textoffset": "Twillwool Tower 11F-12F"
+        "Text": "Twillwool Tower 11F-12F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001112,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001112,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001114,
-        "Textoffset": "Twillwool Tower 13F-14F"
+        "Text": "Twillwool Tower 13F-14F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001114,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001114,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001117,
-        "Textoffset": "Twillwool Tower 15F-17F"
+        "Text": "Twillwool Tower 15F-17F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001117,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001117,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001119,
-        "Textoffset": "Twillwool Tower 18F-19F"
+        "Text": "Twillwool Tower 18F-19F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001119,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001119,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001120,
-        "Textoffset": "Twillwool Tower 20F"
+        "Text": "Twillwool Tower 20F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001120,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001120,
-        "Textoffset": "Effective: Water\nAttack its back for increased damage!"
+        "Text": "Effective: Water\nAttack its back for increased damage!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001122,
-        "Textoffset": "Twillwool Tower 21F-22F"
+        "Text": "Twillwool Tower 21F-22F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001122,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001122,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001124,
-        "Textoffset": "Twillwool Tower 23F-24F"
+        "Text": "Twillwool Tower 23F-24F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001124,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001124,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001126,
-        "Textoffset": "Twillwool Tower 25F-26F"
+        "Text": "Twillwool Tower 25F-26F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001126,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001126,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001129,
-        "Textoffset": "Twillwool Tower 27F-29F"
+        "Text": "Twillwool Tower 27F-29F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001129,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001129,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001130,
-        "Textoffset": "Twillwool Tower 30F"
+        "Text": "Twillwool Tower 30F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001130,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001130,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001132,
-        "Textoffset": "Twillwool Tower 31F-32F"
+        "Text": "Twillwool Tower 31F-32F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001132,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001132,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001134,
-        "Textoffset": "Twillwool Tower 33F-34F"
+        "Text": "Twillwool Tower 33F-34F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001134,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001134,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001137,
-        "Textoffset": "Twillwool Tower 35F-37F"
+        "Text": "Twillwool Tower 35F-37F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001137,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001137,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001139,
-        "Textoffset": "Twillwool Tower 38F-39F"
+        "Text": "Twillwool Tower 38F-39F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001139,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001139,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001140,
-        "Textoffset": "Twillwool Tower 40F"
+        "Text": "Twillwool Tower 40F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001140,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001140,
-        "Textoffset": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001143,
-        "Textoffset": "Twillwool Tower 41F-43F"
+        "Text": "Twillwool Tower 41F-43F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001143,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001143,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001145,
-        "Textoffset": "Twillwool Tower 44F-45F"
+        "Text": "Twillwool Tower 44F-45F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001145,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001145,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001147,
-        "Textoffset": "Twillwool Tower 46F-47F"
+        "Text": "Twillwool Tower 46F-47F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001147,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001147,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001149,
-        "Textoffset": "Twillwool Tower 48F-49F"
+        "Text": "Twillwool Tower 48F-49F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001149,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001149,
-        "Textoffset": "Effective: Fire"
+        "Text": "Effective: Fire"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001150,
-        "Textoffset": "Twillwool Tower 50F"
+        "Text": "Twillwool Tower 50F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001150,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001150,
-        "Textoffset": "Effective: Earth\nThey'll call in for help when their HP gets low!"
+        "Text": "Effective: Earth\nThey'll call in for help when their HP gets low!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001152,
-        "Textoffset": "Twillwool Tower 51F-52F"
+        "Text": "Twillwool Tower 51F-52F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001152,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001152,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001154,
-        "Textoffset": "Twillwool Tower 53F-54F"
+        "Text": "Twillwool Tower 53F-54F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001154,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001154,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001157,
-        "Textoffset": "Twillwool Tower 55F-57F"
+        "Text": "Twillwool Tower 55F-57F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001157,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001157,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001159,
-        "Textoffset": "Twillwool Tower 58F-59F"
+        "Text": "Twillwool Tower 58F-59F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001159,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001159,
-        "Textoffset": "Effective: Earth"
+        "Text": "Effective: Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001160,
-        "Textoffset": "Twillwool Tower 60F"
+        "Text": "Twillwool Tower 60F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001160,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001160,
-        "Textoffset": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+        "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001162,
-        "Textoffset": "Twillwool Tower 61F-62F"
+        "Text": "Twillwool Tower 61F-62F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001162,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001162,
-        "Textoffset": "Effective: Dark"
+        "Text": "Effective: Dark"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001164,
-        "Textoffset": "Twillwool Tower 63F-64F"
+        "Text": "Twillwool Tower 63F-64F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001164,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001164,
-        "Textoffset": "Effective: Wind"
+        "Text": "Effective: Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001166,
-        "Textoffset": "Twillwool Tower 65F-66F"
+        "Text": "Twillwool Tower 65F-66F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001166,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001166,
-        "Textoffset": "Effective: Water"
+        "Text": "Effective: Water"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001169,
-        "Textoffset": "Twillwool Tower 67F-69F"
+        "Text": "Twillwool Tower 67F-69F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001169,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001169,
-        "Textoffset": "Effective: Light"
+        "Text": "Effective: Light"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210040001170,
-        "Textoffset": "Twillwool Tower 70F"
+        "Text": "Twillwool Tower 70F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210040001170,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210040001170,
-        "Textoffset": "Effective: Earth, Wind\nAttack the back for increased damage!"
+        "Text": "Effective: Earth, Wind\nAttack the back for increased damage!"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050001101,
-        "Textoffset": "Warriors Hall Lezuede Lvl 1"
+        "Text": "Warriors Hall Lezuede Lvl 1"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050001101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050001101,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050001102,
-        "Textoffset": "Warriors Hall Lezuede Lvl 2"
+        "Text": "Warriors Hall Lezuede Lvl 2"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050001102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050001102,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050001103,
-        "Textoffset": "Warriors Hall Lezuede Lvl 3"
+        "Text": "Warriors Hall Lezuede Lvl 3"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050001103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050001103,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050001104,
-        "Textoffset": "Warriors Hall Lezuede Lvl 4"
+        "Text": "Warriors Hall Lezuede Lvl 4"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050001104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050001104,
-        "Textoffset": "Effective: Light, Fire, Earth"
+        "Text": "Effective: Light, Fire, Earth"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050002101,
-        "Textoffset": "Wisemen Hall Amgette Lvl 1"
+        "Text": "Wisemen Hall Amgette Lvl 1"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050002101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050002101,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050002102,
-        "Textoffset": "Wisemen Hall Amgette Lvl 2"
+        "Text": "Wisemen Hall Amgette Lvl 2"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050002102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050002102,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050002103,
-        "Textoffset": "Wisemen Hall Amgette Lvl 3"
+        "Text": "Wisemen Hall Amgette Lvl 3"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050002103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050002103,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 210050002104,
-        "Textoffset": "Wisemen Hall Amgette Lvl 4"
+        "Text": "Wisemen Hall Amgette Lvl 4"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 210050002104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "tips",
+        "ColumnName": "tips",
         "LocalizationTargetId": 210050002104,
-        "Textoffset": "Effective: Water, Dark, Wind"
+        "Text": "Effective: Water, Dark, Wind"
     }
 ]

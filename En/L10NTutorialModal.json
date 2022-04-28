@@ -1,232 +1,232 @@
 [
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002000301,
-        "Textoffset": "Battle Basics"
+        "Text": "Battle Basics"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002000301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002000302,
-        "Textoffset": "Battle Basics"
+        "Text": "Battle Basics"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002000302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002000403,
-        "Textoffset": "Battle Basics"
+        "Text": "Battle Basics"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002000403,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010101,
-        "Textoffset": "Upgrading Allies"
+        "Text": "Upgrading Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010101,
-        "Textoffset": "Description"
+        "Text": "Description"
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010102,
-        "Textoffset": "Upgrading Allies"
+        "Text": "Upgrading Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010201,
-        "Textoffset": "Ascending Allies"
+        "Text": "Ascending Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010202,
-        "Textoffset": "Ascending Allies"
+        "Text": "Ascending Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010301,
-        "Textoffset": "Unleashing Allies"
+        "Text": "Unleashing Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010401,
-        "Textoffset": "Awakening Allies"
+        "Text": "Awakening Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010401,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002010402,
-        "Textoffset": "Awakening Allies"
+        "Text": "Awakening Allies"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002010402,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002020201,
-        "Textoffset": "Upgrading Memory Gems"
+        "Text": "Upgrading Memory Gems"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002020201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002020202,
-        "Textoffset": "Upgrading Memory Gems"
+        "Text": "Upgrading Memory Gems"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002020202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002020301,
-        "Textoffset": "Unleashing Memory Gems"
+        "Text": "Unleashing Memory Gems"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002020301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002020302,
-        "Textoffset": "Unleashing Memory Gems"
+        "Text": "Unleashing Memory Gems"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002020302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002030401,
-        "Textoffset": "Upgrading Gear"
+        "Text": "Upgrading Gear"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002030401,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002030402,
-        "Textoffset": "Upgrading Gear"
+        "Text": "Upgrading Gear"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002030402,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002040201,
-        "Textoffset": "Events"
+        "Text": "Events"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002040201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002040401,
-        "Textoffset": "Training"
+        "Text": "Training"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002040401,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002040501,
-        "Textoffset": "Events"
+        "Text": "Events"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002040501,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002040601,
-        "Textoffset": "Breach Battle Events"
+        "Text": "Breach Battle Events"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002040601,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002040701,
-        "Textoffset": "Ranking Events"
+        "Text": "Ranking Events"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002040701,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002080101,
-        "Textoffset": "Character Bond"
+        "Text": "Character Bond"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002080101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "title",
+        "ColumnName": "title",
         "LocalizationTargetId": 14002080201,
-        "Textoffset": "Friends"
+        "Text": "Friends"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 14002080201,
-        "Textoffset": ""
+        "Text": ""
     }
 ]

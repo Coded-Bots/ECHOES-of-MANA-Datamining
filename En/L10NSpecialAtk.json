@@ -1,492 +1,492 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210101001011,
-        "Textoffset": "Thrusting Twister"
+        "Text": "Thrusting Twister"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210101001011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210101002011,
-        "Textoffset": "Full Spear Ahead"
+        "Text": "Full Spear Ahead"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210101002011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210102001011,
-        "Textoffset": "Splitting Dagger"
+        "Text": "Splitting Dagger"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210102001011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210102002011,
-        "Textoffset": "Three Throw"
+        "Text": "Three Throw"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210102002011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210103001011,
-        "Textoffset": "Shadow Crescent Slice"
+        "Text": "Shadow Crescent Slice"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210103001011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210103002011,
-        "Textoffset": "Step and Striker"
+        "Text": "Step and Striker"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210103002011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210104001011,
-        "Textoffset": "Flare"
+        "Text": "Flare"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210104001011,
-        "Textoffset": "Deals fire M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210104002011,
-        "Textoffset": "Thunder Wave"
+        "Text": "Thunder Wave"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210104002011,
-        "Textoffset": "Deals wind M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals wind M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210201001011,
-        "Textoffset": "Recoil Counterslash"
+        "Text": "Recoil Counterslash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210201001011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210201002011,
-        "Textoffset": "Four-Stage Frenzy"
+        "Text": "Four-Stage Frenzy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210201002011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210202001011,
-        "Textoffset": "Flying Striker"
+        "Text": "Flying Striker"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210202001011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210202002011,
-        "Textoffset": "Turnabout Toss"
+        "Text": "Turnabout Toss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210202002011,
-        "Textoffset": "Deals boomerang P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals boomerang P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210203001011,
-        "Textoffset": "Overhead Fling"
+        "Text": "Overhead Fling"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210203001011,
-        "Textoffset": "Deals boomerang P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals boomerang P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210203002011,
-        "Textoffset": "Two-Shot Arc"
+        "Text": "Two-Shot Arc"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210203002011,
-        "Textoffset": "Deals bow P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals bow P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210206001011,
-        "Textoffset": "Dark Grip"
+        "Text": "Dark Grip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210206001011,
-        "Textoffset": "Deals dark M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals dark M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210206002011,
-        "Textoffset": "Scalding Palm"
+        "Text": "Scalding Palm"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210206002011,
-        "Textoffset": "Deals fire M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210301001011,
-        "Textoffset": "Cross Cut"
+        "Text": "Cross Cut"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210301001011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210301002011,
-        "Textoffset": "Dynamite Double Cut"
+        "Text": "Dynamite Double Cut"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210301002011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210302001011,
-        "Textoffset": "Double Slash"
+        "Text": "Double Slash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210302001011,
-        "Textoffset": "Deals staff M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals staff M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210302002011,
-        "Textoffset": "Sweeping Rush"
+        "Text": "Sweeping Rush"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210302002011,
-        "Textoffset": "Deals staff M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals staff M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210303001011,
-        "Textoffset": "Wolf Fang Fury"
+        "Text": "Wolf Fang Fury"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210303001011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210304001011,
-        "Textoffset": "Half-Pint Headbutt"
+        "Text": "Half-Pint Headbutt"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210304001011,
-        "Textoffset": "Deals flail M. (DMG boosts by STLv.)"
+        "Text": "Deals flail M. (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210305001011,
-        "Textoffset": "Cross Slash"
+        "Text": "Cross Slash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210305001011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210306001011,
-        "Textoffset": "Whirlwind Spear"
+        "Text": "Whirlwind Spear"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210306001011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210306002011,
-        "Textoffset": "Four Spear Charge"
+        "Text": "Four Spear Charge"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210306002011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210307001011,
-        "Textoffset": "Dancing Flame"
+        "Text": "Dancing Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210307001011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210308001011,
-        "Textoffset": "Waterfall Waltz"
+        "Text": "Waterfall Waltz"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210308001011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210309001011,
-        "Textoffset": "Claw Rush"
+        "Text": "Claw Rush"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210309001011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210309002011,
-        "Textoffset": "Claw Rush"
+        "Text": "Claw Rush"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210309002011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210310001011,
-        "Textoffset": "Ancient Curse"
+        "Text": "Ancient Curse"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210310001011,
-        "Textoffset": "Deals fire M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210401001011,
-        "Textoffset": "Trident Arrow"
+        "Text": "Trident Arrow"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210401001011,
-        "Textoffset": "Deals bow P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals bow P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210401002011,
-        "Textoffset": "Rampaging Shot"
+        "Text": "Rampaging Shot"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210401002011,
-        "Textoffset": "Deals bow P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals bow P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210501001011,
-        "Textoffset": "Smashing Blade"
+        "Text": "Smashing Blade"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210501001011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210501002011,
-        "Textoffset": "Cross Strike"
+        "Text": "Cross Strike"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210501002011,
-        "Textoffset": "Deals axe P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210502001011,
-        "Textoffset": "Rewind"
+        "Text": "Rewind"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210502001011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210502002011,
-        "Textoffset": "Flying Swallows"
+        "Text": "Flying Swallows"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210502002011,
-        "Textoffset": "Deals bow P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals bow P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210503001011,
-        "Textoffset": "Special Delivery"
+        "Text": "Special Delivery"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210503001011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210504001011,
-        "Textoffset": "Backstab"
+        "Text": "Backstab"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210504001011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210504002011,
-        "Textoffset": "Rising Eagle"
+        "Text": "Rising Eagle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210504002011,
-        "Textoffset": "Deals knife P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210601001011,
-        "Textoffset": "Earth Spikes"
+        "Text": "Earth Spikes"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210601001011,
-        "Textoffset": "Deals earth M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals earth M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210601002011,
-        "Textoffset": "Steady Slash"
+        "Text": "Steady Slash"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210601002011,
-        "Textoffset": "Deals sword P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30210602001011,
-        "Textoffset": "Roundhouse Swing"
+        "Text": "Roundhouse Swing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30210602001011,
-        "Textoffset": "Deals axe P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211101001011,
-        "Textoffset": "Shining Dive"
+        "Text": "Shining Dive"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211101001011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)/Continuous HP recovery (15s/3% of max HP/Every 3s)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)/Continuous HP recovery (15s/3% of max HP/Every 3s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211102001011,
-        "Textoffset": "Shining Dive"
+        "Text": "Shining Dive"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211102001011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)/Continuous HP recovery (15s/3% of max HP/Every 3s)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)/Continuous HP recovery (15s/3% of max HP/Every 3s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211103001011,
-        "Textoffset": "Duffle Tornado"
+        "Text": "Duffle Tornado"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211103001011,
-        "Textoffset": "Deals polearm P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals polearm P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211104001011,
-        "Textoffset": "Orbital Moon"
+        "Text": "Orbital Moon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211104001011,
-        "Textoffset": "Deals moon M.DMG (DMG boosts by STLv.)"
+        "Text": "Deals moon M.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211105001011,
-        "Textoffset": "Swift Shot"
+        "Text": "Swift Shot"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211105001011,
-        "Textoffset": "Deals bow P.DMG (DMG boosts by STLv.)"
+        "Text": "Deals bow P.DMG (DMG boosts by STLv.)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211106001011,
-        "Textoffset": "Venomous Sweep"
+        "Text": "Venomous Sweep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211106001011,
-        "Textoffset": "Deals glove P.DMG (DMG boosts by STLv.)/[TARGET] Cast Poison (Some foes immune)"
+        "Text": "Deals glove P.DMG (DMG boosts by STLv.)/[TARGET] Cast Poison (Some foes immune)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 30211107001011,
-        "Textoffset": "Forest Healing"
+        "Text": "Forest Healing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 30211107001011,
-        "Textoffset": "[PARTY] Restore HP (RCV: 50%) (Effect boosts by STLv.)"
+        "Text": "[PARTY] Restore HP (RCV: 50%) (Effect boosts by STLv.)"
     }
 ]

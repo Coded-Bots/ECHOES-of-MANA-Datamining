@@ -1,432 +1,432 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001010001,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001010001,
-        "Textoffset": "Amidst a swarm of mushbooms, Fuji cries out for help. Sumo gallantly dashes in, making quick work of the dangerous pests.\n'Help! Someone! Anyone!\nWe were set upon by fiends and my guard, Hasim, was injured in the ensuing battle.'"
+        "Text": "Amidst a swarm of mushbooms, Fuji cries out for help. Sumo gallantly dashes in, making quick work of the dangerous pests.\n'Help! Someone! Anyone!\nWe were set upon by fiends and my guard, Hasim, was injured in the ensuing battle.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001010002,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001010002,
-        "Textoffset": "While making his escape from Glaive Castle, Sumo overhears a suspicious exchange between the Dark Lord and Julius.\n'Who is it that dares spy on me!?'\n'Time to make my exit!'\n'You will tell my secrets to no one!'"
+        "Text": "While making his escape from Glaive Castle, Sumo overhears a suspicious exchange between the Dark Lord and Julius.\n'Who is it that dares spy on me!?'\n'Time to make my exit!'\n'You will tell my secrets to no one!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001010003,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001010003,
-        "Textoffset": "A sage who was once a leader and mentor to the Gemma Knights. He can be found in the Wendel cathedral, where a stream of sick and troubled visitors seek his wisdom. He is over a thousand years old."
+        "Text": "A sage who was once a leader and mentor to the Gemma Knights. He can be found in the Wendel cathedral, where a stream of sick and troubled visitors seek his wisdom. He is over a thousand years old."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001010004,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001010004,
-        "Textoffset": "Sumo has become a gladiator forced into servitude by Glaive. He is only released from his prison to fight in the arena, earning his meals through victories as a cruel incentive for daily survival.\n'Draw your blade, boy! The Dark Lord commands it!'"
+        "Text": "Sumo has become a gladiator forced into servitude by Glaive. He is only released from his prison to fight in the arena, earning his meals through victories as a cruel incentive for daily survival.\n'Draw your blade, boy! The Dark Lord commands it!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001010005,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001010005,
-        "Textoffset": "In keeping his word to Hasim, uttered in his last breath, Sumo and Fuji go in search of a man called Bogard. Soon they come upon an elderly man in a cottage by the waterfall.\n'Pardon me, sir, but I seek a man named Bogard. Might you know where I can find him?'\n'I might. I might not. Doesn't mean I'm talking. I've nothing to say to the likes of you! Begone!\nDid you not hear me, boy!? I've nothing to say! Nothing! Now leave me be!'"
+        "Text": "In keeping his word to Hasim, uttered in his last breath, Sumo and Fuji go in search of a man called Bogard. Soon they come upon an elderly man in a cottage by the waterfall.\n'Pardon me, sir, but I seek a man named Bogard. Might you know where I can find him?'\n'I might. I might not. Doesn't mean I'm talking. I've nothing to say to the likes of you! Begone!\nDid you not hear me, boy!? I've nothing to say! Nothing! Now leave me be!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020001,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020001,
-        "Textoffset": "The three friends head for the cave of Matango legend. After defeating the Great Viper, they venture deeper, only to find a single white dragon child.\n'This is the legendary white dragon?\nOh no... Its parents must not have survived that monster from earlier.'\n'We can't just leave it here! It won't make it on its own!'"
+        "Text": "The three friends head for the cave of Matango legend. After defeating the Great Viper, they venture deeper, only to find a single white dragon child.\n'This is the legendary white dragon?\nOh no... Its parents must not have survived that monster from earlier.'\n'We can't just leave it here! It won't make it on its own!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020002,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020002,
-        "Textoffset": "Randi is captured by a goblin ambush in his path, but he is rescued by Primm from the goblins' boiling pot.\n'Hey, you there!\nWhat are you doing here, you idiot?'\n'Please help me!'"
+        "Text": "Randi is captured by a goblin ambush in his path, but he is rescued by Primm from the goblins' boiling pot.\n'Hey, you there!\nWhat are you doing here, you idiot?'\n'Please help me!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020003,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020003,
-        "Textoffset": "Randi stops by the Dwarf Village's world famous sideshow exhibit to find a sprite child working to pay off their debt. Sympathetic to their sob story, he offers them money.\n'If you have any heart at all, please help!\nEven a small contribution of 100 GP would be appreciated!'\n'Haha! I'll take that, thank you!... What? There's nothing more to see here. Leave!'"
+        "Text": "Randi stops by the Dwarf Village's world famous sideshow exhibit to find a sprite child working to pay off their debt. Sympathetic to their sob story, he offers them money.\n'If you have any heart at all, please help!\nEven a small contribution of 100 GP would be appreciated!'\n'Haha! I'll take that, thank you!... What? There's nothing more to see here. Leave!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020004,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020004,
-        "Textoffset": "The empire has attacked a sandship in the Kakkara Desert, and Geshtar, one of Vandole's four generals, can be found in command.\n'Thanatos's emissary warned me about a group of meddlesome travelers. He must have meant you.\nShall we go for a round?\nThis is the end!'"
+        "Text": "The empire has attacked a sandship in the Kakkara Desert, and Geshtar, one of Vandole's four generals, can be found in command.\n'Thanatos's emissary warned me about a group of meddlesome travelers. He must have meant you.\nShall we go for a round?\nThis is the end!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020005,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020005,
-        "Textoffset": "A young girl from the Kingdom of Pandora, she is a friend of Primm's with secret feelings for Dyluck. An unfortunate incident caused a rift between the two friends, but they were later able to reconcile."
+        "Text": "A young girl from the Kingdom of Pandora, she is a friend of Primm's with secret feelings for Dyluck. An unfortunate incident caused a rift between the two friends, but they were later able to reconcile."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020006,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020006,
-        "Textoffset": "After falling down a waterfall, Randi is guided by a mysterious voice toward a rusty sword stuck in a stone.\n'...Randi. Take...the sword...'\n'Who are you?\nAnd what's a sword doing here?\nHeeeave! There!'"
+        "Text": "After falling down a waterfall, Randi is guided by a mysterious voice toward a rusty sword stuck in a stone.\n'...Randi. Take...the sword...'\n'Who are you?\nAnd what's a sword doing here?\nHeeeave! There!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020007,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020007,
-        "Textoffset": "Luka states that the Mana Sword has lost its power. As one chosen by the sword, Randi is the only one who can restore it.\n'So where do I fit in?'\n'You must become a hero who is worthy of the sword!'\n'...Okay!'\n'Come, hold the sword up to the seed on the altar.'"
+        "Text": "Luka states that the Mana Sword has lost its power. As one chosen by the sword, Randi is the only one who can restore it.\n'So where do I fit in?'\n'You must become a hero who is worthy of the sword!'\n'...Okay!'\n'Come, hold the sword up to the seed on the altar.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020008,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001020008,
-        "Textoffset": "While trekking through the Haunted Forest, the scream of a young maiden rips through the air. Following the sound leads to a girl putting up a hard fight against two werewolves.\n'Heeelp!'"
+        "Text": "While trekking through the Haunted Forest, the scream of a young maiden rips through the air. Following the sound leads to a girl putting up a hard fight against two werewolves.\n'Heeelp!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030001,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030001,
-        "Textoffset": "At Stonesplit Gap, Angela and her party are discovered by Altena mages attempting to invade Valsena. For her supposed treason against the True Queen, she and the others are attacked without question.\n'Silence, you! You are all enemies of the kingdom! Hey! Bring out those magic devices! We'll trap them on the bridge!'"
+        "Text": "At Stonesplit Gap, Angela and her party are discovered by Altena mages attempting to invade Valsena. For her supposed treason against the True Queen, she and the others are attacked without question.\n'Silence, you! You are all enemies of the kingdom! Hey! Bring out those magic devices! We'll trap them on the bridge!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030002,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030002,
-        "Textoffset": "To escape Beuca Island, the three heroes must search the Seaside Cavern for the Ruler of the Seas. In the deepest part of the cavern, they are confronted by the man with red eyes. After a menacing exchange of words, the ground begins to shake, signaling the volcano's eruption.\n'Oh no! The volcano has started to erupt already! Whatever shall we do!?'\n'Ah! What is that? Wait... Are you trying to help us?'"
+        "Text": "To escape Beuca Island, the three heroes must search the Seaside Cavern for the Ruler of the Seas. In the deepest part of the cavern, they are confronted by the man with red eyes. After a menacing exchange of words, the ground begins to shake, signaling the volcano's eruption.\n'Oh no! The volcano has started to erupt already! Whatever shall we do!?'\n'Ah! What is that? Wait... Are you trying to help us?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030003,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030003,
-        "Textoffset": "A self-proclaimed alchemist residing in the Free City of Maia. Having gifted his cannons to family members around the world, one can travel to all sorts of places by cannon."
+        "Text": "A self-proclaimed alchemist residing in the Free City of Maia. Having gifted his cannons to family members around the world, one can travel to all sorts of places by cannon."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030004,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030004,
-        "Textoffset": "Duran, bested by the Crimson Wizard, nearly lost confidence in his skills. He set out for the Holy City Wendel to gain the strength to overcome his failings.\n'Just you wait, Crimson Wizard! I ain't gonna stop until I'm more than powerful enough to take you down. You won't get away with this. I will defeat you!'"
+        "Text": "Duran, bested by the Crimson Wizard, nearly lost confidence in his skills. He set out for the Holy City Wendel to gain the strength to overcome his failings.\n'Just you wait, Crimson Wizard! I ain't gonna stop until I'm more than powerful enough to take you down. You won't get away with this. I will defeat you!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030005,
-        "Textoffset": "All I Have Left"
+        "Text": "All I Have Left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030005,
-        "Textoffset": "Citadel Laurent fell to the agents of Nevarl. The princess found herself without a home, a father, and her only brother missing. She set out to find him.\n'Mother... I leave Father and our fallen countrymen to your care.\nElliot is my responsibility.\nI wear my mother's ribbon with pride. May it protect me on my journey.'"
+        "Text": "Citadel Laurent fell to the agents of Nevarl. The princess found herself without a home, a father, and her only brother missing. She set out to find him.\n'Mother... I leave Father and our fallen countrymen to your care.\nElliot is my responsibility.\nI wear my mother's ribbon with pride. May it protect me on my journey.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030006,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030006,
-        "Textoffset": "In order to reach Astoria, Charlotte asks for help from Mik. His extra special idea and good aim gives her a giant leap on her way.\n'This is a Springstepper! It lets you jump reaaally far!'\n'Okay, gweat. So...how exactwy is this supposed to hewp me?'"
+        "Text": "In order to reach Astoria, Charlotte asks for help from Mik. His extra special idea and good aim gives her a giant leap on her way.\n'This is a Springstepper! It lets you jump reaaally far!'\n'Okay, gweat. So...how exactwy is this supposed to hewp me?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030007,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030007,
-        "Textoffset": "Unable to resist his beastman instincts, the boy transformed and attacked his only friend.\n'...N-no...no, no! Karl! ...Karl!!!\nHow did this happen...?\n...S-so...so sorry, Karl... I'm sorry...'"
+        "Text": "Unable to resist his beastman instincts, the boy transformed and attacked his only friend.\n'...N-no...no, no! Karl! ...Karl!!!\nHow did this happen...?\n...S-so...so sorry, Karl... I'm sorry...'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030008,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001030008,
-        "Textoffset": "Having fallen for Isabella's tricks, Hawkeye is thrown into prison and charged with murdering his friend. Held hostage by her threat and unable to tell the truth, he helplessly hangs his head. Suddenly, the wall of his cell explodes and Niccolo appears.\n'I believe mew! I know mew were framed! Come on! We need to get away from here as soon as possible! Quick, through this hole!'"
+        "Text": "Having fallen for Isabella's tricks, Hawkeye is thrown into prison and charged with murdering his friend. Held hostage by her threat and unable to tell the truth, he helplessly hangs his head. Suddenly, the wall of his cell explodes and Niccolo appears.\n'I believe mew! I know mew were framed! Come on! We need to get away from here as soon as possible! Quick, through this hole!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040001,
-        "Textoffset": "A Curious Creeping Vine"
+        "Text": "A Curious Creeping Vine"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001040001,
-        "Textoffset": "Keldric finds a mysterious seed beside a stone pillar. Upon picking it up, the seed flashes with light as ivy vines entangle his right arm.\n'What do you think this--'\n'Oh, no! Keldy! Throw it away!'\n'Huh? Waaah!'"
+        "Text": "Keldric finds a mysterious seed beside a stone pillar. Upon picking it up, the seed flashes with light as ivy vines entangle his right arm.\n'What do you think this--'\n'Oh, no! Keldy! Throw it away!'\n'Huh? Waaah!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040002,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001040002,
-        "Textoffset": "An old man who has spent half his life as the village leader. Sixteen years ago, he found the baby Keldric on the banks of the river. Aware of fate's hand, he chose to become the guardian who would raise him. Once the captain of the village guardians, his body remains strong even at his old age."
+        "Text": "An old man who has spent half his life as the village leader. Sixteen years ago, he found the baby Keldric on the banks of the river. Aware of fate's hand, he chose to become the guardian who would raise him. Once the captain of the village guardians, his body remains strong even at his old age."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040003,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001040003,
-        "Textoffset": "Buju hops away, so Ritzia asks Keldric to help her wrangle him. After a light stretch, Keldric races off.\n'Buju! Wait up!\nOhh! Keldy! Can you bring him back?'\n'Oookay!'\n'Don't be too rough with him, though!'\n'You got it!'"
+        "Text": "Buju hops away, so Ritzia asks Keldric to help her wrangle him. After a light stretch, Keldric races off.\n'Buju! Wait up!\nOhh! Keldy! Can you bring him back?'\n'Oookay!'\n'Don't be too rough with him, though!'\n'You got it!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040004,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001040004,
-        "Textoffset": "Guided by mysterious voices, the pair pushes forward to find a cluster of shining orbs form together into a small spirit before their very eyes.\n'Keldy. Could it-- Maybe it's a...spirit?'\n'Seems sorta--'\n'But why...? Say, Keldy?'\n'Huh? ...Keldy?'\n'Yes! Well, it looks like she's a quick learner, anyway...\nMy name is Ritzia. And you are?'\n'Faye.'\n'Are you Faye? That's your name?'"
+        "Text": "Guided by mysterious voices, the pair pushes forward to find a cluster of shining orbs form together into a small spirit before their very eyes.\n'Keldy. Could it-- Maybe it's a...spirit?'\n'Seems sorta--'\n'But why...? Say, Keldy?'\n'Huh? ...Keldy?'\n'Yes! Well, it looks like she's a quick learner, anyway...\nMy name is Ritzia. And you are?'\n'Faye.'\n'Are you Faye? That's your name?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050001,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001050001,
-        "Textoffset": "On word that pumpkins have taken over in the west of Domina, Shiloh rushes to the scene to find a pair of children chatting in the pumpkin patch.\n'Mwa ha ha ha ha!'\n'Bud! Stop laughing like that!'\n'Lisa, you and I will rule the world as brother and sister!'\n'Rule the world...with pumpkins?\nAs IF!'"
+        "Text": "On word that pumpkins have taken over in the west of Domina, Shiloh rushes to the scene to find a pair of children chatting in the pumpkin patch.\n'Mwa ha ha ha ha!'\n'Bud! Stop laughing like that!'\n'Lisa, you and I will rule the world as brother and sister!'\n'Rule the world...with pumpkins?\nAs IF!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050002,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001050002,
-        "Textoffset": "A shy little cactus. He is a cactus of few words, but he happens to be thinking about many things."
+        "Text": "A shy little cactus. He is a cactus of few words, but he happens to be thinking about many things."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050003,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001050003,
-        "Textoffset": "On a visit to Teapo, Niccolo slips into skillful negotiation over a wheel he picked up on the highway.\n'You know...you're right. This is just an old wheel. Nothing special. Goodbye.'\n''Ang on, guv! Even I can tell that ain't no regular wheel!\nI'll take it! 'Ow much do you want for it?'\n'50,000 lucre.'\n'Niccolo, you're trying to take advantage of me collectionist's eye.\nDon't nothin' cost that much! Blimey!'"
+        "Text": "On a visit to Teapo, Niccolo slips into skillful negotiation over a wheel he picked up on the highway.\n'You know...you're right. This is just an old wheel. Nothing special. Goodbye.'\n''Ang on, guv! Even I can tell that ain't no regular wheel!\nI'll take it! 'Ow much do you want for it?'\n'50,000 lucre.'\n'Niccolo, you're trying to take advantage of me collectionist's eye.\nDon't nothin' cost that much! Blimey!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050004,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001050004,
-        "Textoffset": "This pelican delivers letters with a tune. She loves nothing else except for making deliveries. She doesn't just deliver letters, but fledgling monsters as well. As Pelican likes to do things at her own pace, she often makes mistakes and is not always on time. She doesn't seem to care, though."
+        "Text": "This pelican delivers letters with a tune. She loves nothing else except for making deliveries. She doesn't just deliver letters, but fledgling monsters as well. As Pelican likes to do things at her own pace, she often makes mistakes and is not always on time. She doesn't seem to care, though."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050005,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001050005,
-        "Textoffset": "Harvesting, offering seeds, and having lovely chats is a daily routine in the orchard near our hero's home.\n'We plants absorb the Mana energy of Fa'Diel to make air.\nWe circulate the Mana, source of all things.\nWe supply seeds with Mana energy so they can grow.'"
+        "Text": "Harvesting, offering seeds, and having lovely chats is a daily routine in the orchard near our hero's home.\n'We plants absorb the Mana energy of Fa'Diel to make air.\nWe circulate the Mana, source of all things.\nWe supply seeds with Mana energy so they can grow.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060001,
-        "Textoffset": "Xangar, Malevodon of Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001060001,
-        "Textoffset": "Poppen arrives at the Mana Tower to rescue Tess. Just when he finds her at the top, a firebird suddenly appears. What's worse, a mysterious force makes the beast invincible to attacks.\n'What's going on? Nothing seems to hurt it!'"
+        "Text": "Poppen arrives at the Mana Tower to rescue Tess. Just when he finds her at the top, a firebird suddenly appears. What's worse, a mysterious force makes the beast invincible to attacks.\n'What's going on? Nothing seems to hurt it!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060002,
-        "Textoffset": "Sword from Above"
+        "Text": "Sword from Above"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001060002,
-        "Textoffset": "Xangar is protected by a mysterious force, making it impenetrable to attacks. Ferrik puts up a hard fight against the beast, when suddenly a sword falls from the sky and pierces the ground.\n'What just happened?'\n'Ferrik! Are you all right?'\n'Yeah. But look at that sword...\nWhere did this come from?'"
+        "Text": "Xangar is protected by a mysterious force, making it impenetrable to attacks. Ferrik puts up a hard fight against the beast, when suddenly a sword falls from the sky and pierces the ground.\n'What just happened?'\n'Ferrik! Are you all right?'\n'Yeah. But look at that sword...\nWhere did this come from?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060003,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001060003,
-        "Textoffset": "A mermaid from Topple who lost her beloved in the calamity 10 years ago. Seamoon took Tamber with her to Illusia. She runs the Silver Mermaid in Mana Village and is a great source of advice to the young heroes."
+        "Text": "A mermaid from Topple who lost her beloved in the calamity 10 years ago. Seamoon took Tamber with her to Illusia. She runs the Silver Mermaid in Mana Village and is a great source of advice to the young heroes."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060004,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001060004,
-        "Textoffset": "In Lorimar, Tamber defeats Galem in a battle at the very bottom of Star Lake. Treant awakens from its slumber, and affirms the strange occurrences taking place in their world.\n'Hurry now, child of Illusia.\nYou must find a way to quell the Mana columns that are sprouting up across the world.'\n'Quell the Mana columns...'\n'Take this. It should open the way.'"
+        "Text": "In Lorimar, Tamber defeats Galem in a battle at the very bottom of Star Lake. Treant awakens from its slumber, and affirms the strange occurrences taking place in their world.\n'Hurry now, child of Illusia.\nYou must find a way to quell the Mana columns that are sprouting up across the world.'\n'Quell the Mana columns...'\n'Take this. It should open the way.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060005,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001060005,
-        "Textoffset": "At Dud Services, Wanderer carefully looks over the list of requests and their rewards before picking the right one.\n'Dud Services use dudbear network over world for collect hep requests and for find peoples who hep.'"
+        "Text": "At Dud Services, Wanderer carefully looks over the list of requests and their rewards before picking the right one.\n'Dud Services use dudbear network over world for collect hep requests and for find peoples who hep.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110001,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001110001,
-        "Textoffset": "Quilto finds new friends in Duffle and Honeycomb as the two Pinzton locals give him a tour of town.\n'I know! How about we show you around? You might feel a bit better once you get your bearings. Come on! Let's go!'"
+        "Text": "Quilto finds new friends in Duffle and Honeycomb as the two Pinzton locals give him a tour of town.\n'I know! How about we show you around? You might feel a bit better once you get your bearings. Come on! Let's go!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110002,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001110002,
-        "Textoffset": "After defeating a Mantis Ant alongside Primm and Popoi, Quilto finally meets with Randi and asks to see his sword.\n'Oh, right! Our friend here wants to take a look at your Mana Sword.'\n'Sure! ...But why?'"
+        "Text": "After defeating a Mantis Ant alongside Primm and Popoi, Quilto finally meets with Randi and asks to see his sword.\n'Oh, right! Our friend here wants to take a look at your Mana Sword.'\n'Sure! ...But why?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110003,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001110003,
-        "Textoffset": "New allies Blainchet and Raxa join Quilta on the continued search for the Mana Sword. While searching the ruins, a giant monster covered in flames appears.\n'Is it using the equipment of adventurers it's defeated? It'll be tough getting past its defenses.'\n'Then we should just attack it from behind!'"
+        "Text": "New allies Blainchet and Raxa join Quilta on the continued search for the Mana Sword. While searching the ruins, a giant monster covered in flames appears.\n'Is it using the equipment of adventurers it's defeated? It'll be tough getting past its defenses.'\n'Then we should just attack it from behind!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110004,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001110004,
-        "Textoffset": "On Flammie's back as they fly through the skies toward the sanctuary, our heroes are suddenly attacked by a winged Ebon Knight.\n'Aaah! The Ebon Knight! I didn't know he could fly!'\n'Is he a friend of yours? You might wanna tell him we're a bit over capacity.'"
+        "Text": "On Flammie's back as they fly through the skies toward the sanctuary, our heroes are suddenly attacked by a winged Ebon Knight.\n'Aaah! The Ebon Knight! I didn't know he could fly!'\n'Is he a friend of yours? You might wanna tell him we're a bit over capacity.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110005,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001110005,
-        "Textoffset": "Guided by Mousseline, Quilto and Baashear make their final stop at Briarborough in hopes of hearing more about the Mana Sword. But they're greeted by feisty faeries who soon grow irritated by their babble and call in their leader for battle.\n'Yo CHIEF! These two here are actin' like they're tougher than we are. You should show 'em who's boss!'\n'I don't think we'll be getting out of this without a fight.\nBuuut! If you win, they'll probably be your friends.'"
+        "Text": "Guided by Mousseline, Quilto and Baashear make their final stop at Briarborough in hopes of hearing more about the Mana Sword. But they're greeted by feisty faeries who soon grow irritated by their babble and call in their leader for battle.\n'Yo CHIEF! These two here are actin' like they're tougher than we are. You should show 'em who's boss!'\n'I don't think we'll be getting out of this without a fight.\nBuuut! If you win, they'll probably be your friends.'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111001,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001111001,
-        "Textoffset": "The heroes gape in awe at the lofty height of Twillwool Tower.\n'Hooo weee! Now that's a skyscraper if I ever saw one! I can't even see through the clouds to the top! What do they need all those floors for anyway? Do you think this place is famous or somethin'? Come on, Baashear. Fill us in on the deets!'\n'Don't ask me! I won't feign knowledge about things the Mana Goddess doesn't deem important enough to teach me.'\n'Say...could this be THAT tower? The one named after the mage Twillwool the Great?'"
+        "Text": "The heroes gape in awe at the lofty height of Twillwool Tower.\n'Hooo weee! Now that's a skyscraper if I ever saw one! I can't even see through the clouds to the top! What do they need all those floors for anyway? Do you think this place is famous or somethin'? Come on, Baashear. Fill us in on the deets!'\n'Don't ask me! I won't feign knowledge about things the Mana Goddess doesn't deem important enough to teach me.'\n'Say...could this be THAT tower? The one named after the mage Twillwool the Great?'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111003,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001111003,
-        "Textoffset": "The Scorpion Army rolls in to the steal the tournament in the final round. But Randi, Duran, and Quilto work together to wreak havoc on their robotic enemy.\n'At least we won, right? All's well that ends well.'\n'Too bad they got away though. And I am a little disappointed I didn't get to see the end of your fight!'"
+        "Text": "The Scorpion Army rolls in to the steal the tournament in the final round. But Randi, Duran, and Quilto work together to wreak havoc on their robotic enemy.\n'At least we won, right? All's well that ends well.'\n'Too bad they got away though. And I am a little disappointed I didn't get to see the end of your fight!'"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111009,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 4001111009,
-        "Textoffset": "Four heroes face off against a Mantis Ant that's suddenly appeared in an echo. Beyond the bounds of differing worlds, they act as one in battle, leaving the monster with no escape."
+        "Text": "Four heroes face off against a Mantis Ant that's suddenly appeared in an echo. Beyond the bounds of differing worlds, they act as one in battle, leaving the monster with no escape."
     }
 ]

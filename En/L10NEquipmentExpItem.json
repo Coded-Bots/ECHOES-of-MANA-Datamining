@@ -1,32 +1,32 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1050001,
-        "Textoffset": "Altena Alloy (S)"
+        "Text": "Altena Alloy (S)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1050001,
-        "Textoffset": "Use to upgrade gear (S)"
+        "Text": "Use to upgrade gear (S)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1050002,
-        "Textoffset": "Altena Alloy (M)"
+        "Text": "Altena Alloy (M)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1050002,
-        "Textoffset": "Use to upgrade gear (M)"
+        "Text": "Use to upgrade gear (M)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1050003,
-        "Textoffset": "Altena Alloy (L)"
+        "Text": "Altena Alloy (L)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1050003,
-        "Textoffset": "Use to upgrade gear (L)"
+        "Text": "Use to upgrade gear (L)"
     }
 ]

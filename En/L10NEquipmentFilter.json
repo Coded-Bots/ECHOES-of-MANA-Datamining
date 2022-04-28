@@ -1,37 +1,37 @@
 [
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000001,
-        "Textoffset": "All"
+        "Text": "All"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000002,
-        "Textoffset": "HP"
+        "Text": "HP"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000003,
-        "Textoffset": "MP"
+        "Text": "MP"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000004,
-        "Textoffset": "STR"
+        "Text": "STR"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000005,
-        "Textoffset": "CON"
+        "Text": "CON"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000006,
-        "Textoffset": "INT"
+        "Text": "INT"
     },
     {
-        "ColumnNameoffset": "message",
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000007,
-        "Textoffset": "SPR"
+        "Text": "SPR"
     }
 ]

@@ -1,222 +1,222 @@
 [
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100101,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100102,
-        "Textoffset": "Achieve Clear Rank: A"
+        "Text": "Achieve Clear Rank: A"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100103,
-        "Textoffset": "Clear without continuing"
+        "Text": "Clear without continuing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100104,
-        "Textoffset": "Achieve Combo: x{0}"
+        "Text": "Achieve Combo: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100201,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100202,
-        "Textoffset": "Achieve Clear Rank: A"
+        "Text": "Achieve Clear Rank: A"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100203,
-        "Textoffset": "Clear without equipping any items"
+        "Text": "Clear without equipping any items"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100204,
-        "Textoffset": "Achieve Combo: x{0}"
+        "Text": "Achieve Combo: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100301,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100302,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100303,
-        "Textoffset": "Clear without any allies fainting"
+        "Text": "Clear without any allies fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100304,
-        "Textoffset": "Use Mega Spirit Magic: x{0}"
+        "Text": "Use Mega Spirit Magic: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100401,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100402,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100403,
-        "Textoffset": "Clear without any allies fainting"
+        "Text": "Clear without any allies fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100404,
-        "Textoffset": "Clear without continuing"
+        "Text": "Clear without continuing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100501,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100502,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100503,
-        "Textoffset": "Clear without continuing"
+        "Text": "Clear without continuing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100504,
-        "Textoffset": "Achieve Combo: x{0}"
+        "Text": "Achieve Combo: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100601,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100602,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100603,
-        "Textoffset": "Clear without continuing"
+        "Text": "Clear without continuing"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100604,
-        "Textoffset": "Achieve Combo: x{0}"
+        "Text": "Achieve Combo: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100701,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100702,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100703,
-        "Textoffset": "Clear without equipping any items"
+        "Text": "Clear without equipping any items"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100704,
-        "Textoffset": "Achieve Combo: x{0}"
+        "Text": "Achieve Combo: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100801,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100802,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100803,
-        "Textoffset": "Clear without any allies fainting"
+        "Text": "Clear without any allies fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100804,
-        "Textoffset": "Use Special Technique: x{0}"
+        "Text": "Use Special Technique: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100901,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100902,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100903,
-        "Textoffset": "Clear without any allies fainting"
+        "Text": "Clear without any allies fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003100904,
-        "Textoffset": "Use Special Technique: x{0}"
+        "Text": "Use Special Technique: x{0}"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101001,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101002,
-        "Textoffset": "Achieve Clear Rank: S"
+        "Text": "Achieve Clear Rank: S"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101003,
-        "Textoffset": "Clear without a single ally fainting"
+        "Text": "Clear without a single ally fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101004,
-        "Textoffset": "Clear without more than 1 ally fainting"
+        "Text": "Clear without more than 1 ally fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101101,
-        "Textoffset": "Clear Quest missions: All"
+        "Text": "Clear Quest missions: All"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101102,
-        "Textoffset": "Clear without using revive"
+        "Text": "Clear without using revive"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101103,
-        "Textoffset": "Clear without a single ally fainting"
+        "Text": "Clear without a single ally fainting"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 280003101104,
-        "Textoffset": "Clear without more than 1 ally fainting"
+        "Text": "Clear without more than 1 ally fainting"
     }
 ]

@@ -1,612 +1,612 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520000006000,
-        "Textoffset": "[DEBUG_EN]"
+        "Text": "[DEBUG_EN]"
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520000006000,
-        "Textoffset": "l10n_lottery_equipment_group_N/A"
+        "Text": "l10n_lottery_equipment_group_N/A"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001001000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001001000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001001001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001001001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001001002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001001002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001002000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001002000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001002001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001002001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001002002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001002002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001003004,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001003004,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001003104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001003104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001003200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001003200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001004007,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001004007,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001004107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001004107,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001004200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001004200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001005000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001005000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001005100,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001005100,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001005200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001005200,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010301,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010302,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010303,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010304,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010304,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010305,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010306,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010306,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010311,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010311,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010312,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010312,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010313,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010313,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010314,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010314,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010315,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010315,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010316,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010316,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010321,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010321,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010322,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010322,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010323,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010323,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010324,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010324,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010325,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010325,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010326,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010326,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010331,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010331,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010332,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010332,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010333,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010333,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010334,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010334,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010335,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010335,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010336,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010336,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010341,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010341,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010342,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010342,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010343,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010343,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010344,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010344,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010345,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010345,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010346,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010346,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010351,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010351,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010352,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010352,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010353,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010353,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010354,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010354,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010355,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010355,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010356,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001010356,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020102,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020103,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020104,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020201,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020202,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020203,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020204,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020204,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 520001030101,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "mission_item_detail_description",
+        "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001030101,
-        "Textoffset": ""
+        "Text": ""
     }
 ]

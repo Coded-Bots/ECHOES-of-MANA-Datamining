@@ -1,412 +1,412 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005001,
-        "Textoffset": "Rabite"
+        "Text": "Rabite"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005002,
-        "Textoffset": "Snowy Rabite"
+        "Text": "Snowy Rabite"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005003,
-        "Textoffset": "Silktail"
+        "Text": "Silktail"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005004,
-        "Textoffset": "King Rabite"
+        "Text": "King Rabite"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005005,
-        "Textoffset": "Lullabud"
+        "Text": "Lullabud"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005006,
-        "Textoffset": "Trap Flower"
+        "Text": "Trap Flower"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005007,
-        "Textoffset": "Chobin Hood"
+        "Text": "Chobin Hood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005008,
-        "Textoffset": "Quilted Hood"
+        "Text": "Quilted Hood"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005009,
-        "Textoffset": "Assassinant"
+        "Text": "Assassinant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005010,
-        "Textoffset": "Antversary"
+        "Text": "Antversary"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005011,
-        "Textoffset": "Sahagin"
+        "Text": "Sahagin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005012,
-        "Textoffset": "Petit Poseidon"
+        "Text": "Petit Poseidon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005013,
-        "Textoffset": "Imp"
+        "Text": "Imp"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005014,
-        "Textoffset": "Gremlin"
+        "Text": "Gremlin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005015,
-        "Textoffset": "Eggatrice"
+        "Text": "Eggatrice"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005016,
-        "Textoffset": "Needlebeak"
+        "Text": "Needlebeak"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005017,
-        "Textoffset": "Pricklebeak"
+        "Text": "Pricklebeak"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005018,
-        "Textoffset": "Zombie"
+        "Text": "Zombie"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005019,
-        "Textoffset": "Ghoul"
+        "Text": "Ghoul"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005022,
-        "Textoffset": "Kid Dragon"
+        "Text": "Kid Dragon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005023,
-        "Textoffset": "Frost Dragon"
+        "Text": "Frost Dragon"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005024,
-        "Textoffset": "Kid Drakonis"
+        "Text": "Kid Drakonis"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005025,
-        "Textoffset": "Kid Drazombie"
+        "Text": "Kid Drazombie"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005026,
-        "Textoffset": "Tezla"
+        "Text": "Tezla"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005027,
-        "Textoffset": "Magic Tezla"
+        "Text": "Magic Tezla"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005028,
-        "Textoffset": "Marmablue"
+        "Text": "Marmablue"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005029,
-        "Textoffset": "Chess Knight"
+        "Text": "Chess Knight"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005030,
-        "Textoffset": "Golden Chess"
+        "Text": "Golden Chess"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005031,
-        "Textoffset": "Poto"
+        "Text": "Poto"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005032,
-        "Textoffset": "Marmpoto"
+        "Text": "Marmpoto"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005033,
-        "Textoffset": "Parpoto"
+        "Text": "Parpoto"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005034,
-        "Textoffset": "Mushboom"
+        "Text": "Mushboom"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005035,
-        "Textoffset": "Mushgloom"
+        "Text": "Mushgloom"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005036,
-        "Textoffset": "Molebear"
+        "Text": "Molebear"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005037,
-        "Textoffset": "Needlion"
+        "Text": "Needlion"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005038,
-        "Textoffset": "Green Drop"
+        "Text": "Green Drop"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005039,
-        "Textoffset": "Red Drop"
+        "Text": "Red Drop"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005040,
-        "Textoffset": "Blue Drop"
+        "Text": "Blue Drop"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005041,
-        "Textoffset": "Prime Slime"
+        "Text": "Prime Slime"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005042,
-        "Textoffset": "Copper Knight"
+        "Text": "Copper Knight"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005043,
-        "Textoffset": "Dark Knight"
+        "Text": "Dark Knight"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005044,
-        "Textoffset": "Mace Menace"
+        "Text": "Mace Menace"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005045,
-        "Textoffset": "Harpy"
+        "Text": "Harpy"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005046,
-        "Textoffset": "Siren"
+        "Text": "Siren"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005047,
-        "Textoffset": "Batmo"
+        "Text": "Batmo"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005048,
-        "Textoffset": "Goblin"
+        "Text": "Goblin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005049,
-        "Textoffset": "Hobgoblin"
+        "Text": "Hobgoblin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005050,
-        "Textoffset": "Gobfiend"
+        "Text": "Gobfiend"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005051,
-        "Textoffset": "Ma Goblin"
+        "Text": "Ma Goblin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005052,
-        "Textoffset": "Basilisk"
+        "Text": "Basilisk"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005053,
-        "Textoffset": "Fire Drake"
+        "Text": "Fire Drake"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005054,
-        "Textoffset": "Evil Sword"
+        "Text": "Evil Sword"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005055,
-        "Textoffset": "Doom Sword"
+        "Text": "Doom Sword"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005057,
-        "Textoffset": "Wolfiend"
+        "Text": "Wolfiend"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005058,
-        "Textoffset": "Silverwolf"
+        "Text": "Silverwolf"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005059,
-        "Textoffset": "Bluster Gas"
+        "Text": "Bluster Gas"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005060,
-        "Textoffset": "Dark Funk"
+        "Text": "Dark Funk"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005061,
-        "Textoffset": "Sand Stinger"
+        "Text": "Sand Stinger"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005062,
-        "Textoffset": "Steelpion"
+        "Text": "Steelpion"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005063,
-        "Textoffset": "Mad Mallard"
+        "Text": "Mad Mallard"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005064,
-        "Textoffset": "Captain Duck"
+        "Text": "Captain Duck"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005065,
-        "Textoffset": "Gritty Knitwit"
+        "Text": "Gritty Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005066,
-        "Textoffset": "Huffy Knitwit"
+        "Text": "Huffy Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005067,
-        "Textoffset": "Drippy Knitwit"
+        "Text": "Drippy Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005068,
-        "Textoffset": "Burny Knitwit"
+        "Text": "Burny Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005069,
-        "Textoffset": "Nighty Knitwit"
+        "Text": "Nighty Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005070,
-        "Textoffset": "Dawny Knitwit"
+        "Text": "Dawny Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005071,
-        "Textoffset": "Moony Knitwit"
+        "Text": "Moony Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005072,
-        "Textoffset": "Twiggy Knitwit"
+        "Text": "Twiggy Knitwit"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005073,
-        "Textoffset": "Nevarl Agent"
+        "Text": "Nevarl Agent"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005074,
-        "Textoffset": "Zable Fahr"
+        "Text": "Zable Fahr"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005075,
-        "Textoffset": "Zable Fahr"
+        "Text": "Zable Fahr"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005076,
-        "Textoffset": "Zable Fahr"
+        "Text": "Zable Fahr"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005077,
-        "Textoffset": "Ebon Knight"
+        "Text": "Ebon Knight"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005078,
-        "Textoffset": "Mantis Ant"
+        "Text": "Mantis Ant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005079,
-        "Textoffset": "Raxa"
+        "Text": "Raxa"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005080,
-        "Textoffset": "Armored Inferno"
+        "Text": "Armored Inferno"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005081,
-        "Textoffset": "Fullmetal Hugger"
+        "Text": "Fullmetal Hugger"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005082,
-        "Textoffset": "Warrior Faerie"
+        "Text": "Warrior Faerie"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005086,
-        "Textoffset": "Guardian"
+        "Text": "Guardian"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005087,
-        "Textoffset": "Mistletoe Marauders"
+        "Text": "Mistletoe Marauders"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005088,
-        "Textoffset": "Polycerameth"
+        "Text": "Polycerameth"
     }
 ]

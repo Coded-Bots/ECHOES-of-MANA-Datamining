@@ -1,632 +1,632 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010101,
-        "Textoffset": "Sumo"
+        "Text": "Sumo"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010101,
-        "Textoffset": "VA: Hiro Shimono"
+        "Text": "VA: Hiro Shimono"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010101,
-        "Textoffset": "Captured and enslaved after a failed attempt to infiltrate Glaive Castle and slay the Dark Lord, the hero is forced to fight for his life on the blood sands. However, when fellow gladiator, Will, dies, the hero swears revenge and begins plotting a daring escape."
+        "Text": "Captured and enslaved after a failed attempt to infiltrate Glaive Castle and slay the Dark Lord, the hero is forced to fight for his life on the blood sands. However, when fellow gladiator, Will, dies, the hero swears revenge and begins plotting a daring escape."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010102,
-        "Textoffset": "Amanda"
+        "Text": "Amanda"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010102,
-        "Textoffset": "VA: Miyuki Sawashiro"
+        "Text": "VA: Miyuki Sawashiro"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010102,
-        "Textoffset": "Another gladiator forced into servitude by the Duchy of Glaive, this strong-minded young woman is a formidable warrior, deadly with her weapon of choice\u2015the throwing knife. Amanda shares a deep affection for her younger brother Lester whom she has raised on her own since they were children."
+        "Text": "Another gladiator forced into servitude by the Duchy of Glaive, this strong-minded young woman is a formidable warrior, deadly with her weapon of choice―the throwing knife. Amanda shares a deep affection for her younger brother Lester whom she has raised on her own since they were children."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010103,
-        "Textoffset": "Dark Lord"
+        "Text": "Dark Lord"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010103,
-        "Textoffset": "VA: Kazuyuki Okitsu"
+        "Text": "VA: Kazuyuki Okitsu"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010103,
-        "Textoffset": "Ruthless and cunning, it is rumored the Dark Lord slew his own father to hasten his rise to the throne. Now, seeking to tighten his deadly grip upon the realm, the tyrant has set in motion a grand scheme to locate the legendary Tree of Mana and tap its power."
+        "Text": "Ruthless and cunning, it is rumored the Dark Lord slew his own father to hasten his rise to the throne. Now, seeking to tighten his deadly grip upon the realm, the tyrant has set in motion a grand scheme to locate the legendary Tree of Mana and tap its power."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010104,
-        "Textoffset": "Julius"
+        "Text": "Julius"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010104,
-        "Textoffset": "VA: Koki Uchiyama"
+        "Text": "VA: Koki Uchiyama"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010104,
-        "Textoffset": "Well-versed in Mana lore, the Arch Mage of Glaive has been placed in charge of the Dark Lord's search for the tree of legend. Yet of his background or his true motives, little is known."
+        "Text": "Well-versed in Mana lore, the Arch Mage of Glaive has been placed in charge of the Dark Lord's search for the tree of legend. Yet of his background or his true motives, little is known."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010201,
-        "Textoffset": "Randi"
+        "Text": "Randi"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010201,
-        "Textoffset": "VA: Kensho Ono"
+        "Text": "VA: Kensho Ono"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010201,
-        "Textoffset": "The hero who appears in Secret of Mana. Randi is a young boy who possesses immense courage. Upon hearing a mysterious voice he discovers the Mana Sword. Armed with the power of the Mana Sword, he sets forth on this quest to learn how to harness Mana."
+        "Text": "The hero who appears in Secret of Mana. Randi is a young boy who possesses immense courage. Upon hearing a mysterious voice he discovers the Mana Sword. Armed with the power of the Mana Sword, he sets forth on this quest to learn how to harness Mana."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010202,
-        "Textoffset": "Primm"
+        "Text": "Primm"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010202,
-        "Textoffset": "VA: Nozomi Yamamoto"
+        "Text": "VA: Nozomi Yamamoto"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010202,
-        "Textoffset": "A young noblewoman from the Kingdom of Pandora. She rebels against her father's plans to arrange her marriage. After saving Randi from an ambush, she accompanies him on his journey to restore the power of Mana. Primm is also on her own quest to save Dyluck."
+        "Text": "A young noblewoman from the Kingdom of Pandora. She rebels against her father's plans to arrange her marriage. After saving Randi from an ambush, she accompanies him on his journey to restore the power of Mana. Primm is also on her own quest to save Dyluck."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010203,
-        "Textoffset": "Popoi"
+        "Text": "Popoi"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010203,
-        "Textoffset": "VA: Emiri Kato"
+        "Text": "VA: Emiri Kato"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010203,
-        "Textoffset": "A mischievous and caring sprite. Popoi suffers from amnesia, but joins Randi and Primm on their quest in the hope of restoring their lost memories."
+        "Text": "A mischievous and caring sprite. Popoi suffers from amnesia, but joins Randi and Primm on their quest in the hope of restoring their lost memories."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010206,
-        "Textoffset": "Thanatos"
+        "Text": "Thanatos"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010206,
-        "Textoffset": "VA: Jouji Nakata"
+        "Text": "VA: Jouji Nakata"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010206,
-        "Textoffset": "A dark sorcerer entrusted by Emperor Vandole to help him claim the Mana Fortress. Thanatos has magical powers and performs terrifying magic in his pure spiritual form of the Dark Lich. Responsible for capturing Dyluck, Thanatos has a cunning plan of his own."
+        "Text": "A dark sorcerer entrusted by Emperor Vandole to help him claim the Mana Fortress. Thanatos has magical powers and performs terrifying magic in his pure spiritual form of the Dark Lich. Responsible for capturing Dyluck, Thanatos has a cunning plan of his own."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010301,
-        "Textoffset": "Duran"
+        "Text": "Duran"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010301,
-        "Textoffset": "VA: Takuya Eguchi"
+        "Text": "VA: Takuya Eguchi"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010301,
-        "Textoffset": "Duran is a proud young soldier from Valsena, Kingdom of the Plains. Though he comes across as hot-headed and ready for a fight, the whole kingdom acknowledges his skill with a blade. Duran has nothing but love for his kingdom and respect for the Hero King, a good friend of his departed father, Loki the Golden Knight."
+        "Text": "Duran is a proud young soldier from Valsena, Kingdom of the Plains. Though he comes across as hot-headed and ready for a fight, the whole kingdom acknowledges his skill with a blade. Duran has nothing but love for his kingdom and respect for the Hero King, a good friend of his departed father, Loki the Golden Knight."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010302,
-        "Textoffset": "Angela"
+        "Text": "Angela"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010302,
-        "Textoffset": "VA: Rumi Okubo"
+        "Text": "VA: Rumi Okubo"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010302,
-        "Textoffset": "Angela is the only daughter of the True Queen of Altena, the snow-covered kingdom of magicians. Because Angela's mother hardly spent any time with her as a child, the princess was prone to act out to get attention, wearing gaudy clothes and playing pranks on people in the castle."
+        "Text": "Angela is the only daughter of the True Queen of Altena, the snow-covered kingdom of magicians. Because Angela's mother hardly spent any time with her as a child, the princess was prone to act out to get attention, wearing gaudy clothes and playing pranks on people in the castle."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010303,
-        "Textoffset": "Kevin"
+        "Text": "Kevin"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010303,
-        "Textoffset": "VA: Ryota Osaka"
+        "Text": "VA: Ryota Osaka"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010303,
-        "Textoffset": "Kevin is heir to the throne of Ferolia. His father is the king of the beastmen, but his missing mother was a human woman. He is unused to conversing with humans, which can make him hard to understand at times. The ice around the young boy's heart only began to melt after making friends with Karl the wolf pup."
+        "Text": "Kevin is heir to the throne of Ferolia. His father is the king of the beastmen, but his missing mother was a human woman. He is unused to conversing with humans, which can make him hard to understand at times. The ice around the young boy's heart only began to melt after making friends with Karl the wolf pup."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010304,
-        "Textoffset": "Charlotte"
+        "Text": "Charlotte"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010304,
-        "Textoffset": "VA: Sumire Morohoshi"
+        "Text": "VA: Sumire Morohoshi"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010304,
-        "Textoffset": "Charlotte is the granddaughter of Wendel's Priest of Light. She looks much younger than she is thanks to the elfin blood in her veins. Perhaps because of this, she has always been coddled by the people who raised her in the temple. Charlotte's bright and outgoing personality can be both an asset and a hindrance."
+        "Text": "Charlotte is the granddaughter of Wendel's Priest of Light. She looks much younger than she is thanks to the elfin blood in her veins. Perhaps because of this, she has always been coddled by the people who raised her in the temple. Charlotte's bright and outgoing personality can be both an asset and a hindrance."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010305,
-        "Textoffset": "Hawkeye"
+        "Text": "Hawkeye"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010305,
-        "Textoffset": "VA: Yuki Ono"
+        "Text": "VA: Yuki Ono"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010305,
-        "Textoffset": "Hawkeye hails from the desert fortress of Nevarl, home to a guild of noble thieves. He was raised as the orphaned ward of Flamekhan, the leader, together with Flamekhan's own children, Eagle and Jessica. Hawkeye comes across as a laid-back and charming young man, making it hard to tell when he's being serious. But at his core, Hawkeye is a fiercely loyal friend."
+        "Text": "Hawkeye hails from the desert fortress of Nevarl, home to a guild of noble thieves. He was raised as the orphaned ward of Flamekhan, the leader, together with Flamekhan's own children, Eagle and Jessica. Hawkeye comes across as a laid-back and charming young man, making it hard to tell when he's being serious. But at his core, Hawkeye is a fiercely loyal friend."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010306,
-        "Textoffset": "Riesz"
+        "Text": "Riesz"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010306,
-        "Textoffset": "VA: Mikako Komatsu"
+        "Text": "VA: Mikako Komatsu"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010306,
-        "Textoffset": "Riesz is the young princess of the mountainous kingdom of Laurent and captain of the renowned Amazon guard. She has a will of iron and down-to-earth manner. Though some might call her stubborn, Riesz is always there to lend a hand to those who need it. Her topmost priorities are her father, brother, and kingdom."
+        "Text": "Riesz is the young princess of the mountainous kingdom of Laurent and captain of the renowned Amazon guard. She has a will of iron and down-to-earth manner. Though some might call her stubborn, Riesz is always there to lend a hand to those who need it. Her topmost priorities are her father, brother, and kingdom."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010307,
-        "Textoffset": "Bil"
+        "Text": "Bil"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010307,
-        "Textoffset": "VA: Takatsugu Awazu"
+        "Text": "VA: Takatsugu Awazu"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010307,
-        "Textoffset": "A ninja of Nevarl who worked with Hawkeye. Wherever you find Bil, his buddy Ben will be close behind. Bil masterfully infiltrated Laurent's impregnable defenses right under the Amazon guards' noses."
+        "Text": "A ninja of Nevarl who worked with Hawkeye. Wherever you find Bil, his buddy Ben will be close behind. Bil masterfully infiltrated Laurent's impregnable defenses right under the Amazon guards' noses."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010308,
-        "Textoffset": "Ben"
+        "Text": "Ben"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010308,
-        "Textoffset": "VA: Takaaki Uchino"
+        "Text": "VA: Takaaki Uchino"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010308,
-        "Textoffset": "A highly skilled ninja who worked with Hawkeye. Wherever you find Ben, his buddy Bil will be close behind. After falling under Belladonna's enchantment, both Ben and Bil become her puppets, turning against Hawkeye."
+        "Text": "A highly skilled ninja who worked with Hawkeye. Wherever you find Ben, his buddy Bil will be close behind. After falling under Belladonna's enchantment, both Ben and Bil become her puppets, turning against Hawkeye."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010309,
-        "Textoffset": "Ludgar"
+        "Text": "Ludgar"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010309,
-        "Textoffset": "VA: Takaaki Uchino"
+        "Text": "VA: Takaaki Uchino"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010309,
-        "Textoffset": "A beastman appointed leader of the beastmen forces at the behest of the King of Ferolia. He has a fierce rivalry with Kevin, the successor to the king."
+        "Text": "A beastman appointed leader of the beastmen forces at the behest of the King of Ferolia. He has a fierce rivalry with Kevin, the successor to the king."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010310,
-        "Textoffset": "Crimson Wizard"
+        "Text": "Crimson Wizard"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010310,
-        "Textoffset": "VA: Yuichi Nakamura"
+        "Text": "VA: Yuichi Nakamura"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010310,
-        "Textoffset": "As the True Queen's right-hand man, the Crimson Wizard orders the forces of Altena, the Kingdom of Magicians, to attack Valsena. He seeks to release the energy of the Mana Stones for an unknown, wicked purpose."
+        "Text": "As the True Queen's right-hand man, the Crimson Wizard orders the forces of Altena, the Kingdom of Magicians, to attack Valsena. He seeks to release the energy of the Mana Stones for an unknown, wicked purpose."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010401,
-        "Textoffset": "Lekius"
+        "Text": "Lekius"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010401,
-        "Textoffset": "VA: Shoya Chiba"
+        "Text": "VA: Shoya Chiba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010401,
-        "Textoffset": "A childhood friend of Keldric and Ritzia, Lekius guards their village of Tree Folk. He goes by the nickname 'Lek' and is rumored to be the single most masterful archer amongst the guardians."
+        "Text": "A childhood friend of Keldric and Ritzia, Lekius guards their village of Tree Folk. He goes by the nickname 'Lek' and is rumored to be the single most masterful archer amongst the guardians."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010501,
-        "Textoffset": "Shiloh"
+        "Text": "Shiloh"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010501,
-        "Textoffset": "VA: Nobunaga Shimazaki"
+        "Text": "VA: Nobunaga Shimazaki"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010501,
-        "Textoffset": "A human on an adventure through the world of Fa'Diel. Although he doesn't have much of a background to speak of, he often finds himself caught up in the affairs of the various people he encounters in his travels."
+        "Text": "A human on an adventure through the world of Fa'Diel. Although he doesn't have much of a background to speak of, he often finds himself caught up in the affairs of the various people he encounters in his travels."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010502,
-        "Textoffset": "Serafina"
+        "Text": "Serafina"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010502,
-        "Textoffset": "VA: Saori Hayami"
+        "Text": "VA: Saori Hayami"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010502,
-        "Textoffset": "A human on an adventure through the world of Fa'Diel. Although he doesn't have much of a background to speak of, he often finds himself caught up in the affairs of the various people he encounters in his travels."
+        "Text": "A human on an adventure through the world of Fa'Diel. Although he doesn't have much of a background to speak of, he often finds himself caught up in the affairs of the various people he encounters in his travels."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010503,
-        "Textoffset": "Niccolo"
+        "Text": "Niccolo"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010503,
-        "Textoffset": "VA: Wataru Takagi"
+        "Text": "VA: Wataru Takagi"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010503,
-        "Textoffset": "A merchant who has traveled city to city peddling wares for generations. His 'money-crazy' dealings have led to more than a few unsatisfied customers.\nNiccolo isn't very fond of sproutlings or flowerlings. As for faeries, he might dislike them as well\u2014if he could see them, that is."
+        "Text": "A merchant who has traveled city to city peddling wares for generations. His 'money-crazy' dealings have led to more than a few unsatisfied customers.\nNiccolo isn't very fond of sproutlings or flowerlings. As for faeries, he might dislike them as well—if he could see them, that is."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010504,
-        "Textoffset": "Sierra"
+        "Text": "Sierra"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010504,
-        "Textoffset": "VA: Kiyono Yasuno"
+        "Text": "VA: Kiyono Yasuno"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010504,
-        "Textoffset": "A dragoon beauty in pursuit of her younger brother Larc, Sierra is a beast-warrior who is harsh on both herself and others. Although she once lost her life in battle, she was revived by the dragon Vadise who was struck by her bravery. Sierra has served her dragon master ever since in repayment of her kindness."
+        "Text": "A dragoon beauty in pursuit of her younger brother Larc, Sierra is a beast-warrior who is harsh on both herself and others. Although she once lost her life in battle, she was revived by the dragon Vadise who was struck by her bravery. Sierra has served her dragon master ever since in repayment of her kindness."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010601,
-        "Textoffset": "Ferrik"
+        "Text": "Ferrik"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010601,
-        "Textoffset": "VA: Tasuku Hatanaka"
+        "Text": "VA: Tasuku Hatanaka"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010601,
-        "Textoffset": "A young boy from Wendell, the land of green. Ferrik tackles obstacles with his spirited, up-front attitude, despite having lost his family to the calamity 10 years earlier. His admiration for the unknown knight who saved him has fueled his efforts in sword mastery."
+        "Text": "A young boy from Wendell, the land of green. Ferrik tackles obstacles with his spirited, up-front attitude, despite having lost his family to the calamity 10 years earlier. His admiration for the unknown knight who saved him has fueled his efforts in sword mastery."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010602,
-        "Textoffset": "Wanderer"
+        "Text": "Wanderer"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100010602,
-        "Textoffset": "VA: Kenjiro Tsuda"
+        "Text": "VA: Kenjiro Tsuda"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100010602,
-        "Textoffset": "This cat hails from Wendell, the land of green, and is one of the Niccolos. His passion to roam takes priority over his tribe's merchant traditions. As such, he's considered a pariah within his people."
+        "Text": "This cat hails from Wendell, the land of green, and is one of the Niccolos. His passion to roam takes priority over his tribe's merchant traditions. As such, he's considered a pariah within his people."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011101,
-        "Textoffset": "Quilto"
+        "Text": "Quilto"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011101,
-        "Textoffset": "VA: Koutaro Nishiyama"
+        "Text": "VA: Koutaro Nishiyama"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011101,
-        "Textoffset": "A young boy tasked with harvesting the fruits of the Mana Tree. After awakening in the sanctuary with no recollection of his past, Quilto is guided by the Mana Goddess as he journeys through the echoes of worlds that once were.\nHe can be easily spotted by his wild hair, tied clumsily back with woven cloth."
+        "Text": "A young boy tasked with harvesting the fruits of the Mana Tree. After awakening in the sanctuary with no recollection of his past, Quilto is guided by the Mana Goddess as he journeys through the echoes of worlds that once were.\nHe can be easily spotted by his wild hair, tied clumsily back with woven cloth."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011102,
-        "Textoffset": "Quilta"
+        "Text": "Quilta"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011102,
-        "Textoffset": "VA: Hikaru Tono"
+        "Text": "VA: Hikaru Tono"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011102,
-        "Textoffset": "A young girl tasked with harvesting the fruits of the Mana Tree. After awakening in the sanctuary with no recollection of her past, Quilta is guided by the Mana Goddess as she journeys through the echoes of worlds that once were.\nShe can be easily spotted by her pigtails, uniquely bound with woven cloth."
+        "Text": "A young girl tasked with harvesting the fruits of the Mana Tree. After awakening in the sanctuary with no recollection of her past, Quilta is guided by the Mana Goddess as she journeys through the echoes of worlds that once were.\nShe can be easily spotted by her pigtails, uniquely bound with woven cloth."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011103,
-        "Textoffset": "Duffle"
+        "Text": "Duffle"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011103,
-        "Textoffset": "VA: Fairouz Ai"
+        "Text": "VA: Fairouz Ai"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011103,
-        "Textoffset": "This bubbly young girl in Pinzton trains daily with her halberd in the hopes of becoming a real-life, fairy-tale knight. Duffle's personality shines through in her battle style\u2014fearless to jump into the fray and eager to ally with everyone she meets."
+        "Text": "This bubbly young girl in Pinzton trains daily with her halberd in the hopes of becoming a real-life, fairy-tale knight. Duffle's personality shines through in her battle style—fearless to jump into the fray and eager to ally with everyone she meets."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011104,
-        "Textoffset": "Honeycomb"
+        "Text": "Honeycomb"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011104,
-        "Textoffset": "VA: Atsushi Tamaru"
+        "Text": "VA: Atsushi Tamaru"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011104,
-        "Textoffset": "Hailing from a long line of sorcerers, Honeycomb is an earnest young boy in Pinzton devoted to the study of magic. He wishes he could put his magic to the test and shares Duffle's excitement for the legendary mana swordsman's tale, but he's too stubborn to admit it."
+        "Text": "Hailing from a long line of sorcerers, Honeycomb is an earnest young boy in Pinzton devoted to the study of magic. He wishes he could put his magic to the test and shares Duffle's excitement for the legendary mana swordsman's tale, but he's too stubborn to admit it."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011105,
-        "Textoffset": "Blainchet"
+        "Text": "Blainchet"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011105,
-        "Textoffset": "VA: Toshiyuki Toyonaga"
+        "Text": "VA: Toshiyuki Toyonaga"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011105,
-        "Textoffset": "A young, mild-mannered member of the wolffolk journeying in search of his pack. His soft-hearted ways tend to get him off track, as he often strays to help others.\nDespite his best efforts, Blainchet is easy to read since a flick of his ears and tail give him away."
+        "Text": "A young, mild-mannered member of the wolffolk journeying in search of his pack. His soft-hearted ways tend to get him off track, as he often strays to help others.\nDespite his best efforts, Blainchet is easy to read since a flick of his ears and tail give him away."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011106,
-        "Textoffset": "Raxa"
+        "Text": "Raxa"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011106,
-        "Textoffset": "VA: Atsumi Tanezaki"
+        "Text": "VA: Atsumi Tanezaki"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011106,
-        "Textoffset": "This young, scorfolk outlaw spends her days wandering along and doing what she pleases. Helped by rumors of her venomous nature and rare existence, most folks fear an encounter with Raxa, which gives her some amusement."
+        "Text": "This young, scorfolk outlaw spends her days wandering along and doing what she pleases. Helped by rumors of her venomous nature and rare existence, most folks fear an encounter with Raxa, which gives her some amusement."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100011107,
-        "Textoffset": "Mousseline"
+        "Text": "Mousseline"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100011107,
-        "Textoffset": "VA: Sachika Misawa"
+        "Text": "VA: Sachika Misawa"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100011107,
-        "Textoffset": "A bewitching faerie whose capricious nature makes her lose interest easily. Her general apathy is evident in the blas\u00e9 tone of her voice. She possesses remarkable magic power, but she can't be bothered to show it off.\nDon't ask Mousseline her age as she herself is not even sure."
+        "Text": "A bewitching faerie whose capricious nature makes her lose interest easily. Her general apathy is evident in the blasé tone of her voice. She possesses remarkable magic power, but she can't be bothered to show it off.\nDon't ask Mousseline her age as she herself is not even sure."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070001,
-        "Textoffset": "Knitwit Icon"
+        "Text": "Knitwit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070001,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070001,
-        "Textoffset": "A curious monster carving used for ascending allies.\nCannot be set to a party."
+        "Text": "A curious monster carving used for ascending allies.\nCannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070011,
-        "Textoffset": "Earth Spirit Icon"
+        "Text": "Earth Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070011,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070011,
-        "Textoffset": "A rare Gnome carving used for unleashing earth allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Gnome carving used for unleashing earth allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070012,
-        "Textoffset": "Wind Spirit Icon"
+        "Text": "Wind Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070012,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070012,
-        "Textoffset": "A rare Sylphid carving used for unleashing wind allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Sylphid carving used for unleashing wind allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070013,
-        "Textoffset": "Water Spirit Icon"
+        "Text": "Water Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070013,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070013,
-        "Textoffset": "A rare Undine carving used for unleashing water allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Undine carving used for unleashing water allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070014,
-        "Textoffset": "Fire Spirit Icon"
+        "Text": "Fire Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070014,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070014,
-        "Textoffset": "A rare Salamando carving used for unleashing fire allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Salamando carving used for unleashing fire allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070015,
-        "Textoffset": "Dark Spirit Icon"
+        "Text": "Dark Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070015,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070015,
-        "Textoffset": "A rare Shade carving used for unleashing dark allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Shade carving used for unleashing dark allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070016,
-        "Textoffset": "Light Spirit Icon"
+        "Text": "Light Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070016,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070016,
-        "Textoffset": "A rare Lumina carving used for unleashing light allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Lumina carving used for unleashing light allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070017,
-        "Textoffset": "Moon Spirit Icon"
+        "Text": "Moon Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070017,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070017,
-        "Textoffset": "A rare Luna carving used for unleashing moon allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Luna carving used for unleashing moon allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070018,
-        "Textoffset": "Wood Spirit Icon"
+        "Text": "Wood Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070018,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070018,
-        "Textoffset": "A rare Dryad carving used for unleashing wood allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare Dryad carving used for unleashing wood allies.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 600100070019,
-        "Textoffset": "Benevodon Spirit Icon"
+        "Text": "Benevodon Spirit Icon"
     },
     {
-        "ColumnNameoffset": "cv",
+        "ColumnName": "cv",
         "LocalizationTargetId": 600100070019,
-        "Textoffset": "Unknown"
+        "Text": "Unknown"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 600100070019,
-        "Textoffset": "A rare divine beast carving used for unleashing any ally.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
+        "Text": "A rare divine beast carving used for unleashing any ally.\nItem's rarity must match ally's initial rarity. Cannot be set to a party."
     }
 ]

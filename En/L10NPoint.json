@@ -1,52 +1,52 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401000001,
-        "Textoffset": "Spirit Crystal"
+        "Text": "Spirit Crystal"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401010001,
-        "Textoffset": " Lucre"
+        "Text": " Lucre"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020001,
-        "Textoffset": "Salamando Coin"
+        "Text": "Salamando Coin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020002,
-        "Textoffset": "Undine Coin"
+        "Text": "Undine Coin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020003,
-        "Textoffset": "Sylphid Coin"
+        "Text": "Sylphid Coin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020004,
-        "Textoffset": "Glory"
+        "Text": "Glory"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020011,
-        "Textoffset": "EP"
+        "Text": "EP"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020012,
-        "Textoffset": "High Level EP"
+        "Text": "High Level EP"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401020013,
-        "Textoffset": "Rabite Coin"
+        "Text": "Rabite Coin"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 401030001,
-        "Textoffset": "Spell Shard"
+        "Text": "Spell Shard"
     }
 ]

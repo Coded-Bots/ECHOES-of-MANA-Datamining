@@ -1,42 +1,42 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1061001,
-        "Textoffset": "AP Filler (S)"
+        "Text": "AP Filler (S)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1061001,
-        "Textoffset": "Use to recover AP. AP is required to play main quests and event quests."
+        "Text": "Use to recover AP. AP is required to play main quests and event quests."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1061002,
-        "Textoffset": "AP Filler (L)"
+        "Text": "AP Filler (L)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1061002,
-        "Textoffset": "Use to recover AP. AP is required to play main quests and event quests."
+        "Text": "Use to recover AP. AP is required to play main quests and event quests."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1062001,
-        "Textoffset": "SP Filler (S)"
+        "Text": "SP Filler (S)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1062001,
-        "Textoffset": "Use to recover SP. SP is required to play training quests."
+        "Text": "Use to recover SP. SP is required to play training quests."
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1062002,
-        "Textoffset": "SP Filler (L)"
+        "Text": "SP Filler (L)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1062002,
-        "Textoffset": "Use to recover SP. SP is required to play training quests."
+        "Text": "Use to recover SP. SP is required to play training quests."
     }
 ]

@@ -1,202 +1,202 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000002001,
-        "Textoffset": "Harvest Trial Quest"
+        "Text": "Harvest Trial Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000002001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010000,
-        "Textoffset": "Awakening Unto the Void"
+        "Text": "Awakening Unto the Void"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010000,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010001,
-        "Textoffset": "Beginniberry: Problems in Pinzton"
+        "Text": "Beginniberry: Problems in Pinzton"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010002,
-        "Textoffset": "Verdigourd: The Mana Sword Song"
+        "Text": "Verdigourd: The Mana Sword Song"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010003,
-        "Textoffset": "Epicorn: Legend on the Lake"
+        "Text": "Epicorn: Legend on the Lake"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010003,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010004,
-        "Textoffset": "Soaramame: Wings for Wear"
+        "Text": "Soaramame: Wings for Wear"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010004,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000010005,
-        "Textoffset": "Faerieberry: Confronting Confusion"
+        "Text": "Faerieberry: Confronting Confusion"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000010005,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020001,
-        "Textoffset": "Flame Altar Vigil"
+        "Text": "Flame Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020002,
-        "Textoffset": "Aqua Altar Vigil"
+        "Text": "Aqua Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020002,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020003,
-        "Textoffset": "Zephyr Altar Vigil"
+        "Text": "Zephyr Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020003,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020004,
-        "Textoffset": "Terra Altar Vigil"
+        "Text": "Terra Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020004,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020005,
-        "Textoffset": "Dawn Altar Vigil"
+        "Text": "Dawn Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020005,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020006,
-        "Textoffset": "Dusk Altar Vigil"
+        "Text": "Dusk Altar Vigil"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000020006,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000024001,
-        "Textoffset": "Echoing Maze"
+        "Text": "Echoing Maze"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000024001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000025001,
-        "Textoffset": "Daily Training Quest"
+        "Text": "Daily Training Quest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000025001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000030001,
-        "Textoffset": "Trail to the Toughest"
+        "Text": "Trail to the Toughest"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000030001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000033001,
-        "Textoffset": "Spirit Crystal Sweep"
+        "Text": "Spirit Crystal Sweep"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000033001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000040001,
-        "Textoffset": "Twillwool Tower"
+        "Text": "Twillwool Tower"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000040001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000050001,
-        "Textoffset": "Warriors Hall Lezuede"
+        "Text": "Warriors Hall Lezuede"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000050001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 200000050002,
-        "Textoffset": "Wisemen Hall Amgette"
+        "Text": "Wisemen Hall Amgette"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 200000050002,
-        "Textoffset": ""
+        "Text": ""
     }
 ]

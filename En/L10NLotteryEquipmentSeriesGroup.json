@@ -1,37 +1,37 @@
 [
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000001,
-        "Textoffset": "Menos Series"
+        "Text": "Menos Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000003,
-        "Textoffset": "Valsena Series"
+        "Text": "Valsena Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000014,
-        "Textoffset": "Cotton Series"
+        "Text": "Cotton Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000018,
-        "Textoffset": "Ivory Series"
+        "Text": "Ivory Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000024,
-        "Textoffset": "Oak Series"
+        "Text": "Oak Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000025,
-        "Textoffset": "Holly Series"
+        "Text": "Holly Series"
     },
     {
-        "ColumnNameoffset": "series_name",
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000027,
-        "Textoffset": "Maple Series"
+        "Text": "Maple Series"
     }
 ]

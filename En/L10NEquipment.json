@@ -1,107 +1,107 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001001101,
-        "Textoffset": "Menos Helm"
+        "Text": "Menos Helm"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001001201,
-        "Textoffset": "Menos Armor"
+        "Text": "Menos Armor"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001001301,
-        "Textoffset": "Menos Glove"
+        "Text": "Menos Glove"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001003101,
-        "Textoffset": "Valsena Helm"
+        "Text": "Valsena Helm"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001003201,
-        "Textoffset": "Valsena Armor"
+        "Text": "Valsena Armor"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001003301,
-        "Textoffset": "Valsena Glove"
+        "Text": "Valsena Glove"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001014101,
-        "Textoffset": "Cotton Hat"
+        "Text": "Cotton Hat"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001014201,
-        "Textoffset": "Cotton Robe"
+        "Text": "Cotton Robe"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001014301,
-        "Textoffset": "Cotton Bracelet"
+        "Text": "Cotton Bracelet"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001018401,
-        "Textoffset": "Ivory Pendant"
+        "Text": "Ivory Pendant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001018501,
-        "Textoffset": "Ivory Ring"
+        "Text": "Ivory Ring"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001018601,
-        "Textoffset": "Ivory Boots"
+        "Text": "Ivory Boots"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001024401,
-        "Textoffset": "Oak Pendant"
+        "Text": "Oak Pendant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001024501,
-        "Textoffset": "Oak Ring"
+        "Text": "Oak Ring"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001024601,
-        "Textoffset": "Oak Boots"
+        "Text": "Oak Boots"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001025401,
-        "Textoffset": "Holly Pendant"
+        "Text": "Holly Pendant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001025501,
-        "Textoffset": "Holly Ring"
+        "Text": "Holly Ring"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001025601,
-        "Textoffset": "Holly Boots"
+        "Text": "Holly Boots"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001027401,
-        "Textoffset": "Maple Pendant"
+        "Text": "Maple Pendant"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001027501,
-        "Textoffset": "Maple Ring"
+        "Text": "Maple Ring"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3001027601,
-        "Textoffset": "Maple Boots"
+        "Text": "Maple Boots"
     }
 ]

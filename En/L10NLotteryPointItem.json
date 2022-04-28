@@ -1,7 +1,7 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 6007002001,
-        "Textoffset": "Harvest Trader Points"
+        "Text": "Harvest Trader Points"
     }
 ]

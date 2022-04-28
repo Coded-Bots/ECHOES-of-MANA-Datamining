@@ -1,252 +1,252 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1041001,
-        "Textoffset": "Gnome Copper"
+        "Text": "Gnome Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1041001,
-        "Textoffset": "Use to unlock mana board panels for earth allies"
+        "Text": "Use to unlock mana board panels for earth allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1041002,
-        "Textoffset": "Gnome Silver"
+        "Text": "Gnome Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1041002,
-        "Textoffset": "Use to unlock mana board panels for earth allies"
+        "Text": "Use to unlock mana board panels for earth allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1041003,
-        "Textoffset": "Gnome Gold"
+        "Text": "Gnome Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1041003,
-        "Textoffset": "Use to unlock mana board panels for earth allies"
+        "Text": "Use to unlock mana board panels for earth allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1042001,
-        "Textoffset": "Sylphid Copper"
+        "Text": "Sylphid Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1042001,
-        "Textoffset": "Use to unlock mana board panels for wind allies"
+        "Text": "Use to unlock mana board panels for wind allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1042002,
-        "Textoffset": "Sylphid Silver"
+        "Text": "Sylphid Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1042002,
-        "Textoffset": "Use to unlock mana board panels for wind allies"
+        "Text": "Use to unlock mana board panels for wind allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1042003,
-        "Textoffset": "Sylphid Gold"
+        "Text": "Sylphid Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1042003,
-        "Textoffset": "Use to unlock mana board panels for wind allies"
+        "Text": "Use to unlock mana board panels for wind allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1043001,
-        "Textoffset": "Undine Copper"
+        "Text": "Undine Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1043001,
-        "Textoffset": "Use to unlock mana board panels for water allies"
+        "Text": "Use to unlock mana board panels for water allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1043002,
-        "Textoffset": "Undine Silver"
+        "Text": "Undine Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1043002,
-        "Textoffset": "Use to unlock mana board panels for water allies"
+        "Text": "Use to unlock mana board panels for water allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1043003,
-        "Textoffset": "Undine Gold"
+        "Text": "Undine Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1043003,
-        "Textoffset": "Use to unlock mana board panels for water allies"
+        "Text": "Use to unlock mana board panels for water allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1044001,
-        "Textoffset": "Salamando Copper"
+        "Text": "Salamando Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1044001,
-        "Textoffset": "Use to unlock mana board panels for fire allies"
+        "Text": "Use to unlock mana board panels for fire allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1044002,
-        "Textoffset": "Salamando Silver"
+        "Text": "Salamando Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1044002,
-        "Textoffset": "Use to unlock mana board panels for fire allies"
+        "Text": "Use to unlock mana board panels for fire allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1044003,
-        "Textoffset": "Salamando Gold"
+        "Text": "Salamando Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1044003,
-        "Textoffset": "Use to unlock mana board panels for fire allies"
+        "Text": "Use to unlock mana board panels for fire allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1045001,
-        "Textoffset": "Shade Copper"
+        "Text": "Shade Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1045001,
-        "Textoffset": "Use to unlock mana board panels for dark allies"
+        "Text": "Use to unlock mana board panels for dark allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1045002,
-        "Textoffset": "Shade Silver"
+        "Text": "Shade Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1045002,
-        "Textoffset": "Use to unlock mana board panels for dark allies"
+        "Text": "Use to unlock mana board panels for dark allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1045003,
-        "Textoffset": "Shade Gold"
+        "Text": "Shade Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1045003,
-        "Textoffset": "Use to unlock mana board panels for dark allies"
+        "Text": "Use to unlock mana board panels for dark allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1046001,
-        "Textoffset": "Lumina Copper"
+        "Text": "Lumina Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1046001,
-        "Textoffset": "Use to unlock mana board panels for light allies"
+        "Text": "Use to unlock mana board panels for light allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1046002,
-        "Textoffset": "Lumina Silver"
+        "Text": "Lumina Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1046002,
-        "Textoffset": "Use to unlock mana board panels for light allies"
+        "Text": "Use to unlock mana board panels for light allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1046003,
-        "Textoffset": "Lumina Gold"
+        "Text": "Lumina Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1046003,
-        "Textoffset": "Use to unlock mana board panels for light allies"
+        "Text": "Use to unlock mana board panels for light allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1047001,
-        "Textoffset": "Luna Copper"
+        "Text": "Luna Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1047001,
-        "Textoffset": "Use to unlock mana board panels for moon allies"
+        "Text": "Use to unlock mana board panels for moon allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1047002,
-        "Textoffset": "Luna Silver"
+        "Text": "Luna Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1047002,
-        "Textoffset": "Use to unlock mana board panels for moon allies"
+        "Text": "Use to unlock mana board panels for moon allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1047003,
-        "Textoffset": "Luna Gold"
+        "Text": "Luna Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1047003,
-        "Textoffset": "Use to unlock mana board panels for moon allies"
+        "Text": "Use to unlock mana board panels for moon allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1048001,
-        "Textoffset": "Dryad Copper"
+        "Text": "Dryad Copper"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1048001,
-        "Textoffset": "Use to unlock mana board panels for wood allies"
+        "Text": "Use to unlock mana board panels for wood allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1048002,
-        "Textoffset": "Dryad Silver"
+        "Text": "Dryad Silver"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1048002,
-        "Textoffset": "Use to unlock mana board panels for wood allies"
+        "Text": "Use to unlock mana board panels for wood allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1048003,
-        "Textoffset": "Dryad Gold"
+        "Text": "Dryad Gold"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1048003,
-        "Textoffset": "Use to unlock mana board panels for wood allies"
+        "Text": "Use to unlock mana board panels for wood allies"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1049000,
-        "Textoffset": "Benevodon Prismacoin"
+        "Text": "Benevodon Prismacoin"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1049000,
-        "Textoffset": "Use to unlock specific mana board panels"
+        "Text": "Use to unlock specific mana board panels"
     }
 ]

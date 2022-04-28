@@ -1,12 +1,12 @@
 [
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 12001021001,
-        "Textoffset": ""
+        "Text": ""
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 12001040001,
-        "Textoffset": ""
+        "Text": ""
     }
 ]

@@ -1,32 +1,32 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000051010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000062010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000063010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000064010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000075010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 71000083010,
-        "Textoffset": "Mana Board"
+        "Text": "Mana Board"
     }
 ]

@@ -1,12 +1,12 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1080002,
-        "Textoffset": "4\u2605 Ally-Echo Harvest Ticket"
+        "Text": "4★ Ally-Echo Harvest Ticket"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1080002,
-        "Textoffset": "Used for harvesting at the 4\u2605 Ally Echo Harvest"
+        "Text": "Used for harvesting at the 4★ Ally Echo Harvest"
     }
 ]

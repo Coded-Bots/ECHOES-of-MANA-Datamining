@@ -1,52 +1,52 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1010001,
-        "Textoffset": "Candy"
+        "Text": "Candy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1010001,
-        "Textoffset": "Recovers HP: S"
+        "Text": "Recovers HP: S"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1010002,
-        "Textoffset": "Chocolate"
+        "Text": "Chocolate"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1010002,
-        "Textoffset": "Recovers HP: M"
+        "Text": "Recovers HP: M"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1010003,
-        "Textoffset": "Honey Elixir"
+        "Text": "Honey Elixir"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1010003,
-        "Textoffset": "Recovers HP: L"
+        "Text": "Recovers HP: L"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1010004,
-        "Textoffset": "Medical Herb"
+        "Text": "Medical Herb"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1010004,
-        "Textoffset": "Cures status ailments"
+        "Text": "Cures status ailments"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 1010005,
-        "Textoffset": "Faerie Walnut"
+        "Text": "Faerie Walnut"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 1010005,
-        "Textoffset": "Recovers MP"
+        "Text": "Recovers MP"
     }
 ]

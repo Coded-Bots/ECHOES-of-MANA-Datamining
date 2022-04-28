@@ -1,77 +1,77 @@
 [
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000100,
-        "Textoffset": "Closest foes"
+        "Text": "Closest foes"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000101,
-        "Textoffset": "Same foe as player"
+        "Text": "Same foe as player"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000102,
-        "Textoffset": "Different foe from player"
+        "Text": "Different foe from player"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000103,
-        "Textoffset": "Prioritize boss"
+        "Text": "Prioritize boss"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000200,
-        "Textoffset": "Balanced"
+        "Text": "Balanced"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000201,
-        "Textoffset": "Damage Dealer"
+        "Text": "Damage Dealer"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000202,
-        "Textoffset": "Support"
+        "Text": "Support"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000203,
-        "Textoffset": "Healer"
+        "Text": "Healer"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000300,
-        "Textoffset": "Use"
+        "Text": "Use"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000301,
-        "Textoffset": "Don't use"
+        "Text": "Don't use"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000400,
-        "Textoffset": "Use"
+        "Text": "Use"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000401,
-        "Textoffset": "Don't use"
+        "Text": "Don't use"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000402,
-        "Textoffset": "Use if MP 50% or higher"
+        "Text": "Use if MP 50% or higher"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000500,
-        "Textoffset": "Use"
+        "Text": "Use"
     },
     {
-        "ColumnNameoffset": "type_name",
+        "ColumnName": "type_name",
         "LocalizationTargetId": 610103000501,
-        "Textoffset": "Don't use"
+        "Text": "Don't use"
     }
 ]

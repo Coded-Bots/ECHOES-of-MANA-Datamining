@@ -1,72 +1,72 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000001,
-        "Textoffset": "Menos"
+        "Text": "Menos"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000001,
-        "Textoffset": "[SELF] CON: +{0}%"
+        "Text": "[SELF] CON: +{0}%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000003,
-        "Textoffset": "Valsena"
+        "Text": "Valsena"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000003,
-        "Textoffset": "[SELF] STR: +{0}%"
+        "Text": "[SELF] STR: +{0}%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000014,
-        "Textoffset": "Cotton"
+        "Text": "Cotton"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000014,
-        "Textoffset": "[SELF] HP: +{0}%"
+        "Text": "[SELF] HP: +{0}%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000018,
-        "Textoffset": "Ivory"
+        "Text": "Ivory"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000018,
-        "Textoffset": "[SELF] SPR: +{0}%"
+        "Text": "[SELF] SPR: +{0}%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000024,
-        "Textoffset": "Oak"
+        "Text": "Oak"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000024,
-        "Textoffset": "[SELF] MP: +{0}"
+        "Text": "[SELF] MP: +{0}"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000025,
-        "Textoffset": "Holly"
+        "Text": "Holly"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000025,
-        "Textoffset": "[SELF] HP: +{0}%"
+        "Text": "[SELF] HP: +{0}%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000027,
-        "Textoffset": "Maple"
+        "Text": "Maple"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 3002000027,
-        "Textoffset": "[SELF] INT: +{0}%"
+        "Text": "[SELF] INT: +{0}%"
     }
 ]

@@ -1,3022 +1,3022 @@
 [
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010000,
-        "Textoffset": "[PLAYER] STR/INT Boost"
+        "Text": "[PLAYER] STR/INT Boost"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010000,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +3% (Continuous)/INT: +3% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +3% (Continuous)/INT: +3% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010001,
-        "Textoffset": "[PLAYER] STR/INT Boost"
+        "Text": "[PLAYER] STR/INT Boost"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010001,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +1% (Continuous)/INT: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +1% (Continuous)/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010002,
-        "Textoffset": "[PLAYER] STR/INT Boost"
+        "Text": "[PLAYER] STR/INT Boost"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010002,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +2% (Continuous)/INT: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +2% (Continuous)/INT: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010040,
-        "Textoffset": "Initial ST Gauge Boost (4\u2606)"
+        "Text": "Initial ST Gauge Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010040,
-        "Textoffset": "[SELF] Initial ST Gauge: +100%"
+        "Text": "[SELF] Initial ST Gauge: +100%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010041,
-        "Textoffset": "Initial ST Gauge Boost (5\u2606)"
+        "Text": "Initial ST Gauge Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010041,
-        "Textoffset": "[SELF] Initial ST Gauge: +50%"
+        "Text": "[SELF] Initial ST Gauge: +50%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000010042,
-        "Textoffset": "Initial ST Gauge Boost (5\u2606)"
+        "Text": "Initial ST Gauge Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000010042,
-        "Textoffset": "[SELF] Initial ST Gauge: +100%"
+        "Text": "[SELF] Initial ST Gauge: +100%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020020,
-        "Textoffset": "STR Boost (2\u2606)"
+        "Text": "STR Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020020,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +3% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +3% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020021,
-        "Textoffset": "STR Boost (2\u2606)"
+        "Text": "STR Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020021,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020022,
-        "Textoffset": "STR Boost (2\u2606)"
+        "Text": "STR Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020022,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020030,
-        "Textoffset": "STR Boost (3\u2606)"
+        "Text": "STR Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020030,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +6% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +6% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020031,
-        "Textoffset": "STR Boost (3\u2606)"
+        "Text": "STR Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020031,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020032,
-        "Textoffset": "STR Boost (3\u2606)"
+        "Text": "STR Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020032,
-        "Textoffset": "[SELF/PAIRED ALLY] STR: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] STR: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020040,
-        "Textoffset": "STR Boost (4\u2606)"
+        "Text": "STR Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020040,
-        "Textoffset": "[PARTY] STR: +10% (Continuous)"
+        "Text": "[PARTY] STR: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020041,
-        "Textoffset": "STR Boost (4\u2606)"
+        "Text": "STR Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020041,
-        "Textoffset": "[PARTY] STR: +11% (Continuous)"
+        "Text": "[PARTY] STR: +11% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020042,
-        "Textoffset": "STR Boost (4\u2606)"
+        "Text": "STR Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000020042,
-        "Textoffset": "[PARTY] STR: +12% (Continuous)"
+        "Text": "[PARTY] STR: +12% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030020,
-        "Textoffset": "INT Boost (2\u2606)"
+        "Text": "INT Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030020,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +3% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +3% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030021,
-        "Textoffset": "INT Boost (2\u2606)"
+        "Text": "INT Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030021,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030022,
-        "Textoffset": "INT Boost (2\u2606)"
+        "Text": "INT Boost (2☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030022,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030030,
-        "Textoffset": "INT Boost (3\u2606)"
+        "Text": "INT Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030030,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +6% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +6% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030031,
-        "Textoffset": "INT Boost (3\u2606)"
+        "Text": "INT Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030031,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030032,
-        "Textoffset": "INT Boost (3\u2606)"
+        "Text": "INT Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030032,
-        "Textoffset": "[SELF/PAIRED ALLY] INT: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] INT: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030040,
-        "Textoffset": "INT Boost (4\u2606)"
+        "Text": "INT Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030040,
-        "Textoffset": "[PARTY] INT: +10% (Continuous)"
+        "Text": "[PARTY] INT: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030041,
-        "Textoffset": "INT Boost (4\u2606)"
+        "Text": "INT Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030041,
-        "Textoffset": "[PARTY] INT: +11% (Continuous)"
+        "Text": "[PARTY] INT: +11% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000030042,
-        "Textoffset": "INT Boost (4\u2606)"
+        "Text": "INT Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000030042,
-        "Textoffset": "[PARTY] INT: +12% (Continuous)"
+        "Text": "[PARTY] INT: +12% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040130,
-        "Textoffset": "Earth Boost (3\u2606)"
+        "Text": "Earth Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040130,
-        "Textoffset": "[SELF/PAIRED ALLY] Earth DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Earth DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040131,
-        "Textoffset": "Earth Boost (3\u2606)"
+        "Text": "Earth Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040131,
-        "Textoffset": "[SELF/PAIRED ALLY] Earth DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Earth DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040132,
-        "Textoffset": "Earth Boost (3\u2606)"
+        "Text": "Earth Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040132,
-        "Textoffset": "[SELF/PAIRED ALLY] Earth DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Earth DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040150,
-        "Textoffset": "Earth Boost (5\u2606)"
+        "Text": "Earth Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040150,
-        "Textoffset": "[SELF/PAIRED ALLY] Earth DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Earth DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040230,
-        "Textoffset": "Wind Boost (3\u2606)"
+        "Text": "Wind Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040230,
-        "Textoffset": "[SELF/PAIRED ALLY] Wind DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wind DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040231,
-        "Textoffset": "Wind Boost (3\u2606)"
+        "Text": "Wind Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040231,
-        "Textoffset": "[SELF/PAIRED ALLY] Wind DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wind DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040232,
-        "Textoffset": "Wind Boost (3\u2606)"
+        "Text": "Wind Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040232,
-        "Textoffset": "[SELF/PAIRED ALLY] Wind DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wind DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040250,
-        "Textoffset": "Wind Boost (5\u2606)"
+        "Text": "Wind Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040250,
-        "Textoffset": "[SELF/PAIRED ALLY] Wind DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wind DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040330,
-        "Textoffset": "Water Boost (3\u2606)"
+        "Text": "Water Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040330,
-        "Textoffset": "[SELF/PAIRED ALLY] Water DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Water DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040331,
-        "Textoffset": "Water Boost (3\u2606)"
+        "Text": "Water Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040331,
-        "Textoffset": "[SELF/PAIRED ALLY] Water DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Water DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040332,
-        "Textoffset": "Water Boost (3\u2606)"
+        "Text": "Water Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040332,
-        "Textoffset": "[SELF/PAIRED ALLY] Water DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Water DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040350,
-        "Textoffset": "Water Boost (5\u2606)"
+        "Text": "Water Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040350,
-        "Textoffset": "[SELF/PAIRED ALLY] Water DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Water DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040430,
-        "Textoffset": "Fire Boost (3\u2606)"
+        "Text": "Fire Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040430,
-        "Textoffset": "[SELF/PAIRED ALLY] Fire DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040431,
-        "Textoffset": "Fire Boost (3\u2606)"
+        "Text": "Fire Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040431,
-        "Textoffset": "[SELF/PAIRED ALLY] Fire DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040432,
-        "Textoffset": "Fire Boost (3\u2606)"
+        "Text": "Fire Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040432,
-        "Textoffset": "[SELF/PAIRED ALLY] Fire DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040450,
-        "Textoffset": "Fire Boost (5\u2606)"
+        "Text": "Fire Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040450,
-        "Textoffset": "[SELF/PAIRED ALLY] Fire DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040530,
-        "Textoffset": "Dark Boost (3\u2606)"
+        "Text": "Dark Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040530,
-        "Textoffset": "[SELF/PAIRED ALLY] Dark DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Dark DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040531,
-        "Textoffset": "Dark Boost (3\u2606)"
+        "Text": "Dark Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040531,
-        "Textoffset": "[SELF/PAIRED ALLY] Dark DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Dark DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040532,
-        "Textoffset": "Dark Boost (3\u2606)"
+        "Text": "Dark Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040532,
-        "Textoffset": "[SELF/PAIRED ALLY] Dark DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Dark DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040550,
-        "Textoffset": "Dark Boost (5\u2606)"
+        "Text": "Dark Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040550,
-        "Textoffset": "[SELF/PAIRED ALLY] Dark DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Dark DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040630,
-        "Textoffset": "Light Boost (3\u2606)"
+        "Text": "Light Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040630,
-        "Textoffset": "[SELF/PAIRED ALLY] Light DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040631,
-        "Textoffset": "Light Boost (3\u2606)"
+        "Text": "Light Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040631,
-        "Textoffset": "[SELF/PAIRED ALLY] Light DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040632,
-        "Textoffset": "Light Boost (3\u2606)"
+        "Text": "Light Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040632,
-        "Textoffset": "[SELF/PAIRED ALLY] Light DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040650,
-        "Textoffset": "Light Boost (5\u2606)"
+        "Text": "Light Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040650,
-        "Textoffset": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040730,
-        "Textoffset": "Moon Boost (3\u2606)"
+        "Text": "Moon Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040730,
-        "Textoffset": "[SELF/PAIRED ALLY] Moon DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Moon DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040731,
-        "Textoffset": "Moon Boost (3\u2606)"
+        "Text": "Moon Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040731,
-        "Textoffset": "[SELF/PAIRED ALLY] Moon DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Moon DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040732,
-        "Textoffset": "Moon Boost (3\u2606)"
+        "Text": "Moon Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040732,
-        "Textoffset": "[SELF/PAIRED ALLY] Moon DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Moon DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040750,
-        "Textoffset": "Moon Boost (5\u2606)"
+        "Text": "Moon Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040750,
-        "Textoffset": "[SELF/PAIRED ALLY] Moon DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Moon DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040830,
-        "Textoffset": "Wood Boost (3\u2606)"
+        "Text": "Wood Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040830,
-        "Textoffset": "[SELF/PAIRED ALLY] Wood DMG: +5% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wood DMG: +5% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040831,
-        "Textoffset": "Wood Boost (3\u2606)"
+        "Text": "Wood Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040831,
-        "Textoffset": "[SELF/PAIRED ALLY] Wood DMG: +1% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wood DMG: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040832,
-        "Textoffset": "Wood Boost (3\u2606)"
+        "Text": "Wood Boost (3☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040832,
-        "Textoffset": "[SELF/PAIRED ALLY] Wood DMG: +2% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wood DMG: +2% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000040850,
-        "Textoffset": "Wood Boost (5\u2606)"
+        "Text": "Wood Boost (5☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000040850,
-        "Textoffset": "[SELF/PAIRED ALLY] Wood DMG: +10% (Continuous)"
+        "Text": "[SELF/PAIRED ALLY] Wood DMG: +10% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000070000,
-        "Textoffset": "[SELF] STR: +20% (Continuous) Group1/Slot1"
+        "Text": "[SELF] STR: +20% (Continuous) Group1/Slot1"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000070000,
-        "Textoffset": "[SELF] STR: +20% (Continuous) Group1/Slot1"
+        "Text": "[SELF] STR: +20% (Continuous) Group1/Slot1"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000090000,
-        "Textoffset": "[DEBUG_EN]"
+        "Text": "[DEBUG_EN]"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000090000,
-        "Textoffset": "On regular attack, recover MP: +2"
+        "Text": "On regular attack, recover MP: +2"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000090010,
-        "Textoffset": "[DEBUG_EN]"
+        "Text": "[DEBUG_EN]"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100000090010,
-        "Textoffset": "On regular attack, recover MP: +2"
+        "Text": "On regular attack, recover MP: +2"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000101,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000101,
-        "Textoffset": "Restored HP amount: +30%/Normal attack DMG: +30%"
+        "Text": "Restored HP amount: +30%/Normal attack DMG: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000111,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000111,
-        "Textoffset": "Restored HP amount: +35%/Normal attack DMG: +32%"
+        "Text": "Restored HP amount: +35%/Normal attack DMG: +32%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000121,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000121,
-        "Textoffset": "Restored HP amount: +40%/Normal attack DMG: +35%"
+        "Text": "Restored HP amount: +40%/Normal attack DMG: +35%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000131,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000131,
-        "Textoffset": "Restored HP amount: +45%/Normal attack DMG: +37%"
+        "Text": "Restored HP amount: +45%/Normal attack DMG: +37%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000141,
-        "Textoffset": "The Tale Begins"
+        "Text": "The Tale Begins"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000141,
-        "Textoffset": "Restored HP amount: +50%/Normal attack DMG: +40%"
+        "Text": "Restored HP amount: +50%/Normal attack DMG: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000201,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000201,
-        "Textoffset": "When targeted, DMG taken: -20%"
+        "Text": "When targeted, DMG taken: -20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000211,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000211,
-        "Textoffset": "When targeted, DMG taken: -25%"
+        "Text": "When targeted, DMG taken: -25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000221,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000221,
-        "Textoffset": "When targeted, DMG taken: -28%"
+        "Text": "When targeted, DMG taken: -28%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000231,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000231,
-        "Textoffset": "When targeted, DMG taken: -29%"
+        "Text": "When targeted, DMG taken: -29%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000241,
-        "Textoffset": "Seekers of Mana"
+        "Text": "Seekers of Mana"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000241,
-        "Textoffset": "When targeted, DMG taken: -30%"
+        "Text": "When targeted, DMG taken: -30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000301,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000301,
-        "Textoffset": "Mega Spirit Magic DMG: +15%"
+        "Text": "Mega Spirit Magic DMG: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000311,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000311,
-        "Textoffset": "Mega Spirit Magic DMG: +17%"
+        "Text": "Mega Spirit Magic DMG: +17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000321,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000321,
-        "Textoffset": "Mega Spirit Magic DMG: +20%"
+        "Text": "Mega Spirit Magic DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000331,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000331,
-        "Textoffset": "Mega Spirit Magic DMG: +22%"
+        "Text": "Mega Spirit Magic DMG: +22%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000341,
-        "Textoffset": "Cibba"
+        "Text": "Cibba"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000341,
-        "Textoffset": "Mega Spirit Magic DMG: +25%"
+        "Text": "Mega Spirit Magic DMG: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000401,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000401,
-        "Textoffset": "Initial ST Gauge: +40%"
+        "Text": "Initial ST Gauge: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000411,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000411,
-        "Textoffset": "Initial ST Gauge: +42%"
+        "Text": "Initial ST Gauge: +42%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000421,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000421,
-        "Textoffset": "Initial ST Gauge: +45%"
+        "Text": "Initial ST Gauge: +45%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000431,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000431,
-        "Textoffset": "Initial ST Gauge: +47%"
+        "Text": "Initial ST Gauge: +47%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000441,
-        "Textoffset": "Freak Show and Tell"
+        "Text": "Freak Show and Tell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000441,
-        "Textoffset": "Initial ST Gauge: +50%"
+        "Text": "Initial ST Gauge: +50%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000501,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000501,
-        "Textoffset": "On slash attack, DMG: +8%"
+        "Text": "On slash attack, DMG: +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000511,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000511,
-        "Textoffset": "On slash attack, DMG: +9%"
+        "Text": "On slash attack, DMG: +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000521,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000521,
-        "Textoffset": "On slash attack, DMG: +9.5%"
+        "Text": "On slash attack, DMG: +9.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000531,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000531,
-        "Textoffset": "On slash attack, DMG: +9.8%"
+        "Text": "On slash attack, DMG: +9.8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000541,
-        "Textoffset": "I won't hear it!"
+        "Text": "I won't hear it!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100001000541,
-        "Textoffset": "On slash attack, DMG: +10%"
+        "Text": "On slash attack, DMG: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000101,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000101,
-        "Textoffset": "On foe defeat, recover HP (5% of max HP)"
+        "Text": "On foe defeat, recover HP (5% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000111,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000111,
-        "Textoffset": "On foe defeat, recover HP (7% of max HP)"
+        "Text": "On foe defeat, recover HP (7% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000121,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000121,
-        "Textoffset": "On foe defeat, recover HP (7.5% of max HP)"
+        "Text": "On foe defeat, recover HP (7.5% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000131,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000131,
-        "Textoffset": "On foe defeat, recover HP (7.8% of max HP)"
+        "Text": "On foe defeat, recover HP (7.8% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000141,
-        "Textoffset": "White Dragon Child"
+        "Text": "White Dragon Child"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000141,
-        "Textoffset": "On foe defeat, recover HP (8% of max HP)"
+        "Text": "On foe defeat, recover HP (8% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000201,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000201,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 10s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000211,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000211,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 8s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 8s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000221,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000221,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 7s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 7s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000231,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000231,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 6s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 6s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000241,
-        "Textoffset": "A Heated Situation"
+        "Text": "A Heated Situation"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000241,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 5s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000301,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000301,
-        "Textoffset": "On foe defeat, recover MP: +5"
+        "Text": "On foe defeat, recover MP: +5"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000311,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000311,
-        "Textoffset": "On foe defeat, recover MP: +7"
+        "Text": "On foe defeat, recover MP: +7"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000321,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000321,
-        "Textoffset": "On foe defeat, recover MP: +8"
+        "Text": "On foe defeat, recover MP: +8"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000331,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000331,
-        "Textoffset": "On foe defeat, recover MP: +9"
+        "Text": "On foe defeat, recover MP: +9"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000341,
-        "Textoffset": "Pity Peddlers"
+        "Text": "Pity Peddlers"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000341,
-        "Textoffset": "On foe defeat, recover MP: +10"
+        "Text": "On foe defeat, recover MP: +10"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000401,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000401,
-        "Textoffset": "On piercing attack, DMG: +8%"
+        "Text": "On piercing attack, DMG: +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000411,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000411,
-        "Textoffset": "On piercing attack, DMG: +9%"
+        "Text": "On piercing attack, DMG: +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000421,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000421,
-        "Textoffset": "On piercing attack, DMG: +9.5%"
+        "Text": "On piercing attack, DMG: +9.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000431,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000431,
-        "Textoffset": "On piercing attack, DMG: +9.8%"
+        "Text": "On piercing attack, DMG: +9.8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000441,
-        "Textoffset": "Hi-yo Mech Rider! Away!"
+        "Text": "Hi-yo Mech Rider! Away!"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000441,
-        "Textoffset": "On piercing attack, DMG: +10%"
+        "Text": "On piercing attack, DMG: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000501,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000501,
-        "Textoffset": "[SELF] While field-inactive, recover HP (2% of max HP/Every 10s)"
+        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000511,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000511,
-        "Textoffset": "[SELF] While field-inactive, recover HP (2% of max HP/Every 8s)"
+        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 8s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000521,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000521,
-        "Textoffset": "[SELF] While field-inactive, recover HP (2% of max HP/Every 7s)"
+        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 7s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000531,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000531,
-        "Textoffset": "[SELF] While field-inactive, recover HP (2% of max HP/Every 6s)"
+        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 6s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000541,
-        "Textoffset": "Pamaela"
+        "Text": "Pamaela"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000541,
-        "Textoffset": "[SELF] While field-inactive, recover HP (2% of max HP/Every 5s)"
+        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000601,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000601,
-        "Textoffset": "On stage start, ST Gauge: +50%"
+        "Text": "On stage start, ST Gauge: +50%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000611,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000611,
-        "Textoffset": "On stage start, ST Gauge: +55%"
+        "Text": "On stage start, ST Gauge: +55%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000621,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000621,
-        "Textoffset": "On stage start, ST Gauge: +60%"
+        "Text": "On stage start, ST Gauge: +60%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000631,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000631,
-        "Textoffset": "On stage start, ST Gauge: +65%"
+        "Text": "On stage start, ST Gauge: +65%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000641,
-        "Textoffset": "The Chosen One"
+        "Text": "The Chosen One"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000641,
-        "Textoffset": "On stage start, ST Gauge: +70%"
+        "Text": "On stage start, ST Gauge: +70%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000701,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000701,
-        "Textoffset": "On stage start, recover MP: +25"
+        "Text": "On stage start, recover MP: +25"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000711,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000711,
-        "Textoffset": "On stage start, recover MP: +30"
+        "Text": "On stage start, recover MP: +30"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000721,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000721,
-        "Textoffset": "On stage start, recover MP: +35"
+        "Text": "On stage start, recover MP: +35"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000731,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000731,
-        "Textoffset": "On stage start, recover MP: +40"
+        "Text": "On stage start, recover MP: +40"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000741,
-        "Textoffset": "Resonating Sword and Seed"
+        "Text": "Resonating Sword and Seed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000741,
-        "Textoffset": "On stage start, recover MP: +45"
+        "Text": "On stage start, recover MP: +45"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000801,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000801,
-        "Textoffset": "On blunt attack, DMG: +8%"
+        "Text": "On blunt attack, DMG: +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000811,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000811,
-        "Textoffset": "On blunt attack, DMG: +9%"
+        "Text": "On blunt attack, DMG: +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000821,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000821,
-        "Textoffset": "On blunt attack, DMG: +9.5%"
+        "Text": "On blunt attack, DMG: +9.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000831,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000831,
-        "Textoffset": "On blunt attack, DMG: +9.8%"
+        "Text": "On blunt attack, DMG: +9.8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100002000841,
-        "Textoffset": "Big Bad Werewolves"
+        "Text": "Big Bad Werewolves"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100002000841,
-        "Textoffset": "On blunt attack, DMG: +10%"
+        "Text": "On blunt attack, DMG: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000101,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000101,
-        "Textoffset": "ST DMG: +20%"
+        "Text": "ST DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000111,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000111,
-        "Textoffset": "ST DMG: +22%"
+        "Text": "ST DMG: +22%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000121,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000121,
-        "Textoffset": "ST DMG: +25%"
+        "Text": "ST DMG: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000131,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000131,
-        "Textoffset": "ST DMG: +27%"
+        "Text": "ST DMG: +27%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000141,
-        "Textoffset": "Machine Golem Shuffle"
+        "Text": "Machine Golem Shuffle"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000141,
-        "Textoffset": "ST DMG: +30%"
+        "Text": "ST DMG: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000201,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000201,
-        "Textoffset": "On water attack, absorb DMG (3% of DMG/Max RCV: 15 HP)"
+        "Text": "On water attack, absorb DMG (3% of DMG/Max RCV: 15 HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000211,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000211,
-        "Textoffset": "On water attack, absorb DMG (3.5% of DMG/Max RCV: 17 HP)"
+        "Text": "On water attack, absorb DMG (3.5% of DMG/Max RCV: 17 HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000221,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000221,
-        "Textoffset": "On water attack, absorb DMG (3.7% of DMG/Max RCV: 18 HP)"
+        "Text": "On water attack, absorb DMG (3.7% of DMG/Max RCV: 18 HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000231,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000231,
-        "Textoffset": "On water attack, absorb DMG (3.8% of DMG/Max RCV: 19 HP)"
+        "Text": "On water attack, absorb DMG (3.8% of DMG/Max RCV: 19 HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000241,
-        "Textoffset": "Vuscav's Great Escape"
+        "Text": "Vuscav's Great Escape"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000241,
-        "Textoffset": "On water attack, absorb DMG (4% of DMG/Max RCV: 20 HP)"
+        "Text": "On water attack, absorb DMG (4% of DMG/Max RCV: 20 HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000301,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000301,
-        "Textoffset": "Initial ST Gauge: +25%"
+        "Text": "Initial ST Gauge: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000311,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000311,
-        "Textoffset": "Initial ST Gauge: +30%"
+        "Text": "Initial ST Gauge: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000321,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000321,
-        "Textoffset": "Initial ST Gauge: +33%"
+        "Text": "Initial ST Gauge: +33%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000331,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000331,
-        "Textoffset": "Initial ST Gauge: +36%"
+        "Text": "Initial ST Gauge: +36%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000341,
-        "Textoffset": "Von Boyage"
+        "Text": "Von Boyage"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000341,
-        "Textoffset": "Initial ST Gauge: +40%"
+        "Text": "Initial ST Gauge: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000401,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000401,
-        "Textoffset": "On earth attack, ST Gauge boost rate: +15%"
+        "Text": "On earth attack, ST Gauge boost rate: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000411,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000411,
-        "Textoffset": "On earth attack, ST Gauge boost rate: +17%"
+        "Text": "On earth attack, ST Gauge boost rate: +17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000421,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000421,
-        "Textoffset": "On earth attack, ST Gauge boost rate: +18%"
+        "Text": "On earth attack, ST Gauge boost rate: +18%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000431,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000431,
-        "Textoffset": "On earth attack, ST Gauge boost rate: +19%"
+        "Text": "On earth attack, ST Gauge boost rate: +19%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000441,
-        "Textoffset": "The Wind in Our Sails"
+        "Text": "The Wind in Our Sails"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000441,
-        "Textoffset": "On earth attack, ST Gauge boost rate: +20%"
+        "Text": "On earth attack, ST Gauge boost rate: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000501,
-        "Textoffset": "All I have left"
+        "Text": "All I have left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000501,
-        "Textoffset": "On wind attack, ST DMG: +15%"
+        "Text": "On wind attack, ST DMG: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000511,
-        "Textoffset": "All I have left"
+        "Text": "All I have left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000511,
-        "Textoffset": "On wind attack, ST DMG: +17%"
+        "Text": "On wind attack, ST DMG: +17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000521,
-        "Textoffset": "All I have left"
+        "Text": "All I have left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000521,
-        "Textoffset": "On wind attack, ST DMG: +18%"
+        "Text": "On wind attack, ST DMG: +18%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000531,
-        "Textoffset": "All I have left"
+        "Text": "All I have left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000531,
-        "Textoffset": "On wind attack, ST DMG: +19%"
+        "Text": "On wind attack, ST DMG: +19%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000541,
-        "Textoffset": "All I have left"
+        "Text": "All I have left"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000541,
-        "Textoffset": "On wind attack, ST DMG: +20%"
+        "Text": "On wind attack, ST DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000601,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000601,
-        "Textoffset": "[SELF] Mega Spirit Magic DMG: +20% [LIGHT ally]"
+        "Text": "[SELF] Mega Spirit Magic DMG: +20% [LIGHT ally]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000611,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000611,
-        "Textoffset": "[SELF] Mega Spirit Magic DMG: +22% [LIGHT ally]"
+        "Text": "[SELF] Mega Spirit Magic DMG: +22% [LIGHT ally]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000621,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000621,
-        "Textoffset": "[SELF] Mega Spirit Magic DMG: +25% [LIGHT ally]"
+        "Text": "[SELF] Mega Spirit Magic DMG: +25% [LIGHT ally]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000631,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000631,
-        "Textoffset": "[SELF] Mega Spirit Magic DMG: +27% [LIGHT ally]"
+        "Text": "[SELF] Mega Spirit Magic DMG: +27% [LIGHT ally]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000641,
-        "Textoffset": "A Reawwy Big Jump"
+        "Text": "A Reawwy Big Jump"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000641,
-        "Textoffset": "[SELF] Mega Spirit Magic DMG: +30% [LIGHT ally]"
+        "Text": "[SELF] Mega Spirit Magic DMG: +30% [LIGHT ally]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000701,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000701,
-        "Textoffset": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +40%"
+        "Text": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000711,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000711,
-        "Textoffset": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +42%"
+        "Text": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +42%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000721,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000721,
-        "Textoffset": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +45%"
+        "Text": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +45%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000731,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000731,
-        "Textoffset": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +47%"
+        "Text": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +47%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000741,
-        "Textoffset": "A Bitter Farewell"
+        "Text": "A Bitter Farewell"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000741,
-        "Textoffset": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +50%"
+        "Text": "[FIELD-ACTIVE ALLIES] On faint, ST Gauge: +50%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000801,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000801,
-        "Textoffset": "On dark attack, skill DMG: +15%"
+        "Text": "On dark attack, skill DMG: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000811,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000811,
-        "Textoffset": "On dark attack, skill DMG: +17%"
+        "Text": "On dark attack, skill DMG: +17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000821,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000821,
-        "Textoffset": "On dark attack, skill DMG: +18%"
+        "Text": "On dark attack, skill DMG: +18%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000831,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000831,
-        "Textoffset": "On dark attack, skill DMG: +19%"
+        "Text": "On dark attack, skill DMG: +19%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000841,
-        "Textoffset": "Run for It"
+        "Text": "Run for It"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100003000841,
-        "Textoffset": "On dark attack, skill DMG: +20%"
+        "Text": "On dark attack, skill DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000101,
-        "Textoffset": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Whip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000101,
-        "Textoffset": "When combo 30+, DMG: +8%"
+        "Text": "When combo 30+, DMG: +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000111,
-        "Textoffset": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Whip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000111,
-        "Textoffset": "When combo 30+, DMG: +9%"
+        "Text": "When combo 30+, DMG: +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000121,
-        "Textoffset": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Whip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000121,
-        "Textoffset": "When combo 30+, DMG: +9.5%"
+        "Text": "When combo 30+, DMG: +9.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000131,
-        "Textoffset": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Whip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000131,
-        "Textoffset": "When combo 30+, DMG: +9.8%"
+        "Text": "When combo 30+, DMG: +9.8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000141,
-        "Textoffset": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Whip"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000141,
-        "Textoffset": "When combo 30+, DMG: +10%"
+        "Text": "When combo 30+, DMG: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000201,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000201,
-        "Textoffset": "ST DMG: +10%"
+        "Text": "ST DMG: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000211,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000211,
-        "Textoffset": "ST DMG: +12%"
+        "Text": "ST DMG: +12%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000221,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000221,
-        "Textoffset": "ST DMG: +13%"
+        "Text": "ST DMG: +13%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000231,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000231,
-        "Textoffset": "ST DMG: +14%"
+        "Text": "ST DMG: +14%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000241,
-        "Textoffset": "Village Elder"
+        "Text": "Village Elder"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000241,
-        "Textoffset": "ST DMG: +15%"
+        "Text": "ST DMG: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000301,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000301,
-        "Textoffset": "[SELF] While field-inactive, ST Gauge: +8% (Every 5s)"
+        "Text": "[SELF] While field-inactive, ST Gauge: +8% (Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000311,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000311,
-        "Textoffset": "[SELF] While field-inactive, ST Gauge: +9% (Every 5s)"
+        "Text": "[SELF] While field-inactive, ST Gauge: +9% (Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000321,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000321,
-        "Textoffset": "[SELF] While field-inactive, ST Gauge: +9.5% (Every 5s)"
+        "Text": "[SELF] While field-inactive, ST Gauge: +9.5% (Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000331,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000331,
-        "Textoffset": "[SELF] While field-inactive, ST Gauge: +9.8% (Every 5s)"
+        "Text": "[SELF] While field-inactive, ST Gauge: +9.8% (Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000341,
-        "Textoffset": "Buju Breakout"
+        "Text": "Buju Breakout"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000341,
-        "Textoffset": "[SELF] While field-inactive, ST Gauge: +10% (Every 5s)"
+        "Text": "[SELF] While field-inactive, ST Gauge: +10% (Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000401,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000401,
-        "Textoffset": "Mega Spirit Magic DMG: +30%"
+        "Text": "Mega Spirit Magic DMG: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000411,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000411,
-        "Textoffset": "Mega Spirit Magic DMG: +35%"
+        "Text": "Mega Spirit Magic DMG: +35%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000421,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000421,
-        "Textoffset": "Mega Spirit Magic DMG: +38%"
+        "Text": "Mega Spirit Magic DMG: +38%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000431,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000431,
-        "Textoffset": "Mega Spirit Magic DMG: +39%"
+        "Text": "Mega Spirit Magic DMG: +39%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000441,
-        "Textoffset": "Little Spirit Faye"
+        "Text": "Little Spirit Faye"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100004000441,
-        "Textoffset": "Mega Spirit Magic DMG: +40%"
+        "Text": "Mega Spirit Magic DMG: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000101,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000101,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +15 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +15 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000111,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000111,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +17 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +17 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000121,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000121,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +18 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +18 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000131,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000131,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +19 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +19 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000141,
-        "Textoffset": "Rulers of the World"
+        "Text": "Rulers of the World"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000141,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +20 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +20 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000201,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000201,
-        "Textoffset": "On DMG taken, ST Gauge: +5%"
+        "Text": "On DMG taken, ST Gauge: +5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000211,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000211,
-        "Textoffset": "On DMG taken, ST Gauge: +7%"
+        "Text": "On DMG taken, ST Gauge: +7%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000221,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000221,
-        "Textoffset": "On DMG taken, ST Gauge: +8%"
+        "Text": "On DMG taken, ST Gauge: +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000231,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000231,
-        "Textoffset": "On DMG taken, ST Gauge: +9%"
+        "Text": "On DMG taken, ST Gauge: +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000241,
-        "Textoffset": "It's the Li'l Things"
+        "Text": "It's the Li'l Things"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000241,
-        "Textoffset": "On DMG taken, ST Gauge: +10%"
+        "Text": "On DMG taken, ST Gauge: +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000301,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000301,
-        "Textoffset": "Lucre: +2%"
+        "Text": "Lucre: +2%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000311,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000311,
-        "Textoffset": "Lucre: +3%"
+        "Text": "Lucre: +3%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000321,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000321,
-        "Textoffset": "Lucre: +4%"
+        "Text": "Lucre: +4%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000331,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000331,
-        "Textoffset": "Lucre: +4.5%"
+        "Text": "Lucre: +4.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000341,
-        "Textoffset": "Masterful Merchant"
+        "Text": "Masterful Merchant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000341,
-        "Textoffset": "Lucre: +5%"
+        "Text": "Lucre: +5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000401,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000401,
-        "Textoffset": "Skill DMG: +15%"
+        "Text": "Skill DMG: +15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000411,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000411,
-        "Textoffset": "Skill DMG: +17%"
+        "Text": "Skill DMG: +17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000421,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000421,
-        "Textoffset": "Skill DMG: +18%"
+        "Text": "Skill DMG: +18%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000431,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000431,
-        "Textoffset": "Skill DMG: +19%"
+        "Text": "Skill DMG: +19%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000441,
-        "Textoffset": "Pelican"
+        "Text": "Pelican"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000441,
-        "Textoffset": "Skill DMG: +20%"
+        "Text": "Skill DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000501,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000501,
-        "Textoffset": "On magic attack, DMG +8%"
+        "Text": "On magic attack, DMG +8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000511,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000511,
-        "Textoffset": "On magic attack, DMG +9%"
+        "Text": "On magic attack, DMG +9%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000521,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000521,
-        "Textoffset": "On magic attack, DMG: +9.5%"
+        "Text": "On magic attack, DMG: +9.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000531,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000531,
-        "Textoffset": "On magic attack, DMG: +9.8%"
+        "Text": "On magic attack, DMG: +9.8%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100005000541,
-        "Textoffset": "Tree Chat"
+        "Text": "Tree Chat"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100005000541,
-        "Textoffset": "On magic attack, DMG +10%"
+        "Text": "On magic attack, DMG +10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000101,
-        "Textoffset": "Xangar, the Living Flame"
+        "Text": "Xangar, the Living Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000101,
-        "Textoffset": "On fire attack, normal attack DMG: +20%"
+        "Text": "On fire attack, normal attack DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000111,
-        "Textoffset": "Xangar, the Living Flame"
+        "Text": "Xangar, the Living Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000111,
-        "Textoffset": "On fire attack, normal attack DMG: +25%"
+        "Text": "On fire attack, normal attack DMG: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000121,
-        "Textoffset": "Xangar, the Living Flame"
+        "Text": "Xangar, the Living Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000121,
-        "Textoffset": "On fire attack, normal attack DMG: +28%"
+        "Text": "On fire attack, normal attack DMG: +28%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000131,
-        "Textoffset": "Xangar, the Living Flame"
+        "Text": "Xangar, the Living Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000131,
-        "Textoffset": "On fire attack, normal attack DMG: +29%"
+        "Text": "On fire attack, normal attack DMG: +29%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000141,
-        "Textoffset": "Xangar, the Living Flame"
+        "Text": "Xangar, the Living Flame"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000141,
-        "Textoffset": "On fire attack, normal attack DMG: +30%"
+        "Text": "On fire attack, normal attack DMG: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000201,
-        "Textoffset": "The Swooping Sword"
+        "Text": "The Swooping Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000201,
-        "Textoffset": "Skill DMG: +20%"
+        "Text": "Skill DMG: +20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000211,
-        "Textoffset": "The Swooping Sword"
+        "Text": "The Swooping Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000211,
-        "Textoffset": "Skill DMG: +22%"
+        "Text": "Skill DMG: +22%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000221,
-        "Textoffset": "The Swooping Sword"
+        "Text": "The Swooping Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000221,
-        "Textoffset": "Skill DMG: +25%"
+        "Text": "Skill DMG: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000231,
-        "Textoffset": "The Swooping Sword"
+        "Text": "The Swooping Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000231,
-        "Textoffset": "Skill DMG: +27%"
+        "Text": "Skill DMG: +27%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000241,
-        "Textoffset": "The Swooping Sword"
+        "Text": "The Swooping Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000241,
-        "Textoffset": "Skill DMG: +30%"
+        "Text": "Skill DMG: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000301,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000301,
-        "Textoffset": "DMG taken: -10%"
+        "Text": "DMG taken: -10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000311,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000311,
-        "Textoffset": "DMG taken: -12%"
+        "Text": "DMG taken: -12%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000321,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000321,
-        "Textoffset": "DMG taken: -13%"
+        "Text": "DMG taken: -13%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000331,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000331,
-        "Textoffset": "DMG taken: -14%"
+        "Text": "DMG taken: -14%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000341,
-        "Textoffset": "Seamoon"
+        "Text": "Seamoon"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000341,
-        "Textoffset": "DMG taken: -15%"
+        "Text": "DMG taken: -15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000401,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000401,
-        "Textoffset": "DMG taken: -15%"
+        "Text": "DMG taken: -15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000411,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000411,
-        "Textoffset": "DMG taken: -17%"
+        "Text": "DMG taken: -17%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000421,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000421,
-        "Textoffset": "DMG taken: -18%"
+        "Text": "DMG taken: -18%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000431,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000431,
-        "Textoffset": "DMG taken: -19%"
+        "Text": "DMG taken: -19%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000441,
-        "Textoffset": "A Branch Bestowed"
+        "Text": "A Branch Bestowed"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000441,
-        "Textoffset": "DMG taken: -20%"
+        "Text": "DMG taken: -20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000501,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000501,
-        "Textoffset": "EXP: +2%"
+        "Text": "EXP: +2%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000511,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000511,
-        "Textoffset": "EXP: +3%"
+        "Text": "EXP: +3%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000521,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000521,
-        "Textoffset": "EXP: +4%"
+        "Text": "EXP: +4%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000531,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000531,
-        "Textoffset": "EXP: +4.5%"
+        "Text": "EXP: +4.5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000541,
-        "Textoffset": "Best Quest for Your Buck"
+        "Text": "Best Quest for Your Buck"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100006000541,
-        "Textoffset": "EXP: +5%"
+        "Text": "EXP: +5%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000101,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000101,
-        "Textoffset": "Recovery amount: +30%"
+        "Text": "Recovery amount: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000111,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000111,
-        "Textoffset": "Recovery amount: +40%"
+        "Text": "Recovery amount: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000121,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000121,
-        "Textoffset": "Recovery amount: +45%"
+        "Text": "Recovery amount: +45%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000131,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000131,
-        "Textoffset": "Recovery amount: +48%"
+        "Text": "Recovery amount: +48%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000141,
-        "Textoffset": "Set Off for Adventure"
+        "Text": "Set Off for Adventure"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000141,
-        "Textoffset": "Recovery amount: +50%"
+        "Text": "Recovery amount: +50%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000201,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000201,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 10s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000211,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000211,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 8s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 8s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000221,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000221,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 7s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 7s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000231,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000231,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 6s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 6s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000241,
-        "Textoffset": "Who Bears the Sword"
+        "Text": "Who Bears the Sword"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000241,
-        "Textoffset": "[SELF] While field-inactive, recover HP (3% of max HP/Every 5s)"
+        "Text": "[SELF] While field-inactive, recover HP (3% of max HP/Every 5s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000301,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000301,
-        "Textoffset": "When HP 40% or lower, DMG taken: -20%"
+        "Text": "When HP 40% or lower, DMG taken: -20%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000311,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000311,
-        "Textoffset": "When HP 40% or lower, DMG taken: -22%"
+        "Text": "When HP 40% or lower, DMG taken: -22%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000321,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000321,
-        "Textoffset": "When HP 40% or lower, DMG taken: -25%"
+        "Text": "When HP 40% or lower, DMG taken: -25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000331,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000331,
-        "Textoffset": "When HP 40% or lower, DMG taken: -27%"
+        "Text": "When HP 40% or lower, DMG taken: -27%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000341,
-        "Textoffset": "Armored Inferno Assault"
+        "Text": "Armored Inferno Assault"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000341,
-        "Textoffset": "When HP 40% or lower, DMG taken: -30%"
+        "Text": "When HP 40% or lower, DMG taken: -30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000401,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000401,
-        "Textoffset": "On stage start, ST Gauge: +25%"
+        "Text": "On stage start, ST Gauge: +25%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000411,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000411,
-        "Textoffset": "On stage start, ST Gauge: +30%"
+        "Text": "On stage start, ST Gauge: +30%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000421,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000421,
-        "Textoffset": "On stage start, ST Gauge: +33%"
+        "Text": "On stage start, ST Gauge: +33%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000431,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000431,
-        "Textoffset": "On stage start, ST Gauge: +36%"
+        "Text": "On stage start, ST Gauge: +36%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000441,
-        "Textoffset": "Shadow on Soaring Wings"
+        "Text": "Shadow on Soaring Wings"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000441,
-        "Textoffset": "On stage start, ST Gauge: +40%"
+        "Text": "On stage start, ST Gauge: +40%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000501,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000501,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +10 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +10 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000511,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000511,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +12 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +12 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000521,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000521,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +13 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +13 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000531,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000531,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +14 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +14 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000541,
-        "Textoffset": "Briarborough Faerie Boss"
+        "Text": "Briarborough Faerie Boss"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011000541,
-        "Textoffset": "[SELF] While field-inactive, recover MP: +15 (Every 10s)"
+        "Text": "[SELF] While field-inactive, recover MP: +15 (Every 10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100101,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100101,
-        "Textoffset": "MP Cost: -10%"
+        "Text": "MP Cost: -10%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100111,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100111,
-        "Textoffset": "MP Cost: -12%"
+        "Text": "MP Cost: -12%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100121,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100121,
-        "Textoffset": "MP Cost: -13%"
+        "Text": "MP Cost: -13%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100131,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100131,
-        "Textoffset": "MP Cost: -14%"
+        "Text": "MP Cost: -14%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100141,
-        "Textoffset": "The Tower on High"
+        "Text": "The Tower on High"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100141,
-        "Textoffset": "MP Cost: -15%"
+        "Text": "MP Cost: -15%"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100301,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100301,
-        "Textoffset": "When HP 90% or higher, Skill DMG: +35% [vs MAGICALI]"
+        "Text": "When HP 90% or higher, Skill DMG: +35% [vs MAGICALI]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100311,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100311,
-        "Textoffset": "When HP 90% or higher, Skill DMG: +37% [vs MAGICALI]"
+        "Text": "When HP 90% or higher, Skill DMG: +37% [vs MAGICALI]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100321,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100321,
-        "Textoffset": "When HP 90% or higher, Skill DMG: +40% [vs MAGICALI]"
+        "Text": "When HP 90% or higher, Skill DMG: +40% [vs MAGICALI]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100331,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100331,
-        "Textoffset": "When HP 90% or higher, Skill DMG: +42% [vs MAGICALI]"
+        "Text": "When HP 90% or higher, Skill DMG: +42% [vs MAGICALI]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100341,
-        "Textoffset": "Victory High Five"
+        "Text": "Victory High Five"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100341,
-        "Textoffset": "When HP 90% or higher, Skill DMG: +45% [vs MAGICALI]"
+        "Text": "When HP 90% or higher, Skill DMG: +45% [vs MAGICALI]"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100901,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100901,
-        "Textoffset": "[PARTY] On foe defeat, 20% chance to recover HP (10% of max HP)"
+        "Text": "[PARTY] On foe defeat, 20% chance to recover HP (10% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100911,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100911,
-        "Textoffset": "[PARTY] On foe defeat, 22% chance to recover HP (10% of max HP)"
+        "Text": "[PARTY] On foe defeat, 22% chance to recover HP (10% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100921,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100921,
-        "Textoffset": "[PARTY] On foe defeat, 23% chance to recover HP (10% of max HP)"
+        "Text": "[PARTY] On foe defeat, 23% chance to recover HP (10% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100931,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100931,
-        "Textoffset": "[PARTY] On foe defeat, 24% chance to recover HP (10% of max HP)"
+        "Text": "[PARTY] On foe defeat, 24% chance to recover HP (10% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100941,
-        "Textoffset": "Seamless Synergy"
+        "Text": "Seamless Synergy"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100011100941,
-        "Textoffset": "[PARTY] On foe defeat, 25% chance to recover HP (10% of max HP)"
+        "Text": "[PARTY] On foe defeat, 25% chance to recover HP (10% of max HP)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100101010010,
-        "Textoffset": "Support Skill: Sumo (Overcoming Myriad Farewells Ver.)"
+        "Text": "Support Skill: Sumo (Overcoming Myriad Farewells Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100101010010,
-        "Textoffset": "[SELF] On special technique, gain SA (10s)/Normal attack DMG: +30% (10s)"
+        "Text": "[SELF] On special technique, gain SA (10s)/Normal attack DMG: +30% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100101010011,
-        "Textoffset": "Support Skill: Sumo (Overcoming Myriad Farewells Ver.)"
+        "Text": "Support Skill: Sumo (Overcoming Myriad Farewells Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100101010011,
-        "Textoffset": "[SELF] On special technique, gain SA (10s)/Normal attack DMG: +40% (10s)"
+        "Text": "[SELF] On special technique, gain SA (10s)/Normal attack DMG: +40% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100102010011,
-        "Textoffset": "INT Boost (4\u2606)"
+        "Text": "INT Boost (4☆)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100102010011,
-        "Textoffset": "[PARTY] INT: +12% (Continuous)"
+        "Text": "[PARTY] INT: +12% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100102030010,
-        "Textoffset": "Support Skill: Popoi (Headed for the Home Village Ver.)"
+        "Text": "Support Skill: Popoi (Headed for the Home Village Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100102030010,
-        "Textoffset": "[SELF] On special technique, restore HP: 15% of RCV"
+        "Text": "[SELF] On special technique, restore HP: 15% of RCV"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100102030011,
-        "Textoffset": "Support Skill: Popoi (Headed for the Home Village Ver.)"
+        "Text": "Support Skill: Popoi (Headed for the Home Village Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100102030011,
-        "Textoffset": "[SELF] On special technique, restore HP: 25% of RCV"
+        "Text": "[SELF] On special technique, restore HP: 25% of RCV"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103010010,
-        "Textoffset": "Support Skill: Duran (Thrilling Blade Flash Ver.)"
+        "Text": "Support Skill: Duran (Thrilling Blade Flash Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103010010,
-        "Textoffset": "[PAIRED ALLY] On skill usage, ST DMG: +20% (10s)"
+        "Text": "[PAIRED ALLY] On skill usage, ST DMG: +20% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103010011,
-        "Textoffset": "Support Skill: Duran (Thrilling Blade Flash Ver.)"
+        "Text": "Support Skill: Duran (Thrilling Blade Flash Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103010011,
-        "Textoffset": "[PAIRED ALLY] On skill usage, ST DMG: +30% (10s)"
+        "Text": "[PAIRED ALLY] On skill usage, ST DMG: +30% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103020010,
-        "Textoffset": "Support Skill: Angela (Magic Power in Bloom Ver.)"
+        "Text": "Support Skill: Angela (Magic Power in Bloom Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103020010,
-        "Textoffset": "[SELF] When foe HP 50% or higher, DMG: +8% (Continuous)"
+        "Text": "[SELF] When foe HP 50% or higher, DMG: +8% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103020011,
-        "Textoffset": "Support Skill: Angela (Magic Power in Bloom Ver.)"
+        "Text": "Support Skill: Angela (Magic Power in Bloom Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103020011,
-        "Textoffset": "[SELF] When foe HP 50% or higher, DMG: +12% (Continuous)"
+        "Text": "[SELF] When foe HP 50% or higher, DMG: +12% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103060010,
-        "Textoffset": "Support Skill: Riesz (Pride of Amazon Ver.)"
+        "Text": "Support Skill: Riesz (Pride of Amazon Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103060010,
-        "Textoffset": "[PAIRED ALLY] On special technique, skill DMG: +20% (10s)"
+        "Text": "[PAIRED ALLY] On special technique, skill DMG: +20% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103060011,
-        "Textoffset": "Support Skill: Riesz (Pride of Amazon Ver.)"
+        "Text": "Support Skill: Riesz (Pride of Amazon Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100103060011,
-        "Textoffset": "[PAIRED ALLY] On special technique, skill DMG: +30% (10s)"
+        "Text": "[PAIRED ALLY] On special technique, skill DMG: +30% (10s)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100105010010,
-        "Textoffset": "Support Skill: Shiloh (Encounter Sprung from a Seed Ver.)"
+        "Text": "Support Skill: Shiloh (Encounter Sprung from a Seed Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100105010010,
-        "Textoffset": "[SELF/PAIRED ALLY] On special technique, restore HP (RCV: 10%)"
+        "Text": "[SELF/PAIRED ALLY] On special technique, restore HP (RCV: 10%)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31100105010011,
-        "Textoffset": "Support Skill: Shiloh (Encounter Sprung from a Seed Ver.)"
+        "Text": "Support Skill: Shiloh (Encounter Sprung from a Seed Ver.)"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31100105010011,
-        "Textoffset": "[SELF/PAIRED ALLY] On special technique, restore HP (RCV: 15%)"
+        "Text": "[SELF/PAIRED ALLY] On special technique, restore HP (RCV: 15%)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001010001,
-        "Textoffset": "Popoi's Lackey"
+        "Text": "Popoi's Lackey"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001010001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001010002,
-        "Textoffset": "A Mazing Forester"
+        "Text": "A Mazing Forester"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001010002,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001011001,
-        "Textoffset": "The Faerie's Guide"
+        "Text": "The Faerie's Guide"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001011001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001012001,
-        "Textoffset": "The Remnant"
+        "Text": "The Remnant"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001012001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001022001,
-        "Textoffset": "Mana Sword's Chosen"
+        "Text": "Mana Sword's Chosen"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001022001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001022002,
-        "Textoffset": "Gemma Knight"
+        "Text": "Gemma Knight"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001022002,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001041001,
-        "Textoffset": "Mana Sword Seeker"
+        "Text": "Mana Sword Seeker"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001041001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001050001,
-        "Textoffset": "Twillwool Toppler 50F"
+        "Text": "Twillwool Toppler 50F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001050001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001051001,
-        "Textoffset": "Twillwool Toppler 60F"
+        "Text": "Twillwool Toppler 60F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001051001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001051002,
-        "Textoffset": "Twillwool Toppler 70F"
+        "Text": "Twillwool Toppler 70F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001051002,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001051003,
-        "Textoffset": "Twillwool Toppler 80F"
+        "Text": "Twillwool Toppler 80F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001051003,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001051004,
-        "Textoffset": "Twillwool Toppler 90F"
+        "Text": "Twillwool Toppler 90F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001051004,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001052001,
-        "Textoffset": "Twillwool Toppler 100F"
+        "Text": "Twillwool Toppler 100F"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001052001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001062001,
-        "Textoffset": "Heroic Weaver of Bonds"
+        "Text": "Heroic Weaver of Bonds"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001062001,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     },
     {
-        "ColumnNameoffset": "name",
+        "ColumnName": "name",
         "LocalizationTargetId": 31115001062002,
-        "Textoffset": "Mana's Swordsmen Summoner"
+        "Text": "Mana's Swordsmen Summoner"
     },
     {
-        "ColumnNameoffset": "description",
+        "ColumnName": "description",
         "LocalizationTargetId": 31115001062002,
-        "Textoffset": "[PARTY] STR/INT: +1% (Continuous)"
+        "Text": "[PARTY] STR/INT: +1% (Continuous)"
     }
 ]

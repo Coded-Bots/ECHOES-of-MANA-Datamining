@@ -1,102 +1,102 @@
 [
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000001,
-        "Textoffset": "Hello!"
+        "Text": "Hello!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000002,
-        "Textoffset": "Thanks!"
+        "Text": "Thanks!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000003,
-        "Textoffset": "Nice job!"
+        "Text": "Nice job!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000004,
-        "Textoffset": "Sorry!"
+        "Text": "Sorry!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000005,
-        "Textoffset": "No worries!"
+        "Text": "No worries!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000006,
-        "Textoffset": "Follow me!"
+        "Text": "Follow me!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000007,
-        "Textoffset": "I'll follow you!"
+        "Text": "I'll follow you!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000008,
-        "Textoffset": "Roger that!"
+        "Text": "Roger that!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000009,
-        "Textoffset": "Let's attack!"
+        "Text": "Let's attack!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000010,
-        "Textoffset": "Help!"
+        "Text": "Help!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000011,
-        "Textoffset": "Wait a sec!"
+        "Text": "Wait a sec!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000012,
-        "Textoffset": "I'm ready!"
+        "Text": "I'm ready!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000013,
-        "Textoffset": "Good work!"
+        "Text": "Good work!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000014,
-        "Textoffset": "Til next time!"
+        "Text": "Til next time!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000015,
-        "Textoffset": "Wonderful!"
+        "Text": "Wonderful!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000016,
-        "Textoffset": "Halt!"
+        "Text": "Halt!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000017,
-        "Textoffset": "Bring it on!"
+        "Text": "Bring it on!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000018,
-        "Textoffset": "Too bad."
+        "Text": "Too bad."
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000019,
-        "Textoffset": "Awesome!"
+        "Text": "Awesome!"
     },
     {
-        "ColumnNameoffset": "phrase_body",
+        "ColumnName": "phrase_body",
         "LocalizationTargetId": 62001000020,
-        "Textoffset": "That was close..."
+        "Text": "That was close..."
     }
 ]
