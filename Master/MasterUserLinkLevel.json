@@ -5201,6 +5201,206 @@
     },
     {
         "Level": 1,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000012,
+        "MasterUserLinkLevelId": 202040201,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 1,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040202,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 3,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040203,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 2,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 30
+    },
+    {
+        "Level": 4,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040204,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 60
+    },
+    {
+        "Level": 5,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040205,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 3,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 100
+    },
+    {
+        "Level": 6,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040206,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 200
+    },
+    {
+        "Level": 7,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040207,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 4,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 400
+    },
+    {
+        "Level": 8,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040208,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 800
+    },
+    {
+        "Level": 9,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040209,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 5,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 1600
+    },
+    {
+        "Level": 10,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040210,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 3200
+    },
+    {
+        "Level": 11,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040211,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 6,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 6400
+    },
+    {
+        "Level": 12,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040212,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 12800
+    },
+    {
+        "Level": 13,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040213,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 7,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 25600
+    },
+    {
+        "Level": 14,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040214,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 51200
+    },
+    {
+        "Level": 15,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040215,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 8,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 100000
+    },
+    {
+        "Level": 16,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040216,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 150000
+    },
+    {
+        "Level": 17,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040217,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 9,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 200000
+    },
+    {
+        "Level": 18,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202040218,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 250000
+    },
+    {
+        "Level": 19,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202040219,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 10,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 300000
+    },
+    {
+        "Level": 20,
+        "MasterIdentityId": 600100010402,
+        "MasterRewardGroupId": 420023000006,
+        "MasterUserLinkLevelId": 202040220,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "RequiredExp": 400000
+    },
+    {
+        "Level": 1,
         "MasterIdentityId": 600100010501,
         "MasterRewardGroupId": 420023000012,
         "MasterUserLinkLevelId": 202050101,

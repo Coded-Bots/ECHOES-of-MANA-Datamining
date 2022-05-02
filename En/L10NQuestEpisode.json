@@ -161,6 +161,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000031001,
+        "Text": "Coffer Chaos"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000033001,
         "Text": "Spirit Crystal Sweep"
     },

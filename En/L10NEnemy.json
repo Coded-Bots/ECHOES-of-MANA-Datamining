@@ -1551,7 +1551,47 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205088001,
+        "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205088002,
         "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205088003,
+        "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205088004,
+        "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205088005,
+        "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093001,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093002,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093003,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093004,
+        "Text": "Polter Box"
     }
 ]

@@ -1442,7 +1442,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100003000501,
-        "Text": "All I have left"
+        "Text": "All I Have Left"
     },
     {
         "ColumnName": "description",
@@ -1452,7 +1452,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100003000511,
-        "Text": "All I have left"
+        "Text": "All I Have Left"
     },
     {
         "ColumnName": "description",
@@ -1462,7 +1462,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100003000521,
-        "Text": "All I have left"
+        "Text": "All I Have Left"
     },
     {
         "ColumnName": "description",
@@ -1472,7 +1472,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100003000531,
-        "Text": "All I have left"
+        "Text": "All I Have Left"
     },
     {
         "ColumnName": "description",
@@ -1482,7 +1482,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100003000541,
-        "Text": "All I have left"
+        "Text": "All I Have Left"
     },
     {
         "ColumnName": "description",
@@ -1642,7 +1642,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100004000101,
-        "Text": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Vine"
     },
     {
         "ColumnName": "description",
@@ -1652,7 +1652,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100004000111,
-        "Text": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Vine"
     },
     {
         "ColumnName": "description",
@@ -1662,7 +1662,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100004000121,
-        "Text": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Vine"
     },
     {
         "ColumnName": "description",
@@ -1672,7 +1672,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100004000131,
-        "Text": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Vine"
     },
     {
         "ColumnName": "description",
@@ -1682,7 +1682,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100004000141,
-        "Text": "A Curious Creeping Whip"
+        "Text": "A Curious Creeping Vine"
     },
     {
         "ColumnName": "description",
@@ -1838,6 +1838,56 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100004000441,
         "Text": "Mega Spirit Magic DMG: +40%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100004000501,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100004000501,
+        "Text": "On wind attack, normal attack/skill DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100004000511,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100004000511,
+        "Text": "On wind attack, normal attack/skill DMG: +22%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100004000521,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100004000521,
+        "Text": "On wind attack, normal attack/skill DMG: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100004000531,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100004000531,
+        "Text": "On wind attack, normal attack/skill DMG: +27%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100004000541,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100004000541,
+        "Text": "On wind attack, normal attack/skill DMG: +30%"
     },
     {
         "ColumnName": "name",
@@ -2092,7 +2142,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000101,
-        "Text": "Xangar, the Living Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
         "ColumnName": "description",
@@ -2102,7 +2152,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000111,
-        "Text": "Xangar, the Living Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
         "ColumnName": "description",
@@ -2112,7 +2162,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000121,
-        "Text": "Xangar, the Living Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
         "ColumnName": "description",
@@ -2122,7 +2172,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000131,
-        "Text": "Xangar, the Living Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
         "ColumnName": "description",
@@ -2132,7 +2182,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000141,
-        "Text": "Xangar, the Living Flame"
+        "Text": "Xangar, Malevodon of Flame"
     },
     {
         "ColumnName": "description",
@@ -2142,7 +2192,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000201,
-        "Text": "The Swooping Sword"
+        "Text": "Sword from Above"
     },
     {
         "ColumnName": "description",
@@ -2152,7 +2202,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000211,
-        "Text": "The Swooping Sword"
+        "Text": "Sword from Above"
     },
     {
         "ColumnName": "description",
@@ -2162,7 +2212,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000221,
-        "Text": "The Swooping Sword"
+        "Text": "Sword from Above"
     },
     {
         "ColumnName": "description",
@@ -2172,7 +2222,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000231,
-        "Text": "The Swooping Sword"
+        "Text": "Sword from Above"
     },
     {
         "ColumnName": "description",
@@ -2182,7 +2232,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 31100006000241,
-        "Text": "The Swooping Sword"
+        "Text": "Sword from Above"
     },
     {
         "ColumnName": "description",
@@ -2848,6 +2898,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100103060011,
         "Text": "[PAIRED ALLY] On special technique, skill DMG: +30% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100104020010,
+        "Text": "Support Skill: Keldric (Guided by the Great Tree Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100104020010,
+        "Text": "[SELF/PAIRED ALLY] When combo 30+, STR: +6% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100104020011,
+        "Text": "Support Skill: Keldric (Guided by the Great Tree Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100104020011,
+        "Text": "[SELF/PAIRED ALLY] When combo 30+, STR: +10% (Continuous)"
     },
     {
         "ColumnName": "name",

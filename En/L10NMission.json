@@ -751,6 +751,81 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001033101,
+        "Text": "Clear Coffer Chaos (High Level Co-op I) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033102,
+        "Text": "Clear Coffer Chaos (High Level Co-op II) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033103,
+        "Text": "Clear Coffer Chaos (High Level Co-op III) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033104,
+        "Text": "S-Rank Coffer Chaos (Normal): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033105,
+        "Text": "S-Rank Coffer Chaos (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033106,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033107,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033108,
+        "Text": "Ascend a 1★ Knitwit Icon: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033109,
+        "Text": "Ascend a 1★ Knitwit Icon: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033110,
+        "Text": "Ascend a 1★ Knitwit Icon: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033111,
+        "Text": "Ascend a 1★ Knitwit Icon: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033112,
+        "Text": "Ascend a 1★ Knitwit Icon: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033116,
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op I) on solo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033117,
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op II) on solo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033118,
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op III) on solo: x1"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001034001,
         "Text": "S-Rank Twillwool Tower 1F-2F"
     },

@@ -166,6 +166,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210402001,
+        "Text": "Guided by the Great Tree"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210501001,
         "Text": "Encounter Sprung from a Seed"
     },

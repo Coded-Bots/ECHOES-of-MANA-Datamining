@@ -1958,5 +1958,45 @@
         "Mp": 20,
         "Name": "",
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Continuous",
+        "MasterSkillId": 30110402001011,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Continuous",
+        "MasterSkillId": 30110402001012,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110402001021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110402001022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

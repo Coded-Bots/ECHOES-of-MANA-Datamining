@@ -772,5 +772,23 @@
         "MinPhyAtk": 0,
         "MinPhyDef": 0,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterMemoryGemStatusId": 4002040005,
+        "MaxHp": 410,
+        "MaxLuck": 0,
+        "MaxMagAtk": 0,
+        "MaxMagDef": 0,
+        "MaxMp": 0,
+        "MaxPhyAtk": 200,
+        "MaxPhyDef": 0,
+        "MinHp": 103,
+        "MinLuck": 0,
+        "MinMagAtk": 0,
+        "MinMagDef": 0,
+        "MinMp": 0,
+        "MinPhyAtk": 50,
+        "MinPhyDef": 0,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

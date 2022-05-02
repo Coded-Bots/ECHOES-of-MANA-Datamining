@@ -124,6 +124,14 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardReasonId": 430000550000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardReasonId": 430000560000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
         "MasterRewardReasonId": 430000610000,
         "ReleaseLabel": "release.initial"
     },

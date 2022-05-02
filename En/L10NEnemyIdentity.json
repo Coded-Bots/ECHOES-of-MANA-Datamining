@@ -408,5 +408,10 @@
         "ColumnName": "name",
         "LocalizationTargetId": 700100005088,
         "Text": "Polycerameth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700100005093,
+        "Text": "Polter Box"
     }
 ]

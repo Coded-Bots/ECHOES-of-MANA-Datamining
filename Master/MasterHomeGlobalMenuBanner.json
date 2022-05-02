@@ -2,25 +2,41 @@
     {
         "BannerImage": "Banner/lottery001",
         "MasterHomeGlobalMenuBannerId": 12002010001,
-        "Priority": 100,
+        "Priority": 10000,
         "ReleaseLabel": "release.lottery_202204_release",
         "Transition": 1,
         "TransitionParameter": 0
     },
     {
+        "BannerImage": "Banner/6001004001_banner",
+        "MasterHomeGlobalMenuBannerId": 12002010002,
+        "Priority": 1001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Banner/event_present_202204",
+        "MasterHomeGlobalMenuBannerId": 12002031001,
+        "Priority": 10,
+        "ReleaseLabel": "release.event_present_202204",
+        "Transition": 3,
+        "TransitionParameter": 210033001101
+    },
+    {
         "BannerImage": "Banner/event001",
         "MasterHomeGlobalMenuBannerId": 12002030001,
-        "Priority": 10,
+        "Priority": 1000,
         "ReleaseLabel": "release.event_scenario_1",
         "Transition": 3,
         "TransitionParameter": 210030001101
     },
     {
-        "BannerImage": "Banner/event_present_202204",
-        "MasterHomeGlobalMenuBannerId": 12002031001,
-        "Priority": 1,
-        "ReleaseLabel": "release.event_present_202204",
+        "BannerImage": "Banner/event_treasure_202205",
+        "MasterHomeGlobalMenuBannerId": 12002031002,
+        "Priority": 1001,
+        "ReleaseLabel": "release.event_treasure_rush_202205",
         "Transition": 3,
-        "TransitionParameter": 210033001101
+        "TransitionParameter": 210031001101
     }
 ]

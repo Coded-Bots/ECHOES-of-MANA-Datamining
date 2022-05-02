@@ -567,10 +567,17 @@
         "ReleaseLabel": "release.initial"
     },
     {
-        "EnemyImage": "SwordGiantFire",
+        "EnemyImage": "PolyceratEmeth",
         "EnemyType": 9,
         "MasterEnemyIdentityId": 700100005088,
         "Name": "",
         "ReleaseLabel": "release.event_tower_202205_start"
+    },
+    {
+        "EnemyImage": "OgreBoxDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005093,
+        "Name": "",
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
     }
 ]

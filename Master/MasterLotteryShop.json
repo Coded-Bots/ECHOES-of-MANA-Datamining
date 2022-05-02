@@ -32,6 +32,21 @@
     {
         "AdText1": "",
         "AdText2": "",
+        "BannerPath": "Lottery/LiveOps/6001004001_top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001002002,
+        "MoviePath": "Movie/gacha_top_03.usm",
+        "Name": "",
+        "Priority": 2,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
         "BannerPath": "Lottery/Release/banner3",
         "Description": "",
         "DisplayTime": 0,

@@ -9,5 +9,16 @@
         "MaxLimit": 10000,
         "Name": "",
         "ReleaseLabel": "release.lottery_202204_release_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202205_release_point_exchange",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002002,
+        "MasterLotteryShopId": 6001002002,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

@@ -46,6 +46,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 401020014,
+        "Text": "EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020015,
+        "Text": "High Level EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 401030001,
         "Text": "Spell Shard"
     }

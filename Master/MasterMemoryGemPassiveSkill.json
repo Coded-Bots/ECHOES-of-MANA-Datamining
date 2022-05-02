@@ -1503,5 +1503,40 @@
         "MasterMemoryGemPassiveSkillId": 31301110090104,
         "MasterPassiveSkillId": 31100011100941,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "GroupId": 4000501,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31300400050100,
+        "MasterPassiveSkillId": 31100004000501,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "GroupId": 4000501,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31300400050101,
+        "MasterPassiveSkillId": 31100004000511,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "GroupId": 4000501,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31300400050102,
+        "MasterPassiveSkillId": 31100004000521,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "GroupId": 4000501,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31300400050103,
+        "MasterPassiveSkillId": 31100004000531,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "GroupId": 4000501,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31300400050104,
+        "MasterPassiveSkillId": 31100004000541,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

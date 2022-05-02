@@ -21,6 +21,11 @@
     },
     {
         "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040002,
+        "Text": "EP Trader (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "shop_name",
         "LocalizationTargetId": 41000050001,
         "Text": "Spell Shard Trader"
     },
@@ -28,5 +33,10 @@
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060002,
         "Text": "Release Celebration Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060003,
+        "Text": "Guided by the Great Tree Harvest Point Trader"
     }
 ]

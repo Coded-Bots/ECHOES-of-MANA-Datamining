@@ -553,6 +553,22 @@
     },
     {
         "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 1055830410216341548,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100104020010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 1055830414511308844,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100104020011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
         "MasterPassiveSkillConditionId1": 206158430268,
         "MasterPassiveSkillConditionId2": 609368516847468592,
         "MasterPassiveSkillConditionId3": 31200125001030,
@@ -2414,5 +2430,45 @@
         "MasterPassiveSkillConditionId3": 31200114250000,
         "MasterPassiveSkillId": 31100011100941,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 626249890099363884,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100004000501,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 626249933049036844,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100004000511,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 626249975998709804,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100004000521,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 626250018948382764,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100004000531,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 188978561080,
+        "MasterPassiveSkillConditionId2": 626250061898055724,
+        "MasterPassiveSkillConditionId3": 31200110000002,
+        "MasterPassiveSkillId": 31100004000541,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

@@ -20,5 +20,16 @@
         "MasterLotteryShopId": 6001003001,
         "MasterLotteryTrialPartyId": 6008003001,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterIdMain1": 600210402001,
+        "MasterCharacterIdMain2": 600210301001,
+        "MasterCharacterIdMain3": 600210306001,
+        "MasterCharacterIdSub1": 600210203001,
+        "MasterCharacterIdSub2": 600210101001,
+        "MasterCharacterIdSub3": 600210302001,
+        "MasterLotteryShopId": 6001002002,
+        "MasterLotteryTrialPartyId": 6008002002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
     }
 ]

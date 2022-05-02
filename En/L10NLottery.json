@@ -16,6 +16,16 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 6002200201,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200202,
+        "Text": "Free Bonus Havest!\nOne 3★ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 6002300101,
         "Text": ""
     }

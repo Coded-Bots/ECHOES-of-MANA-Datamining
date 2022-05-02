@@ -2881,6 +2881,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200101,
+        "Text": "Savage Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200101,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200102,
+        "Text": "Savage Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200102,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200103,
+        "Text": "Great Tree's Favor"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200103,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200103,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200104,
+        "Text": "Great Tree's Favor"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200104,
+        "Text": "[SELF] Gain SA (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200104,
+        "Text": "[SELF] Gain SA (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200105,
+        "Text": "Full Throttle"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200105,
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301040200106,
+        "Text": "Full Throttle"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301040200106,
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301040200106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301050100101,
         "Text": "Triple Tiger"
     },

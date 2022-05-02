@@ -238,5 +238,85 @@
         "Priority": 2,
         "Rank": 32,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Achievement": 6,
+        "MasterMultiAchievementId": 61003100106,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 0,
+        "Rank": 20,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 9,
+        "MasterMultiAchievementId": 61003100109,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 3,
+        "MasterMultiAchievementId": 61003100103,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 2,
+        "MasterMultiAchievementId": 61003100102,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 8,
+        "MasterMultiAchievementId": 61003100108,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 7,
+        "MasterMultiAchievementId": 61003100107,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 1,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 5,
+        "MasterMultiAchievementId": 61003100105,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 2,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 4,
+        "MasterMultiAchievementId": 61003100104,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 2,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 1,
+        "MasterMultiAchievementId": 61003100101,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 2,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "Achievement": 10,
+        "MasterMultiAchievementId": 61003100110,
+        "MasterQuestEpisodeId": 200000031001,
+        "Priority": 2,
+        "Rank": 28,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
     }
 ]

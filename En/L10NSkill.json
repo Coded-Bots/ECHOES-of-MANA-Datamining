@@ -1281,6 +1281,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110402001011,
+        "Text": "Savage Slash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110402001011,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110402001012,
+        "Text": "Savage Slash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110402001012,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110402001021,
+        "Text": "Great Tree's Favor"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110402001021,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110402001022,
+        "Text": "Great Tree's Favor"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110402001022,
+        "Text": "[SELF] Gain SA (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110501001011,
         "Text": "Triple Tiger"
     },

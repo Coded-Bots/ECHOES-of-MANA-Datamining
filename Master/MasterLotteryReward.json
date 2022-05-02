@@ -1076,5 +1076,985 @@
         "MasterLotteryRewardGroupId": 12,
         "MasterLotteryRewardId": 6004012006,
         "ReleaseLabel": "release.lottery_202204_release"
+    },
+    {
+        "LotteryRewardId": 600211106001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600211104001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600211103001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210309002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210307001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210102002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210103002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103007,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210601002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103008,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600211105001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103009,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210504002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210104002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600211107001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103012,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210206002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103013,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210308001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 103,
+        "MasterLotteryRewardId": 6004103014,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210201001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210202001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210203002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210301002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210302002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210303001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210304001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104007,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210305001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104008,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210306002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104009,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210602001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210102001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210103001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104012,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210601001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104013,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210104001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104014,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210309001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104015,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210503001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104016,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210504001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104017,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210501002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104018,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210502001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104019,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210502002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104020,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210401001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104021,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210401002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104022,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210101002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104023,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210206001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 104,
+        "MasterLotteryRewardId": 6004104024,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210203001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210301001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210302001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210306001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210101001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210501001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 105,
+        "MasterLotteryRewardId": 6004105006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 106,
+        "MasterLotteryRewardId": 6004106006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107007,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107008,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107009,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107012,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107013,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107014,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107015,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020008,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107016,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107017,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107018,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030006,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107019,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030007,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107020,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030008,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107021,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 107,
+        "MasterLotteryRewardId": 6004107022,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020006,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 108,
+        "MasterLotteryRewardId": 6004108006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210402001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 109,
+        "MasterLotteryRewardId": 6004109001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 110,
+        "MasterLotteryRewardId": 6004110001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210201001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210202001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210203002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210301002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210302002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210303001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210304001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111007,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210305001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111008,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210306002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111009,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210602001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210102001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210103001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111012,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210601001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111013,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210104001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111014,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210309001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111015,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210503001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111016,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210504001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111017,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210501002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111018,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210502001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111019,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210502002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111020,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210401001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111021,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210401002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111022,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210101002,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111023,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210206001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 111,
+        "MasterLotteryRewardId": 6004111024,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210203001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210301001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210302001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210306001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210101001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210501001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 112,
+        "MasterLotteryRewardId": 6004112006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113007,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113008,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113009,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113010,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040003,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113011,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113012,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113013,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113014,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113015,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020008,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113016,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113017,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113018,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030006,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113019,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030007,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113020,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030008,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113021,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 113,
+        "MasterLotteryRewardId": 6004113022,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001010001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001030001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114002,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001050001,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114003,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001060002,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114004,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001020006,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114005,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040004,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 114,
+        "MasterLotteryRewardId": 6004114006,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 600210402001,
+        "LotteryRewardType": 3,
+        "MasterLotteryRewardGroupId": 115,
+        "MasterLotteryRewardId": 6004115001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "LotteryRewardId": 4001040005,
+        "LotteryRewardType": 4,
+        "MasterLotteryRewardGroupId": 116,
+        "MasterLotteryRewardId": 6004116001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush"
     }
 ]

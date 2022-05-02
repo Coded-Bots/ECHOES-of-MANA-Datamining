@@ -1462,5 +1462,17 @@
         "StepBackwardSpeed": 15,
         "StepForwardSpeed": 18,
         "WalkSpeed": 20
+    },
+    {
+        "AttackSpeed": 10,
+        "DownTime": 1000,
+        "ImpactRatio": 100,
+        "MasterEnemyMotionId": 700405093001,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start",
+        "RunSpeed": 20,
+        "Scale": 1.0,
+        "StepBackwardSpeed": 15,
+        "StepForwardSpeed": 18,
+        "WalkSpeed": 10
     }
 ]

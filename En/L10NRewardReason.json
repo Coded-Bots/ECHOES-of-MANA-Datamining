@@ -156,6 +156,16 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 430000550000,
+        "Text": "EoM Twitch Stream reward"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000560000,
+        "Text": "Gift from EoM Production Team"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 430000610000,
         "Text": "Reward for completing the tutorial"
     },

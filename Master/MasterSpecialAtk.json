@@ -341,5 +341,12 @@
         "MasterSpecialAtkId": 30210602001011,
         "MaxPoint": 24,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 60,
+        "MasterSpecialAtkId": 30210402001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

@@ -604,5 +604,11 @@
         "MasterCharacterImageId": 600570019007,
         "ReleaseLabel": "release.initial",
         "Thumbnail": "LimitBreakCharacterPrimeDefaultR3BoomerangWind"
+    },
+    {
+        "CardPath": "CardEffect/card_KeldyDefaultR4SwordWind/card_KeldyDefaultR4SwordWind",
+        "MasterCharacterImageId": 600510402001,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "Thumbnail": "KeldyDefaultR4SwordWind"
     }
 ]

@@ -9,7 +9,7 @@
         "DefineName": "STAMINA_MAX_RECOVERY_COUNT",
         "MasterDefineValueId": 304000002,
         "ReleaseLabel": "release.initial",
-        "Value": 10
+        "Value": 999
     },
     {
         "DefineName": "EVENT_STAMINA_RECOVERY_TIME",
@@ -21,7 +21,7 @@
         "DefineName": "EVENT_STAMINA_MAX_RECOVERY_COUNT",
         "MasterDefineValueId": 304000004,
         "ReleaseLabel": "release.initial",
-        "Value": 10
+        "Value": 999
     },
     {
         "DefineName": "CHARACTER_MAX_POSSESSION_COUNT_DEFAULT",
@@ -488,6 +488,18 @@
     {
         "DefineName": "CHARACTER_IMAGE_ID_FOR_INVALID_USER_FRIEND",
         "MasterDefineValueId": 304000092,
+        "ReleaseLabel": "release.initial",
+        "Value": 600511102001
+    },
+    {
+        "DefineName": "CHARACTER_IMAGE_ID_FOR_INVALID_USER_FAVORITE_MAN",
+        "MasterDefineValueId": 304000093,
+        "ReleaseLabel": "release.initial",
+        "Value": 600511101001
+    },
+    {
+        "DefineName": "CHARACTER_IMAGE_ID_FOR_INVALID_USER_FAVORITE_WOMAN",
+        "MasterDefineValueId": 304000094,
         "ReleaseLabel": "release.initial",
         "Value": 600511102001
     }

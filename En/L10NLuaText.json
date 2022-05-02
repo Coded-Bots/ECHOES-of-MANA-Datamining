@@ -19831,6 +19831,106 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 31040200291,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200292,
+        "Text": "Hey, how's it going?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200341,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200342,
+        "Text": "Hm? Is there something on my face?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200391,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200392,
+        "Text": "Hey, you wanna come play with me and Faye?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200441,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200442,
+        "Text": "Buju's run off again! I should probably go catch him, eh?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200491,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200492,
+        "Text": "What's the deal with the vines? Gonna be honest. I have no idea."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200551,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200552,
+        "Text": "No Tree Folk here, but this place has all sorts of folks!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200601,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200602,
+        "Text": "This feather is from a guardian beast. Name was Flammie, I think?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200661,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200662,
+        "Text": "Call on me for anything, okay? I'll be there to help!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200721,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200722,
+        "Text": "A blacksmith named Watts? The king of Ishe shares the name."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200781,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31040200782,
+        "Text": "The people here are so warm and friendly...almost as much as the people in Illusia!"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30131100161,
         "Text": "Blainchet"
     },

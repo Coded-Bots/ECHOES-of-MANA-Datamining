@@ -267,6 +267,13 @@
     },
     {
         "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610402001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Keldy/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
         "MasterCharacterAiId": 600610501001,
         "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
         "RangeAiAssetPath": "AI/Character/LoMMan/001_AS_Sword/AI_Range",

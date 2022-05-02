@@ -77,7 +77,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 16001000008,
-        "Text": "Spend SP to play training quests. SP is restored by 1 point every 5 minutes."
+        "Text": "Spend SP to play training quests and event quests. SP is restored by 1 point every 5 minutes."
     },
     {
         "ColumnName": "title",

@@ -2938,5 +2938,65 @@
         "SkillLevel": 2,
         "SkillLevelRatio": 68,
         "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 42949672960052,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200101,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30110402001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 53687091200052,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200102,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30110402001012,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 64,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 154618822704,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200103,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30110402001021,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 60,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 171798691892,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200104,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30110402001022,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 64,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 42949672960056,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200105,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30210402001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 68,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 53687091200052,
+        "MasterSkillLevelGroupId": 10402001,
+        "MasterSkillLevelId": 30301040200106,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "SkillId": 30210402001011,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 64,
+        "SkillType": 3
     }
 ]

@@ -251,6 +251,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001040005,
+        "Text": "Aim for Wind Acorns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001040005,
+        "Text": "In search of the island's sacred beast, Keldric and Ritzia find themselves in the middle of a tomb.\n\nA giant monster attacks them, but not before issuing a mysterious warning...\n\n'Progeny of the black oracle...'\n'Ritzia!'\n'You must not seek the Echoes' release.'\n'Oh, no! Get back, Ritzia! Now!\nGet your claws off her!'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001050001,
         "Text": "Rulers of the World"
     },
@@ -407,7 +417,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 4001111001,
-        "Text": "The heroes gape in awe at the lofty height of Twillwool Tower.\n'Hooo weee! Now that's a skyscraper if I ever saw one! I can't even see through the clouds to the top! What do they need all those floors for anyway? Do you think this place is famous or somethin'? Come on, Baashear. Fill us in on the deets!'\n'Don't ask me! I won't feign knowledge about things the Mana Goddess doesn't deem important enough to teach me.'\n'Say...could this be THAT tower? The one named after the mage Twillwool the Great?'"
+        "Text": "The heroes gape in awe at the lofty height of Twillwool Tower.\n'Hooo weee! This tower just keeps going and going! I can't even see through the clouds to the top! What do they need all those floors for anyway? Do you think this place is famous or somethin'? Come on, Baashear. Fill us in on the deets!'\n'Don't ask me! I won't feign knowledge about things the Mana Goddess doesn't deem important enough to teach me.'\n'Say...could this be THAT tower? The one named after the mage Twillwool the Great?'"
     },
     {
         "ColumnName": "name",

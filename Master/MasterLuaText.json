@@ -23418,6 +23418,126 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "Home_NPC_Keldy_29_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200291,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_29_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200292,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_34_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200341,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_34_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200342,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_39_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200391,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_39_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200392,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_44_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200441,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_44_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200442,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_49_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200491,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_49_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200492,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_55_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200551,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_55_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200552,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_60_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200601,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_60_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200602,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_66_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200661,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_66_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200662,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_72_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200721,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_72_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200722,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_78_1",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200781,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "Label": "Home_NPC_Keldy_78_2",
+        "LuaScriptFileName": "Home_NPC_Keldy",
+        "MasterLuaTextId": 31040200782,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
         "Label": "Home_NPC_Raxa_29_1",
         "LuaScriptFileName": "Home_NPC_Raxa",
         "MasterLuaTextId": 31110600291,

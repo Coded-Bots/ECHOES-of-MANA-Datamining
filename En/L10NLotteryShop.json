@@ -17,7 +17,17 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002001,
-        "Text": "Standard Harvest"
+        "Text": "l10n_lottery_shop_N/A"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001002002,
+        "Text": "l10n_lottery_shop_N/A"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001002002,
+        "Text": "l10n_lottery_shop_N/A"
     },
     {
         "ColumnName": "name",
@@ -27,6 +37,6 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001003001,
-        "Text": "Standard Harvest"
+        "Text": "l10n_lottery_shop_N/A"
     }
 ]

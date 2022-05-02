@@ -30,9 +30,21 @@
         "ShopCategory": 4
     },
     {
+        "MasterExchangeShopId": 41000040002,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_treasure_rush_202205_exchange",
+        "ShopCategory": 4
+    },
+    {
         "MasterExchangeShopId": 41000060002,
-        "Priority": 12,
+        "Priority": 16,
         "ReleaseLabel": "release.lottery_202204_release_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060003,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202205_release_exchange",
         "ShopCategory": 6
     }
 ]

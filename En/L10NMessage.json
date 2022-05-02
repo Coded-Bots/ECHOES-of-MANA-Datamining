@@ -137,7 +137,7 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303040014,
-        "Text": "Unlocks from Lv. {0}"
+        "Text": "Unlockable from Lv. {0}"
     },
     {
         "ColumnName": "message",

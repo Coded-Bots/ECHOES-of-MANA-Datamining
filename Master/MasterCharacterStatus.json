@@ -1223,5 +1223,30 @@
         "MinPhyAtk": 70,
         "MinPhyDef": 64,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "LimitbreakMaxHp": 984,
+        "LimitbreakMaxLuck": 44,
+        "LimitbreakMaxMagAtk": 344,
+        "LimitbreakMaxMagDef": 275,
+        "LimitbreakMaxMp": 157,
+        "LimitbreakMaxPhyAtk": 424,
+        "LimitbreakMaxPhyDef": 358,
+        "MasterCharacterStatusId": 600310402001,
+        "MaxHp": 798,
+        "MaxLuck": 44,
+        "MaxMagAtk": 279,
+        "MaxMagDef": 223,
+        "MaxMp": 157,
+        "MaxPhyAtk": 344,
+        "MaxPhyDef": 291,
+        "MinHp": 246,
+        "MinLuck": 44,
+        "MinMagAtk": 86,
+        "MinMagDef": 69,
+        "MinMp": 157,
+        "MinPhyAtk": 106,
+        "MinPhyDef": 90,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

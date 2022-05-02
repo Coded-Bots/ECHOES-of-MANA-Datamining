@@ -27,7 +27,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 1062001,
-        "Text": "Use to recover SP. SP is required to play training quests."
+        "Text": "Use to recover SP. SP is required to play training quests and event quests."
     },
     {
         "ColumnName": "name",
@@ -37,6 +37,6 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 1062002,
-        "Text": "Use to recover SP. SP is required to play training quests."
+        "Text": "Use to recover SP. SP is required to play training quests and event quests."
     }
 ]

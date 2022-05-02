@@ -286,6 +286,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 600100010402,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "cv",
+        "LocalizationTargetId": 600100010402,
+        "Text": "VA: Tetsuya Kakihara"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 600100010402,
+        "Text": "A boy who lives in a village at the foot of an ancient sacred tree on the island of Illusia. Keldric, whose nickname is 'Keldy,' can be stubborn at times and a little wild, but his positive outlook and sincere honesty have earned him the trust of his fellow villagers. By a strange fate, the sacred tree's seed was planted into his arm, and with the blade born from that seed, he hurls himself into battle to save the world."
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010501,
         "Text": "Shiloh"
     },

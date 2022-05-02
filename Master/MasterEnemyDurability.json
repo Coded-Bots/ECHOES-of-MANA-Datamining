@@ -3490,5 +3490,23 @@
         "Small": 99999999,
         "Snowman": 99999999,
         "Stun": 99999999
+    },
+    {
+        "Blackout": 100,
+        "Burn": 100,
+        "Confusion": 100,
+        "Down": 80,
+        "Guard": 100,
+        "Knockback": 80,
+        "MasterEnemyDurabilityId": 700505093001,
+        "Petrifaction": 100,
+        "Poison": 100,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start",
+        "Silence": 100,
+        "Sleep": 100,
+        "Slow": 100,
+        "Small": 100,
+        "Snowman": 100,
+        "Stun": 100
     }
 ]

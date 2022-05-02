@@ -2039,6 +2039,17 @@
         "EfficacyStatusType": 10,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101023100022,
+        "Name": "通常攻撃ダメージを22％アップ（永続）",
+        "ReleaseLabel": "release.initial",
+        "Slot": 0,
+        "Value": 12200
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101023100025,
         "Name": "通常攻撃ダメージを25％アップ（永続）",
         "ReleaseLabel": "release.initial",

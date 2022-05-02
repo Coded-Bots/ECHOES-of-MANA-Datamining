@@ -72,6 +72,22 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020014,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202205"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020015,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202205"
+    },
+    {
         "Icon": "Item_0079_TowerPoint01",
         "IsItemCollection": true,
         "MasterPointId": 401030001,

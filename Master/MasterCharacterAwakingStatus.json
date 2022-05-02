@@ -537,5 +537,16 @@
         "MaxPhyAtk": 560,
         "MaxPhyDef": 512,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410402001,
+        "MaxHp": 1820,
+        "MaxLuck": 102,
+        "MaxMagAtk": 738,
+        "MaxMagDef": 591,
+        "MaxMp": 268,
+        "MaxPhyAtk": 826,
+        "MaxPhyDef": 682,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     }
 ]

@@ -1307,7 +1307,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210010004105,
-        "Text": "Roaming Gusthall"
+        "Text": "Roaming the Gusthall"
     },
     {
         "ColumnName": "description",
@@ -1487,7 +1487,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210010004205,
-        "Text": "Roaming Gusthall"
+        "Text": "Roaming the Gusthall"
     },
     {
         "ColumnName": "description",
@@ -1622,7 +1622,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210010004305,
-        "Text": "Roaming Gusthall"
+        "Text": "Roaming the Gusthall"
     },
     {
         "ColumnName": "description",
@@ -2807,7 +2807,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001101,
-        "Text": "Daily Training Quest: Ally Upgrade (Easy I)"
+        "Text": "Ally Upgrade (Easy I)"
     },
     {
         "ColumnName": "description",
@@ -2822,7 +2822,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001102,
-        "Text": "Daily Training Quest: Ally Upgrade (Easy II)"
+        "Text": "Ally Upgrade (Easy II)"
     },
     {
         "ColumnName": "description",
@@ -2837,7 +2837,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001103,
-        "Text": "Daily Training Quest: Ally Upgrade (Normal)"
+        "Text": "Ally Upgrade (Normal)"
     },
     {
         "ColumnName": "description",
@@ -2852,7 +2852,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001104,
-        "Text": "Daily Training Quest: Ally Upgrade (Hard)"
+        "Text": "Ally Upgrade (Hard)"
     },
     {
         "ColumnName": "description",
@@ -2867,7 +2867,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001111,
-        "Text": "Daily Training Quest: Memogem Upgrade (Easy I)"
+        "Text": "Memory Gem Upgrade (Easy I)"
     },
     {
         "ColumnName": "description",
@@ -2882,7 +2882,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001112,
-        "Text": "Daily Training Quest: Memogem Upgrade (Easy II)"
+        "Text": "Memory Gem Upgrade (Easy II)"
     },
     {
         "ColumnName": "description",
@@ -2897,7 +2897,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001113,
-        "Text": "Daily Training Quest: Memogem Upgrade (Normal)"
+        "Text": "Memory Gem Upgrade (Normal)"
     },
     {
         "ColumnName": "description",
@@ -2912,7 +2912,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001114,
-        "Text": "Daily Training Quest: Memogem Upgrade (Hard)"
+        "Text": "Memory Gem Upgrade (Hard)"
     },
     {
         "ColumnName": "description",
@@ -2927,7 +2927,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001121,
-        "Text": "Daily Training Quest: Lucre (Easy I)"
+        "Text": "Lucre (Easy I)"
     },
     {
         "ColumnName": "description",
@@ -2942,7 +2942,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001122,
-        "Text": "Daily Training Quest: Lucre (Easy II)"
+        "Text": "Lucre (Easy II)"
     },
     {
         "ColumnName": "description",
@@ -2957,7 +2957,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001123,
-        "Text": "Daily Training Quest: Lucre (Normal)"
+        "Text": "Lucre (Normal)"
     },
     {
         "ColumnName": "description",
@@ -2972,7 +2972,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210025001124,
-        "Text": "Daily Training Quest: Lucre (Hard)"
+        "Text": "Lucre (Hard)"
     },
     {
         "ColumnName": "description",
@@ -3268,6 +3268,96 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210030001119,
         "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001101,
+        "Text": "Coffer Chaos (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001101,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001102,
+        "Text": "Coffer Chaos (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001102,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001103,
+        "Text": "Coffer Chaos (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001103,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001104,
+        "Text": "Coffer Chaos (High Level Co-op I)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001104,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001105,
+        "Text": "Coffer Chaos (High Level Co-op II)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001105,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031001106,
+        "Text": "Coffer Chaos (High Level Co-op III)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031001106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031001106,
+        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
     },
     {
         "ColumnName": "name",
