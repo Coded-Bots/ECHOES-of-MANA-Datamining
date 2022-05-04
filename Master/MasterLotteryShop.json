@@ -11,7 +11,7 @@
         "MasterLotteryShopId": 6001000001,
         "MoviePath": "",
         "Name": "",
-        "Priority": 1,
+        "Priority": 79573,
         "ReleaseLabel": "release.initial"
     },
     {
@@ -26,7 +26,7 @@
         "MasterLotteryShopId": 6001002001,
         "MoviePath": "Movie/gacha_top_01.usm",
         "Name": "",
-        "Priority": 2,
+        "Priority": 79599,
         "ReleaseLabel": "release.lottery_202204_release"
     },
     {
@@ -41,7 +41,7 @@
         "MasterLotteryShopId": 6001002002,
         "MoviePath": "Movie/gacha_top_03.usm",
         "Name": "",
-        "Priority": 2,
+        "Priority": 79494,
         "ReleaseLabel": "release.lottery_202205_treasure_rush"
     },
     {
@@ -56,7 +56,7 @@
         "MasterLotteryShopId": 6001003001,
         "MoviePath": "Movie/gacha_top_02.usm",
         "Name": "",
-        "Priority": 3,
+        "Priority": 89573,
         "ReleaseLabel": "release.initial"
     }
 ]

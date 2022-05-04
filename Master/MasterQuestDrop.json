@@ -7748,7 +7748,7 @@
         "MasterQuestDropGroupId": 4023000,
         "MasterQuestDropId": 274023000300,
         "MasterRewardGroupId": 420011011002,
-        "Rate": 400,
+        "Rate": 300,
         "ReleaseLabel": "release.initial"
     },
     {
@@ -7772,7 +7772,7 @@
         "MasterQuestDropGroupId": 4023010,
         "MasterQuestDropId": 274023010200,
         "MasterRewardGroupId": 420011011002,
-        "Rate": 400,
+        "Rate": 300,
         "ReleaseLabel": "release.initial"
     },
     {

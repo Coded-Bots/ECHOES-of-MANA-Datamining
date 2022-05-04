@@ -325,7 +325,7 @@
         "UnlockTargetMasterExchangeItemId": 0
     },
     {
-        "ExchangeAmount": 480,
+        "ExchangeAmount": 400,
         "ExchangeComsumeItemId": 401020015,
         "ExchangeConsumeType": 0,
         "ExchangeLimitCount": 5,
@@ -338,10 +338,10 @@
         "UnlockTargetMasterExchangeItemId": 0
     },
     {
-        "ExchangeAmount": 120,
+        "ExchangeAmount": 80,
         "ExchangeComsumeItemId": 401020015,
         "ExchangeConsumeType": 0,
-        "ExchangeLimitCount": 4,
+        "ExchangeLimitCount": 2,
         "ExchangeResetType": 0,
         "MasterExchangeItemId": 42040002002,
         "MasterExchangeShopId": 41000040002,
@@ -367,7 +367,7 @@
         "ExchangeAmount": 100,
         "ExchangeComsumeItemId": 401020014,
         "ExchangeConsumeType": 0,
-        "ExchangeLimitCount": 13,
+        "ExchangeLimitCount": 12,
         "ExchangeResetType": 0,
         "MasterExchangeItemId": 42040002007,
         "MasterExchangeShopId": 41000040002,

@@ -1325,7 +1325,7 @@
     {
         "MasterRewardGroupId": 420013010601,
         "MasterRewardId": 411301060101,
-        "Quantity": 2400,
+        "Quantity": 9600,
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 401010001,
@@ -1334,7 +1334,7 @@
     {
         "MasterRewardGroupId": 420013010602,
         "MasterRewardId": 411301060201,
-        "Quantity": 4500,
+        "Quantity": 13500,
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 401010001,
@@ -1343,7 +1343,7 @@
     {
         "MasterRewardGroupId": 420013010603,
         "MasterRewardId": 411301060301,
-        "Quantity": 7200,
+        "Quantity": 18000,
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 401010001,
@@ -1352,7 +1352,7 @@
     {
         "MasterRewardGroupId": 420013010604,
         "MasterRewardId": 411301060401,
-        "Quantity": 12000,
+        "Quantity": 26400,
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 401010001,
