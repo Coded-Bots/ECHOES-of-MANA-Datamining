@@ -621,102 +621,42 @@
     },
     {
         "ColumnName": "name",
-        "LocalizationTargetId": 11001000143,
-        "Text": "AP Recovery Pack"
+        "LocalizationTargetId": 11001000153,
+        "Text": "SP Recovery Pack"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 11001000143,
-        "Text": "Get the AP Recovery Pack!"
+        "LocalizationTargetId": 11001000153,
+        "Text": "Get the SP Recovery Pack!"
     },
     {
         "ColumnName": "name",
-        "LocalizationTargetId": 11001000144,
-        "Text": "AP Recovery Pack"
+        "LocalizationTargetId": 11001000154,
+        "Text": "SP Recovery Pack"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 11001000144,
-        "Text": "Get the AP Recovery Pack!"
+        "LocalizationTargetId": 11001000154,
+        "Text": "Get the SP Recovery Pack!"
     },
     {
         "ColumnName": "name",
-        "LocalizationTargetId": 11001000145,
-        "Text": "AP Recovery Mini Pack"
+        "LocalizationTargetId": 11001000155,
+        "Text": "SP Recovery Mini Pack"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 11001000145,
-        "Text": "Get the AP Recovery Mini Pack!"
+        "LocalizationTargetId": 11001000155,
+        "Text": "Get the SP Recovery Mini Pack!"
     },
     {
         "ColumnName": "name",
-        "LocalizationTargetId": 11001000146,
-        "Text": "AP Recovery Mini Pack"
+        "LocalizationTargetId": 11001000156,
+        "Text": "SP Recovery Mini Pack"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 11001000146,
-        "Text": "Get the AP Recovery Mini Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000147,
-        "Text": "Ally Training Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000147,
-        "Text": "Get the Ally Training Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000148,
-        "Text": "Ally Training Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000148,
-        "Text": "Get the Ally Training Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000149,
-        "Text": "Ally Training Mini Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000149,
-        "Text": "Get the Ally Training Mini Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000150,
-        "Text": "Ally Training Mini Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000150,
-        "Text": "Get the Ally Training Mini Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000151,
-        "Text": "Newbie Starter Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000151,
-        "Text": "Get the Newbie Starter Pack!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 11001000152,
-        "Text": "Newbie Starter Pack"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 11001000152,
-        "Text": "Get the Newbie Starter Pack!"
+        "LocalizationTargetId": 11001000156,
+        "Text": "Get the SP Recovery Mini Pack!"
     }
 ]

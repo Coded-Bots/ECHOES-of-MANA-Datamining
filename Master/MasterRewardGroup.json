@@ -2275,6 +2275,21 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardGroupId": 420032000016,
+        "MasterRewardReasonId": 430000330000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420032000017,
+        "MasterRewardReasonId": 430000330000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420032000018,
+        "MasterRewardReasonId": 430000330000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
         "MasterRewardGroupId": 420034000001,
         "MasterRewardReasonId": 430000340000,
         "ReleaseLabel": "release.initial"

@@ -742,5 +742,53 @@
         "ReleaseLabel": "release.shop_202205_start",
         "RewardGroupId": 420032000015,
         "ThumbnailPath": "HcShop/shop_item02_10"
+    },
+    {
+        "AnnouncementId": 490000023,
+        "BannerPath": "HcShop/shop_item02_11",
+        "Description": "",
+        "MasterGamelibProductId": 11001000153,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.jp.package.018",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_sp_start",
+        "RewardGroupId": 420032000016,
+        "ThumbnailPath": "HcShop/shop_item02_11"
+    },
+    {
+        "AnnouncementId": 490000023,
+        "BannerPath": "HcShop/shop_item02_11",
+        "Description": "",
+        "MasterGamelibProductId": 11001000154,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.ww.package.018",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_sp_start",
+        "RewardGroupId": 420032000016,
+        "ThumbnailPath": "HcShop/shop_item02_11"
+    },
+    {
+        "AnnouncementId": 490000024,
+        "BannerPath": "HcShop/shop_item02_12",
+        "Description": "",
+        "MasterGamelibProductId": 11001000155,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.jp.package.019",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_sp_start",
+        "RewardGroupId": 420032000017,
+        "ThumbnailPath": "HcShop/shop_item02_12"
+    },
+    {
+        "AnnouncementId": 490000024,
+        "BannerPath": "HcShop/shop_item02_12",
+        "Description": "",
+        "MasterGamelibProductId": 11001000156,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.ww.package.019",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_sp_start",
+        "RewardGroupId": 420032000017,
+        "ThumbnailPath": "HcShop/shop_item02_12"
     }
 ]

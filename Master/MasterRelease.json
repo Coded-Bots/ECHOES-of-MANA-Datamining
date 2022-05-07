@@ -280,6 +280,22 @@
         "ReleaseLabel": "release.shop_202205_start"
     },
     {
+        "CloseAt": "2023/05/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040005,
+        "OpenAt": "2022/05/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_sp"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040006,
+        "OpenAt": "2022/05/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_sp_start"
+    },
+    {
         "CloseAt": "",
         "IsLocal": false,
         "MasterReleaseId": 301990001,

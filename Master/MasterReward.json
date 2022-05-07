@@ -4563,6 +4563,51 @@
         "RewardType": 2
     },
     {
+        "MasterRewardGroupId": 420032000016,
+        "MasterRewardId": 413200001601,
+        "Quantity": 8,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000016,
+        "MasterRewardId": 413200001602,
+        "Quantity": 9,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000017,
+        "MasterRewardId": 413200001701,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000017,
+        "MasterRewardId": 413200001702,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000018,
+        "MasterRewardId": 413200001803,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080003,
+        "RewardType": 2
+    },
+    {
         "MasterRewardGroupId": 420034000001,
         "MasterRewardId": 413400000101,
         "Quantity": 1,
