@@ -3282,7 +3282,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210031001101,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
     },
     {
         "ColumnName": "name",
@@ -3297,7 +3297,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210031001102,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
     },
     {
         "ColumnName": "name",
@@ -3312,52 +3312,22 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210031001103,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
     },
     {
         "ColumnName": "name",
-        "LocalizationTargetId": 210031001104,
-        "Text": "Coffer Chaos (High Level Co-op I)"
+        "LocalizationTargetId": 210031002104,
+        "Text": "Coffer Chaos (High Level Co-op)"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 210031001104,
+        "LocalizationTargetId": 210031002104,
         "Text": ""
     },
     {
         "ColumnName": "tips",
-        "LocalizationTargetId": 210031001104,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 210031001105,
-        "Text": "Coffer Chaos (High Level Co-op II)"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 210031001105,
-        "Text": ""
-    },
-    {
-        "ColumnName": "tips",
-        "LocalizationTargetId": 210031001105,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
-    },
-    {
-        "ColumnName": "name",
-        "LocalizationTargetId": 210031001106,
-        "Text": "Coffer Chaos (High Level Co-op III)"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 210031001106,
-        "Text": ""
-    },
-    {
-        "ColumnName": "tips",
-        "LocalizationTargetId": 210031001106,
-        "Text": "Polter Boxes come out to play when the foe's HP is cut away...\nPop 'em quick and pilfer the prizes!"
+        "LocalizationTargetId": 210031002104,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
     },
     {
         "ColumnName": "name",
@@ -3992,7 +3962,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050002103,
-        "Text": "Wisemen Hall Amgette Lvl 3"
+        "Text": "Test"
     },
     {
         "ColumnName": "description",

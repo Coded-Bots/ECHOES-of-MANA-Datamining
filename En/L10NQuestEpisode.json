@@ -171,6 +171,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000031002,
+        "Text": "Coffer Chaos (High Level Co-op)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000033001,
         "Text": "Spirit Crystal Sweep"
     },

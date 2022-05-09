@@ -7939,48 +7939,8 @@
         "Group": 3,
         "MasterQuestDropGroupId": 4043000,
         "MasterQuestDropId": 274043000300,
-        "MasterRewardGroupId": 420011013021,
-        "Rate": 10000,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 4,
-        "MasterQuestDropGroupId": 4043000,
-        "MasterQuestDropId": 274043000400,
-        "MasterRewardGroupId": 420011011001,
-        "Rate": 5000,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 4,
-        "MasterQuestDropGroupId": 4043000,
-        "MasterQuestDropId": 274043000401,
-        "MasterRewardGroupId": 420011011002,
-        "Rate": 5000,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 5,
-        "MasterQuestDropGroupId": 4043000,
-        "MasterQuestDropId": 274043000500,
-        "MasterRewardGroupId": 420011011001,
-        "Rate": 60,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 5,
-        "MasterQuestDropGroupId": 4043000,
-        "MasterQuestDropId": 274043000501,
-        "MasterRewardGroupId": 420011011002,
-        "Rate": 60,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 5,
-        "MasterQuestDropGroupId": 4043000,
-        "MasterQuestDropId": 274043000502,
-        "MasterRewardGroupId": 420011011003,
-        "Rate": 60,
+        "MasterRewardGroupId": 420011014003,
+        "Rate": 2000,
         "ReleaseLabel": "release.initial"
     },
     {
@@ -8011,31 +7971,15 @@
         "Group": 2,
         "MasterQuestDropGroupId": 4043010,
         "MasterQuestDropId": 274043010200,
-        "MasterRewardGroupId": 420011011001,
-        "Rate": 60,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 2,
-        "MasterQuestDropGroupId": 4043010,
-        "MasterQuestDropId": 274043010201,
-        "MasterRewardGroupId": 420011011002,
-        "Rate": 60,
-        "ReleaseLabel": "release.initial"
-    },
-    {
-        "Group": 2,
-        "MasterQuestDropGroupId": 4043010,
-        "MasterQuestDropId": 274043010202,
-        "MasterRewardGroupId": 420011011003,
-        "Rate": 60,
+        "MasterRewardGroupId": 420011014003,
+        "Rate": 1500,
         "ReleaseLabel": "release.initial"
     },
     {
         "Group": 1,
         "MasterQuestDropGroupId": 4043020,
         "MasterQuestDropId": 274043020100,
-        "MasterRewardGroupId": 420011014001,
+        "MasterRewardGroupId": 420011014002,
         "Rate": 10000,
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },

@@ -535,6 +535,16 @@
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },
     {
+        "MasterRewardGroupId": 420011014002,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "MasterRewardGroupId": 420011014003,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
         "MasterRewardGroupId": 420012000001,
         "MasterRewardReasonId": 430000120000,
         "ReleaseLabel": "release.initial"
@@ -2056,6 +2066,21 @@
     },
     {
         "MasterRewardGroupId": 420021300011,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300012,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300013,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300014,
         "MasterRewardReasonId": 430000210003,
         "ReleaseLabel": "release.initial"
     },

@@ -751,21 +751,6 @@
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 8001033101,
-        "Text": "Clear Coffer Chaos (High Level Co-op I) on co-op: x3"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 8001033102,
-        "Text": "Clear Coffer Chaos (High Level Co-op II) on co-op: x3"
-    },
-    {
-        "ColumnName": "description",
-        "LocalizationTargetId": 8001033103,
-        "Text": "Clear Coffer Chaos (High Level Co-op III) on co-op: x3"
-    },
-    {
-        "ColumnName": "description",
         "LocalizationTargetId": 8001033104,
         "Text": "S-Rank Coffer Chaos (Normal): x1"
     },
@@ -812,17 +797,42 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001033116,
-        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op I) on solo: x1"
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op) on solo: x1"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 8001033117,
-        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op II) on solo: x1"
+        "LocalizationTargetId": 8001033119,
+        "Text": "S-Rank Clear Coffer Chaos (High Level Co-op): x10"
     },
     {
         "ColumnName": "description",
-        "LocalizationTargetId": 8001033118,
-        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op III) on solo: x1"
+        "LocalizationTargetId": 8001033120,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033121,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033122,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033123,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033124,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033125,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x30"
     },
     {
         "ColumnName": "description",
