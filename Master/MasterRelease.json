@@ -240,6 +240,22 @@
         "ReleaseLabel": "release.login_bonus_202205_2"
     },
     {
+        "CloseAt": "2022/05/23 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021017,
+        "OpenAt": "2022/05/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202205_exchange_2"
+    },
+    {
+        "CloseAt": "2022/05/23 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021022,
+        "OpenAt": "2022/05/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202205_exchange_3"
+    },
+    {
         "CloseAt": "2022/05/29 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301031001,
