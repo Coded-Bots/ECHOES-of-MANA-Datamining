@@ -790,5 +790,29 @@
         "ReleaseLabel": "release.shop_202205_sp_start",
         "RewardGroupId": 420032000017,
         "ThumbnailPath": "HcShop/shop_item02_12"
+    },
+    {
+        "AnnouncementId": 490000022,
+        "BannerPath": "HcShop/shop_item03_02",
+        "Description": "",
+        "MasterGamelibProductId": 11001000163,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.jp.package.020",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_memory_gem_start",
+        "RewardGroupId": 420032000018,
+        "ThumbnailPath": "HcShop/shop_item03_02_thumbnail"
+    },
+    {
+        "AnnouncementId": 490000022,
+        "BannerPath": "HcShop/shop_item03_02",
+        "Description": "",
+        "MasterGamelibProductId": 11001000165,
+        "Name": "",
+        "ProductId": "com.sqex.echoesofmana.ww.package.020",
+        "ProductType": 2,
+        "ReleaseLabel": "release.shop_202205_memory_gem_start",
+        "RewardGroupId": 420032000018,
+        "ThumbnailPath": "HcShop/shop_item03_02_thumbnail"
     }
 ]

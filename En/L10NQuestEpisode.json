@@ -131,6 +131,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000020007,
+        "Text": "Lucre Trove"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000020007,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000024001,
         "Text": "Echoing Maze"
     },
@@ -217,6 +227,16 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 200000050002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000050003,
+        "Text": "Sandstorm Hall Saatibrawn"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000050003,
         "Text": ""
     }
 ]

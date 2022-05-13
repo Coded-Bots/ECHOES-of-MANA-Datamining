@@ -8,5 +8,15 @@
         "ColumnName": "description",
         "LocalizationTargetId": 1080002,
         "Text": "Used for harvesting at the 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080003,
+        "Text": "Release Celebration 4★ Memogem-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080003,
+        "Text": "Used for harvesting at the 4★ Memory Gem Echo Harvest"
     }
 ]

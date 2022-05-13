@@ -24,6 +24,12 @@
         "ShopCategory": 1
     },
     {
+        "MasterExchangeShopId": 41000010003,
+        "Priority": 16,
+        "ReleaseLabel": "release.campaign_0509_pd_letter",
+        "ShopCategory": 1
+    },
+    {
         "MasterExchangeShopId": 41000040001,
         "Priority": 12,
         "ReleaseLabel": "release.event_scenario_1_exchange",
@@ -45,6 +51,12 @@
         "MasterExchangeShopId": 41000060003,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202205_release_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060008,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202205_hero_exchange",
         "ShopCategory": 6
     }
 ]

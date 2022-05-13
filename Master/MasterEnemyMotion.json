@@ -519,6 +519,18 @@
         "AttackSpeed": 10,
         "DownTime": 1000,
         "ImpactRatio": 100,
+        "MasterEnemyMotionId": 700405030005,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start",
+        "RunSpeed": 20,
+        "Scale": 1.2000000476837158,
+        "StepBackwardSpeed": 15,
+        "StepForwardSpeed": 18,
+        "WalkSpeed": 10
+    },
+    {
+        "AttackSpeed": 10,
+        "DownTime": 1000,
+        "ImpactRatio": 100,
         "MasterEnemyMotionId": 700405031001,
         "ReleaseLabel": "release.initial",
         "RunSpeed": 20,

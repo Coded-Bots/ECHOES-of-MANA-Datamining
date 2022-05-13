@@ -299,7 +299,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2560001,
         "MasterQuestDropId": 272560001100,
-        "MasterRewardGroupId": 420011010351,
+        "MasterRewardGroupId": 420011010354,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -316,7 +316,7 @@
         "MasterQuestDropGroupId": 2560001,
         "MasterQuestDropId": 272560001300,
         "MasterRewardGroupId": 420011010352,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -324,7 +324,7 @@
         "MasterQuestDropGroupId": 2560001,
         "MasterQuestDropId": 272560001400,
         "MasterRewardGroupId": 420011010353,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -675,7 +675,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2160001,
         "MasterQuestDropId": 272160001100,
-        "MasterRewardGroupId": 420011010311,
+        "MasterRewardGroupId": 420011010314,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -692,7 +692,7 @@
         "MasterQuestDropGroupId": 2160001,
         "MasterQuestDropId": 272160001300,
         "MasterRewardGroupId": 420011010311,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -700,7 +700,7 @@
         "MasterQuestDropGroupId": 2160001,
         "MasterQuestDropId": 272160001400,
         "MasterRewardGroupId": 420011010313,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -1051,7 +1051,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2460001,
         "MasterQuestDropId": 272460001100,
-        "MasterRewardGroupId": 420011010341,
+        "MasterRewardGroupId": 420011010344,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -1068,7 +1068,7 @@
         "MasterQuestDropGroupId": 2460001,
         "MasterQuestDropId": 272460001300,
         "MasterRewardGroupId": 420011010342,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -1076,7 +1076,7 @@
         "MasterQuestDropGroupId": 2460001,
         "MasterQuestDropId": 272460001400,
         "MasterRewardGroupId": 420011010343,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -1427,7 +1427,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2660001,
         "MasterQuestDropId": 272660001100,
-        "MasterRewardGroupId": 420011010361,
+        "MasterRewardGroupId": 420011010364,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -1444,7 +1444,7 @@
         "MasterQuestDropGroupId": 2660001,
         "MasterQuestDropId": 272660001300,
         "MasterRewardGroupId": 420011010362,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -1452,7 +1452,7 @@
         "MasterQuestDropGroupId": 2660001,
         "MasterQuestDropId": 272660001400,
         "MasterRewardGroupId": 420011010363,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -1803,7 +1803,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2360001,
         "MasterQuestDropId": 272360001100,
-        "MasterRewardGroupId": 420011010331,
+        "MasterRewardGroupId": 420011010334,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -1820,7 +1820,7 @@
         "MasterQuestDropGroupId": 2360001,
         "MasterQuestDropId": 272360001300,
         "MasterRewardGroupId": 420011010332,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -1828,7 +1828,7 @@
         "MasterQuestDropGroupId": 2360001,
         "MasterQuestDropId": 272360001400,
         "MasterRewardGroupId": 420011010333,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -2179,7 +2179,7 @@
         "Group": 1,
         "MasterQuestDropGroupId": 2260001,
         "MasterQuestDropId": 272260001100,
-        "MasterRewardGroupId": 420011010321,
+        "MasterRewardGroupId": 420011010324,
         "Rate": 10000,
         "ReleaseLabel": ""
     },
@@ -2196,7 +2196,7 @@
         "MasterQuestDropGroupId": 2260001,
         "MasterQuestDropId": 272260001300,
         "MasterRewardGroupId": 420011010322,
-        "Rate": 6000,
+        "Rate": 10000,
         "ReleaseLabel": ""
     },
     {
@@ -2204,7 +2204,7 @@
         "MasterQuestDropGroupId": 2260001,
         "MasterQuestDropId": 272260001400,
         "MasterRewardGroupId": 420011010323,
-        "Rate": 2200,
+        "Rate": 1600,
         "ReleaseLabel": ""
     },
     {
@@ -2606,6 +2606,182 @@
         "MasterRewardGroupId": 420011006031,
         "Rate": 10000,
         "ReleaseLabel": ""
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012311,
+        "MasterQuestDropId": 272012311100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 4000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012312,
+        "MasterQuestDropId": 272012312100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012321,
+        "MasterQuestDropId": 272012321100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 4800,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012321,
+        "MasterQuestDropId": 272012321200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 800,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012322,
+        "MasterQuestDropId": 272012322100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012322,
+        "MasterQuestDropId": 272012322200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 2500,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012331,
+        "MasterQuestDropId": 272012331100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 4500,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012331,
+        "MasterQuestDropId": 272012331200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 750,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012332,
+        "MasterQuestDropId": 272012332100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012332,
+        "MasterQuestDropId": 272012332200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 2500,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012341,
+        "MasterQuestDropId": 272012341100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 4500,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012341,
+        "MasterQuestDropId": 272012341200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 750,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 3,
+        "MasterQuestDropGroupId": 2012341,
+        "MasterQuestDropId": 272012341300,
+        "MasterRewardGroupId": 420011006031,
+        "Rate": 150,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012342,
+        "MasterQuestDropId": 272012342100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012342,
+        "MasterQuestDropId": 272012342200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 2500,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 3,
+        "MasterQuestDropGroupId": 2012342,
+        "MasterQuestDropId": 272012342300,
+        "MasterRewardGroupId": 420011006031,
+        "Rate": 1000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012351,
+        "MasterQuestDropId": 272012351100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 1000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012351,
+        "MasterQuestDropId": 272012351200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 1000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 3,
+        "MasterQuestDropGroupId": 2012351,
+        "MasterQuestDropId": 272012351300,
+        "MasterRewardGroupId": 420011006031,
+        "Rate": 100,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 1,
+        "MasterQuestDropGroupId": 2012352,
+        "MasterQuestDropId": 272012352100,
+        "MasterRewardGroupId": 420011006011,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 2,
+        "MasterQuestDropGroupId": 2012352,
+        "MasterQuestDropId": 272012352200,
+        "MasterRewardGroupId": 420011006021,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "Group": 3,
+        "MasterQuestDropGroupId": 2012352,
+        "MasterQuestDropId": 272012352300,
+        "MasterRewardGroupId": 420011006031,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
         "Group": 1,

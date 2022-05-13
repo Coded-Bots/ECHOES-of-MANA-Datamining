@@ -16,6 +16,14 @@
         "TransitionParameter": 0
     },
     {
+        "BannerImage": "Lottery/2007/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010007,
+        "Priority": 40513,
+        "ReleaseLabel": "release.lottery_202205_hero",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
         "BannerImage": "Banner/event_present_202204",
         "MasterHomeGlobalMenuBannerId": 12002031001,
         "Priority": 30401,

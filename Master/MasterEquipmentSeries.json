@@ -18,12 +18,30 @@
         "Value": 2
     },
     {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
+        "EfficacyValueType": 29,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000013,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start",
+        "Value": 2
+    },
+    {
         "EfficacyTarget": 52,
         "EfficacyType": 1,
         "EfficacyValueType": 1,
         "MasterEquipmentFilterId": 103079227104,
         "MasterEquipmentSeriesId": 3002000014,
         "ReleaseLabel": "release.initial",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
+        "EfficacyValueType": 24,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000016,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start",
         "Value": 2
     },
     {

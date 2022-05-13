@@ -695,6 +695,21 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardGroupId": 420013010701,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013010702,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013010703,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
         "MasterRewardGroupId": 420013001000,
         "MasterRewardReasonId": 430000000001,
         "ReleaseLabel": "release.initial"
@@ -1013,6 +1028,31 @@
         "MasterRewardGroupId": 420013020204,
         "MasterRewardReasonId": 430000000001,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420013020301,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013020302,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013020303,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013020304,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420013020305,
+        "MasterRewardReasonId": 430000000001,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
         "MasterRewardGroupId": 420013030001,
@@ -1965,6 +2005,71 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardGroupId": 420021000085,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021000086,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021000087,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021000088,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021000089,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021000151,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000152,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000153,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000154,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000155,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000156,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000157,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterRewardGroupId": 420021000158,
+        "MasterRewardReasonId": 430000210000,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
         "MasterRewardGroupId": 420021000091,
         "MasterRewardReasonId": 430000210000,
         "ReleaseLabel": "release.initial"
@@ -2130,6 +2235,71 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardGroupId": 420021300015,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300016,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300017,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300018,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300019,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300020,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300021,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300022,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300023,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300024,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300025,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300026,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420021300027,
+        "MasterRewardReasonId": 430000210003,
+        "ReleaseLabel": "release.initial"
+    },
+    {
         "MasterRewardGroupId": 420021500001,
         "MasterRewardReasonId": 430000210005,
         "ReleaseLabel": "release.initial"
@@ -2268,6 +2438,16 @@
         "MasterRewardGroupId": 420023000012,
         "MasterRewardReasonId": 430000230000,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420023000013,
+        "MasterRewardReasonId": 430000230000,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "MasterRewardGroupId": 420023000014,
+        "MasterRewardReasonId": 430000230000,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     },
     {
         "MasterRewardGroupId": 420032000001,
@@ -2685,6 +2865,16 @@
         "ReleaseLabel": "release.lottery_202205_release_exchange"
     },
     {
+        "MasterRewardGroupId": 420034000070,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.lottery_202205_hero_exchange"
+    },
+    {
+        "MasterRewardGroupId": 420034000071,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.lottery_202205_hero_exchange"
+    },
+    {
         "MasterRewardGroupId": 420034000072,
         "MasterRewardReasonId": 430000340000,
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
@@ -2693,6 +2883,96 @@
         "MasterRewardGroupId": 420034000073,
         "MasterRewardReasonId": 430000340000,
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "MasterRewardGroupId": 420034000101,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000102,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000103,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000104,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000105,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000106,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000107,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000108,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000109,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000110,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000111,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000112,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000113,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000114,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000115,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000116,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000117,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
+    },
+    {
+        "MasterRewardGroupId": 420034000118,
+        "MasterRewardReasonId": 430000340000,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
     },
     {
         "MasterRewardGroupId": 420035001001,
@@ -4523,6 +4803,11 @@
         "MasterRewardGroupId": 420090040112,
         "MasterRewardReasonId": 430000900000,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardGroupId": 420090050001,
+        "MasterRewardReasonId": 430000900000,
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },
     {
         "MasterRewardGroupId": 420055010001,

@@ -21,6 +21,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3002000013,
+        "Text": "Silk"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000013,
+        "Text": "[SELF] Wind DMG: +{0}%"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000014,
         "Text": "Cotton"
     },
@@ -28,6 +38,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 3002000014,
         "Text": "[SELF] HP: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000016,
+        "Text": "Hemp"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000016,
+        "Text": "[SELF] Earth DMG: +{0}%"
     },
     {
         "ColumnName": "name",

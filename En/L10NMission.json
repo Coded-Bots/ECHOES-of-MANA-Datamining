@@ -601,6 +601,96 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001012018,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 1 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012019,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 2 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012020,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 3 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012021,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 4 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012022,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 5 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012023,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012024,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012025,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012026,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012027,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012201,
+        "Text": "Clear Lucre Trove (Easy): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012202,
+        "Text": "Clear Lucre Trove (Normal): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012203,
+        "Text": "Clear Lucre Trove (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012204,
+        "Text": "Clear Lucre Trove (Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012205,
+        "Text": "Clear Lucre Trove (Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012206,
+        "Text": "Clear Lucre Trove (Hard): x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012207,
+        "Text": "Clear Lucre Trove (Hard): x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012208,
+        "Text": "Clear Lucre Trove (Hard): x30"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001013001,
         "Text": "Harvest an echo: x5"
     },
@@ -708,6 +798,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001020005,
         "Text": "Clear all missions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001020006,
+        "Text": "[Campaign] Clear a quest: x4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001020007,
+        "Text": "[Campaign] Clear a training dungeon: x4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001020008,
+        "Text": "[Campaign] Clear a quest: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001020009,
+        "Text": "[Campaign] Clear a training dungeon: x5"
     },
     {
         "ColumnName": "description",

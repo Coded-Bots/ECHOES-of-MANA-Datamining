@@ -382,5 +382,17 @@
         "Rarity": 1,
         "ReleaseLabel": "release.initial",
         "WeaponType": 8
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Sword/KeldySword/Model/KeldySword.fbx",
+        "IconPath": "KeldySword",
+        "MasterIdentityId": 600100010402,
+        "MasterPassiveSkillId": 0,
+        "MasterWeaponId": 3201000055,
+        "Name": "",
+        "Rarity": 4,
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
+        "WeaponType": 10
     }
 ]

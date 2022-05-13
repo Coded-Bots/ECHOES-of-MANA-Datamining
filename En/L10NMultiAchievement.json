@@ -101,6 +101,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 61003100201,
+        "Text": "Star Attacker"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100202,
+        "Text": "Star Healer"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100203,
+        "Text": "Star Tank"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100204,
+        "Text": "Weak Point Pro"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100205,
+        "Text": "Ace of Ailments"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100206,
+        "Text": "Small Fry Fighter"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100207,
+        "Text": "Ace of Combos"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100208,
+        "Text": "Ace of ST"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100209,
+        "Text": "Star Support"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61003100210,
+        "Text": "Damage Dodger"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 61005000101,
         "Text": "Star Attacker"
     },
@@ -197,6 +247,56 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 61005000210,
+        "Text": "Damage Dodger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000301,
+        "Text": "Star Attacker"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000302,
+        "Text": "Star Healer"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000303,
+        "Text": "Star Tank"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000304,
+        "Text": "Weak Point Pro"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000305,
+        "Text": "Ace of Ailments"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000306,
+        "Text": "Small Fry Fighter"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000307,
+        "Text": "Ace of Combos"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000308,
+        "Text": "Ace of ST"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000309,
+        "Text": "Star Support"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 61005000310,
         "Text": "Damage Dodger"
     }
 ]

@@ -20,7 +20,7 @@
         "BannerPath": "Lottery/Release/banner2",
         "Description": "",
         "DisplayTime": 0,
-        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "GlobalMenuBannerPath": "Banner/lottery001",
         "IsTutorial": false,
         "LogoPath": "",
         "MasterLotteryShopId": 6001002001,
@@ -35,7 +35,7 @@
         "BannerPath": "Lottery/LiveOps/6001004001_top",
         "Description": "",
         "DisplayTime": 0,
-        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "GlobalMenuBannerPath": "Banner/6001004001_banner",
         "IsTutorial": false,
         "LogoPath": "",
         "MasterLotteryShopId": 6001002002,
@@ -43,6 +43,21 @@
         "Name": "",
         "Priority": 79494,
         "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/2007/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Lottery/LiveOps/2007/banner",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001002007,
+        "MoviePath": "ReleaseUnit/Lottery/2007/gacha_top.usm",
+        "Name": "",
+        "Priority": 79487,
+        "ReleaseLabel": "release.lottery_202205_hero"
     },
     {
         "AdText1": "",
@@ -58,5 +73,20 @@
         "Name": "",
         "Priority": 89573,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/3002/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001003002,
+        "MoviePath": "",
+        "Name": "",
+        "Priority": 89484,
+        "ReleaseLabel": "release.lottery_202205_release_ticket"
     }
 ]

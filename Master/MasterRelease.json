@@ -90,6 +90,14 @@
     {
         "CloseAt": "",
         "IsLocal": false,
+        "MasterReleaseId": 301010012,
+        "OpenAt": "2022/05/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_release_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
         "MasterReleaseId": 301010013,
         "OpenAt": "2022/06/14 6:00:00",
         "Region": 15,
@@ -102,6 +110,46 @@
         "OpenAt": "2022/05/06 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.lottery_202205_release_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010027,
+        "OpenAt": "2022/05/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_release_ticket_start"
+    },
+    {
+        "CloseAt": "2022/05/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010028,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_hero"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010029,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_hero_start"
+    },
+    {
+        "CloseAt": "2022/06/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010030,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_hero_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010031,
+        "OpenAt": "2022/06/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_hero_pt_exchange_start"
     },
     {
         "CloseAt": "",
@@ -240,12 +288,36 @@
         "ReleaseLabel": "release.login_bonus_202205_2"
     },
     {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021015,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "CloseAt": "2022/05/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021016,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_daily_mission_campaign_202205"
+    },
+    {
         "CloseAt": "2022/05/23 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021017,
         "OpenAt": "2022/05/10 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.event_treasure_rush_202205_exchange_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021018,
+        "OpenAt": "2022/05/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_0509_pd_letter"
     },
     {
         "CloseAt": "2022/05/23 5:59:59",
@@ -278,6 +350,22 @@
         "OpenAt": "2022/05/03 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.shop_202205_start"
+    },
+    {
+        "CloseAt": "2022/05/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040003,
+        "OpenAt": "2022/05/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_memory_gem"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040004,
+        "OpenAt": "2022/05/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_memory_gem_start"
     },
     {
         "CloseAt": "2023/05/31 5:59:59",

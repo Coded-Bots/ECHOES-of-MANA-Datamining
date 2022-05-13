@@ -497,6 +497,6 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 30211107001011,
-        "Text": "[PARTY] Restore HP (RCV: 50%) (Effect boosts by STLv.)"
+        "Text": "[ACTIVE ALLIES] Restore HP: 50% of RCV (Effect boosts by STLv.)"
     }
 ]

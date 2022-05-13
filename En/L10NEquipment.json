@@ -31,6 +31,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3001013101,
+        "Text": "Silk Hat"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001013201,
+        "Text": "Silk Robe"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001013301,
+        "Text": "Silk Bracelet"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3001014101,
         "Text": "Cotton Hat"
     },
@@ -43,6 +58,21 @@
         "ColumnName": "name",
         "LocalizationTargetId": 3001014301,
         "Text": "Cotton Bracelet"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001016101,
+        "Text": "Hemp Hat"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001016201,
+        "Text": "Hemp Robe"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001016301,
+        "Text": "Hemp Bracelet"
     },
     {
         "ColumnName": "name",

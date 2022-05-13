@@ -12,10 +12,22 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterEquipmentSeriesId": 3002000013,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000013,
+        "MasterLotteryEquipmentSeriesId": 533015000013,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
         "MasterEquipmentSeriesId": 3002000014,
         "MasterLotteryEquipmentSeriesGroupId": 540000000014,
         "MasterLotteryEquipmentSeriesId": 533016000014,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000016,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000016,
+        "MasterLotteryEquipmentSeriesId": 533018000016,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
         "MasterEquipmentSeriesId": 3002000018,

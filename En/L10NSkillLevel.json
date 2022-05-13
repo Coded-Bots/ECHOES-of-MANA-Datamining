@@ -4477,12 +4477,12 @@
     {
         "ColumnName": "skill_discription",
         "LocalizationTargetId": 30301110700105,
-        "Text": "[PARTY] Restore HP (RCV: 50%) (Effect boosts by STLv.)"
+        "Text": "[ACTIVE ALLIES] Restore HP: 50% of RCV (Effect boosts by STLv.)"
     },
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301110700105,
-        "Text": "[PARTY] Restore HP (RCV: 50%) (Effect boosts by STLv.)"
+        "Text": "[ACTIVE ALLIES] Restore HP: 50% of RCV (Effect boosts by STLv.)"
     },
     {
         "ColumnName": "skill_name",
@@ -4492,11 +4492,11 @@
     {
         "ColumnName": "skill_discription",
         "LocalizationTargetId": 30301110700106,
-        "Text": "[PARTY] Restore HP (RCV: 70%) (Effect boosts by STLv.)"
+        "Text": "[ACTIVE ALLIES] Restore HP: 70% of RCV (Effect boosts by STLv.)"
     },
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301110700106,
-        "Text": "[PARTY] Restore HP (RCV: 70%) (Effect boosts by STLv.)"
+        "Text": "[ACTIVE ALLIES] Restore HP: 70% of RCV (Effect boosts by STLv.)"
     }
 ]

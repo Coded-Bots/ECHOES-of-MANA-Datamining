@@ -2746,6 +2746,51 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210020007101,
+        "Text": "Lucre Trove (Easy)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210020007101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210020007101,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210020007102,
+        "Text": "Lucre Trove (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210020007102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210020007102,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210020007103,
+        "Text": "Lucre Trove (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210020007103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210020007103,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210024001101,
         "Text": "Echoing Maze (Easy I)"
     },
@@ -3962,7 +4007,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050002103,
-        "Text": "Test"
+        "Text": "Wisemen Hall Amgette Lvl 3"
     },
     {
         "ColumnName": "description",
@@ -3988,5 +4033,80 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210050002104,
         "Text": "Effective: Water, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003101,
+        "Text": "Sandstorm Hall Saatibrawn Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003101,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003102,
+        "Text": "Sandstorm Hall Saatibrawn Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003102,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003103,
+        "Text": "Sandstorm Hall Saatibrawn Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003103,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003104,
+        "Text": "Sandstorm Hall Saatibrawn Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003104,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003105,
+        "Text": "Sandstorm Hall Saatibrawn Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003105,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
     }
 ]

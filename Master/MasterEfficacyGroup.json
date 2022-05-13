@@ -13838,7 +13838,7 @@
         "ReleaseLabel": "release.initial"
     },
     {
-        "EfficacyCategory1": 3,
+        "EfficacyCategory1": 2,
         "EfficacyCategory10": 0,
         "EfficacyCategory2": 0,
         "EfficacyCategory3": 0,
@@ -13848,7 +13848,7 @@
         "EfficacyCategory7": 0,
         "EfficacyCategory8": 0,
         "EfficacyCategory9": 0,
-        "EfficacyTarget1": 24,
+        "EfficacyTarget1": 28,
         "EfficacyTarget10": 0,
         "EfficacyTarget2": 2703796818,
         "EfficacyTarget3": 0,
@@ -13872,7 +13872,7 @@
         "ReleaseLabel": "release.initial"
     },
     {
-        "EfficacyCategory1": 3,
+        "EfficacyCategory1": 2,
         "EfficacyCategory10": 0,
         "EfficacyCategory2": 0,
         "EfficacyCategory3": 0,
@@ -13882,7 +13882,7 @@
         "EfficacyCategory7": 0,
         "EfficacyCategory8": 0,
         "EfficacyCategory9": 0,
-        "EfficacyTarget1": 28,
+        "EfficacyTarget1": 24,
         "EfficacyTarget10": 0,
         "EfficacyTarget2": 2703796838,
         "EfficacyTarget3": 0,

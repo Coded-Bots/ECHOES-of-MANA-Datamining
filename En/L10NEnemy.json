@@ -551,6 +551,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205029004,
+        "Text": "Chess Knight"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205030001,
         "Text": "Golden Chess"
     },
@@ -562,6 +567,16 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205030003,
+        "Text": "Golden Chess"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205030004,
+        "Text": "Golden Chess"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205030005,
         "Text": "Golden Chess"
     },
     {
@@ -1011,6 +1026,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205051004,
+        "Text": "Ma Goblin"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205052001,
         "Text": "Basilisk"
     },
@@ -1142,6 +1162,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205062003,
+        "Text": "Steelpion"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205062004,
         "Text": "Steelpion"
     },
     {
@@ -1362,6 +1387,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205073003,
+        "Text": "Nevarl Agent"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205073004,
         "Text": "Nevarl Agent"
     },
     {

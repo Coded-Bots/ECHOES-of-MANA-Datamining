@@ -658,5 +658,25 @@
         "ColumnName": "description",
         "LocalizationTargetId": 11001000156,
         "Text": "Get the SP Recovery Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000163,
+        "Text": "Launch Party 4SMemgemEcho Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000163,
+        "Text": "Launch Party 4-Star Memogem Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000165,
+        "Text": "Launch Party 4SMemgemEcho Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000165,
+        "Text": "Launch Party 4-Star Memogem Echo Ticket Pack!"
     }
 ]

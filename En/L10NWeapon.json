@@ -318,5 +318,15 @@
         "ColumnName": "description",
         "LocalizationTargetId": 3201000050,
         "Text": "The wooden stick you found after awakening in the sanctuary. It fits well in the hand and is just right for harvesting fruits from the tree."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000055,
+        "Text": "Tendril Blade"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000055,
+        "Text": "A sword born from the seed of the Great Tree. It can also transform into a slingshot or whip at will."
     }
 ]

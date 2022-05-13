@@ -33,5 +33,15 @@
         "ColumnName": "message",
         "LocalizationTargetId": 3012000007,
         "Text": "SPR"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000022,
+        "Text": "Earth DMG"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000026,
+        "Text": "Wind DMG"
     }
 ]

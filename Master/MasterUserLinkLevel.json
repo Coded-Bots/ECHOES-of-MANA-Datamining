@@ -5312,7 +5312,7 @@
     {
         "Level": 12,
         "MasterIdentityId": 600100010402,
-        "MasterRewardGroupId": 420023000001,
+        "MasterRewardGroupId": 420023000013,
         "MasterUserLinkLevelId": 202040212,
         "OpenTalkLimitLinkLevel": 0,
         "OpenTalkNumber": 0,
@@ -5332,7 +5332,7 @@
     {
         "Level": 14,
         "MasterIdentityId": 600100010402,
-        "MasterRewardGroupId": 420023000001,
+        "MasterRewardGroupId": 420023000014,
         "MasterUserLinkLevelId": 202040214,
         "OpenTalkLimitLinkLevel": 0,
         "OpenTalkNumber": 0,

@@ -11,8 +11,18 @@
     },
     {
         "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000013,
+        "Text": "Silk Series"
+    },
+    {
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000014,
         "Text": "Cotton Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000016,
+        "Text": "Hemp Series"
     },
     {
         "ColumnName": "series_name",

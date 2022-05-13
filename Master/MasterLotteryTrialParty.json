@@ -31,5 +31,27 @@
         "MasterLotteryShopId": 6001002002,
         "MasterLotteryTrialPartyId": 6008002002,
         "ReleaseLabel": "release.lottery_202205_treasure_rush"
+    },
+    {
+        "MasterCharacterIdMain1": 600210302001,
+        "MasterCharacterIdMain2": 600210301001,
+        "MasterCharacterIdMain3": 600210101001,
+        "MasterCharacterIdSub1": 600210306001,
+        "MasterCharacterIdSub2": 600210501001,
+        "MasterCharacterIdSub3": 600210203001,
+        "MasterLotteryShopId": 6001003002,
+        "MasterLotteryTrialPartyId": 6008003002,
+        "ReleaseLabel": "release.lottery_202205_release_ticket"
+    },
+    {
+        "MasterCharacterIdMain1": 600210101001,
+        "MasterCharacterIdMain2": 600210501001,
+        "MasterCharacterIdMain3": 600210302001,
+        "MasterCharacterIdSub1": 600210203001,
+        "MasterCharacterIdSub2": 600210301001,
+        "MasterCharacterIdSub3": 600210306001,
+        "MasterLotteryShopId": 6001002007,
+        "MasterLotteryTrialPartyId": 6008002007,
+        "ReleaseLabel": "release.lottery_202205_hero"
     }
 ]

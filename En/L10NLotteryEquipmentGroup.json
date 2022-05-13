@@ -601,6 +601,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 520001020301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 520001030101,
         "Text": ""
     },

@@ -14,9 +14,9 @@
         "ReleaseLabel": "release.initial"
     },
     {
-        "AutoAiAssetPath": "AI/Character/1_SkillComposition/HR/AI_AutoPlay",
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/HR_circle/AI_AutoPlay",
         "MasterCharacterAiId": 600611104001,
-        "NpcAiAssetPath": "AI/Character/1_SkillComposition/HR/AI_NPC",
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/HR_circle/AI_NPC",
         "RangeAiAssetPath": "AI/Character/Honeycomb/001_HR_Staff/AI_Range",
         "ReleaseLabel": "release.initial"
     },

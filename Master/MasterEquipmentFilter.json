@@ -26,5 +26,13 @@
     {
         "MasterEquipmentFilterId": 3012000007,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000022,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000026,
+        "ReleaseLabel": "release.event_equipmentdrop_1_start"
     }
 ]

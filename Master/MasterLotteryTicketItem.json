@@ -10,5 +10,17 @@
         "Price": 0,
         "ReleaseLabel": "release.initial",
         "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0100_Gacha-Ticket03",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080003,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.lottery_202205_release_ticket_start",
+        "Value": 1
     }
 ]

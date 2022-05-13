@@ -2,7 +2,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 6001000001,
-        "Text": "Tutorial Gacha"
+        "Text": "Tutorial Harvest"
     },
     {
         "ColumnName": "description",
@@ -17,17 +17,27 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002001,
-        "Text": "l10n_lottery_shop_N/A"
+        "Text": "Apr 2022 Release Celebration Harvest"
     },
     {
         "ColumnName": "name",
         "LocalizationTargetId": 6001002002,
-        "Text": "l10n_lottery_shop_N/A"
+        "Text": "Standard Harvest"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002002,
-        "Text": "l10n_lottery_shop_N/A"
+        "Text": "May 2022 Treasure Harvest (Guided by the Great Tree)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001002007,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001002007,
+        "Text": "May 2022 Recovery Harvest (Overcoming Myriad Farewells)"
     },
     {
         "ColumnName": "name",
@@ -37,6 +47,16 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001003001,
-        "Text": "l10n_lottery_shop_N/A"
+        "Text": "Apr 2022 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003002,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003002,
+        "Text": "May 2022 Release Celebration 4★ Memory Gem Echo Harvest"
     }
 ]

@@ -12,7 +12,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200102,
-        "Text": "Free Bonus Havest!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -22,11 +22,26 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200202,
-        "Text": "Free Bonus Havest!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200701,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200702,
+        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002300101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300201,
         "Text": ""
     }
 ]
