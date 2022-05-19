@@ -141,6 +141,11 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 303040015,
+        "Text": "Use your spirit crystal x<color=#B60202>{0}</color> to unlock this panel?"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 303050001,
         "Text": "Leave Room"
     },
@@ -563,6 +568,11 @@
         "ColumnName": "message",
         "LocalizationTargetId": 303090049,
         "Text": "All chapters have been cleared.\nMore story coming soon in a later update."
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303090050,
+        "Text": "You've reached the limit for number of plays."
     },
     {
         "ColumnName": "message",
@@ -1613,6 +1623,11 @@
         "ColumnName": "message",
         "LocalizationTargetId": 303150022,
         "Text": "Could not enter room."
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303150023,
+        "Text": "Harvest not available."
     },
     {
         "ColumnName": "message",

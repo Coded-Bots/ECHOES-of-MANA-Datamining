@@ -96,6 +96,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 40100000009133,
+        "Text": "Testatk超アップ"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000009134,
+        "Text": "TestHP超アップ"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000009135,
+        "Text": "STR: +10"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 40100000010000,
         "Text": "[PLAYER] Boost STR/INT SLv. 1"
     },
@@ -243,6 +258,31 @@
         "ColumnName": "name",
         "LocalizationTargetId": 40100000090010,
         "Text": "For Flails"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000990001,
+        "Text": "Test_MP回復10％"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000999001,
+        "Text": "Test_与HP回復効果100％アップ"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000999002,
+        "Text": "Test_与MP回復効果100％アップ"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000999003,
+        "Text": "Test_被HP回復効果100％アップ"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100000999004,
+        "Text": "Test_被MP回復効果100％アップ"
     },
     {
         "ColumnName": "name",
@@ -1476,6 +1516,556 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 40100007770000,
+        "Text": "ST gauge: +50%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770001,
+        "Text": "ATK: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770002,
+        "Text": "ST Gauge boost rate: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770003,
+        "Text": "Skill MP cost: -25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770004,
+        "Text": "Recover MP: 20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770005,
+        "Text": "Recover HP: 10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770006,
+        "Text": "ST gauge boost rate: +50%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770007,
+        "Text": "DMG: -50%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770008,
+        "Text": "DMG dealt: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770009,
+        "Text": "ST gauge boost rate: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770010,
+        "Text": "Recover HP: 10% of damage dealt"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770011,
+        "Text": "DMG dealt: +50%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770012,
+        "Text": "On foe defeat, activates aegis skill (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770013,
+        "Text": "Combo duration: +3s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770014,
+        "Text": "[OTHER ALLIES] ST gauge: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770015,
+        "Text": "ST gauge: +5%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770016,
+        "Text": "Recover MP: 5%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770017,
+        "Text": "DEF: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770018,
+        "Text": "Vs beasts, on full ST gauge, skill DMG: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770019,
+        "Text": "On full ST gauge, ST DMG: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770020,
+        "Text": "DEF: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770021,
+        "Text": "ST gauge: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770022,
+        "Text": "Combo duration: +5s (60s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770023,
+        "Text": "MP cost: -50% (30s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770024,
+        "Text": "ST gauge: +30% (30s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770025,
+        "Text": "Dodge rate: +50% (30s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770026,
+        "Text": "EXP: +35%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007770027,
+        "Text": "Lucre: +35%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100007771012,
+        "Text": "Dodge Rate: +100%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880003,
+        "Text": "Unleash Aegis Skill"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880004,
+        "Text": "ATK Speed: +200% (15s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880010,
+        "Text": "Cure Poison"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880011,
+        "Text": "Cure Slow"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880012,
+        "Text": "Cure Sleep"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880013,
+        "Text": "Cure Stun"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880014,
+        "Text": "Cure Daze"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880015,
+        "Text": "Cure poison, sleep, daze, stun, slow/[PARTY] Restore HP/[SELF] DMG to self/[TARGET] Gain SA, ST gauge: +50%, CON: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880016,
+        "Text": "Cure Stun/Slow"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880017,
+        "Text": "Cure Poison/Slow/Stun"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880018,
+        "Text": "Cure Confusion"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880019,
+        "Text": "Cure Stupefy"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880020,
+        "Text": "Cure Petrify"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880021,
+        "Text": "Cure Freeze"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880022,
+        "Text": "Cure Shrink"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880023,
+        "Text": "Cure Burn"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880024,
+        "Text": "Cure Moogle"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880025,
+        "Text": "(TBD) Test_毒(ダメージ2%、10秒)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880026,
+        "Text": "(TBD) Test_鈍足(10秒)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880027,
+        "Text": "(TBD) Test_眠り(10秒)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880028,
+        "Text": "(TBD) Test_スタン(10秒)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880029,
+        "Text": "(TBD) Test_気絶(10秒)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880030,
+        "Text": "(TBD) Test_味方毒_10秒_発生確率100％_被ダメ10%_0.75秒ごと"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880031,
+        "Text": "(TBD) Test_味方毒_30秒_発生確率100％_被ダメ2%_0.75秒ごと"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880032,
+        "Text": "(TBD) Test_プレイヤー汎用毒_10秒_耐久削り100_発生確率100％_被ダメ10%_1秒ごと"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880033,
+        "Text": "(TBD) Test_プレイヤー汎用毒_30秒_耐久削り100_発生確率100％_被ダメ2%_1秒ごと"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880034,
+        "Text": "[TARGET] STR: -20% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880035,
+        "Text": "[TARGET] CON: -20% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880036,
+        "Text": "[TARGET] INT: -20% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880037,
+        "Text": "[TARGET] SPR: -20% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880038,
+        "Text": "[TARGET] LCK: -30 (30s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880039,
+        "Text": "STR: +25% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880040,
+        "Text": "CON: +25% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880041,
+        "Text": "INT: +25% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880042,
+        "Text": "SPR: +25% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880043,
+        "Text": "LCK: +50 (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880044,
+        "Text": "[TARGET] STR: -50% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880045,
+        "Text": "[TARGET] Test_力を50％ダウン（25秒）(スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880046,
+        "Text": "[TARGET] STR: +10% (60)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880047,
+        "Text": "[TARGET] STR: +20% (60)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880048,
+        "Text": "[TARGET] Test_力を10％アップ（60秒）(スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880049,
+        "Text": "[SELF] Test_ダメージを50％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880050,
+        "Text": "[SELF] Test_ダメージを100％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880051,
+        "Text": "[SELF] Test_ダメージを150％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880052,
+        "Text": "[SELF] Test_ダメージを200％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880053,
+        "Text": "[SELF] Test_ダメージを250％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880054,
+        "Text": "[SELF] Test_ダメージを300％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880055,
+        "Text": "[SELF] Test_ダメージを350％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880056,
+        "Text": "[SELF] Test_ダメージを400％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880057,
+        "Text": "[TARGET] Test_ダメージを50％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880058,
+        "Text": "Test_対象の力を70％ダウン（25秒）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880059,
+        "Text": "[TARGET] Test_力を60％ダウン（25秒）(スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880060,
+        "Text": "[TARGET] Test_力を10％アップ（60秒）(グループ2)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880061,
+        "Text": "[TARGET] Test_力を10％アップ（60秒）(グループ3)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880062,
+        "Text": "Test_対象の検証用_力を60％ダウン（25秒）(グループ2、スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880063,
+        "Text": "Test_対象の検証用_力を60％ダウン（25秒）(グループ3、スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880064,
+        "Text": "[TARGET] Test_力を20％ダウン（25秒）(グループ2)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880065,
+        "Text": "[TARGET] Test_力を20％ダウン（25秒）(グループ3)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880066,
+        "Text": "検証用_対象のHP回復(AllyAllActive)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880067,
+        "Text": "STR: +25% (60s) (Group 3)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880068,
+        "Text": "[SELF] Test_検証用_ダメージを450％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880069,
+        "Text": "[SELF] Test_ダメージを500％アップ（永続）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880070,
+        "Text": "STR: +50% (60s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880071,
+        "Text": "Test_力を30％アップ（60秒）(スロット0)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880072,
+        "Text": "Test_対象のHP回復(SelectAllyMyPartyActive)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880073,
+        "Text": "Test_対象のHP回復(AllyAll)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880074,
+        "Text": "検証用_対象のHP回復(AllyAllActive)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880075,
+        "Text": "Test_被ダメージカット（50％）"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880076,
+        "Text": "test"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880077,
+        "Text": "test"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880078,
+        "Text": "test"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880079,
+        "Text": "test"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100008880080,
+        "Text": "test"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900001,
+        "Text": "Test_毒_最大ダメージ係数確認_1倍"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900002,
+        "Text": "Test_毒_最大ダメージ係数確認_2倍"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900003,
+        "Text": "Test_MP回復10％検証用_MP回復10％+攻撃力50%アップ＋毒"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900004,
+        "Text": "Test_全体回復"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900005,
+        "Text": "Test_スタン10s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900006,
+        "Text": "Test_眠り10s被ダメ10倍"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900007,
+        "Text": "Test_気絶10s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100009900008,
+        "Text": "Test_眠り＆気絶"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 40100011000101,
         "Text": "Set Off for Adventure"
     },
@@ -1648,6 +2238,66 @@
         "ColumnName": "name",
         "LocalizationTargetId": 40100011100341,
         "Text": "Victory High Five"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100090000202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100090000212,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100090000402,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100090000412,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100091000202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100091000212,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100092000702,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100092000712,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100093000602,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100093000612,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100094000302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 40100094000312,
+        "Text": ""
     },
     {
         "ColumnName": "name",

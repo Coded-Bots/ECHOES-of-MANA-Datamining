@@ -50,7 +50,7 @@
         "BannerPath": "Lottery/2007/top",
         "Description": "",
         "DisplayTime": 0,
-        "GlobalMenuBannerPath": "Lottery/LiveOps/2007/banner",
+        "GlobalMenuBannerPath": "Lottery/2007/banner",
         "IsTutorial": false,
         "LogoPath": "",
         "MasterLotteryShopId": 6001002007,

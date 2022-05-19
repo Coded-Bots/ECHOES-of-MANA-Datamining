@@ -161,6 +161,36 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 520001006000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001006000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001006100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001006100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001006200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001006200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010301,
         "Text": ""
     },

@@ -1160,6 +1160,11 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "Error.LotteryNotExist",
+        "MasterMessageId": 303150023,
+        "ReleaseLabel": "1.1.0"
+    },
+    {
         "Label": "Equipment.UIEquipmentChangeConfirmModal",
         "MasterMessageId": 303030001,
         "ReleaseLabel": "release.initial"
@@ -2663,5 +2668,15 @@
         "Label": "HcShop.GamelibReasonType.Tower",
         "MasterMessageId": 303220024,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Quest.PlayCountLimitReached",
+        "MasterMessageId": 303090050,
+        "ReleaseLabel": "1.1.0"
+    },
+    {
+        "Label": "ManaBoard.ReconfirmConsumeGemForPanelUnlock",
+        "MasterMessageId": 303040015,
+        "ReleaseLabel": "1.1.0"
     }
 ]
