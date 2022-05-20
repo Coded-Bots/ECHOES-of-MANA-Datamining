@@ -211,6 +211,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210303002011,
+        "Text": "Phenomenal Fist"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210303002011,
+        "Text": "[SELF] STR: +10% (10s)/Deals glove P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210304001011,
         "Text": "Half-Pint Headbutt"
     },

@@ -191,6 +191,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000032001,
+        "Text": "Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000032001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000033001,
         "Text": "Spirit Crystal Sweep"
     },

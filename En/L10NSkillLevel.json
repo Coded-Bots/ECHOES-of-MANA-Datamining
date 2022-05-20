@@ -1891,6 +1891,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300201,
+        "Text": "Offensive Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300201,
+        "Text": "Deals glove P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300202,
+        "Text": "Offensive Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300202,
+        "Text": "Deals glove P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300203,
+        "Text": "Moonlight Protection"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300203,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300203,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300204,
+        "Text": "Moonlight Protection"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300204,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300204,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300205,
+        "Text": "Phenomenal Fist"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300205,
+        "Text": "[SELF] STR: +10% (10s)/Deals glove P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030300206,
+        "Text": "Phenomenal Fist"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030300206,
+        "Text": "[SELF] STR: +10% (10s)/Deals glove P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030300206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301030400101,
         "Text": "Ready Set Go"
     },

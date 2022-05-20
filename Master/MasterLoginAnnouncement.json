@@ -9,5 +9,16 @@
         "ReleaseLabel": "release.initial",
         "TargetId": 0,
         "TransitionType": 0
+    },
+    {
+        "Bgm": "BGM_GACHA03",
+        "ImagePath": "loginimage_0002",
+        "LoginAnnouncementType": 1,
+        "MasterLoginAnnouncementId": 12003002003,
+        "MoviePath": "ReleaseUnit/Lottery/2003/login.usm",
+        "Priority": 2003,
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "TargetId": 0,
+        "TransitionType": 0
     }
 ]

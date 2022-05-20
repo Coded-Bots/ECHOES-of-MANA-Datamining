@@ -37,12 +37,17 @@
     {
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060002,
-        "Text": "Release Celebration Harvest Point Trader"
+        "Text": "Luna Coin Trader"
     },
     {
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060003,
         "Text": "Guided by the Great Tree Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060004,
+        "Text": "The Beast Within Harvest Point Trader"
     },
     {
         "ColumnName": "shop_name",

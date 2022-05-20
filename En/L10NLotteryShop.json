@@ -27,7 +27,17 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002002,
-        "Text": "May 2022 Treasure Harvest (Guided by the Great Tree)"
+        "Text": "Apr 2022 Release Celebration Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001002003,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001002003,
+        "Text": "Apr 2022 Release Celebration Harvest"
     },
     {
         "ColumnName": "name",
@@ -37,7 +47,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002007,
-        "Text": "May 2022 Recovery Harvest (Overcoming Myriad Farewells)"
+        "Text": "Apr 2022 Release Celebration Harvest"
     },
     {
         "ColumnName": "name",

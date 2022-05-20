@@ -16,6 +16,14 @@
         "TransitionParameter": 0
     },
     {
+        "BannerImage": "Lottery/2003/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010003,
+        "Priority": 40520,
+        "ReleaseLabel": "release.lottery_202205_ranking",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
         "BannerImage": "Lottery/2007/banner",
         "MasterHomeGlobalMenuBannerId": 12002010007,
         "Priority": 40513,
@@ -46,5 +54,13 @@
         "ReleaseLabel": "release.event_treasure_rush_202205",
         "Transition": 3,
         "TransitionParameter": 210031001101
+    },
+    {
+        "BannerImage": "Banner/event_ranking_202205",
+        "MasterHomeGlobalMenuBannerId": 12002031003,
+        "Priority": 30520,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "Transition": 3,
+        "TransitionParameter": 210032001101
     }
 ]

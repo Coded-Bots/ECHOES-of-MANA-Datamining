@@ -488,11 +488,88 @@
         "EfficacyStatusType": 3,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101113102006,
+        "Name": "力を6％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 1,
+        "Value": 10600
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101113102010,
+        "Name": "力を10％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 1,
+        "Value": 11000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101113102025,
         "Name": "力を25％アップ（10秒）",
         "ReleaseLabel": "release.initial",
         "Slot": 1,
         "Value": 12500
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113102010,
+        "Name": "メモジェムパッシブ用_力を10％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 21,
+        "Value": 11000
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113102011,
+        "Name": "メモジェムパッシブ用_力を11％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 21,
+        "Value": 11100
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113102012,
+        "Name": "メモジェムパッシブ用_力を12％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 21,
+        "Value": 11200
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113102013,
+        "Name": "メモジェムパッシブ用_力を13％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 21,
+        "Value": 11300
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113102015,
+        "Name": "メモジェムパッシブ用_力を15％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 21,
+        "Value": 11500
     },
     {
         "Duration": 60.0,
@@ -3496,6 +3573,28 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 11000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 44,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161501008,
+        "Name": "闇属性ダメージを8％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 44,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161501012,
+        "Name": "闇属性ダメージを12％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Slot": 1,
+        "Value": 11200
     },
     {
         "Duration": 0.0,

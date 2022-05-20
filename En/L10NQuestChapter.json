@@ -3376,6 +3376,81 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210032001101,
+        "Text": "Bravers Arise Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032001102,
+        "Text": "Bravers Arise Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032001102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032001102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032001103,
+        "Text": "Bravers Arise Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032001103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032001103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032001104,
+        "Text": "Bravers Arise Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032001104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032001104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032001105,
+        "Text": "Bravers Arise Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032001105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032001105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210033001101,
         "Text": "Spirit Crystal Sweep"
     },

@@ -384,6 +384,54 @@
         "WeaponType": 8
     },
     {
+        "CustomWeaponType": 24,
+        "EquipmentPath": "Lance/DaedalusLance/Model/DaedalusLance.fbx",
+        "IconPath": "DaedalusLance",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000051,
+        "MasterWeaponId": 3201000051,
+        "Name": "",
+        "Rarity": 4,
+        "ReleaseLabel": "release.event_ranking_202205_1_start",
+        "WeaponType": 8
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Lance/DaedalusLance/Model/DaedalusLance.fbx",
+        "IconPath": "DaedalusLance",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000052,
+        "MasterWeaponId": 3201000052,
+        "Name": "",
+        "Rarity": 3,
+        "ReleaseLabel": "release.event_ranking_202205_1_start",
+        "WeaponType": 8
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Lance/DaedalusLance/Model/DaedalusLance.fbx",
+        "IconPath": "DaedalusLance",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000053,
+        "MasterWeaponId": 3201000053,
+        "Name": "",
+        "Rarity": 2,
+        "ReleaseLabel": "release.event_ranking_202205_1_start",
+        "WeaponType": 8
+    },
+    {
+        "CustomWeaponType": 20,
+        "EquipmentPath": "Lance/DaedalusLance/Model/DaedalusLance.fbx",
+        "IconPath": "DaedalusLance",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 0,
+        "MasterWeaponId": 3201000054,
+        "Name": "",
+        "Rarity": 1,
+        "ReleaseLabel": "release.event_ranking_202205_1_start",
+        "WeaponType": 8
+    },
+    {
         "CustomWeaponType": 28,
         "EquipmentPath": "Sword/KeldySword/Model/KeldySword.fbx",
         "IconPath": "KeldySword",

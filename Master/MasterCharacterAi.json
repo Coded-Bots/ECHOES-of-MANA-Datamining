@@ -267,13 +267,6 @@
     },
     {
         "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
-        "MasterCharacterAiId": 600610402001,
-        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
-        "RangeAiAssetPath": "AI/Character/Keldy/001_AS_Sword/AI_Range",
-        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
-    },
-    {
-        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
         "MasterCharacterAiId": 600610501001,
         "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
         "RangeAiAssetPath": "AI/Character/LoMMan/001_AS_Sword/AI_Range",
@@ -341,6 +334,20 @@
         "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
         "RangeAiAssetPath": "AI/Character/Wanderer/001_AS_Axe/AI_Range",
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610402001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Keldy/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610303002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Kevin/002_AS_Glove/AI_Range",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
     },
     {
         "AutoAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_AutoPlay",

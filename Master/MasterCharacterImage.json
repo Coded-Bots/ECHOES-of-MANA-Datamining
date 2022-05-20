@@ -610,5 +610,11 @@
         "MasterCharacterImageId": 600510402001,
         "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
         "Thumbnail": "KeldyDefaultR4SwordWind"
+    },
+    {
+        "CardPath": "CardEffect/card_KevinDefaultR4GloveDark/card_KevinDefaultR4GloveDark",
+        "MasterCharacterImageId": 600510303002,
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Thumbnail": "KevinDefaultR4GloveDark"
     }
 ]

@@ -841,6 +841,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110303002011,
+        "Text": "Offensive Strike"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110303002011,
+        "Text": "Deals glove P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110303002012,
+        "Text": "Offensive Strike"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110303002012,
+        "Text": "Deals glove P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110303002021,
+        "Text": "Moonlight Protection"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110303002021,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110303002022,
+        "Text": "Moonlight Protection"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110303002022,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110304001011,
         "Text": "Ready Set Go"
     },

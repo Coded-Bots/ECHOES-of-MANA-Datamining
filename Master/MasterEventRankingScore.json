@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "ClearBonus": 2000,
+        "EnemyDamageRatio": 10000,
+        "IsBossOnly": false,
+        "MasterEventRankingScoreId": 310000001001,
+        "MasterQuestChapterId": 210032001101,
+        "MasterQuestEpisodeId": 200000032001,
+        "MaxTime": 120,
+        "PlayerDamageRatio": 10000,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "TimeBonus": 20000
+    },
+    {
+        "ClearBonus": 4000,
+        "EnemyDamageRatio": 10000,
+        "IsBossOnly": false,
+        "MasterEventRankingScoreId": 310000001002,
+        "MasterQuestChapterId": 210032001102,
+        "MasterQuestEpisodeId": 200000032001,
+        "MaxTime": 120,
+        "PlayerDamageRatio": 10000,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "TimeBonus": 40000
+    },
+    {
+        "ClearBonus": 6000,
+        "EnemyDamageRatio": 10000,
+        "IsBossOnly": false,
+        "MasterEventRankingScoreId": 310000001003,
+        "MasterQuestChapterId": 210032001103,
+        "MasterQuestEpisodeId": 200000032001,
+        "MaxTime": 120,
+        "PlayerDamageRatio": 20000,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "TimeBonus": 60000
+    },
+    {
+        "ClearBonus": 8000,
+        "EnemyDamageRatio": 10000,
+        "IsBossOnly": false,
+        "MasterEventRankingScoreId": 310000001004,
+        "MasterQuestChapterId": 210032001104,
+        "MasterQuestEpisodeId": 200000032001,
+        "MaxTime": 120,
+        "PlayerDamageRatio": 30000,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "TimeBonus": 80000
+    },
+    {
+        "ClearBonus": 10000,
+        "EnemyDamageRatio": 10000,
+        "IsBossOnly": false,
+        "MasterEventRankingScoreId": 310000001005,
+        "MasterQuestChapterId": 210032001105,
+        "MasterQuestEpisodeId": 200000032001,
+        "MaxTime": 90,
+        "PlayerDamageRatio": 50000,
+        "ReleaseLabel": "release.event_ranking_202205_1",
+        "TimeBonus": 100000
+    }
+]

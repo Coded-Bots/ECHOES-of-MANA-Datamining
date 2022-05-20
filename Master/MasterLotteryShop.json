@@ -47,6 +47,21 @@
     {
         "AdText1": "",
         "AdText2": "",
+        "BannerPath": "Lottery/2003/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Lottery/2003/banner",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001002003,
+        "MoviePath": "ReleaseUnit/Lottery/2003/gacha_top.usm",
+        "Name": "",
+        "Priority": 79480,
+        "ReleaseLabel": "release.lottery_202205_ranking"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
         "BannerPath": "Lottery/2007/top",
         "Description": "",
         "DisplayTime": 0,

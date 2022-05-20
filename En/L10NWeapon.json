@@ -321,6 +321,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3201000051,
+        "Text": "Daedalus Lance +3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000051,
+        "Text": "A supreme spear forged in a mythological era by a master craftsman."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000052,
+        "Text": "Daedalus Lance +2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000052,
+        "Text": "A supreme spear forged in a mythological era by a master craftsman."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000053,
+        "Text": "Daedalus Lance +1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000053,
+        "Text": "A supreme spear forged in a mythological era by a master craftsman."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000054,
+        "Text": "Daedalus Lance"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000054,
+        "Text": "A supreme spear forged in a mythological era by a master craftsman."
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3201000055,
         "Text": "Tendril Blade"
     },

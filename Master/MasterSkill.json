@@ -1998,5 +1998,45 @@
         "Mp": 25,
         "Name": "",
         "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Blow_Normal",
+        "MasterSkillId": 30110303002011,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Blow_Normal",
+        "MasterSkillId": 30110303002012,
+        "Mp": 15,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110303002021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110303002022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
     }
 ]

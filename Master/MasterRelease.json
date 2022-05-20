@@ -88,6 +88,22 @@
         "ReleaseLabel": "release.lottery_202205_treasure_rush_start"
     },
     {
+        "CloseAt": "2022/06/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010008,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_ranking"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010009,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
         "CloseAt": "",
         "IsLocal": false,
         "MasterReleaseId": 301010012,
@@ -110,6 +126,22 @@
         "OpenAt": "2022/05/06 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.lottery_202205_release_exchange"
+    },
+    {
+        "CloseAt": "2022/06/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010015,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_ranking_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010016,
+        "OpenAt": "2022/06/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_ranking_pt_exchange_start"
     },
     {
         "CloseAt": "",
@@ -216,7 +248,7 @@
         "ReleaseLabel": "release.login_bonus_202205_1"
     },
     {
-        "CloseAt": "2022/05/31 5:59:59",
+        "CloseAt": "2022/06/03 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021004,
         "OpenAt": "2022/04/29 6:00:00",
@@ -224,7 +256,7 @@
         "ReleaseLabel": "release.event_scenario_1_exchange"
     },
     {
-        "CloseAt": "2022/05/31 5:59:59",
+        "CloseAt": "2022/06/03 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021005,
         "OpenAt": "2022/05/06 6:00:00",
@@ -232,7 +264,7 @@
         "ReleaseLabel": "release.event_scenario_1_exchange_week2"
     },
     {
-        "CloseAt": "2022/05/31 5:59:59",
+        "CloseAt": "2022/06/03 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021006,
         "OpenAt": "2022/05/13 6:00:00",
@@ -240,7 +272,7 @@
         "ReleaseLabel": "release.event_scenario_1_exchange_week3"
     },
     {
-        "CloseAt": "2022/05/31 5:59:59",
+        "CloseAt": "2022/06/03 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021007,
         "OpenAt": "2022/05/20 6:00:00",
@@ -320,12 +352,60 @@
         "ReleaseLabel": "release.campaign_0509_pd_letter"
     },
     {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021019,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202205_1_start"
+    },
+    {
+        "CloseAt": "2022/05/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021020,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202205_1"
+    },
+    {
+        "CloseAt": "2022/06/05 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021021,
+        "OpenAt": "2022/05/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
         "CloseAt": "2022/05/23 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021022,
         "OpenAt": "2022/05/10 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.event_treasure_rush_202205_exchange_3"
+    },
+    {
+        "CloseAt": "2022/06/03 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021028,
+        "OpenAt": "2022/05/24 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202205_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021029,
+        "OpenAt": "2022/05/24 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202205_3_start"
+    },
+    {
+        "CloseAt": "2022/06/05 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021030,
+        "OpenAt": "2022/05/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202205_chapter"
     },
     {
         "CloseAt": "2022/05/29 5:59:59",

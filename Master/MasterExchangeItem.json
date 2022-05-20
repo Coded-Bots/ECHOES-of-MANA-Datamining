@@ -664,6 +664,32 @@
     },
     {
         "ExchangeAmount": 200,
+        "ExchangeComsumeItemId": 6007002003,
+        "ExchangeConsumeType": 1,
+        "ExchangeLimitCount": 0,
+        "ExchangeResetType": 0,
+        "MasterExchangeItemId": 42060004001,
+        "MasterExchangeShopId": 41000060004,
+        "MasterRewardGroupId": 420034000068,
+        "Priority": 0,
+        "ReleaseLabel": "release.lottery_202205_ranking_exchange",
+        "UnlockTargetMasterExchangeItemId": 0
+    },
+    {
+        "ExchangeAmount": 200,
+        "ExchangeComsumeItemId": 6007002003,
+        "ExchangeConsumeType": 1,
+        "ExchangeLimitCount": 0,
+        "ExchangeResetType": 0,
+        "MasterExchangeItemId": 42060004002,
+        "MasterExchangeShopId": 41000060004,
+        "MasterRewardGroupId": 420034000069,
+        "Priority": 0,
+        "ReleaseLabel": "release.lottery_202205_ranking_exchange",
+        "UnlockTargetMasterExchangeItemId": 0
+    },
+    {
+        "ExchangeAmount": 200,
         "ExchangeComsumeItemId": 6007002007,
         "ExchangeConsumeType": 1,
         "ExchangeLimitCount": 0,

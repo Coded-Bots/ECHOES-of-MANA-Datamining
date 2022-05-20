@@ -1491,6 +1491,31 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205079005,
+        "Text": "Raxa"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205079006,
+        "Text": "Raxa"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205079007,
+        "Text": "Raxa"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205079008,
+        "Text": "Raxa"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205079009,
+        "Text": "Raxa"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205080001,
         "Text": "Armored Inferno"
     },

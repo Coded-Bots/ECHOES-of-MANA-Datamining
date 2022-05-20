@@ -26,6 +26,16 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 6002200301,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200302,
+        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 6002200701,
         "Text": "Standard"
     },

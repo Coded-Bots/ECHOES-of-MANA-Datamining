@@ -946,6 +946,91 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001033126,
+        "Text": "Clear Bravers Arise Lvl 1: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033127,
+        "Text": "Clear Bravers Arise Lvl 2: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033128,
+        "Text": "Clear Bravers Arise Lvl 3: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033129,
+        "Text": "Clear Bravers Arise Lvl 4: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033130,
+        "Text": "Clear Bravers Arise Lvl 5: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033131,
+        "Text": "Clear Bravers Arise Lvl 5: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033132,
+        "Text": "Clear Bravers Arise Lvl 5: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033133,
+        "Text": "Score 10,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033134,
+        "Text": "Score 50,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033135,
+        "Text": "Score 100,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033136,
+        "Text": "Score 120,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033137,
+        "Text": "Score 140,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033138,
+        "Text": "Score 180,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033139,
+        "Text": "Score 220,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033140,
+        "Text": "Score 260,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033141,
+        "Text": "Score 300,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033142,
+        "Text": "Score 340,000 in Bravers Arise I"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001034001,
         "Text": "S-Rank Twillwool Tower 1F-2F"
     },

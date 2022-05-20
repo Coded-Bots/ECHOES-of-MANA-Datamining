@@ -702,5 +702,21 @@
         "Rarity": 4,
         "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
         "Series": 4
+    },
+    {
+        "Description": "",
+        "IconPath": "130009",
+        "ImagePath": "130009",
+        "LimitbreakMasterPassiveSkillId": 31100003000941,
+        "MasterMemoryGemId": 4001030009,
+        "MasterMemoryGemLevelGroupId": 1,
+        "MasterMemoryGemPassiveSkillGroupId1": 3000901,
+        "MasterMemoryGemPassiveSkillGroupId2": 0,
+        "MasterMemoryGemStatusId": 4002030009,
+        "MasterPassiveSkillId": 31100003000901,
+        "Name": "",
+        "Rarity": 4,
+        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "Series": 3
     }
 ]

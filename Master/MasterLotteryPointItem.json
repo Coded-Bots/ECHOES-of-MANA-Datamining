@@ -24,6 +24,17 @@
     {
         "AutoExchangeMasterRewardGroupId": 420034000023,
         "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202205_ranking_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002003,
+        "MasterLotteryShopId": 6001002003,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
         "AutoExchangeReleaseLabel": "release.lottery_202205_hero_pt_exchange_start",
         "ItemCategory": 9,
         "MasterLotteryPointItemId": 6007002007,

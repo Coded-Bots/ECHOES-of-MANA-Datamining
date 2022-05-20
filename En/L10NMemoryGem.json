@@ -211,6 +211,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001030009,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001030009,
+        "Text": "On a full moon night, Kevin is attacked by Karl without warning. As his self-control slips away, the beast within him awakens.\n'Urrr! Gah...! Stop!!!'\n'Body's moving on its own!'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040001,
         "Text": "A Curious Creeping Vine"
     },

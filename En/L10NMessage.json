@@ -492,12 +492,12 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303090034,
-        "Text": "≧ {0} seconds"
+        "Text": "Clear quest"
     },
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303090035,
-        "Text": "< {0} seconds"
+        "Text": "≦ {0} seconds"
     },
     {
         "ColumnName": "message",
@@ -1177,7 +1177,7 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303240001,
-        "Text": "Test"
+        "Text": "Rank #{0} Rewards"
     },
     {
         "ColumnName": "message",

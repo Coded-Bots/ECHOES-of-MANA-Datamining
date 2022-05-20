@@ -591,6 +591,36 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100001000051,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000051,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000052,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000052,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000053,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000053,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000101,
         "Text": "The Tale Begins"
     },
@@ -1047,7 +1077,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000501,
-        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 10s)"
+        "Text": "Recover HP (2% of max HP/Every 10s)"
     },
     {
         "ColumnName": "name",
@@ -1057,7 +1087,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000511,
-        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 8s)"
+        "Text": "Recover HP (2% of max HP/Every 8s)"
     },
     {
         "ColumnName": "name",
@@ -1067,7 +1097,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000521,
-        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 7s)"
+        "Text": "Recover HP (2% of max HP/Every 7s)"
     },
     {
         "ColumnName": "name",
@@ -1077,7 +1107,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000531,
-        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 6s)"
+        "Text": "Recover HP (2% of max HP/Every 6s)"
     },
     {
         "ColumnName": "name",
@@ -1087,7 +1117,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000541,
-        "Text": "[SELF] While field-inactive, recover HP (2% of max HP/Every 5s)"
+        "Text": "Recover HP (2% of max HP/Every 5s)"
     },
     {
         "ColumnName": "name",
@@ -1638,6 +1668,56 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100003000841,
         "Text": "On dark attack, skill DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003000901,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003000901,
+        "Text": "[SELF] On DMG taken, STR: +10% (6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003000911,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003000911,
+        "Text": "[SELF] On DMG taken, STR: +11% (6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003000921,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003000921,
+        "Text": "[SELF] On DMG taken, STR: +12% (6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003000931,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003000931,
+        "Text": "[SELF] On DMG taken, STR: +13% (6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003000941,
+        "Text": "Howl Under the Moon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003000941,
+        "Text": "[SELF] On DMG taken, STR: +15% (6s)"
     },
     {
         "ColumnName": "name",
@@ -2747,7 +2827,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100901,
-        "Text": "[PARTY] On foe defeat, 20% chance to recover HP (10% of max HP)"
+        "Text": "[ACTIVE ALLIES] On foe defeat, 20% chance to recover HP (10% of max HP)"
     },
     {
         "ColumnName": "name",
@@ -2757,7 +2837,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100911,
-        "Text": "[PARTY] On foe defeat, 22% chance to recover HP (10% of max HP)"
+        "Text": "[ACTIVE ALLIES] On foe defeat, 22% chance to recover HP (10% of max HP)"
     },
     {
         "ColumnName": "name",
@@ -2767,7 +2847,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100921,
-        "Text": "[PARTY] On foe defeat, 23% chance to recover HP (10% of max HP)"
+        "Text": "[ACTIVE ALLIES] On foe defeat, 23% chance to recover HP (10% of max HP)"
     },
     {
         "ColumnName": "name",
@@ -2777,7 +2857,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100931,
-        "Text": "[PARTY] On foe defeat, 24% chance to recover HP (10% of max HP)"
+        "Text": "[ACTIVE ALLIES] On foe defeat, 24% chance to recover HP (10% of max HP)"
     },
     {
         "ColumnName": "name",
@@ -2787,7 +2867,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100941,
-        "Text": "[PARTY] On foe defeat, 25% chance to recover HP (10% of max HP)"
+        "Text": "[ACTIVE ALLIES] On foe defeat, 25% chance to recover HP (10% of max HP)"
     },
     {
         "ColumnName": "name",
@@ -2878,6 +2958,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100103020011,
         "Text": "[SELF] When foe HP 50% or higher, DMG: +12% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103030020,
+        "Text": "Support Skill: Kevin (The Beast Within Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103030020,
+        "Text": "[SELF/PAIRED ALLY] On special technique, dark DMG: +8% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103030021,
+        "Text": "Support Skill: Kevin (The Beast Within Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103030021,
+        "Text": "[SELF/PAIRED ALLY] On special technique, dark DMG: +12% (10s)"
     },
     {
         "ColumnName": "name",

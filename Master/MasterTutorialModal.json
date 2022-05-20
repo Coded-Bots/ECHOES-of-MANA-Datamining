@@ -161,7 +161,7 @@
     },
     {
         "ConditionMasterTutorialId": 14001000012,
-        "ImagePath": "sample_1",
+        "ImagePath": "tips_event_ranking_01",
         "MasterTutorialId": 14001000407,
         "MasterTutorialModalId": 14002040701,
         "MasterTutorialModalType": 0,

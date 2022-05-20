@@ -1,1 +1,90 @@
-[]
+[
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100111,
+        "MasterRewardGroupId": 420054100001,
+        "MaxRank": 1,
+        "MinRank": 1,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100112,
+        "MasterRewardGroupId": 420054100002,
+        "MaxRank": 2,
+        "MinRank": 2,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100113,
+        "MasterRewardGroupId": 420054100003,
+        "MaxRank": 3,
+        "MinRank": 3,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100114,
+        "MasterRewardGroupId": 420054100004,
+        "MaxRank": 4,
+        "MinRank": 5,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100115,
+        "MasterRewardGroupId": 420054100005,
+        "MaxRank": 6,
+        "MinRank": 10,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100116,
+        "MasterRewardGroupId": 420054100006,
+        "MaxRank": 11,
+        "MinRank": 20,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100117,
+        "MasterRewardGroupId": 420054100007,
+        "MaxRank": 21,
+        "MinRank": 30,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100118,
+        "MasterRewardGroupId": 420054100008,
+        "MaxRank": 31,
+        "MinRank": 50,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100119,
+        "MasterRewardGroupId": 420054100009,
+        "MaxRank": 51,
+        "MinRank": 75,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100120,
+        "MasterRewardGroupId": 420054100010,
+        "MaxRank": 76,
+        "MinRank": 100,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    },
+    {
+        "MasterEventId": 320000001001,
+        "MasterEventRankingRewardId": 340000100121,
+        "MasterRewardGroupId": 420054100011,
+        "MaxRank": 101,
+        "MinRank": 150,
+        "ReleaseLabel": "release.event_ranking_202205_1_end"
+    }
+]

@@ -31,6 +31,46 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030106,
+        "Text": "Bravers Arise I Top 20"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030107,
+        "Text": "Bravers Arise I Top 30"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030108,
+        "Text": "Bravers Arise I Top 50"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031104,
+        "Text": "Bravers Arise I Top 5"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031105,
+        "Text": "Bravers Arise I Top 10"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032101,
+        "Text": "Bravers Arise I #1"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032102,
+        "Text": "Bravers Arise I #2"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032103,
+        "Text": "Bravers Arise I #3"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001041001,
         "Text": "Mana Sword Seeker"
     },

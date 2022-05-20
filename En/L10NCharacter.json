@@ -106,6 +106,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210303002,
+        "Text": "The Beast Within"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210304001,
         "Text": "Fifteen in the Flush of Youth"
     },
