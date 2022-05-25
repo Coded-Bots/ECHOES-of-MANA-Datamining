@@ -17,7 +17,18 @@
         "MasterLoginAnnouncementId": 12003002003,
         "MoviePath": "ReleaseUnit/Lottery/2003/login.usm",
         "Priority": 2003,
-        "ReleaseLabel": "release.lottery_202205_ranking_start",
+        "ReleaseLabel": "release.lottery_202205_ranking",
+        "TargetId": 0,
+        "TransitionType": 0
+    },
+    {
+        "Bgm": "",
+        "ImagePath": "loginimage_0004",
+        "LoginAnnouncementType": 0,
+        "MasterLoginAnnouncementId": 12003001003,
+        "MoviePath": "",
+        "Priority": 10,
+        "ReleaseLabel": "release.shop_202205_pack_start",
         "TargetId": 0,
         "TransitionType": 0
     }

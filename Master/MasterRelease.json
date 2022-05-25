@@ -184,6 +184,38 @@
         "ReleaseLabel": "release.lottery_202205_hero_pt_exchange_start"
     },
     {
+        "CloseAt": "2022/06/13 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010032,
+        "OpenAt": "2022/05/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_angela"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010033,
+        "OpenAt": "2022/05/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_angela_start"
+    },
+    {
+        "CloseAt": "2022/06/19 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010034,
+        "OpenAt": "2022/05/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_angela_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010035,
+        "OpenAt": "2022/06/19 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202205_angela_pt_exchange_start"
+    },
+    {
         "CloseAt": "",
         "IsLocal": false,
         "MasterReleaseId": 301020001,
@@ -304,7 +336,7 @@
         "ReleaseLabel": "release.event_treasure_rush_202205_multi1"
     },
     {
-        "CloseAt": "2022/05/23 5:59:59",
+        "CloseAt": "2022/05/31 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021013,
         "OpenAt": "2022/05/06 6:00:00",
@@ -336,7 +368,7 @@
         "ReleaseLabel": "release.event_daily_mission_campaign_202205"
     },
     {
-        "CloseAt": "2022/05/23 5:59:59",
+        "CloseAt": "2022/05/31 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021017,
         "OpenAt": "2022/05/10 6:00:00",
@@ -376,7 +408,7 @@
         "ReleaseLabel": "release.event_ranking_202205_1_end"
     },
     {
-        "CloseAt": "2022/05/23 5:59:59",
+        "CloseAt": "2022/05/31 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021022,
         "OpenAt": "2022/05/10 6:00:00",
@@ -462,6 +494,22 @@
         "OpenAt": "2022/05/06 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.shop_202205_sp_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040009,
+        "OpenAt": "2022/05/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_pack"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040010,
+        "OpenAt": "2022/05/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202205_pack_start"
     },
     {
         "CloseAt": "",

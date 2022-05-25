@@ -713,5 +713,31 @@
         "Priority": 0,
         "ReleaseLabel": "release.lottery_202205_hero_exchange",
         "UnlockTargetMasterExchangeItemId": 0
+    },
+    {
+        "ExchangeAmount": 200,
+        "ExchangeComsumeItemId": 6007002008,
+        "ExchangeConsumeType": 1,
+        "ExchangeLimitCount": 0,
+        "ExchangeResetType": 0,
+        "MasterExchangeItemId": 42060009001,
+        "MasterExchangeShopId": 41000060009,
+        "MasterRewardGroupId": 420034000119,
+        "Priority": 0,
+        "ReleaseLabel": "release.lottery_202205_angela_exchange",
+        "UnlockTargetMasterExchangeItemId": 0
+    },
+    {
+        "ExchangeAmount": 200,
+        "ExchangeComsumeItemId": 6007002008,
+        "ExchangeConsumeType": 1,
+        "ExchangeLimitCount": 0,
+        "ExchangeResetType": 0,
+        "MasterExchangeItemId": 42060009002,
+        "MasterExchangeShopId": 41000060009,
+        "MasterRewardGroupId": 420034000120,
+        "Priority": 0,
+        "ReleaseLabel": "release.lottery_202205_angela_exchange",
+        "UnlockTargetMasterExchangeItemId": 0
     }
 ]

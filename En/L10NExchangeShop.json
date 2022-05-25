@@ -37,7 +37,7 @@
     {
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060002,
-        "Text": "Luna Coin Trader"
+        "Text": "Release Celebration Harvest Point"
     },
     {
         "ColumnName": "shop_name",
@@ -53,5 +53,10 @@
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060008,
         "Text": "Overcoming Myriad Farewells Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060009,
+        "Text": "Magic Power in Bloom Harvest Point Trader"
     }
 ]

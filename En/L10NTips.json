@@ -57,7 +57,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 16001000006,
-        "Text": "Co-op is displayed for some quests' ideal party power. Teaming up with other players is recommended for these high level battles!"
+        "Text": "\"Co-op\" is displayed for some quests' ideal PWR. Teaming up with other players is recommended for these high level battles!"
     },
     {
         "ColumnName": "title",

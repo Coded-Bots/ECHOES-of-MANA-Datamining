@@ -77,6 +77,21 @@
     {
         "AdText1": "",
         "AdText2": "",
+        "BannerPath": "Lottery/2008/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Lottery/2008/banner",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001002008,
+        "MoviePath": "ReleaseUnit/Lottery/2008/gacha_top.usm",
+        "Name": "",
+        "Priority": 79475,
+        "ReleaseLabel": "release.lottery_202205_angela"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
         "BannerPath": "Lottery/Release/banner3",
         "Description": "",
         "DisplayTime": 0,

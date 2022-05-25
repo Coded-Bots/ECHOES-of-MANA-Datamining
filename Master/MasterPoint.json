@@ -77,7 +77,7 @@
         "MasterPointId": 401020014,
         "Name": "",
         "PointCategory": 2,
-        "ReleaseLabel": "release.event_treasure_rush_202205"
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },
     {
         "Icon": "Item_0082_EventPoint02",
@@ -85,7 +85,7 @@
         "MasterPointId": 401020015,
         "Name": "",
         "PointCategory": 2,
-        "ReleaseLabel": "release.event_treasure_rush_202205"
+        "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },
     {
         "Icon": "Item_0079_TowerPoint01",

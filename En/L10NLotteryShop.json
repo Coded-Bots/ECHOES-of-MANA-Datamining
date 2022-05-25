@@ -27,7 +27,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002002,
-        "Text": "Apr 2022 Release Celebration Harvest"
+        "Text": "May 2022 Treasure Harvest (Guided by the Great Tree)"
     },
     {
         "ColumnName": "name",
@@ -37,7 +37,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002003,
-        "Text": "Apr 2022 Release Celebration Harvest"
+        "Text": "May 2022 Ranking Event Harvest (The Beast Within)"
     },
     {
         "ColumnName": "name",
@@ -47,7 +47,17 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6001002007,
-        "Text": "Apr 2022 Release Celebration Harvest"
+        "Text": "May 2022 Recovery Harvest (Overcoming Myriad Farewells)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001002008,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001002008,
+        "Text": "May 2022 Recovery Harvest (Magic Power in Bloom)"
     },
     {
         "ColumnName": "name",

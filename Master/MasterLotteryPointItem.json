@@ -42,5 +42,16 @@
         "MaxLimit": 10000,
         "Name": "",
         "ReleaseLabel": "release.lottery_202205_hero_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202205_angela_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002008,
+        "MasterLotteryShopId": 6001002008,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202205_angela_start"
     }
 ]

@@ -85,58 +85,58 @@
     },
     {
         "MasterEfficacyGroupId": 9088710058912514050,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001032101,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 28
+        "TitleTrophyType": 20
     },
     {
         "MasterEfficacyGroupId": 9088710063207481346,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001032102,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 28
+        "TitleTrophyType": 16
     },
     {
         "MasterEfficacyGroupId": 9088710067502448642,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001032103,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 28
+        "TitleTrophyType": 16
     },
     {
         "MasterEfficacyGroupId": 9088705776830119937,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001031104,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 28
+        "TitleTrophyType": 20
     },
     {
         "MasterEfficacyGroupId": 9088705781125087233,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001031105,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 28
+        "TitleTrophyType": 20
     },
     {
         "MasterEfficacyGroupId": 0,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001030106,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 24
+        "TitleTrophyType": 16
     },
     {
         "MasterEfficacyGroupId": 0,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001030107,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 20
+        "TitleTrophyType": 12
     },
     {
         "MasterEfficacyGroupId": 0,
-        "MasterPassiveSkillId": 40100000020030,
+        "MasterPassiveSkillId": 0,
         "MasterTitleId": 15001030108,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
-        "TitleTrophyType": 20
+        "TitleTrophyType": 12
     }
 ]

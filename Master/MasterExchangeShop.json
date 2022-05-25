@@ -64,5 +64,11 @@
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202205_hero_exchange",
         "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060009,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202205_angela_exchange",
+        "ShopCategory": 6
     }
 ]

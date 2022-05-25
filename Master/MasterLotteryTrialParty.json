@@ -64,5 +64,16 @@
         "MasterLotteryShopId": 6001002007,
         "MasterLotteryTrialPartyId": 6008002007,
         "ReleaseLabel": "release.lottery_202205_hero"
+    },
+    {
+        "MasterCharacterIdMain1": 600210302001,
+        "MasterCharacterIdMain2": 600210306001,
+        "MasterCharacterIdMain3": 600210203001,
+        "MasterCharacterIdSub1": 600210101001,
+        "MasterCharacterIdSub2": 600210501001,
+        "MasterCharacterIdSub3": 600210301001,
+        "MasterLotteryShopId": 6001002008,
+        "MasterLotteryTrialPartyId": 6008002008,
+        "ReleaseLabel": "release.lottery_202205_angela"
     }
 ]
