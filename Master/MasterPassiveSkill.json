@@ -50,6 +50,14 @@
     {
         "MasterEfficacyGroupId": 31200000000000,
         "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 609111420105130032,
+        "MasterPassiveSkillConditionId3": 31200000000001,
+        "MasterPassiveSkillId": 31100000010140,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
         "MasterPassiveSkillConditionId2": 609153854382014512,
         "MasterPassiveSkillConditionId3": 31200000000000,
         "MasterPassiveSkillId": 31100000020020,
@@ -582,6 +590,38 @@
         "MasterPassiveSkillConditionId3": 31200129000003,
         "MasterPassiveSkillId": 31100103030021,
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051664334888894512,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100103050020,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1051664339183861808,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100103050021,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1060297176204181552,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100105060010,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 1060297180499148848,
+        "MasterPassiveSkillConditionId3": 31200129000002,
+        "MasterPassiveSkillId": 31100105060011,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     },
     {
         "MasterEfficacyGroupId": 31200000000000,
@@ -2328,6 +2368,46 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterEfficacyGroupId": 31200000000004,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656315090668093488,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100011000601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000004,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656315133617766448,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100011000611,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000004,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656315176567439408,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100011000621,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000004,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656315219517112368,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100011000631,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000004,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656315262466785328,
+        "MasterPassiveSkillConditionId3": 31200115000030,
+        "MasterPassiveSkillId": 31100011000641,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "MasterEfficacyGroupId": 31200000000000,
         "MasterPassiveSkillConditionId1": 206158430268,
         "MasterPassiveSkillConditionId2": 656742439914045488,
@@ -2526,6 +2606,166 @@
         "MasterPassiveSkillConditionId3": 31200000000003,
         "MasterPassiveSkillId": 31100003000941,
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621957070287011888,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100003001001,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621957113236684848,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100003001011,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621957156186357808,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100003001021,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621957199136030768,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100003001031,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 621957242085703728,
+        "MasterPassiveSkillConditionId3": 31200000000009,
+        "MasterPassiveSkillId": 31100003001041,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634840254188093488,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100006000601,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634840297137766448,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100006000611,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634840340087439408,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100006000621,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634840383037112368,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100006000631,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 634840425986785328,
+        "MasterPassiveSkillConditionId3": 31200000000006,
+        "MasterPassiveSkillId": 31100006000641,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661673494282288,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000901,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661716443955248,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000911,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661759393628208,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000921,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661802343301168,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000931,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200000000000,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 617661845292974128,
+        "MasterPassiveSkillConditionId3": 31200000000002,
+        "MasterPassiveSkillId": 31100002000941,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000002,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743728404234288,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100401,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000002,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743771353907248,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100411,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000002,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743814303580208,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100421,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000002,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743857253253168,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100431,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterEfficacyGroupId": 31200106000002,
+        "MasterPassiveSkillConditionId1": 206158430268,
+        "MasterPassiveSkillConditionId2": 656743900202926128,
+        "MasterPassiveSkillConditionId3": 31200126001090,
+        "MasterPassiveSkillId": 31100011100441,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     },
     {
         "MasterEfficacyGroupId": 31200000000000,

@@ -71,6 +71,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000010006,
+        "Text": "In a Patchworked World"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000010006,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020001,
         "Text": "Flame Altar Vigil"
     },
@@ -167,6 +177,16 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 200000030001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000030002,
+        "Text": "Searching for Lost Luster"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000030002,
         "Text": ""
     },
     {

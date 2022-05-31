@@ -133,6 +133,13 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "EnemyImage": "PakkunLizardDefault",
+        "EnemyType": 4,
+        "MasterEnemyIdentityId": 700100005020,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "EnemyImage": "PuchiDragonDefault",
         "EnemyType": 8,
         "MasterEnemyIdentityId": 700100005022,
@@ -553,6 +560,20 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "EnemyImage": "DuInkeDefault",
+        "EnemyType": 1,
+        "MasterEnemyIdentityId": 700100005083,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "EnemyImage": "GazerDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005084,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "EnemyImage": "GuardianDefault",
         "EnemyType": 9,
         "MasterEnemyIdentityId": 700100005086,
@@ -579,5 +600,12 @@
         "MasterEnemyIdentityId": 700100005093,
         "Name": "",
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "EnemyImage": "VoidEnemyStonePillarDefault",
+        "EnemyType": 9,
+        "MasterEnemyIdentityId": 700100005096,
+        "Name": "",
+        "ReleaseLabel": "release.event_scenario_2_start"
     }
 ]

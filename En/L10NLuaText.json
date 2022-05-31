@@ -1,6 +1,266 @@
 [
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30301200211,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200212,
+        "Text": "Hmph, not bad. But as long as my black pearl glimmers, I cannot be defeated."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200251,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200252,
+        "Text": "Lapis Lazuli Knight. Will you keep using your friends as your shield? You have yet to show me your true resolve!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200371,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200372,
+        "Text": "Resolve, you say...!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200471,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200472,
+        "Text": "Elazul! Don't shoulder this burden alone. We've got your back!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200521,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200522,
+        "Text": "...Thank you, but she's right. I need to answer this question myself."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200581,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200582,
+        "Text": "...Maybe you're right. Maybe I don't have what it takes to defeat Lady Blackpearl on my own."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200631,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200632,
+        "Text": "But I'm getting back Pearl, whatever the cost! That means...I can't back down now!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200741,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200742,
+        "Text": "Won't anyone listen to me!? I'm telling you, a fearsome creature calls these caverns its home!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200791,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200792,
+        "Text": "I came all this way to tell you—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200871,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200872,
+        "Text": "What's that!?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200921,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200922,
+        "Text": "A cave-in!? Elazul! Look out!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201051,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201052,
+        "Text": "Whoa... Didn't think a monster that big could get around down here."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201091,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201092,
+        "Text": "You okay, Elazul?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201131,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201132,
+        "Text": "Hawkeye... You saved me..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201201,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201202,
+        "Text": "I was...careless as well. This...cat thing seems to have protected me as well."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201261,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201262,
+        "Text": "I think I might've pulled a muscle..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201361,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201362,
+        "Text": "Uh oh... Looks like beastie boy's throwing a temper tantrum. At this rate, if we don't do something quick, we'll be buried alive."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201411,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201412,
+        "Text": "Lady Blackpearl..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201461,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201462,
+        "Text": "...A proposal for you: let's settle this later. Right now, please... help me protect my friends!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201531,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201532,
+        "Text": "Ha! I suppose it couldn't hurt."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201741,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201742,
+        "Text": "You said it, ..主人公..! I won't allow my... No, I won't allow OUR spirits to be crushed by some monster!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201811,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201812,
+        "Text": "I see... Gutsy enough to order around two Jumi Knights, eh? How amusing! You'd better have my back, too!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201911,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201912,
+        "Text": "Let's do this. No matter what stands in my way, there's only one thing for me to do—carve a way out for my comrades!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200421,
+        "Text": "Don't overdo it!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301200422,
+        "Text": "You don't have to do this!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201621,
+        "Text": "All together now!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201622,
+        "Text": "Follow me!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201661,
+        "Text": "All together now!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301201662,
+        "Text": "Follow me!"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30150400661,
         "Text": "???"
     },
@@ -5266,6 +5526,286 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30301300471,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300472,
+        "Text": "Is it finally over? That was no mere beast."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300671,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300672,
+        "Text": "Oh dear! What is it this time!?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300741,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300742,
+        "Text": "Blast it! The whole place is coming down!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300851,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301300852,
+        "Text": "That's our cue! Everyone, ruuun!　"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301201,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301202,
+        "Text": "Whew... Talk about a close call."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301261,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301262,
+        "Text": "Sorry. If it wasn't for me, you wouldn't have been dragged into this in the first place."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301351,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301352,
+        "Text": "Don't sweat it! It's not your fault we chose to come along for the ride."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301481,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301482,
+        "Text": "...It's too bad, though. We still haven't found your Pearl."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301541,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301542,
+        "Text": "Not sure how Lady Blackpearl and that Niccolo fellow disappeared in the wreckage, but that's a mystery for another day."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301611,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301612,
+        "Text": "It's all right. It's not like Pearl is gone for good. I'll see her again, I know it."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301691,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301692,
+        "Text": "Oh? Is it just me, or is someone in a good mood?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301771,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301772,
+        "Text": "Perhaps... I was so panicked and scared before, worried if I'd be left all alone again."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301811,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301812,
+        "Text": "That fear hasn't gone away, but it's not half as bad as it was."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301861,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301862,
+        "Text": "I have you two hardheads to thank for that... So thank you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301931,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301301932,
+        "Text": "Whoa! A thank you? Without a hint of snark? Are my ears playing tricks on me?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302021,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302022,
+        "Text": "That's enough out of you! You smug little—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302111,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302112,
+        "Text": "Aaand he's back! The grouchy knight we all know and love!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302271,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302272,
+        "Text": "Hey! Who's side are you on, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302311,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302312,
+        "Text": "Good grief... As I was saying, it's all right. I have a feeling my destiny lies just around the corner."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302431,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302432,
+        "Text": "That's right. And when I do, I'm getting back what's precious to me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302511,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302512,
+        "Text": "That again? I still don't get it...but thanks."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302851,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302852,
+        "Text": "Hey, hold your horses!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302891,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302892,
+        "Text": "Oh, it's you. What do you want?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302931,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302932,
+        "Text": "Well, it may not be my place to say this, and I don't know what happened between you two, but are you really sure you want to leave him without saying anything?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302981,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302982,
+        "Text": "Take it from me, it's best to say goodbye while you can. Else you'll regret it later..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301303031,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301303032,
+        "Text": "Thanks for the tip, but as long as his core still sparkles, he and I shall surely cross paths again someday."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301303081,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301303082,
+        "Text": "Who's to say what he will do when the time comes... All I can do is wait and see what path he chooses when faced with his destiny."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302361,
+        "Text": "You'll find it for sure!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301302362,
+        "Text": "That sounds so cool!"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30010200131,
         "Text": "Baashear"
     },
@@ -5823,6 +6363,36 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30110602502,
         "Text": "..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000331,
+        "Text": "Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000332,
+        "Text": "We're twins...\nSo that means I..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000371,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000372,
+        "Text": "(I think it's coming from this way...! But it looks like a dead end ahead...)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000461,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161000462,
+        "Text": "(I can't go back though. The only path is forward...)"
     },
     {
         "ColumnName": "text",
@@ -7171,6 +7741,106 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 31050600291,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600292,
+        "Text": "You look well. As for me, I'm much the same."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600351,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600352,
+        "Text": "Florina... I wonder where you are right now..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600401,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600402,
+        "Text": "There's a jewel hunter... Er. Never mind. Just be sure to keep your eye on anything your'd rather not have stolen."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600461,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600462,
+        "Text": "Elazul? Looking for me? Doubt it. Likely it was Pearl."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600521,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600522,
+        "Text": "There was once a time long ago when I was a Jumi Knight."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600571,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600572,
+        "Text": "Jumi only die when our core is damaged. There is no natural time limit on our lives."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600631,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600632,
+        "Text": "Every Jumi's core is different. Mine is black pearl, Elazul's is lapis lazuli."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600691,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600692,
+        "Text": "Those who cry for Jumi turn to stone. You'd best be careful."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600751,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600752,
+        "Text": "Is there some you are bound to protect? If so, stay with them always. That is where I failed."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600811,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050600812,
+        "Text": "Seeing you reminds me of an old friend. You're similar in ways."
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 31020300291,
         "Text": "Popoi"
     },
@@ -7331,6 +8001,626 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30161100451,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100452,
+        "Text": "Hmm? Who are you? And what's up with that hair? Hehe... Did you do it yourself?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100551,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100552,
+        "Text": "Oh? Who are you? And what's up with that hair? Hehe... It's super cool!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100751,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100752,
+        "Text": "Did Dema send you? Hmm..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100951,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100952,
+        "Text": "Yup! By the time I got here, I already forgot why I was mad in the first place."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101031,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101032,
+        "Text": "Only babies cry, and I'm no baby!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101141,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101142,
+        "Text": "I come here when I want to be alone and think. Pretty nice, right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101291,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101292,
+        "Text": "...Want to hear a story of mine? It's about us, the Mana clan."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101421,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101422,
+        "Text": "When the Mana Tree withers, and the world falls into peril, a girl from our clan must become the next Mana Tree. Such is the fate of the Mana Goddess...or so they say."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101461,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101462,
+        "Text": "Dema and I are twins, and she was chosen as the next Mana Goddess..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101531,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101532,
+        "Text": "But we don't know when that day will be—it might never come, or it could be tomorrow."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101611,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101612,
+        "Text": "So...it's not like I want to fight with her, you know? It's more like..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101681,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101682,
+        "Text": "I wanted to stand up to her for once. Not that I had much success..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101721,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101722,
+        "Text": "You see, Dema always tells me the same thing—she won't be lonely when she becomes the goddess."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101771,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101772,
+        "Text": "'How could I be lonely when I know my other half is still alive out there, in the new world I created?'"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101811,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101812,
+        "Text": "But is that what she really thinks? I'm not so sure..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101851,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101852,
+        "Text": "What I do know is, if her other half was always at her side, she wouldn't have to decide everything on her own."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101921,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101922,
+        "Text": "But instead, to protect me, she carries all that weight by herself. Just thinking about it makes me feel so...lonely."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101961,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161101962,
+        "Text": "What would you do, if your other half made all the important decisions without you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102101,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102102,
+        "Text": "Really? You would?　"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102201,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102202,
+        "Text": "Hehe, then maybe Dema might understand where I'm coming from, too?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102291,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102292,
+        "Text": "Hmm, I wonder..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102351,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102352,
+        "Text": "But no, you're right—the only one who can change Dema's mind is Dema."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102481,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102482,
+        "Text": "It's weird. We've only just met, but you already got me to open up about that. I wonder why..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102531,
+        "Text": "???"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102532,
+        "Text": "Nona! I knew I'd find you here."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102661,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102662,
+        "Text": "Oh hey, Diospyros! What's up?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102861,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102862,
+        "Text": "'What's up'!? I heard you ran away, so I came to find you—that's what's up!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102951,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102952,
+        "Text": "Who's this?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103141,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103142,
+        "Text": "Huh? But Dema didn't say anything about sending you..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103231,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103232,
+        "Text": "Sure, but you're also kind of hard to ignore..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103361,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103362,
+        "Text": "My friend here was just patiently listening to me vent about Dema. Right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103481,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103482,
+        "Text": "I don't know what happened between the two of you, but is this really what you want? To be separated and mad at each other? You know she's worried about you, right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103571,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103572,
+        "Text": "Yeah, I know. Sorry to cause such a fuss..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103651,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103652,
+        "Text": "That's all right. Let's head home before it gets dark, yeah? Lots of monsters around here."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103691,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103692,
+        "Text": "Diospyros, you're just like the hero of our story, you know that?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103781,
+        "Text": "Diospyros"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103782,
+        "Text": "Sorry, what story...?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103851,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103852,
+        "Text": "Oh, it's nothing. Let's get a move on. I'm starving!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104151,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104152,
+        "Text": "Thanks for listening. I think I finally get it now."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104191,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104192,
+        "Text": "As twins, we may be two halves of the same heart, but Dema is Dema, and I am me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104261,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104262,
+        "Text": "So it's okay if we don't always understand each other. That's impossible!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104301,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104302,
+        "Text": "Even still, Dema and I... No, Dema is my precious sister, and that's a truth that will never change."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104411,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104412,
+        "Text": "Remember, you can only be you.\nGot that, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104451,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104452,
+        "Text": "Just make sure you get it right, okay?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102441,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102442,
+        "Text": "..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104901,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104902,
+        "Text": "You okay?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104951,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161104952,
+        "Text": "You okay?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105041,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105042,
+        "Text": "...Who are you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105171,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105172,
+        "Text": "Huh? What are you talking about?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105221,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105222,
+        "Text": "Huh? What are you talking about?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105371,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105372,
+        "Text": "I am you. And you are me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105431,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105432,
+        "Text": "I am you. And you are me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105601,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105602,
+        "Text": "...But who am I?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105651,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105652,
+        "Text": "...But who am I?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105791,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105792,
+        "Text": "Well duh, you're ..主人公... Why are you acting so weird today?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105851,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105852,
+        "Text": "Well duh, you're ..主人公... Why are you acting so weird today?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106061,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106062,
+        "Text": "Oh, by the way, did you notice the new fruit? I don't know why, but I feel like this one's gonna be pretty different."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106121,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106122,
+        "Text": "Oh, by the way, did you notice the new fruit? I don't know why, but I feel like this one's gonna be pretty different."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106281,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106282,
+        "Text": "I wonder what awaits you this time. Exciting stuff, huh, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106341,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161106342,
+        "Text": "I wonder what awaits you this time. Exciting stuff, huh, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105931,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161105932,
+        "Text": "..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100831,
+        "Text": "Feeling better?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161100832,
+        "Text": "I thought you'd be crying..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102001,
+        "Text": "I guess I'd do the same."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161102002,
+        "Text": "It's sad, but what can you do?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103001,
+        "Text": "Nona Rescue Team 1."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161103002,
+        "Text": "Don't mind me!"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30141200281,
         "Text": "Riesz"
     },
@@ -7478,6 +8768,481 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30150300592,
         "Text": "No worries! We just have to be extra, EXTRA careful this time around. Here we go!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100231,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100232,
+        "Text": "We've gone quite far, but still no sign—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100331,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100332,
+        "Text": "Wait, I think I see someone!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100421,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100422,
+        "Text": "Is that her? She's definitely as pretty as a pearl, but I didn't expect her to look so...gallant."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100501,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100502,
+        "Text": "If you were trying to sneak up on me, you failed."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100571,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100572,
+        "Text": "It's you… Lady Blackpearl!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100631,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100632,
+        "Text": "Never thought I'd run into you again here. Why have you come?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100701,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100702,
+        "Text": "...To pay tribute to the stones that were crushed here, you could say. And you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100762,
+        "Text": "I'm here for Pearl. Give her back!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100831,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100832,
+        "Text": "I told you. Pearl—or rather, your destiny with her, is no longer."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100891,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100892,
+        "Text": "I…I don't believe you! You're lying!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100941,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100942,
+        "Text": "Fool. If you're not careful, your obstinance will be the death of you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101001,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101002,
+        "Text": "If you think for a second that I've given up on her, you're sorely mistaken!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101081,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101082,
+        "Text": "How absurd. Let's see if you're all bark and no bite, shall we?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101201,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101202,
+        "Text": "Aaah!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101271,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101272,
+        "Text": "Elazul!\nListen, lady, you may be my type, but there's no way I'll let you hurt my friends!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101371,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101372,
+        "Text": "Ha! If you're going to threaten me, at least try not to quake in your boots. I went easy this time. It's time I show you what I can really do!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101471,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101472,
+        "Text": "Ngh!...She's pretty powerful! Or should I say, pretty AND powerful!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101531,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101532,
+        "Text": "I'm not done just yet...!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101591,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101592,
+        "Text": "Who are you kidding? Just surrender already. Resist any further, and I'll have no choice but to crush you to bits."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101651,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101652,
+        "Text": "I swore...I'd protect her!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101701,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101702,
+        "Text": "Did you, now? Yet your eyes shine with fear—the fear of losing someone dear to you. If you still cling to fear, then you aren't worthy of calling yourself a knight."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101762,
+        "Text": "That may be true, but no matter! I'll get her back—even if it means drawing my sword against another Jumi!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101831,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101832,
+        "Text": "Allow me to test that resolve..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101961,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101962,
+        "Text": "Stand back, ..主人公.., unless you want to get smashed to bits, too!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102041,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102042,
+        "Text": "This is bad! We won't make it in time!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102151,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102152,
+        "Text": "...!?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102221,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102222,
+        "Text": "Whew! Just in the nick of time."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102281,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102282,
+        "Text": "Well, well... Taking that blow unscathed? That's no meager feat. What are you, a warrior?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102351,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102352,
+        "Text": "Just a humble traveler, ma'am. More importantly, you folks can't be fighting in a place like this."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102411,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102412,
+        "Text": "You see, a very powerful beast wanders about these parts—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102481,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102482,
+        "Text": "Enough talk!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102541,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102542,
+        "Text": "Eek! Easy there, miss!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102631,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102632,
+        "Text": "So, we owe our lives to that fellow who happened to wander in, huh?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102691,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102692,
+        "Text": "Pretty much... I know every rose has its thorns, but she's far too prickly for me. Now, let's regroup and end this thing!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102762,
+        "Text": "Hawkeye, ..主人公.., don't let your guard down!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102821,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301102822,
+        "Text": "Good advice... Too bad it won't do you any good. Power is everything, and it looks like you bunch have run out. Now let's settle this, once and for all!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101901,
+        "Text": "Protect Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301101902,
+        "Text": "Shout"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301100161,
+        "Text": "The Mekiv Caverns"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700291,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700292,
+        "Text": "You seem chipper. Me? Same old same old."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700351,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700352,
+        "Text": "Wouldn't hurt to invite me out to one of your adventures every once in a while, you know? I'm standing right here."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700411,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700412,
+        "Text": "If you need any help, all you gotta do is ask. All right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700461,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700462,
+        "Text": "You always seem so busy, you know? Is, uh, whatever it is you got going on really all that important?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700511,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700512,
+        "Text": "Me? I'm out here looking for this other Jumi I know..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700571,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700572,
+        "Text": "The Jumi have knights and guardians. Knights protect guardians, and guardians can heal knights with their tears... Or so I hear."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700631,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700632,
+        "Text": "Knights need only bond to one guardian. That's Pearl for me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700691,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700692,
+        "Text": "Don't feel like you gotta shoulder all this on your own. We're all here for you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700751,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700752,
+        "Text": "Are there Jumi in this town? Better to train now before it's too late. You've got someone to protect after all, don't you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700811,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 31050700812,
+        "Text": "You hurt Pearl and you're dead. Got it?"
     },
     {
         "ColumnName": "text",
@@ -10186,6 +11951,196 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30160500181,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500182,
+        "Text": "Pearl! Where are you!?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500281,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500282,
+        "Text": "Elazul?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500371,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500372,
+        "Text": "There you are! You didn't damage your core or anything, did you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500441,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500442,
+        "Text": "Nope, not a scratch."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500531,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500532,
+        "Text": "Good... Now, how many times have I told you not to go wandering off alone?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500601,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500602,
+        "Text": "I-I'm sorry...\nUm..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500671,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500672,
+        "Text": "Yes?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500781,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500782,
+        "Text": "Who's your friend there?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500841,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500842,
+        "Text": "Who's your friend there?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500921,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500922,
+        "Text": "No clue. Just some kid I met who's looking for someone, too."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500981,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160500982,
+        "Text": "Not our business, though. Let's head back. And remember, no wandering off this time."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501101,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501102,
+        "Text": "Well...I really hope you find whatever it is you're looking for."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501261,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501262,
+        "Text": "That would make it easier, wouldn't it? I'm sorry we can't be of any help..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501351,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501352,
+        "Text": "Is it!? Now I'm really embarrassed!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501461,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501462,
+        "Text": "Forgive me if this is too forward of me, but regarding your search... Are they a person someone can't live without?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501561,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501562,
+        "Text": "Hey! What are you still doing back there?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501631,
+        "Text": "Pearl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501632,
+        "Text": "Whoops! Sorry, Elazul! On my way!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501891,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501892,
+        "Text": "(What happened to the cave just now?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501171,
+        "Text": "If only I knew where to look."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160501172,
+        "Text": "Your face is all red."
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30140700271,
         "Text": "Riesz"
     },
@@ -11296,6 +13251,56 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30160400261,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400262,
+        "Text": "Not again... Did I not make myself clear?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400291,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400292,
+        "Text": "Judging by the look on your face...no luck on your end, either. I checked back this way, but no one's seen her."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400331,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400332,
+        "Text": "Listen up. You might want to pick up the pace. There's a pretty nasty monster that calls this place home. No place for a kid like you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400361,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400362,
+        "Text": "I doubt she would have wandered this far, anyway—unless she's a real airhead."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400601,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160400602,
+        "Text": "Dammit! Speak of the devil... Well, this is it kid. Ready or not, we've got a fight on our hands."
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30010800171,
         "Text": "Duffle"
     },
@@ -11478,6 +13483,216 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30100201451,
         "Text": "Be purged, before you truly awaken."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800351,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800352,
+        "Text": "Haaa... Haaa... Ngh!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800391,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800392,
+        "Text": "Keep it together... No passing out now. Not until you find her..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800461,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800462,
+        "Text": "Aaagh!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800651,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800652,
+        "Text": "That's hardly any of your concern."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800691,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800692,
+        "Text": "This is nothing. And I'm in a hurry, so I have no time for idle chit-chat."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800762,
+        "Text": "...What do you want?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800801,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800802,
+        "Text": "If you're looking for a new friend, go somewhere else."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800971,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800972,
+        "Text": "Why are you still standing here? Leave me alone. I don't need your help—agh!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801111,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801112,
+        "Text": "Do I really look that pathetic?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801191,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801192,
+        "Text": "Good grief. Just my luck running into a nosey stranger."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801261,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801262,
+        "Text": "I'm searching for a friend who got separated from me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801301,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801302,
+        "Text": "So I really must be going. If I don't find her..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801441,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801442,
+        "Text": "You say as much, but why should I trust you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801501,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801502,
+        "Text": "What makes you so sure?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801661,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801662,
+        "Text": "Ugh...fine. You're a pretty meddlesome kid, you know that?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801711,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801712,
+        "Text": "For now...lend me your shoulder until we get to the nearest town."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801762,
+        "Text": "I suppose two heads are better than one... Plus, I doubt you would have left until I'd agreed."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801881,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801882,
+        "Text": "Heh. You're a lot like my friend in that way."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800581,
+        "Text": "Are you okay?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300800582,
+        "Text": "Hi there."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801031,
+        "Text": "Take it easy there."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801032,
+        "Text": "What's wrong?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801381,
+        "Text": "I'm happy to help!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300801382,
+        "Text": "Just leave it to me!"
     },
     {
         "ColumnName": "text",
@@ -12236,6 +14451,96 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30160700241,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700242,
+        "Text": "Is that...? Ritzia! I finally found you!　"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700311,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700312,
+        "Text": "You had me so worried, disappearing like that! I had to get ..主人公.. here to help me find you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700401,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700402,
+        "Text": "Ritzia...? Hey, what are you doing over there?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700661,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700662,
+        "Text": "And why won't you answer me? Don't go over there alone, its dangero—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700761,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700762,
+        "Text": "RITZIA!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700141,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700142,
+        "Text": "(Hm...? Is someone there?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700851,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700852,
+        "Text": "(Where are they going...?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160701041,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160701042,
+        "Text": "(What's going on...? The world's growing stranger and stranger...)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700511,
+        "Text": "I've been waiting...waiting for you, maiden."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160700551,
+        "Text": "Finally the day has come... When promises of old shall be fulfilled."
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30012300141,
         "Text": "Hawkeye"
     },
@@ -12466,6 +14771,266 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30300700361,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700362,
+        "Text": "Would you look at that! ..主人公.., the Mana Tree bears new fruit!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700491,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700492,
+        "Text": "Oooh! Where? Where?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700551,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700552,
+        "Text": "It's so sparkly! I wonder what sort of adventure awaits you two."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700641,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700642,
+        "Text": "Would you look at that! ..主人公.., the Mana Tree bears new fruit!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700771,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700772,
+        "Text": "Oooh! Where? Where?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700831,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700832,
+        "Text": "It's so sparkly! I wonder what sort of adventure awaits you two."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700941,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700942,
+        "Text": "Hm... In this case, all that glitters is not gold. This one is quite a hodgepodge of mismatched memories."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700981,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300700982,
+        "Text": "My woolly senses tell me the sword lies elsewhere, in another fruit."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701031,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701032,
+        "Text": "So there's no point in wasting our time with this one.\nRight, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701181,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701182,
+        "Text": "Excellent! I knew we were on the same page! Right now, we need to focus and not let ourselves get sidetracked."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701291,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701292,
+        "Text": "A killjoy, you say? Oh dear! Someone's gone and boosted ..主人公..'s sass stats!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701451,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701452,
+        "Text": "Well, if you ask me, it's not so much a waste of time as a waste of perfectly good mana fruit!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701601,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701602,
+        "Text": "No one asked, though. How many times do I have to tell you? We're on an important mission from—whoaaa!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701691,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701692,
+        "Text": "Hey! What do you think you're doing? Let go of me this instant!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701721,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701722,
+        "Text": "What are you waiting for, ..主人公..? Go enjoy yourself out there!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701791,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701792,
+        "Text": "Well, if you ask me, it's not so much a waste of time as a waste of perfectly good mana fruit!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701941,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701942,
+        "Text": "No one asked, though. How many times do I have to tell you? We're on an important mission from—whoaaa!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702031,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702032,
+        "Text": "Hey! What do you think you're doing? Let go of me this instant!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702071,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702072,
+        "Text": "What are you waiting for, ..主人公..? Go enjoy yourself out there!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702291,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702292,
+        "Text": "Don't forget to bring me back a souvenir! I'll be waiting!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702361,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702362,
+        "Text": "Don't forget to bring me back a souvenir! I'll be waiting!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702461,
+        "Text": "Girl"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702462,
+        "Text": "I'll hold you to it!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702531,
+        "Text": "Boy"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702532,
+        "Text": "I'll hold you to it!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702831,
+        "Text": "Baashear"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702832,
+        "Text": "Wait! ..主人公..! Take me with youuu!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701091,
+        "Text": "Right."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300701092,
+        "Text": "Talk about a killjoy..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702201,
+        "Text": "All right, see ya!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300702202,
+        "Text": "Thanks, I owe you one!"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30120300261,
         "Text": "Popoi"
     },
@@ -12676,6 +15241,436 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30300900281,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900282,
+        "Text": "Whew... I should be alright now.\nYour name's ..主人公.., right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900321,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900322,
+        "Text": "I am the Lapis Knight, Elazul of the Jumi."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900441,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900442,
+        "Text": "Jumi is the name of my people. We each have a jewel core embedded in our chest. Mine is lapis lazuli."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900531,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900532,
+        "Text": "'Cool'? I've never heard it put that way before..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900641,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900642,
+        "Text": "Anyway, I ran into some trouble and my core ended up getting scratched. That's why I'm so out of sorts at the moment."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900731,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900732,
+        "Text": "That is to say, Jumi can survive as long as our core remains intact. Regenerating it takes a great deal of time, though."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900771,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900772,
+        "Text": "Cores can be healed, but that's no option for me right now."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900821,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900822,
+        "Text": "It takes a pitiful knight to fail at protecting a friend, your own core, and keeping that friend from getting lost."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900861,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900862,
+        "Text": "But no matter. As her sworn Knight and protector, it is my duty to find Pearl—no matter the cost."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900911,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900912,
+        "Text": "Hey! Mind if I cut in?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901071,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901072,
+        "Text": "Who are you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901151,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901152,
+        "Text": "Great question! But first, what's this about pearls? You two plotting some kind of heist?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901211,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901212,
+        "Text": "No. I don't know what you mean, or what you thought you heard. But Pearl is my friend and she's got nothing to do with you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901271,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901272,
+        "Text": "Aw, don't be like that! Hear me out, all right? If two heads are better than one, then why not three?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901341,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901342,
+        "Text": "This is a waste of time.\nLet's go, ..主人公..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901481,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901482,
+        "Text": "Hey! I think you're forgetting someone!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901821,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901822,
+        "Text": "What a strange one. What do you make of him, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901941,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901942,
+        "Text": "Huh? Is he a friend of yours?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902021,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902022,
+        "Text": "Huh? Do you know him?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902181,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902182,
+        "Text": "Fancy meeting you here. Maybe you won't run away this time?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902261,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902262,
+        "Text": "Wha—? I thought for sure we'd lost you. Who in the world are you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902331,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902332,
+        "Text": "One friendly, professional thief, at your service. But you can call me Hawkeye."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902391,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902392,
+        "Text": "As if I'd believe that. We Jumi may have fallen victim to lies in the past, but no longer."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902431,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902432,
+        "Text": "Mages wished to use our cores for their supposed 'magical properties', or as mere trinkets... Because of them, my people are on the brink of extinction."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902471,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902472,
+        "Text": "So no, I don't trust you. Now out with it—tell us what you're really after!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902531,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902532,
+        "Text": "I already told you!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902601,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902602,
+        "Text": "Once I heard you're a knight in search of a girl, it piqued my interest. Not to mention that her name is Pearl! When it comes to finding hidden gems, I'm your guy!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902691,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902692,
+        "Text": "'Fun'? You think this is 'fun'? Only a fool would think our situation to be anything other than dire. Why don't I set you straight?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902771,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902772,
+        "Text": "Before you do—I understand. I know exactly what it feels like to desperately want to save someone."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902841,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902842,
+        "Text": "...!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902901,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902902,
+        "Text": "Don't look so surprised. It's obvious she's all you can think about right now. And if that's the case, you could use someone like me on your side."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902981,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300902982,
+        "Text": "...Hmph."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903111,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903112,
+        "Text": "Heh, exactly! I'd rather we get along, and save my energy for a real fight."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903191,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903192,
+        "Text": "You have a point. Saving Pearl is my top priority."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903281,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903282,
+        "Text": "Very well..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903331,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903332,
+        "Text": "So? Does that mean...?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903391,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903392,
+        "Text": "Your eyes shine true, but I still don't fully trust you yet."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903431,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903432,
+        "Text": "If I catch even a glimmer of treachery, I will cut you down without a second thought."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903491,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903492,
+        "Text": "Please do! Though it won't come to that. Now, let's get going!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903561,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903562,
+        "Text": "Only if you something about that smug look on your face."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900371,
+        "Text": "What's a Jumi?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300900372,
+        "Text": "That sounds so cool!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901871,
+        "Text": "He's nice once you get to know him."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300901872,
+        "Text": "He's cool once you get to know him."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903031,
+        "Text": "Enough fighting, you two."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30300903032,
+        "Text": "Aren't there more important things right now?"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30010700171,
         "Text": "Duffle"
     },
@@ -12703,6 +15698,181 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30010700232,
         "Text": "Duffle. Are you...speaking from experience?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300361,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300362,
+        "Text": "This place is pretty strange, huh? They say the sacred beast rests here, so it doesn't surprise me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300421,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300422,
+        "Text": "That said, this is my first time here, too... By the way, check this out."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300491,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300492,
+        "Text": "I picked up a big seed, and the next thing I knew, vines were wrapping all the way up my arm. And before you ask, no—they DON'T come off."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300641,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300642,
+        "Text": "Don't ask me. Saying it aloud sounds crazy, even to me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300721,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300722,
+        "Text": "For now, I feel all right. But now that you mention it, it is pretty weird, right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300811,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300812,
+        "Text": "Either way, there really is something special about this place. The air's practically vibrating with, like, mystical power."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300861,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300862,
+        "Text": "But whose voice is that? You think they're trying to tell us something?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300931,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300932,
+        "Text": "(Those echoes...they're everywhere.)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300191,
+        "Text": "Why did you leave me?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300231,
+        "Text": "Why you, and not me?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300271,
+        "Text": "Give it back! It's MY destiny, not yours..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161301011,
+        "Text": "I've got to put an end to this. To your pain... To your sins..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161301061,
+        "Text": "Surely that is what this sword was meant for..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300561,
+        "Text": "How does this work, exactly?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161300562,
+        "Text": "Will you be all right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300261,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300262,
+        "Text": "You again? Are you following me or something?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300411,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300412,
+        "Text": "Oh, you're looking for someone too? A little girl?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300461,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300462,
+        "Text": "Well, that's not my problem. My duty as a Knight only extends to Pearl."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300501,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300502,
+        "Text": "Besides, even if you never find her, you'll be all right."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300541,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300542,
+        "Text": "Whereas without Pearl, I... Well, in any case, I have to find her."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300591,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160300592,
+        "Text": "So no, I don't have time to help you. I'm leaving, so you'd better quit tailing me, you hear?"
     },
     {
         "ColumnName": "text",
@@ -13398,6 +16568,101 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30011300142,
         "Text": "If there's a certain elemental coin you need, you can play the dungeon where it should drop."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200461,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200462,
+        "Text": "Hey, you! Stop right there!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200601,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200602,
+        "Text": "I'm looking for a friend of mine. Have you seen her?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200701,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200702,
+        "Text": "You don't even know what she looks like! Don't tell me...are you hiding something?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200841,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200842,
+        "Text": "Huh? You haven't seen anyone at all? Tch, then say so next time!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200951,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200952,
+        "Text": "Wha—? How did you know I was a... Wait! Does that mean you've met met Pearl?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201101,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201102,
+        "Text": "No? You were just talking about my core? Tch, quit wasting my time."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201221,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201222,
+        "Text": "Dammit. Where did she run off to this time? She's definitely around here somewhere..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201251,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160201252,
+        "Text": "Pearl, Pearl, Pearl... What am I going to do with you?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200641,
+        "Text": "Can't say I have..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200642,
+        "Text": "Oh, lapis lazuli..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160200231,
+        "Text": "The Mekiv Caverns"
     },
     {
         "ColumnName": "text",
@@ -14551,6 +17816,166 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30161200831,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200832,
+        "Text": "Whoa!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200871,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200872,
+        "Text": "You scared me, coming out of nowhere like that! Was that your voice just now?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201051,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201052,
+        "Text": "Yeah, you're not the one. The other voice was more, you know, mystical!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201161,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201162,
+        "Text": "Sorry, but you're not the one. The other voice was more, you know, mystical!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201291,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201292,
+        "Text": "Oh, right! The name's Keldric. And this is..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201471,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201472,
+        "Text": "Huh!? Ritzia's gone!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201601,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201602,
+        "Text": "HEEEY! RITZIA! Are you hiding somewhere? Come on out!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201721,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201722,
+        "Text": "We've been friends since we were little. Though it looks like I lost her... This can't be good. I've got to find her!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201771,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201772,
+        "Text": "Care to lend a hand? You seem new to these parts, so it wouldn't hurt to stick by me for a bit."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201891,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201892,
+        "Text": "Great! Then we're a team! I'll give you a quick piece of advice though."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201931,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201932,
+        "Text": "If you can't lift it, then shift it!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201991,
+        "Text": "Keldric"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161201992,
+        "Text": "Haha! Don't quite get it yet? Don't worry, you will!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200351,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200352,
+        "Text": "(Where is that voice coming from?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200261,
+        "Text": "Worlds woven together..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200431,
+        "Text": "Seek the Mana Sword..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200471,
+        "Text": "Only you can attain it... For that is your destiny..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200921,
+        "Text": "Nope, not me!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200922,
+        "Text": "Maybe?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30161200171,
+        "Text": "Great Tree Caves"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 30140200501,
         "Text": "Baashear"
     },
@@ -14943,6 +18368,346 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30140301342,
         "Text": "Apology not accepted."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100171,
+        "Text": "Mana Goddess"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100172,
+        "Text": "I am the Mana Goddess, the spirit of the Mana Tree."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100201,
+        "Text": "Mana Goddess"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100202,
+        "Text": "I will bring it all back.\nMy world... My sister..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100241,
+        "Text": "Mana Goddess"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100242,
+        "Text": "No matter what it takes..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100351,
+        "Text": "Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100352,
+        "Text": "Okay. I'll be this dolly, Nona, and you can be this one!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100431,
+        "Text": "Another Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100432,
+        "Text": "Aren't you just the cutest? Now, what should I call you? How about..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100471,
+        "Text": "Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100472,
+        "Text": "What a lovely name, Nona! It's perfect!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100531,
+        "Text": "Girls' Voices"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100532,
+        "Text": "Hee hee! Ha ha ha!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101211,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101212,
+        "Text": "And then, the boy gets scared and screams! 'Ahhh!' And then, and then...he runs away, and the girl's left all by herself!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101281,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101282,
+        "Text": "Whaaat? No way. This is the part where the boy rescues the girl!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101331,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101332,
+        "Text": "He's the hero and he's going to be a great swordsman one day."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101391,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101392,
+        "Text": "But Dema, boys get scared too, you know. Plus, all the fairy tales already have brave heroes."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101471,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101472,
+        "Text": "Boooring. Why not have a dumb hero instead? That's way more fun!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101601,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101602,
+        "Text": "No can do. You already made him brave and cool. We can't have him act lame now. It'd ruin everything!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101651,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101652,
+        "Text": "You have always had the strangest ideas. They totally derail the story."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101711,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101712,
+        "Text": "Just listen to your big sis! I won't lead you astray."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101791,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101792,
+        "Text": "We're twins, so don't 'big sis' me! And what's wrong with mixing things up a bit?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101901,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101902,
+        "Text": "I said no! Stories have rules. You can't just go around breaking them just because you feel like it!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101971,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160101972,
+        "Text": "B-But... I—!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102061,
+        "Text": "Nona"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102062,
+        "Text": "Fine, have it your way! I don't care about you or your dumb story!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102221,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102222,
+        "Text": "There she goes... She's such a handful sometimes."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102251,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102252,
+        "Text": "Always so childish, selfish, and spoiled... And she never listens to a word I say."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102301,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102302,
+        "Text": "...You know I can see you, right?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102611,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102612,
+        "Text": "One must stick to the storyline, wouldn't you agree?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102751,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102752,
+        "Text": "Exactly. I'm glad we see eye to eye."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102791,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102792,
+        "Text": "Well then, since we are on the same wavelength, do you mind if I ask you for a favor?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102871,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102872,
+        "Text": "Oh? You're on her side? It seems I'm surrounded by children..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102911,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102912,
+        "Text": "Well then, since you and Nona are on the same wavelength, do you mind if I ask you for a favor?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103041,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103042,
+        "Text": "Could you go look for her for me? With the way she left, she's probably somewhere all alone, sobbing her eyes out."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103081,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103082,
+        "Text": "We may fight sometimes, but she's still my dear sister—my irreplaceable other half."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103241,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103242,
+        "Text": "Hee hee! You know, this might seem strange, but I feel like this isn't the first time I've asked you for help."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103291,
+        "Text": "Dema"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103292,
+        "Text": "Hmm... Well then, my mysterious new friend, I'm counting on you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100911,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160100912,
+        "Text": "(Hm? Where am I?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103191,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160103192,
+        "Text": "(Is this another echo?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102651,
+        "Text": "Yeah, story is everything."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160102652,
+        "Text": "No, I like to mix things up."
     },
     {
         "ColumnName": "text",
@@ -16211,6 +19976,446 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30301000271,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000272,
+        "Text": "So, where do you think Pearl could be? Any ideas?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000341,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000342,
+        "Text": "Sadly, no."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000411,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000412,
+        "Text": "Huh? Are you serious? Absolutely none?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000471,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000472,
+        "Text": "Quit your yammering! With or without clues, I'll find her!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000541,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000542,
+        "Text": "Okay, okay! We get it... Wow, she must be pretty important to you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000611,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000612,
+        "Text": "Indeed. You could say I've been waiting for her my whole life."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000671,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000672,
+        "Text": "Is that right? Well then, we'd better get this search party started! Let's split up and talk to folks around town."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000941,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301000942,
+        "Text": "It sounded like a great plan at the time, but no dice. How about you, ..主人公..? Find anything good?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001021,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001022,
+        "Text": "Maybe Elazul had better luck. Let's check in on him, shall we?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001341,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001342,
+        "Text": "You! Speak up! What are you hiding!?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001381,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001382,
+        "Text": "Don't anger me any further. If you intend to hide something from me..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001441,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001442,
+        "Text": "...Then you leave me no choice but to choke it out of you."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001611,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001612,
+        "Text": "Why are you stopping me? Don't interrupt my questioning."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001691,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001692,
+        "Text": "Is that what you call it? Sounded more like a threat to me."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001781,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001782,
+        "Text": "Can't you see? I'm questioning people like we discussed. Just a little further, and..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001881,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001882,
+        "Text": "Was it just me, or did you say something about choking?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001971,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001972,
+        "Text": "Look. I get that you're feeling impatient, but is this really the best approach? At the rate you're going, they'll either be too scared to talk, or unable to!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002041,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002042,
+        "Text": "I suppose you're right...but I don't know any other methods."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002121,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002122,
+        "Text": "Allow me to show you how it's done. I am a professional, you know. The key to getting into someone's good graces is to act like a gentleman."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002191,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002192,
+        "Text": "It's not enough to be a Knight?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002251,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002252,
+        "Text": "It's all in the approach. You've got to be cool and collected. Then, when they're least expecting it, hit 'em with a question."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002321,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002322,
+        "Text": "Sounds difficult. What do you think, ..主人公..?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002471,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002472,
+        "Text": "You know what? Just pretend you're talking to Pearl."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002521,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002522,
+        "Text": "Act like they're Pearl, huh? All right, I think I can do that."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002601,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002602,
+        "Text": "Right. Another shot won't hurt."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002661,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002662,
+        "Text": "Don't forget to relax! And only bring out the big guns when the timing's right!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002791,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002792,
+        "Text": "Here goes. Let's try this again, shall we?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002911,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002912,
+        "Text": "Hey! Uh...I mean, pardon me. I'm looking for a friend. Have you seen a stranger around these parts?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002981,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002982,
+        "Text": "How was that?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003041,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003042,
+        "Text": "Bit of a rough start, but you got the hang of it in the end! All you need is some practice."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003121,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003122,
+        "Text": "Excellent. Be right back."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003401,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003402,
+        "Text": "Alright, Elazul, here's someone coming our way! Just do like you practiced and you should be fine."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003851,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003852,
+        "Text": "Excuse me, but I'm looking for a friend. Have you see a girl pass through here?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003961,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003962,
+        "Text": "(Heh heh. Not bad, rookie!)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004031,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004032,
+        "Text": "She has a white pearl. You can't miss her. Ring any bells?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004101,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004102,
+        "Text": "A pearl, you say? ...Oh! I'm pretty sure I saw a girl like that headed towards the Mekiv Caverns."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004151,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004152,
+        "Text": "But those caverns are pretty dangerous, you know. And—"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004231,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004232,
+        "Text": "That has to be her! Let's go!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004421,
+        "Text": "Hawkeye"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004422,
+        "Text": "Whoa, wait up!"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004561,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004562,
+        "Text": "Boy, they're in quite the hurry! Hmm… I hope they'll be all right."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004621,
+        "Text": "Wanderer"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301004622,
+        "Text": "Wait a sec. That girl did have a pearl, but it wasn't white...or was it?"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003761,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301003762,
+        "Text": "(Keep it cool, Elazul... Then strike while the iron is hot!)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001541,
+        "Text": "Stop him."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301001542,
+        "Text": "Ask what he's doing."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002391,
+        "Text": "Try playing it cool."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30301002392,
+        "Text": "Try playing it bold."
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 31030300291,
         "Text": "Kevin"
     },
@@ -16756,6 +20961,46 @@
     },
     {
         "ColumnName": "text",
+        "LocalizationTargetId": 30160900351,
+        "Text": "Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900352,
+        "Text": "Dema, you dummy..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900241,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900242,
+        "Text": "(Where have Keldric and Ritzia gone to? Elazul and Pearl have disappeared, too...)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900281,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900282,
+        "Text": "(I don't even have Baashear to keep me company...)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900431,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160900432,
+        "Text": "(But that voice sounds a lot closer than before... Just maybe...)"
+    },
+    {
+        "ColumnName": "text",
         "LocalizationTargetId": 31010300291,
         "Text": "Dark Lord"
     },
@@ -17253,6 +21498,46 @@
         "ColumnName": "text",
         "LocalizationTargetId": 30151402392,
         "Text": "Can't."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800331,
+        "Text": "Girl's Voice"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800332,
+        "Text": "*sniffle* Waaah..."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800261,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800262,
+        "Text": "(I've visited all sorts of echoes...but never one as jumbled as this...)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800311,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800312,
+        "Text": "(Where is this place...?)"
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800411,
+        "Text": "..主人公.."
+    },
+    {
+        "ColumnName": "text",
+        "LocalizationTargetId": 30160800412,
+        "Text": "(Where is that crying coming from?)"
     },
     {
         "ColumnName": "text",

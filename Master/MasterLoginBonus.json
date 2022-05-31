@@ -48,5 +48,15 @@
         "MasterLoginBonusId": 51000021003,
         "ReleaseLabel": "release.login_bonus_202205_3",
         "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202206_1",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021004,
+        "ReleaseLabel": "release.login_bonus_202206_1",
+        "TargetValue": 0
     }
 ]

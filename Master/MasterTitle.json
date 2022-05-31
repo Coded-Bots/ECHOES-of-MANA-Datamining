@@ -14,6 +14,13 @@
         "TitleTrophyType": 20
     },
     {
+        "MasterEfficacyGroupId": 0,
+        "MasterPassiveSkillId": 40100000030040,
+        "MasterTitleId": 15001010003,
+        "ReleaseLabel": "release.story_1_6_start",
+        "TitleTrophyType": 20
+    },
+    {
         "MasterEfficacyGroupId": 9088619435102568449,
         "MasterPassiveSkillId": 40100000020040,
         "MasterTitleId": 15001011001,
@@ -21,10 +28,24 @@
         "TitleTrophyType": 24
     },
     {
+        "MasterEfficacyGroupId": 9088619439397535745,
+        "MasterPassiveSkillId": 40100000020040,
+        "MasterTitleId": 15001011002,
+        "ReleaseLabel": "release.story_1_6_start",
+        "TitleTrophyType": 28
+    },
+    {
         "MasterEfficacyGroupId": 9088623730069864450,
         "MasterPassiveSkillId": 40100000020030,
         "MasterTitleId": 15001012001,
         "ReleaseLabel": "release.initial",
+        "TitleTrophyType": 28
+    },
+    {
+        "MasterEfficacyGroupId": 9088623734364831746,
+        "MasterPassiveSkillId": 40100000020030,
+        "MasterTitleId": 15001012002,
+        "ReleaseLabel": "release.story_1_6_start",
         "TitleTrophyType": 28
     },
     {

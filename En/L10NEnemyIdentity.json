@@ -96,6 +96,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700100005020,
+        "Text": "Lizardon"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005022,
         "Text": "Kid Dragon"
     },
@@ -396,6 +401,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700100005083,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700100005084,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700100005086,
         "Text": "Guardian"
     },
@@ -413,5 +428,10 @@
         "ColumnName": "name",
         "LocalizationTargetId": 700100005093,
         "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700100005096,
+        "Text": "Stone Pillar"
     }
 ]

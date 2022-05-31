@@ -2038,5 +2038,125 @@
         "Mp": 25,
         "Name": "",
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Origina2",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Thrust_Dash",
+        "MasterSkillId": 30110305002011,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Origina2",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Thrust_Dash",
+        "MasterSkillId": 30110305002012,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110305002021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110305002022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Blammo",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Hard",
+        "MasterSkillId": 30110506001011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Blammo",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Hard",
+        "MasterSkillId": 30110506001012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30110506001021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30110506001022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_IaiStrike",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Continuous",
+        "MasterSkillId": 30110507001011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_IaiStrike",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Continuous",
+        "MasterSkillId": 30110507001012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110507001021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110507001022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     }
 ]

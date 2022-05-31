@@ -61,6 +61,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100000010140,
+        "Text": "Light Boost/Initial ST Gauge Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010140,
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)/[SELF] ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100000020020,
         "Text": "STR Boost (2☆)"
     },
@@ -1271,6 +1281,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100002000901,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002000901,
+        "Text": "On stage start, recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002000911,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002000911,
+        "Text": "On stage start, recover MP: +18"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002000921,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002000921,
+        "Text": "On stage start, recover MP: +20"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002000931,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002000931,
+        "Text": "On stage start, recover MP: +23"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002000941,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002000941,
+        "Text": "On stage start, recover MP: +25"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100003000101,
         "Text": "Machine Golem Shuffle"
     },
@@ -1718,6 +1778,56 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100003000941,
         "Text": "[SELF] On DMG taken, STR: +15% (6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001001,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001001,
+        "Text": "[SELF] While field-inactive, recover MP: +15 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001011,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001011,
+        "Text": "[SELF] While field-inactive, recover MP: +17 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001021,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001021,
+        "Text": "[SELF] While field-inactive, recover MP: +18 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001031,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001031,
+        "Text": "[SELF] While field-inactive, recover MP: +19 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001041,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001041,
+        "Text": "[SELF] While field-inactive, recover MP: +20 (Every 10s)"
     },
     {
         "ColumnName": "name",
@@ -2471,6 +2581,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100006000601,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100006000601,
+        "Text": "On foe defeat, ST Gauge: +5%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100006000611,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100006000611,
+        "Text": "On foe defeat, ST Gauge: +7%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100006000621,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100006000621,
+        "Text": "On foe defeat, ST Gauge: +8%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100006000631,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100006000631,
+        "Text": "On foe defeat, ST Gauge: +9%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100006000641,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100006000641,
+        "Text": "On foe defeat, ST Gauge: +10%"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011000101,
         "Text": "Set Off for Adventure"
     },
@@ -2721,6 +2881,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100011000601,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000601,
+        "Text": "When combo 30+, absorb DMG on attack (3% of DMG/Max RCV: 15 HP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000611,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000611,
+        "Text": "When combo 30+, absorb DMG on attack (3.5% of DMG/Max RCV: 17 HP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000621,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000621,
+        "Text": "When combo 30+, absorb DMG on attack (3.7% of DMG/Max RCV: 18 HP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000631,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000631,
+        "Text": "When combo 30+, absorb DMG on attack (3.8% of DMG/Max RCV: 19 HP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000641,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000641,
+        "Text": "When combo 30+, absorb DMG on attack (4% of DMG/Max RCV: 20 HP)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100101,
         "Text": "The Tower on High"
     },
@@ -2818,6 +3028,56 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100011100341,
         "Text": "When HP 90% or higher, Skill DMG: +45% [vs MAGICALI]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100401,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100401,
+        "Text": "When HP 90% or higher, Skill DMG: +35% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100411,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100411,
+        "Text": "When HP 90% or higher, Skill DMG: +37% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100421,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100421,
+        "Text": "When HP 90% or higher, Skill DMG: +40% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100431,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100431,
+        "Text": "When HP 90% or higher, Skill DMG: +42% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100441,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100441,
+        "Text": "When HP 90% or higher, Skill DMG: +45% [vs BEAST]"
     },
     {
         "ColumnName": "name",
@@ -2981,6 +3241,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100103050020,
+        "Text": "Hawkeye Support Skill (Pride of Thieves Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103050020,
+        "Text": "[PAIRED ALLY] On skill usage, STR: +6% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103050021,
+        "Text": "Hawkeye Support Skill (Pride of Thieves Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103050021,
+        "Text": "[PAIRED ALLY] On skill usage, STR: +10% (10s)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103060010,
         "Text": "Support Skill: Riesz (Pride of Amazon Ver.)"
     },
@@ -3038,6 +3318,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100105010011,
         "Text": "[SELF/PAIRED ALLY] On special technique, restore HP (RCV: 15%)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105060010,
+        "Text": "Lady Blackpearl Support Skill (Jumi's Finest Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105060010,
+        "Text": "[SELF] On skill usage, ST Gauge boost rate: +30% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105060011,
+        "Text": "Lady Blackpearl Support Skill (Jumi's Finest Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105060011,
+        "Text": "[SELF] On skill usage, ST Gauge boost rate: +60% (10s)"
     },
     {
         "ColumnName": "name",

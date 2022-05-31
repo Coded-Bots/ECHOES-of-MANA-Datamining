@@ -1041,6 +1041,11 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 303190004,
+        "Text": "l10n_message@outgame_N/A"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 303210001,
         "Text": "Auto Party"
     },
@@ -2678,5 +2683,30 @@
         "ColumnName": "message",
         "LocalizationTargetId": 303130030,
         "Text": "Twisted Oblivion"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130031,
+        "Text": "Hard Fall"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130032,
+        "Text": "Eye Beam"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130033,
+        "Text": "Ring Laser"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130034,
+        "Text": "Hard Fall"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130035,
+        "Text": "Hurry and crush the stone pillars!"
     }
 ]

@@ -55,6 +55,17 @@
         "ReleaseLabel": "release.lottery_202205_ranking"
     },
     {
+        "MasterCharacterIdMain1": 600210506001,
+        "MasterCharacterIdMain2": 600210305002,
+        "MasterCharacterIdMain3": 600210101001,
+        "MasterCharacterIdSub1": 600210203001,
+        "MasterCharacterIdSub2": 600210306001,
+        "MasterCharacterIdSub3": 600210302001,
+        "MasterLotteryShopId": 6001020041,
+        "MasterLotteryTrialPartyId": 6008020041,
+        "ReleaseLabel": "release.lottery_202206_scenario"
+    },
+    {
         "MasterCharacterIdMain1": 600210101001,
         "MasterCharacterIdMain2": 600210501001,
         "MasterCharacterIdMain3": 600210302001,
@@ -75,5 +86,16 @@
         "MasterLotteryShopId": 6001002008,
         "MasterLotteryTrialPartyId": 6008002008,
         "ReleaseLabel": "release.lottery_202205_angela"
+    },
+    {
+        "MasterCharacterIdMain1": 600210101002,
+        "MasterCharacterIdMain2": 600210301002,
+        "MasterCharacterIdMain3": 600210201001,
+        "MasterCharacterIdSub1": 600210502001,
+        "MasterCharacterIdSub2": 600210304001,
+        "MasterCharacterIdSub3": 600210203002,
+        "MasterLotteryShopId": 6001003004,
+        "MasterLotteryTrialPartyId": 6008003004,
+        "ReleaseLabel": "release.lottery_202206_bronz_ticket"
     }
 ]

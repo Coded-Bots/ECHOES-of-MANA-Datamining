@@ -2940,6 +2940,66 @@
         "SkillType": 3
     },
     {
+        "EfficacyGroupId": 42949672960056,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700101,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110507001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700102,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110507001012,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 171798691892,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700103,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110507001021,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 154618822704,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700104,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110507001022,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 60,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 42949672960052,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700105,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210507001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10507001,
+        "MasterSkillLevelId": 30301050700106,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210507001011,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 3
+    },
+    {
         "EfficacyGroupId": 42949672960052,
         "MasterSkillLevelGroupId": 10402001,
         "MasterSkillLevelId": 30301040200101,
@@ -3055,6 +3115,126 @@
         "MasterSkillLevelId": 30301030300206,
         "ReleaseLabel": "release.lottery_202205_ranking_start",
         "SkillId": 30210303002011,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 42949672960056,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500201,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110305002011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500202,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110305002012,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 171798691892,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500203,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110305002021,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 154618822704,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500204,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110305002022,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 60,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 42949672960052,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500205,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210305002011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10305002,
+        "MasterSkillLevelId": 30301030500206,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210305002011,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 42949672960056,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600101,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110506001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600102,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110506001012,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 68,
+        "SkillType": 1
+    },
+    {
+        "EfficacyGroupId": 171798691892,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600103,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110506001021,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 154618822704,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600104,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30110506001022,
+        "SkillLevel": 2,
+        "SkillLevelRatio": 60,
+        "SkillType": 2
+    },
+    {
+        "EfficacyGroupId": 42949672960052,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600105,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210506001011,
+        "SkillLevel": 1,
+        "SkillLevelRatio": 64,
+        "SkillType": 3
+    },
+    {
+        "EfficacyGroupId": 53687091200056,
+        "MasterSkillLevelGroupId": 10506001,
+        "MasterSkillLevelId": 30301050600106,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "SkillId": 30210506001011,
         "SkillLevel": 2,
         "SkillLevelRatio": 68,
         "SkillType": 3

@@ -350,6 +350,27 @@
         "ReleaseLabel": "release.lottery_202205_ranking_start"
     },
     {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610305002,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Hawkeye/002_AS_Knife/AI_Range",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610506001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/LadyPearl/001_AS_Axe/AI_Range",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AutoAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_AutoPlay",
+        "MasterCharacterAiId": 600610507001,
+        "NpcAiAssetPath": "AI/Character/1_SkillComposition/AS/AI_NPC",
+        "RangeAiAssetPath": "AI/Character/Elazul/001_AS_Sword/AI_Range",
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
         "AutoAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_AutoPlay",
         "MasterCharacterAiId": 600610305099,
         "NpcAiAssetPath": "AI/Character/Hawkeye/999_tutorial/AI_Hawkeye_NPC",

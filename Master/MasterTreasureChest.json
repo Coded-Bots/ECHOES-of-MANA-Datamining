@@ -250,5 +250,77 @@
         "MasterRewardGroupId": 420015005302,
         "MasterTreasureChestId": 261000530502,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010006106,
+        "MasterRewardGroupId": 420015006101,
+        "MasterTreasureChestId": 261000610601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006106,
+        "MasterRewardGroupId": 420015006102,
+        "MasterTreasureChestId": 261000610602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006106,
+        "MasterRewardGroupId": 420015006103,
+        "MasterTreasureChestId": 261000610603,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006106,
+        "MasterRewardGroupId": 420015006104,
+        "MasterTreasureChestId": 261000610604,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006206,
+        "MasterRewardGroupId": 420015006201,
+        "MasterTreasureChestId": 261000620601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006206,
+        "MasterRewardGroupId": 420015006202,
+        "MasterTreasureChestId": 261000620602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006206,
+        "MasterRewardGroupId": 420015006203,
+        "MasterTreasureChestId": 261000620603,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006206,
+        "MasterRewardGroupId": 420015006204,
+        "MasterTreasureChestId": 261000620604,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006306,
+        "MasterRewardGroupId": 420015006301,
+        "MasterTreasureChestId": 261000630601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006306,
+        "MasterRewardGroupId": 420015006302,
+        "MasterTreasureChestId": 261000630602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006306,
+        "MasterRewardGroupId": 420015006303,
+        "MasterTreasureChestId": 261000630603,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "MasterQuestChapterId": 210010006306,
+        "MasterRewardGroupId": 420015006304,
+        "MasterTreasureChestId": 261000630604,
+        "ReleaseLabel": "release.story_1_6_start"
     }
 ]

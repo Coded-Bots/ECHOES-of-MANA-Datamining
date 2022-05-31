@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "GemCost": 1350,
+        "MasterLotteryId": 6002200412,
+        "MasterLotteryRateGroupId": 153,
+        "MasterLotteryStepId": 6005004101,
+        "NextStep": 0,
+        "Point": 24,
+        "ReleaseLabel": "release.lottery_202206_scenario",
+        "ReplaceRateGroupStep": "10",
+        "ReplaceRateGroupStepId": "164",
+        "RewardCount": 10,
+        "Step": 1,
+        "TicketCost": 0
+    }
+]

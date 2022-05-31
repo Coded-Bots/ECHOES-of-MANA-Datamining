@@ -240,6 +240,1392 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_30002_11_23_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100231,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_23_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100232,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_33_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100331,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_33_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100332,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_42_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100421,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_42_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100422,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_50_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100501,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_50_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100502,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_57_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100571,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_57_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100572,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_63_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100631,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_63_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100632,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_70_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100701,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_70_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100702,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_76_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_76_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_83_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100831,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_83_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100832,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_89_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100891,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_89_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100892,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_94_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100941,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_94_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100942,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_100_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101001,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_100_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101002,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_108_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101081,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_108_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101082,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_120_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101201,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_120_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101202,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_127_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101271,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_127_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101272,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_137_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101371,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_137_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101372,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_147_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_147_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_153_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101531,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_153_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101532,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_159_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101591,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_159_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101592,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_165_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101651,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_165_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101652,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_170_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101701,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_170_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101702,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_176_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_176_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_183_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101831,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_183_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101832,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_196_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101961,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_196_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101962,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_204_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102041,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_204_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102042,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_215_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102151,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_215_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102152,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_222_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102221,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_222_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102222,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_228_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102281,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_228_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102282,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_235_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102351,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_235_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102352,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_241_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102411,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_241_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102412,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_248_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102481,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_248_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102482,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_254_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102541,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_254_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102542,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_263_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102631,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_263_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102632,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_269_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_269_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_276_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_276_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_282_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102821,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_282_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301102822,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_190_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101901,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_190_2",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301101902,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_11_16_1",
+        "LuaScriptFileName": "adventure_30002_11",
+        "MasterLuaTextId": 30301100161,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_27_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000271,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_27_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000272,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_34_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000341,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_34_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000342,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_41_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000411,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_41_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000412,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_47_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_47_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_54_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000541,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_54_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000542,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_61_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000611,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_61_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000612,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_67_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000671,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_67_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000672,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_94_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000941,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_94_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301000942,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_102_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001021,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_102_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001022,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_134_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001341,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_134_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001342,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_138_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001381,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_138_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001382,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_144_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001441,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_144_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001442,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_161_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001611,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_161_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001612,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_169_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_169_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_178_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001781,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_178_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001782,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_188_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001881,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_188_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001882,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_197_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001971,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_197_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001972,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_204_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002041,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_204_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002042,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_212_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002121,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_212_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002122,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_219_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002191,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_219_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002192,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_225_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002251,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_225_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002252,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_232_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002321,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_232_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002322,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_247_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_247_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_252_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002521,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_252_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002522,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_260_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002601,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_260_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002602,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_266_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002661,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_266_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002662,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_279_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002791,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_279_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002792,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_291_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002911,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_291_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002912,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_298_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002981,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_298_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002982,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_304_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003041,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_304_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003042,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_312_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003121,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_312_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003122,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_340_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003401,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_340_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003402,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_385_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003851,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_385_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003852,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_396_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003961,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_396_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003962,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_403_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_403_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004032,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_410_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004101,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_410_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004102,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_415_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004151,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_415_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004152,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_423_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004231,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_423_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004232,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_442_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004421,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_442_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004422,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_456_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004561,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_456_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004562,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_462_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004621,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_462_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301004622,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_376_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_376_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301003762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_154_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001541,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_154_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301001542,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_239_1",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002391,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_8_239_2",
+        "LuaScriptFileName": "adventure_30002_8",
+        "MasterLuaTextId": 30301002392,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_1_6_1_17_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100171,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_17_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100172,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_20_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100201,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_20_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100202,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_24_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100241,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_24_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100242,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_35_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100351,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_35_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100352,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_43_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100431,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_43_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100432,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_47_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100471,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_47_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100472,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_53_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100531,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_53_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100532,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_121_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101211,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_121_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101212,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_128_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101281,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_128_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101282,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_133_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101331,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_133_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101332,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_139_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101391,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_139_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101392,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_147_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101471,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_147_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101472,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_160_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_160_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_165_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101651,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_165_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101652,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_171_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101711,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_171_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101712,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_179_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101791,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_179_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101792,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_190_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101901,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_190_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101902,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_197_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101971,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_197_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160101972,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_206_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102061,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_206_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102062,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_222_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102221,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_222_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102222,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_225_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102251,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_225_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102252,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_230_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102301,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_230_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102302,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_261_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102611,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_261_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102612,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_275_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102751,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_275_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102752,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_279_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102791,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_279_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102792,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_287_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102871,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_287_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102872,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_291_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102911,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_291_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102912,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_304_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103041,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_304_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103042,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_308_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103081,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_308_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103082,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_324_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103241,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_324_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103242,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_329_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103291,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_329_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103292,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_91_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100911,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_91_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160100912,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_319_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103191,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_319_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160103192,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_265_1",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102651,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_1_265_2",
+        "LuaScriptFileName": "adventure_1_6_1",
+        "MasterLuaTextId": 30160102652,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "Label": "adventure_1_2_5_26_1",
         "LuaScriptFileName": "adventure_1_2_5",
         "MasterLuaTextId": 30120500261,
@@ -1000,6 +2386,120 @@
         "LuaScriptFileName": "adventure_1_4_2",
         "MasterLuaTextId": 30140200411,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_2_46_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200461,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_46_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200462,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_60_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_60_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_70_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200701,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_70_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200702,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_84_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200841,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_84_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200842,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_95_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200951,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_95_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200952,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_110_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201101,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_110_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201102,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_122_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201221,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_122_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201222,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_125_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201251,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_125_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160201252,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_64_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200641,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_64_2",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200642,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_2_23_1",
+        "LuaScriptFileName": "adventure_1_6_2",
+        "MasterLuaTextId": 30160200231,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "Home_NPC_Sierra_29_1",
@@ -1852,6 +3352,198 @@
         "LuaScriptFileName": "adventure_1_2_6",
         "MasterLuaTextId": 30120600352,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_29_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600291,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_29_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600292,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_35_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600351,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_35_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600352,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_40_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600401,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_40_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600402,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_46_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600461,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_46_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600462,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_52_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600521,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_52_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600522,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_57_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600571,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_57_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600572,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_63_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600631,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_63_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600632,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_69_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600691,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_69_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600692,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_75_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600751,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_75_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600752,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_81_1",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600811,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "Home_NPC_LadyPearl_81_2",
+        "LuaScriptFileName": "Home_NPC_LadyPearl",
+        "MasterLuaTextId": 31050600812,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "Label": "adventure_1_6_3_26_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_26_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300262,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_41_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300411,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_41_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300412,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_46_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300461,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_46_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300462,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_50_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300501,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_50_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300502,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_54_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300541,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_54_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300542,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_59_1",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300591,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_3_59_2",
+        "LuaScriptFileName": "adventure_1_6_3",
+        "MasterLuaTextId": 30160300592,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "adventure_1_4_12_1_28_1",
@@ -3156,6 +4848,114 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_1_6_7_24_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700241,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_24_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700242,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_31_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700311,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_31_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700312,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_40_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700401,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_40_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700402,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_66_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700661,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_66_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700662,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_76_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700761,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_76_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700762,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_14_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700141,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_14_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700142,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_85_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700851,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_85_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700852,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_104_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160701041,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_104_2",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160701042,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_51_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700511,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_7_55_1",
+        "LuaScriptFileName": "adventure_1_6_7",
+        "MasterLuaTextId": 30160700551,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "Label": "adventure_1_0_1_120_1",
         "LuaScriptFileName": "adventure_1_0_1",
         "MasterLuaTextId": 30100101201,
@@ -4350,6 +6150,342 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_30002_16_47_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_47_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_67_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300671,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_67_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300672,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_74_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300741,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_74_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300742,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_85_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300851,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_85_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301300852,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_120_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301201,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_120_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301202,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_126_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301261,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_126_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301262,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_135_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301351,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_135_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301352,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_148_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301481,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_148_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301482,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_154_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301541,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_154_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301542,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_161_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301611,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_161_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301612,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_169_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_169_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_177_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301771,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_177_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301772,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_181_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301811,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_181_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301812,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_186_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301861,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_186_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301862,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_193_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301931,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_193_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301301932,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_202_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302021,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_202_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302022,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_211_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302111,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_211_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302112,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_227_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302271,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_227_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302272,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_231_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302311,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_231_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302312,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_243_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302431,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_243_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302432,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_251_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302511,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_251_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302512,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_285_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302851,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_285_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302852,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_289_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302891,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_289_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302892,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_293_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302931,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_293_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302932,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_298_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302981,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_298_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302982,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_303_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301303031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_303_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301303032,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_308_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301303081,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_308_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301303082,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_236_1",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302361,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_16_236_2",
+        "LuaScriptFileName": "adventure_30002_16",
+        "MasterLuaTextId": 30301302362,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
         "Label": "tutorial_mission_top_14_1",
         "LuaScriptFileName": "tutorial_mission_top",
         "MasterLuaTextId": 30011800141,
@@ -4396,6 +6532,318 @@
         "LuaScriptFileName": "tutorial_mission_top",
         "MasterLuaTextId": 30011800342,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_30002_14_21_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200211,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_21_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200212,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_25_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200251,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_25_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200252,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_37_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200371,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_37_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200372,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_47_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_47_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_52_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200521,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_52_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200522,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_58_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200581,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_58_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200582,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_63_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200631,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_63_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200632,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_74_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200741,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_74_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200742,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_79_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200791,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_79_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200792,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_87_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200871,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_87_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200872,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_92_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200921,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_92_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200922,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_105_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201051,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_105_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201052,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_109_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201091,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_109_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201092,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_113_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201131,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_113_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201132,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_120_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201201,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_120_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201202,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_126_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201261,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_126_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201262,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_136_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201361,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_136_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201362,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_141_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201411,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_141_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201412,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_146_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201461,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_146_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201462,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_153_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201531,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_153_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201532,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_174_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201741,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_174_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201742,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_181_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201811,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_181_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201812,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_191_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201911,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_191_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201912,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_42_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200421,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_42_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301200422,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_162_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201621,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_162_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201622,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_166_1",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201661,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_14_166_2",
+        "LuaScriptFileName": "adventure_30002_14",
+        "MasterLuaTextId": 30301201662,
+        "ReleaseLabel": "release.event_scenario_2_start"
     },
     {
         "Label": "adventure_1_4_6_31_1",
@@ -4792,6 +7240,66 @@
         "LuaScriptFileName": "adventure_1_4_6",
         "MasterLuaTextId": 30140601412,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_4_26_1",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_26_2",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400262,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_29_1",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400291,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_29_2",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400292,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_33_1",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400331,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_33_2",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400332,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_36_1",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400361,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_36_2",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400362,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_60_1",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_4_60_2",
+        "LuaScriptFileName": "adventure_1_6_4",
+        "MasterLuaTextId": 30160400602,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "adventure_1_0_2_30_1",
@@ -5494,6 +8002,234 @@
         "LuaScriptFileName": "tutorial_manaboard_refine",
         "MasterLuaTextId": 30011400432,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_5_18_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500181,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_18_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500182,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_28_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500281,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_28_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500282,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_37_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500371,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_37_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500372,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_44_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500441,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_44_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500442,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_53_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500531,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_53_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500532,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_60_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_60_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_67_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500671,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_67_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500672,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_78_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500781,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_78_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500782,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_84_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500841,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_84_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500842,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_92_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500921,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_92_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500922,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_98_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500981,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_98_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160500982,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_110_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501101,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_110_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501102,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_126_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_126_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501262,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_135_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501351,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_135_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501352,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_146_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501461,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_146_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501462,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_156_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501561,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_156_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501562,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_163_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501631,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_163_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501632,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_189_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501891,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_189_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501892,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_117_1",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501171,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_5_117_2",
+        "LuaScriptFileName": "adventure_1_6_5",
+        "MasterLuaTextId": 30160501172,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "adventure_1_3_12_133_1",
@@ -7690,6 +10426,126 @@
         "LuaScriptFileName": "adventure_1_5_14",
         "MasterLuaTextId": 30151402392,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "Home_NPC_Elazul_29_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700291,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_29_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700292,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_35_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700351,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_35_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700352,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_41_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700411,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_41_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700412,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_46_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700461,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_46_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700462,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_51_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700511,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_51_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700512,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_57_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700571,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_57_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700572,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_63_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700631,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_63_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700632,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_69_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_69_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_75_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700751,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_75_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700752,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_81_1",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700811,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Home_NPC_Elazul_81_2",
+        "LuaScriptFileName": "Home_NPC_Elazul",
+        "MasterLuaTextId": 31050700812,
+        "ReleaseLabel": "release.event_scenario_2_start"
     },
     {
         "Label": "adventure_1_5_1_53_1",
@@ -22854,6 +25710,366 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_30002_1_36_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700361,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_36_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700362,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_49_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700491,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_49_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700492,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_55_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700551,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_55_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700552,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_64_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700641,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_64_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700642,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_77_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700771,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_77_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700772,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_83_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700831,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_83_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700832,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_94_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700941,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_94_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700942,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_98_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700981,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_98_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300700982,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_103_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_103_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701032,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_118_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701181,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_118_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701182,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_129_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701291,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_129_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701292,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_145_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701451,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_145_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701452,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_160_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701601,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_160_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701602,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_169_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_169_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_172_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701721,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_172_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701722,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_179_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701791,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_179_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701792,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_194_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701941,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_194_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701942,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_203_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_203_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702032,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_207_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702071,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_207_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702072,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_229_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702291,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_229_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702292,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_236_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702361,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_236_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702362,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_246_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702461,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_246_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702462,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_253_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702531,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_253_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702532,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_283_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702831,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_283_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702832,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_109_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701091,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_109_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300701092,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_220_1",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702201,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_1_220_2",
+        "LuaScriptFileName": "adventure_30002_1",
+        "MasterLuaTextId": 30300702202,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_1_6_8_33_1",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800331,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_33_2",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800332,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_26_1",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_26_2",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800262,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_31_1",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800311,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_31_2",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800312,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_41_1",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800411,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_8_41_2",
+        "LuaScriptFileName": "adventure_1_6_8",
+        "MasterLuaTextId": 30160800412,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "Label": "Home_NPC_Duran_29_1",
         "LuaScriptFileName": "Home_NPC_Duran",
         "MasterLuaTextId": 31030100291,
@@ -22996,6 +26212,54 @@
         "LuaScriptFileName": "Home_NPC_EoMMan",
         "MasterLuaTextId": 31110100262,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_9_35_1",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900351,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_35_2",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900352,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_24_1",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900241,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_24_2",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900242,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_28_1",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900281,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_28_2",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900282,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_43_1",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900431,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_9_43_2",
+        "LuaScriptFileName": "adventure_1_6_9",
+        "MasterLuaTextId": 30160900432,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "Home_NPC_Duffle_30_1",
@@ -23310,6 +26574,258 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_30002_2_35_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800351,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_35_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800352,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_39_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800391,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_39_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800392,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_46_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800461,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_46_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800462,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_65_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800651,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_65_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800652,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_69_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_69_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_76_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_76_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_80_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800801,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_80_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800802,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_97_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800971,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_97_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800972,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_111_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801111,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_111_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801112,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_119_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801191,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_119_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801192,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_126_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801261,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_126_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801262,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_130_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801301,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_130_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801302,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_144_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801441,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_144_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801442,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_150_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801501,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_150_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801502,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_166_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801661,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_166_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801662,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_171_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801711,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_171_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801712,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_176_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801761,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_176_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801762,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_188_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801881,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_188_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801882,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_58_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800581,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_58_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300800582,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_103_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_103_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801032,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_138_1",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801381,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_2_138_2",
+        "LuaScriptFileName": "adventure_30002_2",
+        "MasterLuaTextId": 30300801382,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
         "Label": "Home_NPC_Ben_29_1",
         "LuaScriptFileName": "Home_NPC_Ben",
         "MasterLuaTextId": 31030800291,
@@ -23416,6 +26932,42 @@
         "LuaScriptFileName": "Home_NPC_Ben",
         "MasterLuaTextId": 31030800732,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_10_33_1",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000331,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_10_33_2",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000332,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_10_37_1",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000371,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_10_37_2",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000372,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_10_46_1",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000461,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_10_46_2",
+        "LuaScriptFileName": "adventure_1_6_10",
+        "MasterLuaTextId": 30161000462,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "Home_NPC_Keldy_29_1",
@@ -23658,6 +27210,750 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_1_6_11_45_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100451,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_45_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100452,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_55_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100551,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_55_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100552,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_75_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100751,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_75_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100752,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_95_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100951,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_95_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100952,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_103_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101031,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_103_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101032,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_114_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101141,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_114_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101142,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_129_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101291,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_129_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101292,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_142_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101421,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_142_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101422,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_146_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101461,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_146_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101462,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_153_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101531,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_153_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101532,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_161_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101611,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_161_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101612,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_168_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101681,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_168_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101682,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_172_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101721,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_172_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101722,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_177_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101771,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_177_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101772,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_181_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101811,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_181_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101812,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_185_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101851,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_185_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101852,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_192_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101921,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_192_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101922,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_196_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101961,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_196_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161101962,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_210_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102101,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_210_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102102,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_220_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102201,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_220_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102202,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_229_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102291,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_229_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102292,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_235_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102351,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_235_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102352,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_248_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102481,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_248_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102482,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_253_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102531,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_253_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102532,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_266_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102661,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_266_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102662,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_286_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102861,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_286_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102862,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_295_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102951,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_295_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102952,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_314_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103141,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_314_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103142,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_323_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103231,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_323_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103232,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_336_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103361,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_336_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103362,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_348_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103481,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_348_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103482,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_357_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103571,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_357_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103572,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_365_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103651,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_365_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103652,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_369_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103691,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_369_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103692,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_378_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103781,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_378_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103782,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_385_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103851,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_385_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103852,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_415_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104151,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_415_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104152,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_419_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104191,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_419_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104192,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_426_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_426_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104262,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_430_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104301,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_430_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104302,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_441_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104411,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_441_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104412,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_445_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104451,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_445_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104452,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_244_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102441,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_244_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102442,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_490_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104901,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_490_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104902,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_495_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104951,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_495_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161104952,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_504_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105041,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_504_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105042,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_517_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105171,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_517_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105172,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_522_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105221,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_522_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105222,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_537_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105371,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_537_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105372,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_543_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105431,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_543_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105432,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_560_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_560_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_565_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105651,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_565_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105652,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_579_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105791,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_579_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105792,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_585_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105851,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_585_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105852,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_606_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106061,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_606_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106062,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_612_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106121,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_612_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106122,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_628_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106281,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_628_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106282,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_634_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106341,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_634_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161106342,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_593_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105931,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_593_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161105932,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_83_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100831,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_83_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161100832,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_200_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102001,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_200_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161102002,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_300_1",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103001,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_11_300_2",
+        "LuaScriptFileName": "adventure_1_6_11",
+        "MasterLuaTextId": 30161103002,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "Label": "adventure_1_4_8_27_1",
         "LuaScriptFileName": "adventure_1_4_8",
         "MasterLuaTextId": 30140800271,
@@ -23836,6 +28132,198 @@
         "LuaScriptFileName": "adventure_1_4_10",
         "MasterLuaTextId": 30141000592,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_1_6_6_1_83_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200831,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_83_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200832,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_87_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200871,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_87_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200872,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_105_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201051,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_105_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201052,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_116_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201161,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_116_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201162,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_129_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201291,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_129_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201292,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_147_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201471,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_147_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201472,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_160_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_160_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201602,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_172_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201721,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_172_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201722,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_177_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201771,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_177_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201772,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_189_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201891,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_189_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201892,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_193_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201931,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_193_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201932,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_199_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201991,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_199_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161201992,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_35_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200351,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_35_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200352,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_26_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200261,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_43_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200431,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_47_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200471,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_92_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200921,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_92_2",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200922,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_1_17_1",
+        "LuaScriptFileName": "adventure_1_6_6_1",
+        "MasterLuaTextId": 30161200171,
+        "ReleaseLabel": "release.story_1_6_start"
     },
     {
         "Label": "adventure_1_4_11_34_1",
@@ -25434,6 +29922,144 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "Label": "adventure_1_6_6_2_36_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300361,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_36_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300362,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_42_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300421,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_42_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300422,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_49_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300491,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_49_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300492,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_64_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300641,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_64_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300642,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_72_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300721,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_72_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300722,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_81_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300811,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_81_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300812,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_86_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300861,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_86_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300862,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_93_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300931,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_93_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300932,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_19_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300191,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_23_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300231,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_27_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300271,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_101_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161301011,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_106_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161301061,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_56_1",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300561,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "adventure_1_6_6_2_56_2",
+        "LuaScriptFileName": "adventure_1_6_6_2",
+        "MasterLuaTextId": 30161300562,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "Label": "AfterTutorialLottery_9_1",
         "LuaScriptFileName": "AfterTutorialLottery",
         "MasterLuaTextId": 30000100091,
@@ -25600,6 +30226,522 @@
         "LuaScriptFileName": "Home_NPC_Prime",
         "MasterLuaTextId": 31020200822,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "adventure_30002_5_28_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900281,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_28_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900282,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_32_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900321,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_32_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900322,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_44_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900441,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_44_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900442,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_53_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900531,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_53_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900532,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_64_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900641,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_64_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900642,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_73_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900731,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_73_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900732,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_77_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900771,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_77_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900772,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_82_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900821,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_82_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900822,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_86_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900861,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_86_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900862,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_91_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900911,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_91_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900912,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_107_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901071,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_107_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901072,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_115_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901151,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_115_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901152,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_121_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901211,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_121_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901212,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_127_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901271,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_127_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901272,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_134_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901341,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_134_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901342,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_148_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901481,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_148_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901482,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_182_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901821,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_182_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901822,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_194_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901941,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_194_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901942,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_202_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902021,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_202_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902022,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_218_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902181,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_218_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902182,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_226_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902261,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_226_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902262,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_233_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902331,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_233_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902332,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_239_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902391,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_239_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902392,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_243_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902431,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_243_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902432,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_247_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902471,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_247_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902472,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_253_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902531,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_253_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902532,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_260_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902601,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_260_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902602,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_269_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902691,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_269_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902692,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_277_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902771,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_277_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902772,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_284_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902841,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_284_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902842,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_290_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902901,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_290_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902902,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_298_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902981,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_298_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300902982,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_311_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903111,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_311_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903112,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_319_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903191,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_319_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903192,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_328_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903281,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_328_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903282,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_333_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903331,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_333_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903332,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_339_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903391,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_339_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903392,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_343_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903431,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_343_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903432,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_349_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903491,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_349_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903492,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_356_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903561,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_356_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903562,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_37_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900371,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_37_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300900372,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_187_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901871,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_187_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300901872,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_303_1",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903031,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "adventure_30002_5_303_2",
+        "LuaScriptFileName": "adventure_30002_5",
+        "MasterLuaTextId": 30300903032,
+        "ReleaseLabel": "release.event_scenario_2_start"
     },
     {
         "Label": "Home_NPC_EoMWoman_21_1",

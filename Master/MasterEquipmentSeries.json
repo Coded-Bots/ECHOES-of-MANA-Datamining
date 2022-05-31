@@ -47,6 +47,15 @@
     {
         "EfficacyTarget": 52,
         "EfficacyType": 1,
+        "EfficacyValueType": 3,
+        "MasterEquipmentFilterId": 103079215204,
+        "MasterEquipmentSeriesId": 3002000017,
+        "ReleaseLabel": "release.story_1_6_start",
+        "Value": 1
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
         "EfficacyValueType": 6,
         "MasterEquipmentFilterId": 103079227104,
         "MasterEquipmentSeriesId": 3002000018,

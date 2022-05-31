@@ -54,6 +54,36 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508300101,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "DamageRatio": 5000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508300102,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "DamageRatio": 7000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508300103,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "DamageRatio": 9000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508300104,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508400101,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "DamageRatio": 25000,
         "DirectionType": 1,
         "MasterDamageId": 10300508600101,

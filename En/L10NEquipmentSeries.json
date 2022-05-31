@@ -51,6 +51,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3002000017,
+        "Text": "Bone"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000017,
+        "Text": "[SELF] STR: +{0}"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000018,
         "Text": "Ivory"
     },

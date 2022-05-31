@@ -241,6 +241,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210305002011,
+        "Text": "Poison Dagger"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210305002011,
+        "Text": "[SELF] STR: +10% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210306001011,
         "Text": "Whirlwind Spear"
     },
@@ -408,6 +418,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210504002011,
         "Text": "Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210506001011,
+        "Text": "Blazing Hammer"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210506001011,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210507001011,
+        "Text": "Laser Blade"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210507001011,
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
         "ColumnName": "name",

@@ -616,5 +616,29 @@
         "MasterCharacterImageId": 600510303002,
         "ReleaseLabel": "release.lottery_202205_ranking_start",
         "Thumbnail": "KevinDefaultR4GloveDark"
+    },
+    {
+        "CardPath": "CardEffect/card_HawkeyeDefaultR4KnifeLight/card_HawkeyeDefaultR4KnifeLight",
+        "MasterCharacterImageId": 600510305002,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Thumbnail": "HawkeyeDefaultR4KnifeLight"
+    },
+    {
+        "CardPath": "CardEffect/card_LadyPearlDefaultR4AxeLight/card_LadyPearlDefaultR4AxeLight",
+        "MasterCharacterImageId": 600510506001,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Thumbnail": "LadyPearlDefaultR4AxeLight"
+    },
+    {
+        "CardPath": "CardEffect/card_ElazulDefaultR3SwordLight/card_ElazulDefaultR3SwordLight",
+        "MasterCharacterImageId": 600510507001,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Thumbnail": "ElazulDefaultR3SwordLight"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakCharacterElazulDefaultR3SwordLight/LimitBreakCharacterElazulDefaultR3SwordLight",
+        "MasterCharacterImageId": 600570019008,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Thumbnail": "LimitBreakCharacterElazulDefaultR3SwordLight"
     }
 ]

@@ -355,5 +355,26 @@
         "MasterSpecialAtkId": 30210303002011,
         "MaxPoint": 20,
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210305002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210506001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210507001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     }
 ]

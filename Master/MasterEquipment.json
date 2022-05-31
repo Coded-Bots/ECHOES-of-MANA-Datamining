@@ -181,6 +181,42 @@
     },
     {
         "EquipmentType": 4,
+        "IconPath": "117_Bone/Necklace",
+        "MasterEquipmentId": 3001017401,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentSeriesId": 3002000017,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start",
+        "RequiredGarethSeries": 0,
+        "RequiredGender": 0,
+        "RequiredUnitId": 0
+    },
+    {
+        "EquipmentType": 5,
+        "IconPath": "117_Bone/Ring",
+        "MasterEquipmentId": 3001017501,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentSeriesId": 3002000017,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start",
+        "RequiredGarethSeries": 0,
+        "RequiredGender": 0,
+        "RequiredUnitId": 0
+    },
+    {
+        "EquipmentType": 6,
+        "IconPath": "117_Bone/Special",
+        "MasterEquipmentId": 3001017601,
+        "MasterEquipmentLevelGroupId": 1,
+        "MasterEquipmentSeriesId": 3002000017,
+        "Name": "",
+        "ReleaseLabel": "release.story_1_6_start",
+        "RequiredGarethSeries": 0,
+        "RequiredGender": 0,
+        "RequiredUnitId": 0
+    },
+    {
+        "EquipmentType": 4,
         "IconPath": "118_Ivory/Necklace",
         "MasterEquipmentId": 3001018401,
         "MasterEquipmentLevelGroupId": 1,

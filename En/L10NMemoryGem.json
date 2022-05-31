@@ -131,6 +131,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001020009,
+        "Text": "Krissie"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001020009,
+        "Text": "As the young leader of the resistance, Krissie works with her allies at a cafe which serves as a hideout for their organization. Randi seems to have some feelings for her."
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001030001,
         "Text": "Machine Golem Shuffle"
     },
@@ -218,6 +228,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 4001030009,
         "Text": "On a full moon night, Kevin is attacked by Karl without warning. As his self-control slips away, the beast within him awakens.\n'Urrr! Gah...! Stop!!!'\n'Body's moving on its own!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001030010,
+        "Text": "Chasing the Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001030010,
+        "Text": "In Astoria while staying at an inn, Riesz is awakened by a strange light shining through the window. Chasing after the light, she comes to find a weakened Faerie collapsed onto the ground.\n'Are you hurt?'\n'Ugh... I-I'm alright. Who are you?'\n'I am Riesz of Laurent, captain of the Amazon guard. I saw the light from Astoria.'"
     },
     {
         "ColumnName": "name",
@@ -371,6 +391,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001060006,
+        "Text": "Gaia's Gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001060006,
+        "Text": "In the deepest parts of the fiery sands of Jadd, Wanderer defeats Thaydol. This awakens Gaia, who tasks Wanderer with restoring the world to its proper state.\n'Listen well, niccolo. I know neither his intentions nor his tactics as of yet. But you must stop that man at any cost...even if it defies the will of the planet.'\n'Stop who? What is the 'will of the planet'?'\n'Take this with you...'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001110001,
         "Text": "Set Off for Adventure"
     },
@@ -421,6 +451,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001110006,
+        "Text": "Dusk on a Hilltop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001110006,
+        "Text": "After wandering her way through curious settings, a path leads Quilta up a small hill. There, she meets Nona, one of the twin sisters, and patiently listens to her story of the Mana clan.\n'It's weird. We've only just met, but you already got me to open up about that. I wonder why...'\n'Nona! I knew I'd find you here.'\n'Oh hey, Diospyros! What's up?'\n''What's up'!? I heard you ran away, so I came to find you—that's what's up!'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111001,
         "Text": "The Tower on High"
     },
@@ -438,6 +478,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 4001111003,
         "Text": "The Scorpion Army rolls in to the steal the tournament in the final round. But Randi, Duran, and Quilto work together to wreak havoc on their robotic enemy.\n'At least we won, right? All's well that ends well.'\n'Too bad they got away though. And I am a little disappointed I didn't get to see the end of your fight!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001111004,
+        "Text": "Show of Faith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001111004,
+        "Text": "Cornered into a cave by the Du'Inke with an injured Hawkeye, Quilta, Black Pearl, and Elazul band together in the face of danger after a rocky start.\n\n'Follow me!'\n'Gutsy enough to order around two Jumi Knights, eh? How amusing! You'd better have my back, too!'\n'Let's do this. No matter what stands in my way, there's only one thing for me to do—carve a way out for my comrades!'"
     },
     {
         "ColumnName": "name",

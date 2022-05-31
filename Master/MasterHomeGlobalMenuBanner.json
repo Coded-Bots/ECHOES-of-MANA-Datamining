@@ -24,6 +24,14 @@
         "TransitionParameter": 0
     },
     {
+        "BannerImage": "Lottery/20041/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010004,
+        "Priority": 40531,
+        "ReleaseLabel": "release.lottery_202206_scenario",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
         "BannerImage": "Lottery/2007/banner",
         "MasterHomeGlobalMenuBannerId": 12002010007,
         "Priority": 40513,
@@ -70,5 +78,21 @@
         "ReleaseLabel": "release.event_ranking_202205_1",
         "Transition": 3,
         "TransitionParameter": 210032001101
+    },
+    {
+        "BannerImage": "Event/30002/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031004,
+        "Priority": 30531,
+        "ReleaseLabel": "release.event_scenario_2",
+        "Transition": 3,
+        "TransitionParameter": 210030002101
+    },
+    {
+        "BannerImage": "Main/1-6/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031005,
+        "Priority": 30529,
+        "ReleaseLabel": "release.story_1_6_banner",
+        "Transition": 3,
+        "TransitionParameter": 210010006101
     }
 ]

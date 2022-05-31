@@ -118,5 +118,15 @@
         "RankSBonusRate": 2000,
         "RankSTime": 120,
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000015,
+        "RankABonusRate": 1000,
+        "RankATime": 180,
+        "RankBBonusRate": 0,
+        "RankBTime": 200,
+        "RankSBonusRate": 2000,
+        "RankSTime": 150,
+        "ReleaseLabel": "release.event_scenario_2_start"
     }
 ]

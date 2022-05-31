@@ -18,5 +18,15 @@
         "ColumnName": "description",
         "LocalizationTargetId": 1080003,
         "Text": "Used for harvesting at the 4★ Memory Gem Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080004,
+        "Text": "Bronze Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080004,
+        "Text": "Used for harvesting at the Bronze Harvest"
     }
 ]

@@ -20,6 +20,10 @@
         "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000017,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "MasterLotteryEquipmentSeriesGroupId": 540000000018,
         "ReleaseLabel": "release.initial"
     },

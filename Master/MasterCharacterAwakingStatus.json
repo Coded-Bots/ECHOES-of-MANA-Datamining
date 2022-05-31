@@ -559,5 +559,38 @@
         "MaxPhyAtk": 879,
         "MaxPhyDef": 763,
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410305002,
+        "MaxHp": 1730,
+        "MaxLuck": 113,
+        "MaxMagAtk": 756,
+        "MaxMagDef": 605,
+        "MaxMp": 290,
+        "MaxPhyAtk": 809,
+        "MaxPhyDef": 605,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410506001,
+        "MaxHp": 1613,
+        "MaxLuck": 99,
+        "MaxMagAtk": 778,
+        "MaxMagDef": 675,
+        "MaxMp": 272,
+        "MaxPhyAtk": 901,
+        "MaxPhyDef": 675,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410507001,
+        "MaxHp": 1199,
+        "MaxLuck": 80,
+        "MaxMagAtk": 554,
+        "MaxMagDef": 518,
+        "MaxMp": 214,
+        "MaxPhyAtk": 532,
+        "MaxPhyDef": 518,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     }
 ]

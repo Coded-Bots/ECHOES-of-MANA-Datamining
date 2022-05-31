@@ -6,6 +6,11 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 12001021002,
+        "Text": "Spirit Crystal Packs"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 12001040001,
         "Text": ""
     }

@@ -2161,6 +2161,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500201,
+        "Text": "Spinning Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500201,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500202,
+        "Text": "Spinning Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500202,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500203,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500203,
+        "Text": "[TARGET] STR: -35% (25s) (Effect boosts by SLv.)/CON: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500203,
+        "Text": "[TARGET] STR: -35% (25s) (Effect boosts by SLv.)/CON: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500204,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500204,
+        "Text": "[TARGET] STR: -40% (25s) (Effect boosts by SLv.)/CON: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500204,
+        "Text": "[TARGET] STR: -40% (25s) (Effect boosts by SLv.)/CON: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500205,
+        "Text": "Poison Dagger"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500205,
+        "Text": "[SELF] STR: +10% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030500206,
+        "Text": "Poison Dagger"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030500206,
+        "Text": "[SELF] STR: +10% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030500206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301030600101,
         "Text": "Torrential Thrust"
     },
@@ -3687,6 +3777,186 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301050400206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600101,
+        "Text": "Blammo"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600101,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600102,
+        "Text": "Blammo"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600102,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600103,
+        "Text": "Black Pearl Iridescence"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600103,
+        "Text": "[SELF] STR: +15% (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600103,
+        "Text": "[SELF] STR: +15% (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600104,
+        "Text": "Black Pearl Iridescence"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600104,
+        "Text": "[SELF] STR: +15% (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600104,
+        "Text": "[SELF] STR: +15% (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600105,
+        "Text": "Blazing Hammer"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600105,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050600106,
+        "Text": "Blazing Hammer"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050600106,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050600106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700101,
+        "Text": "Iai Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700101,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700102,
+        "Text": "Iai Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700102,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700103,
+        "Text": "Knightly Wisdom"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700103,
+        "Text": "[SELF] Gain SA (50s)/CON: +25% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700103,
+        "Text": "[SELF] Gain SA (50s)/CON: +25% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700104,
+        "Text": "Knightly Wisdom"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700104,
+        "Text": "[SELF] Gain SA (50s)/CON: +35% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700104,
+        "Text": "[SELF] Gain SA (50s)/CON: +35% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700105,
+        "Text": "Laser Blade"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700105,
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050700106,
+        "Text": "Laser Blade"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050700106,
+        "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050700106,
         "Text": ""
     },
     {

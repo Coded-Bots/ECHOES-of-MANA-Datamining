@@ -178,5 +178,41 @@
         "MasterBingoMissionSheetId": 8003000112,
         "ReleaseLabel": "release.event_scenario_1",
         "ThresholdDays": 0
+    },
+    {
+        "BannerPath": "BingoMission/event_bingo_mission_02",
+        "BingoLineRewardGroupId1": 420021500026,
+        "BingoLineRewardGroupId2": 420021500027,
+        "BingoLineRewardGroupId3": 420021500028,
+        "BingoLineRewardGroupId4": 420021500029,
+        "BingoLineRewardGroupId5": 420021500030,
+        "BingoLineRewardGroupId6": 420021500028,
+        "BingoLineRewardGroupId7": 420021500029,
+        "BingoLineRewardGroupId8": 420021500030,
+        "BingoSheetCategory": 1,
+        "CompleteRewardGroupId": 420021500031,
+        "GroupId": 12,
+        "Index": 1,
+        "MasterBingoMissionSheetId": 8003000121,
+        "ReleaseLabel": "release.event_scenario_2",
+        "ThresholdDays": 0
+    },
+    {
+        "BannerPath": "BingoMission/event_bingo_mission_02",
+        "BingoLineRewardGroupId1": 420021500026,
+        "BingoLineRewardGroupId2": 420021500027,
+        "BingoLineRewardGroupId3": 420021500032,
+        "BingoLineRewardGroupId4": 420021500032,
+        "BingoLineRewardGroupId5": 420021500033,
+        "BingoLineRewardGroupId6": 420021500034,
+        "BingoLineRewardGroupId7": 420021500035,
+        "BingoLineRewardGroupId8": 420021500036,
+        "BingoSheetCategory": 1,
+        "CompleteRewardGroupId": 420021500031,
+        "GroupId": 12,
+        "Index": 2,
+        "MasterBingoMissionSheetId": 8003000122,
+        "ReleaseLabel": "release.event_scenario_2",
+        "ThresholdDays": 0
     }
 ]

@@ -230,6 +230,31 @@
         "ReleaseLabel": "release.event_tower_202205_start"
     },
     {
+        "Label": "Timeline.31",
+        "MasterMessageId": 303130031,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "Timeline.32",
+        "MasterMessageId": 303130032,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "Timeline.33",
+        "MasterMessageId": 303130033,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "Label": "Timeline.34",
+        "MasterMessageId": 303130034,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Label": "Timeline.35",
+        "MasterMessageId": 303130035,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
         "Label": "General.Sort.Rarity",
         "MasterMessageId": 303010001,
         "ReleaseLabel": "release.initial"

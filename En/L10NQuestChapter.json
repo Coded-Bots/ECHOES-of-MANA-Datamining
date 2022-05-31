@@ -2206,6 +2206,426 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210010006101,
+        "Text": "The Dollhouse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006102,
+        "Text": "Where Jewels Glitter"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006102,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006103,
+        "Text": "The Mekiv Caverns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006103,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006104,
+        "Text": "Savage Cry of the Ape"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006104,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006105,
+        "Text": "The Lost Princess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006106,
+        "Text": "Where Echoes Resound"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006106,
+        "Text": "Effective: Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006107,
+        "Text": "A Boy and a Maiden"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006108,
+        "Text": "Peculiar Patchwork Path"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006108,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006109,
+        "Text": "The Weeping Echo"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006109,
+        "Text": "Effective: Wood, Dark, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006110,
+        "Text": "Past the Impasse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006110,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006111,
+        "Text": "Finding Her Voice"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006112,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006112,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006112,
+        "Text": "Effective: Wood, Dark, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006202,
+        "Text": "Where Jewels Glitter"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006202,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006203,
+        "Text": "The Mekiv Caverns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006203,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006203,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006204,
+        "Text": "Savage Cry of the Ape"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006204,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006206,
+        "Text": "Where Echoes Resound"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006206,
+        "Text": "Effective: Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006208,
+        "Text": "Peculiar Patchwork Path"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006208,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006208,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006209,
+        "Text": "The Weeping Echo"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006209,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006209,
+        "Text": "Effective: Wood, Dark, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006210,
+        "Text": "Past the Impasse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006210,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006210,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006212,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006212,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006212,
+        "Text": "Effective: Wood, Dark, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006302,
+        "Text": "Where Jewels Glitter"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006302,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006303,
+        "Text": "The Mekiv Caverns"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006303,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006304,
+        "Text": "Savage Cry of the Ape"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006304,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006306,
+        "Text": "Where Echoes Resound"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006306,
+        "Text": "Effective: Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006308,
+        "Text": "Peculiar Patchwork Path"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006308,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006308,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006309,
+        "Text": "The Weeping Echo"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006309,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006309,
+        "Text": "Effective: Wood, Dark, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006310,
+        "Text": "Past the Impasse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006310,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006310,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010006312,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010006312,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010006312,
+        "Text": "Effective: Wood, Dark, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210020001101,
         "Text": "Flame Altar Vigil (Easy I)"
     },
@@ -3313,6 +3733,291 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210030001119,
         "Text": "Go all out when they're fully charged! Stopping their big attack knocks them down!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002101,
+        "Text": "Prologue"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002102,
+        "Text": "A Sore Knight I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002103,
+        "Text": "A Sore Knight II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002103,
+        "Text": "Effective: Light, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002104,
+        "Text": "A Sore Knight III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002104,
+        "Text": "Effective: Light, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002105,
+        "Text": "Lapis Lazuli I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002106,
+        "Text": "Lapis Lazuli II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002106,
+        "Text": "Effective: Light, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002107,
+        "Text": "Lapis Lazuli III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002107,
+        "Text": "Effective: Light, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002108,
+        "Text": "Knight & Destiny I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002109,
+        "Text": "Knight & Destiny II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002109,
+        "Text": "Effective: Light, Fire, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002110,
+        "Text": "Knight & Destiny III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002110,
+        "Text": "Effective: Light, Fire, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002111,
+        "Text": "Black Pearl I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002112,
+        "Text": "Black Pearl II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002112,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002112,
+        "Text": "Effective: Light, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002113,
+        "Text": "Black Pearl III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002113,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002113,
+        "Text": "Effective: Light, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002114,
+        "Text": "For Whom It Shines I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002115,
+        "Text": "For Whom It Shines II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002115,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002115,
+        "Text": "Effective: Light\nWhen pillars appear, go all out!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002116,
+        "Text": "A Luster Found"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002117,
+        "Text": "For Whom It Shines (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002117,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002117,
+        "Text": "Effective: Light\nWhen pillars appear, go all out!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002118,
+        "Text": "For Whom It Shines (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002118,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002118,
+        "Text": "Effective: Light\nWhen pillars appear, go all out!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030002119,
+        "Text": "For Whom It Shines (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030002119,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030002119,
+        "Text": "Effective: Light\nWhen pillars appear, go all out!"
     },
     {
         "ColumnName": "name",

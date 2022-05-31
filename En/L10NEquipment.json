@@ -76,6 +76,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3001017401,
+        "Text": "Bone Pendant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001017501,
+        "Text": "Bone Ring"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001017601,
+        "Text": "Bone Boots"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3001018401,
         "Text": "Ivory Pendant"
     },

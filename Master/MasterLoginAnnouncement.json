@@ -22,6 +22,28 @@
         "TransitionType": 0
     },
     {
+        "Bgm": "BGM_GACHA03",
+        "ImagePath": "loginimage_0005",
+        "LoginAnnouncementType": 1,
+        "MasterLoginAnnouncementId": 12003002004,
+        "MoviePath": "ReleaseUnit/Lottery/20041/login.usm",
+        "Priority": 20041,
+        "ReleaseLabel": "release.lottery_202206_scenario",
+        "TargetId": 0,
+        "TransitionType": 0
+    },
+    {
+        "Bgm": "",
+        "ImagePath": "loginimage_0003",
+        "LoginAnnouncementType": 0,
+        "MasterLoginAnnouncementId": 12003001002,
+        "MoviePath": "",
+        "Priority": 12,
+        "ReleaseLabel": "release.shop_202206_zouryou",
+        "TargetId": 0,
+        "TransitionType": 0
+    },
+    {
         "Bgm": "",
         "ImagePath": "loginimage_0004",
         "LoginAnnouncementType": 0,
@@ -29,6 +51,17 @@
         "MoviePath": "",
         "Priority": 10,
         "ReleaseLabel": "release.shop_202205_pack_start",
+        "TargetId": 0,
+        "TransitionType": 0
+    },
+    {
+        "Bgm": "",
+        "ImagePath": "loginimage_0006",
+        "LoginAnnouncementType": 0,
+        "MasterLoginAnnouncementId": 12003001004,
+        "MoviePath": "",
+        "Priority": 13,
+        "ReleaseLabel": "release.shop_202206_pack_start",
         "TargetId": 0,
         "TransitionType": 0
     }

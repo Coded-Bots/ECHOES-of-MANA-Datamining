@@ -961,6 +961,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110305002011,
+        "Text": "Spinning Slash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110305002011,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110305002012,
+        "Text": "Spinning Slash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110305002012,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110305002021,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110305002021,
+        "Text": "[TARGET] STR: -35% (25s) (Effect boosts by SLv.)/CON: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110305002022,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110305002022,
+        "Text": "[TARGET] STR: -40% (25s) (Effect boosts by SLv.)/CON: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110306001011,
         "Text": "Torrential Thrust"
     },
@@ -1638,6 +1678,86 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110504002022,
         "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110506001011,
+        "Text": "Blammo"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110506001011,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110506001012,
+        "Text": "Blammo"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110506001012,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110506001021,
+        "Text": "Black Pearl Iridescence"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110506001021,
+        "Text": "[SELF] STR: +15% (60s)/CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110506001022,
+        "Text": "Black Pearl Iridescence"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110506001022,
+        "Text": "[SELF] STR: +15% (60s)/CON: +45% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110507001011,
+        "Text": "Iai Strike"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110507001011,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110507001012,
+        "Text": "Iai Strike"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110507001012,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110507001021,
+        "Text": "Knightly Wisdom"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110507001021,
+        "Text": "[SELF] Gain SA (50s)/CON: +25% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110507001022,
+        "Text": "Knightly Wisdom"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110507001022,
+        "Text": "[SELF] Gain SA (50s)/CON: +35% (50s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",

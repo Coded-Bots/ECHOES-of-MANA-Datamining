@@ -1400,6 +1400,41 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "GroupId": 11000601,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31301100060100,
+        "MasterPassiveSkillId": 31100011000601,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "GroupId": 11000601,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31301100060101,
+        "MasterPassiveSkillId": 31100011000611,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "GroupId": 11000601,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31301100060102,
+        "MasterPassiveSkillId": 31100011000621,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "GroupId": 11000601,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31301100060103,
+        "MasterPassiveSkillId": 31100011000631,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "GroupId": 11000601,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31301100060104,
+        "MasterPassiveSkillId": 31100011000641,
+        "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
         "GroupId": 11100101,
         "LimitBreakCount": 0,
         "MasterMemoryGemPassiveSkillId": 31301110010100,
@@ -1573,5 +1608,145 @@
         "MasterMemoryGemPassiveSkillId": 31300300090104,
         "MasterPassiveSkillId": 31100003000941,
         "ReleaseLabel": "release.lottery_202205_ranking_start"
+    },
+    {
+        "GroupId": 3001001,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31300300100100,
+        "MasterPassiveSkillId": 31100003001001,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 3001001,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31300300100101,
+        "MasterPassiveSkillId": 31100003001011,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 3001001,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31300300100102,
+        "MasterPassiveSkillId": 31100003001021,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 3001001,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31300300100103,
+        "MasterPassiveSkillId": 31100003001031,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 3001001,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31300300100104,
+        "MasterPassiveSkillId": 31100003001041,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 6000601,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31300600060100,
+        "MasterPassiveSkillId": 31100006000601,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 6000601,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31300600060101,
+        "MasterPassiveSkillId": 31100006000611,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 6000601,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31300600060102,
+        "MasterPassiveSkillId": 31100006000621,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 6000601,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31300600060103,
+        "MasterPassiveSkillId": 31100006000631,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 6000601,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31300600060104,
+        "MasterPassiveSkillId": 31100006000641,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 2000901,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31300200090100,
+        "MasterPassiveSkillId": 31100002000901,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 2000901,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31300200090101,
+        "MasterPassiveSkillId": 31100002000911,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 2000901,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31300200090102,
+        "MasterPassiveSkillId": 31100002000921,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 2000901,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31300200090103,
+        "MasterPassiveSkillId": 31100002000931,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 2000901,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31300200090104,
+        "MasterPassiveSkillId": 31100002000941,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 11100401,
+        "LimitBreakCount": 0,
+        "MasterMemoryGemPassiveSkillId": 31301110040100,
+        "MasterPassiveSkillId": 31100011100401,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 11100401,
+        "LimitBreakCount": 1,
+        "MasterMemoryGemPassiveSkillId": 31301110040101,
+        "MasterPassiveSkillId": 31100011100411,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 11100401,
+        "LimitBreakCount": 2,
+        "MasterMemoryGemPassiveSkillId": 31301110040102,
+        "MasterPassiveSkillId": 31100011100421,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 11100401,
+        "LimitBreakCount": 3,
+        "MasterMemoryGemPassiveSkillId": 31301110040103,
+        "MasterPassiveSkillId": 31100011100431,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "GroupId": 11100401,
+        "LimitBreakCount": 4,
+        "MasterMemoryGemPassiveSkillId": 31301110040104,
+        "MasterPassiveSkillId": 31100011100441,
+        "ReleaseLabel": "release.lottery_202206_scenario_start"
     }
 ]

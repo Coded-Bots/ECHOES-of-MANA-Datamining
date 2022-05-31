@@ -6201,6 +6201,406 @@
     },
     {
         "Level": 1,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000012,
+        "MasterUserLinkLevelId": 202050601,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 1,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050602,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 3,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050603,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 2,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 30
+    },
+    {
+        "Level": 4,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050604,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 60
+    },
+    {
+        "Level": 5,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050605,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 3,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 100
+    },
+    {
+        "Level": 6,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050606,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 200
+    },
+    {
+        "Level": 7,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050607,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 4,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 400
+    },
+    {
+        "Level": 8,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050608,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 800
+    },
+    {
+        "Level": 9,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050609,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 5,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 1600
+    },
+    {
+        "Level": 10,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050610,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 3200
+    },
+    {
+        "Level": 11,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050611,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 6,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 6400
+    },
+    {
+        "Level": 12,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050612,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 12800
+    },
+    {
+        "Level": 13,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050613,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 7,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 25600
+    },
+    {
+        "Level": 14,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050614,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 51200
+    },
+    {
+        "Level": 15,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050615,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 8,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 100000
+    },
+    {
+        "Level": 16,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050616,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 150000
+    },
+    {
+        "Level": 17,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050617,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 9,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 200000
+    },
+    {
+        "Level": 18,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050618,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 250000
+    },
+    {
+        "Level": 19,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050619,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 10,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 300000
+    },
+    {
+        "Level": 20,
+        "MasterIdentityId": 600100010506,
+        "MasterRewardGroupId": 420023000006,
+        "MasterUserLinkLevelId": 202050620,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 400000
+    },
+    {
+        "Level": 1,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000012,
+        "MasterUserLinkLevelId": 202050701,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 1,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 0
+    },
+    {
+        "Level": 2,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050702,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 10
+    },
+    {
+        "Level": 3,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050703,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 2,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 30
+    },
+    {
+        "Level": 4,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050704,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 60
+    },
+    {
+        "Level": 5,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050705,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 3,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 100
+    },
+    {
+        "Level": 6,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050706,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 200
+    },
+    {
+        "Level": 7,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050707,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 4,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 400
+    },
+    {
+        "Level": 8,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050708,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 800
+    },
+    {
+        "Level": 9,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050709,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 5,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 1600
+    },
+    {
+        "Level": 10,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050710,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 3200
+    },
+    {
+        "Level": 11,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050711,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 6,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 6400
+    },
+    {
+        "Level": 12,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050712,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 12800
+    },
+    {
+        "Level": 13,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050713,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 7,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 25600
+    },
+    {
+        "Level": 14,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050714,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 51200
+    },
+    {
+        "Level": 15,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050715,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 8,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 100000
+    },
+    {
+        "Level": 16,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050716,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 150000
+    },
+    {
+        "Level": 17,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050717,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 9,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 200000
+    },
+    {
+        "Level": 18,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000001,
+        "MasterUserLinkLevelId": 202050718,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 250000
+    },
+    {
+        "Level": 19,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000002,
+        "MasterUserLinkLevelId": 202050719,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 10,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 300000
+    },
+    {
+        "Level": 20,
+        "MasterIdentityId": 600100010507,
+        "MasterRewardGroupId": 420023000006,
+        "MasterUserLinkLevelId": 202050720,
+        "OpenTalkLimitLinkLevel": 0,
+        "OpenTalkNumber": 0,
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "RequiredExp": 400000
+    },
+    {
+        "Level": 1,
         "MasterIdentityId": 600100010601,
         "MasterRewardGroupId": 420023000012,
         "MasterUserLinkLevelId": 202060101,

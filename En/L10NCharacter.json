@@ -121,6 +121,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210305002,
+        "Text": "Pride of Thieves"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210305099,
         "Text": "Tutorial"
     },
@@ -208,6 +213,16 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210504002,
         "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210506001,
+        "Text": "Jumi's Finest"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210507001,
+        "Text": "Young Jumi Knight"
     },
     {
         "ColumnName": "title",
@@ -512,6 +527,11 @@
     {
         "ColumnName": "title",
         "LocalizationTargetId": 600270019007,
+        "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600270019008,
         "Text": ""
     }
 ]

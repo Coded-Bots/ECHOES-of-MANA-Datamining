@@ -5,5 +5,12 @@
         "MessageViewLabel": "Quest.PleaseWaitEpisodeUpdate",
         "MessageViewType": 1,
         "ReleaseLabel": "release.story_1_5_quest_chapter_message"
+    },
+    {
+        "MasterQuestChapterId": 210010006112,
+        "MasterQuestChapterMessageId": 280005000002,
+        "MessageViewLabel": "Quest.PleaseWaitEpisodeUpdate",
+        "MessageViewType": 1,
+        "ReleaseLabel": "release.story_1_6_quest_chapter_message"
     }
 ]

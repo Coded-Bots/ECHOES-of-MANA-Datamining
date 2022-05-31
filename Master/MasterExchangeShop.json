@@ -42,6 +42,12 @@
         "ShopCategory": 4
     },
     {
+        "MasterExchangeShopId": 41000040003,
+        "Priority": 12,
+        "ReleaseLabel": "release.event_scenario_2_exchange",
+        "ShopCategory": 4
+    },
+    {
         "MasterExchangeShopId": 41000060002,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202204_release_exchange",
@@ -60,6 +66,12 @@
         "ShopCategory": 6
     },
     {
+        "MasterExchangeShopId": 41000060005,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202206_scenario_exchange",
+        "ShopCategory": 6
+    },
+    {
         "MasterExchangeShopId": 41000060008,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202205_hero_exchange",
@@ -69,6 +81,12 @@
         "MasterExchangeShopId": 41000060009,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202205_angela_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000063001,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_rabite_coin_trader_start",
         "ShopCategory": 6
     }
 ]

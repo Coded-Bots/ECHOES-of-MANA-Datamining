@@ -241,6 +241,86 @@
     },
     {
         "Achievement": 6,
+        "MasterMultiAchievementId": 61003000206,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 0,
+        "Rank": 24,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 9,
+        "MasterMultiAchievementId": 61003000209,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 3,
+        "MasterMultiAchievementId": 61003000203,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 2,
+        "MasterMultiAchievementId": 61003000202,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 8,
+        "MasterMultiAchievementId": 61003000208,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 7,
+        "MasterMultiAchievementId": 61003000207,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 1,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 5,
+        "MasterMultiAchievementId": 61003000205,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 4,
+        "MasterMultiAchievementId": 61003000204,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 1,
+        "MasterMultiAchievementId": 61003000201,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 10,
+        "MasterMultiAchievementId": 61003000210,
+        "MasterQuestEpisodeId": 200000030002,
+        "Priority": 2,
+        "Rank": 32,
+        "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "Achievement": 6,
         "MasterMultiAchievementId": 61003100106,
         "MasterQuestEpisodeId": 200000031001,
         "Priority": 0,

@@ -16,6 +16,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 6007002004,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 6007002007,
         "Text": "Harvest Trader Points"
     },

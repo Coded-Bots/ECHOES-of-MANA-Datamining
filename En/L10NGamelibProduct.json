@@ -681,6 +681,66 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 11001000167,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000167,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000168,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000168,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000169,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000169,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000170,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000170,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000171,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000171,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000172,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000172,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 11001000179,
         "Text": "Ranking Support Pack"
     },
@@ -778,5 +838,65 @@
         "ColumnName": "description",
         "LocalizationTargetId": 11001000188,
         "Text": "Get the Gear Upgrade Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000199,
+        "Text": "1MonANVSRY 3S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000199,
+        "Text": "1 Month ANVSRY 3-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000200,
+        "Text": "1MonANVSRY 3S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000200,
+        "Text": "1 Month ANVSRY 3-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000201,
+        "Text": "1MonANVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000201,
+        "Text": "1 Month ANVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000202,
+        "Text": "1MonANVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000202,
+        "Text": "1 Month ANVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000203,
+        "Text": "1MonANVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000203,
+        "Text": "1 Month ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000204,
+        "Text": "1MonANVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000204,
+        "Text": "1 Month ANVSRY 4-Star Ally Unleash Pack!"
     }
 ]

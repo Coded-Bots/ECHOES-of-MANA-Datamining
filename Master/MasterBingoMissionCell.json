@@ -628,5 +628,131 @@
         "MasterMissionId": 8001051129,
         "Position": 9,
         "ReleaseLabel": "release.event_scenario_1"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001211,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051130,
+        "Position": 1,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001212,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051131,
+        "Position": 2,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001213,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051132,
+        "Position": 3,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001214,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051133,
+        "Position": 4,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001215,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051134,
+        "Position": 5,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001216,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051135,
+        "Position": 6,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001217,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051136,
+        "Position": 7,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001218,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051137,
+        "Position": 8,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001219,
+        "MasterBingoMissionSheetId": 8003000121,
+        "MasterMissionId": 8001051138,
+        "Position": 9,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001221,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051139,
+        "Position": 1,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001222,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051140,
+        "Position": 2,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001223,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051141,
+        "Position": 3,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001224,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051142,
+        "Position": 4,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001225,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051143,
+        "Position": 5,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001226,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051144,
+        "Position": 6,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001227,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051145,
+        "Position": 7,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001228,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051146,
+        "Position": 8,
+        "ReleaseLabel": "release.event_scenario_2"
+    },
+    {
+        "MasterBingoMissionCellId": 8004001229,
+        "MasterBingoMissionSheetId": 8003000122,
+        "MasterMissionId": 8001051147,
+        "Position": 9,
+        "ReleaseLabel": "release.event_scenario_2"
     }
 ]

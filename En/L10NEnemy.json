@@ -376,6 +376,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205020001,
+        "Text": "Lizardon"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205022001,
         "Text": "Kid Dragon"
     },
@@ -581,6 +586,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205030006,
+        "Text": "Golden Chess"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205031001,
         "Text": "Poto"
     },
@@ -662,6 +672,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205034007,
+        "Text": "Mushboom"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205034008,
         "Text": "Mushboom"
     },
     {
@@ -912,6 +927,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205047003,
+        "Text": "Batmo"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205047004,
         "Text": "Batmo"
     },
     {
@@ -1581,6 +1601,51 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205083001,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083002,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083003,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083004,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083005,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083006,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084001,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084002,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084003,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205086001,
         "Text": "Guardian"
     },
@@ -1648,5 +1713,15 @@
         "ColumnName": "name",
         "LocalizationTargetId": 700205093004,
         "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205096001,
+        "Text": "Stone Pillar"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205096002,
+        "Text": "Stone Pillar"
     }
 ]

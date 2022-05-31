@@ -11,13 +11,28 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001010003,
+        "Text": "Changing Worlds"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001011001,
         "Text": "The Faerie's Guide"
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001011002,
+        "Text": "A Spirit and a Maiden"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001012001,
         "Text": "The Remnant"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001012002,
+        "Text": "The Lost Princess"
     },
     {
         "ColumnName": "title_name",

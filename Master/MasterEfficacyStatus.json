@@ -3597,6 +3597,28 @@
         "Value": 11200
     },
     {
+        "Duration": 10.0,
+        "EfficacyStatusType": 49,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161601005,
+        "Name": "光属性ダメージを5％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Slot": 1,
+        "Value": 10500
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 49,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161601010,
+        "Name": "光属性ダメージを10％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Slot": 1,
+        "Value": 11000
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 74,
         "EfficacyValueType": 2,
@@ -3650,6 +3672,28 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 12000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 74,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101131101030,
+        "Name": "必殺技ゲージ上昇率を30％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Slot": 1,
+        "Value": 13000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 74,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101131101060,
+        "Name": "必殺技ゲージ上昇率を60％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Slot": 1,
+        "Value": 16000
     },
     {
         "Duration": 0.0,

@@ -62,6 +62,21 @@
     {
         "AdText1": "",
         "AdText2": "",
+        "BannerPath": "Lottery/20041/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Lottery/20041/banner",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001020041,
+        "MoviePath": "ReleaseUnit/Lottery/20041/gacha_top.usm",
+        "Name": "",
+        "Priority": 79469,
+        "ReleaseLabel": "release.lottery_202206_scenario"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
         "BannerPath": "Lottery/2007/top",
         "Description": "",
         "DisplayTime": 0,
@@ -118,5 +133,20 @@
         "Name": "",
         "Priority": 89484,
         "ReleaseLabel": "release.lottery_202205_release_ticket"
+    },
+    {
+        "AdText1": "",
+        "AdText2": "",
+        "BannerPath": "Lottery/3004/top",
+        "Description": "",
+        "DisplayTime": 0,
+        "GlobalMenuBannerPath": "Test/Banner/lottery001",
+        "IsTutorial": false,
+        "LogoPath": "",
+        "MasterLotteryShopId": 6001003004,
+        "MoviePath": "",
+        "Name": "",
+        "Priority": 89399,
+        "ReleaseLabel": "release.lottery_202206_bronz_ticket"
     }
 ]

@@ -78,5 +78,25 @@
         "ColumnName": "description",
         "LocalizationTargetId": 6001003002,
         "Text": "May 2022 Release Celebration 4★ Memory Gem Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003004,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003004,
+        "Text": "Jun 2022 Bronze Harvest (2★/3★ Allies)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020041,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020041,
+        "Text": "Jun 2022 Searching for Lost Luster Harvest"
     }
 ]

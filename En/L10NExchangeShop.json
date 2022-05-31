@@ -31,6 +31,11 @@
     },
     {
         "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040003,
+        "Text": "EP Trader (Searching for Lost Luster)"
+    },
+    {
+        "ColumnName": "shop_name",
         "LocalizationTargetId": 41000050001,
         "Text": "Spell Shard Trader"
     },
@@ -48,6 +53,11 @@
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060004,
         "Text": "The Beast Within Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060005,
+        "Text": "Searching for Lost Luster Harvest Point Trader"
     },
     {
         "ColumnName": "shop_name",

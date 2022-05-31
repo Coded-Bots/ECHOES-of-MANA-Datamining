@@ -327,7 +327,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 600100010502,
-        "Text": "A human on an adventure through the world of Fa'Diel. Although he doesn't have much of a background to speak of, he often finds himself caught up in the affairs of the various people he encounters in his travels."
+        "Text": "A human on an adventure through the world of Fa'Diel. Although she doesn't have much of a background to speak of, she often finds herself caught up in the affairs of the various people she encounters in her travels."
     },
     {
         "ColumnName": "name",
@@ -358,6 +358,36 @@
         "ColumnName": "description",
         "LocalizationTargetId": 600100010504,
         "Text": "A dragoon beauty in pursuit of her younger brother Larc, Sierra is a beast-warrior who is harsh on both herself and others. Although she once lost her life in battle, she was revived by the dragon Vadise who was struck by her bravery. Sierra has served her dragon master ever since in repayment of her kindness."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 600100010506,
+        "Text": "Lady Blackpearl"
+    },
+    {
+        "ColumnName": "cv",
+        "LocalizationTargetId": 600100010506,
+        "Text": "VA: Kaori Nazuka"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 600100010506,
+        "Text": "As a Jumi knight with a core of black pearl, she is pledged to her partner clarius who serves as the keystone to the Jumi people. Being the oldest of the Jumi, her battle skills are the finest in the Jumi clan, and her logical and level-headed attitude only lends to her strengths. For the sake of leading her people into a new existence, she buries her emotions under the rubble in her heart."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 600100010507,
+        "Text": "Elazul"
+    },
+    {
+        "ColumnName": "cv",
+        "LocalizationTargetId": 600100010507,
+        "Text": "VA: Yuuichirou Umehara"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 600100010507,
+        "Text": "A Jumi knight with a lapis lazuli core, Elazul speaks and acts in a rough manner, which is off-putting to others. Since he spent a great deal of time all alone, he seeks to make friends and unreservedly dotes on his partner Pearl."
     },
     {
         "ColumnName": "name",

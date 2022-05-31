@@ -26,6 +26,11 @@
     },
     {
         "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000017,
+        "Text": "Bone Series"
+    },
+    {
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000018,
         "Text": "Ivory Series"
     },

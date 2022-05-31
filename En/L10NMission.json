@@ -521,6 +521,56 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001011101,
+        "Text": "Clear main quest chapter 6: Past the Impasse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011102,
+        "Text": "Fully clear main quest chapter 6 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011103,
+        "Text": "Clear main quest chapter 6: Savage Cry of the Ape (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011104,
+        "Text": "Clear main quest chapter 6: Peculiar Patchwork Path (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011105,
+        "Text": "Clear main quest chapter 6: Past the Impasse (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011106,
+        "Text": "Fully clear main quest chapter 6 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011107,
+        "Text": "Clear main quest chapter 6: Savage Cry of the Ape (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011108,
+        "Text": "Clear main quest chapter 6: Peculiar Patchwork Path (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011109,
+        "Text": "Clear main quest chapter 6: Past the Impasse (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011110,
+        "Text": "Fully clear main quest chapter 6 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001012001,
         "Text": "Clear Warriors Hall Lezuede Lvl 1 on co-op: x1"
     },
@@ -802,22 +852,22 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001020006,
-        "Text": "[Campaign] Clear a quest: x4"
+        "Text": "Clear a quest: x4"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001020007,
-        "Text": "[Campaign] Clear a training dungeon: x4"
+        "Text": "Clear a training dungeon: x4"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001020008,
-        "Text": "[Campaign] Clear a quest: x5"
+        "Text": "Clear a quest: x5"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001020009,
-        "Text": "[Campaign] Clear a training dungeon: x5"
+        "Text": "Clear a training dungeon: x5"
     },
     {
         "ColumnName": "description",
@@ -858,6 +908,61 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001031008,
         "Text": "S-Rank Searing Stage (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031009,
+        "Text": "Clear For Whom It Shines (Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031010,
+        "Text": "Clear For Whom It Shines (Very Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031011,
+        "Text": "Clear For Whom It Shines (Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031012,
+        "Text": "Clear For Whom It Shines (Very Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031013,
+        "Text": "S-Rank For Whom It Shines (Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031014,
+        "Text": "S-Rank For Whom It Shines (Very Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031015,
+        "Text": "S-Rank For Whom It Shines (Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031016,
+        "Text": "S-Rank For Whom It Shines (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031111,
+        "Text": "Fully clear main quest chapter 6 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031112,
+        "Text": "Fully clear main quest chapter 6 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031113,
+        "Text": "Fully clear main quest chapter 6 (Very Hard)"
     },
     {
         "ColumnName": "description",
@@ -1648,5 +1753,95 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001051129,
         "Text": "S-Rank Searing Stage (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051130,
+        "Text": "Clear A Sore Knight II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051131,
+        "Text": "Clear Lapis Lazuli III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051132,
+        "Text": "Clear Knight & Destiny II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051133,
+        "Text": "Clear Black Pearl III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051134,
+        "Text": "Clear For Whom It Shines II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051135,
+        "Text": "Unlock Mana Board panels for Elazul -Young Jumi Knight-: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051136,
+        "Text": "Unlock Mana Board panels for Elazul -Young Jumi Knight-: x14"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051137,
+        "Text": "Unlock Mana Board panels for Elazul -Young Jumi Knight-: x21"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051138,
+        "Text": "Ascend Elazul -Young Jumi Knight-: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051139,
+        "Text": "Clear For Whom It Shines (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051140,
+        "Text": "Clear For Whom It Shines (Hard) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051141,
+        "Text": "Clear For Whom It Shines (Very Hard) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051142,
+        "Text": "Clear For Whom It Shines (Hard) on co-op: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051143,
+        "Text": "Clear For Whom It Shines (Very Hard) on co-op: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051144,
+        "Text": "S-Rank For Whom It Shines (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051145,
+        "Text": "S-Rank For Whom It Shines (Very Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051146,
+        "Text": "S-Rank For Whom It Shines (Very Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051147,
+        "Text": "S-Rank For Whom It Shines (Very Hard): x10"
     }
 ]

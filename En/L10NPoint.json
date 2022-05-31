@@ -56,6 +56,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 401020016,
+        "Text": "EP (Searching for Lost Luster)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020017,
+        "Text": "High Level EP (Searching for Lost Luster)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 401030001,
         "Text": "Spell Shard"
     }
