@@ -3,5 +3,95 @@
         "ColumnName": "description",
         "LocalizationTargetId": 6005004101,
         "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005004201,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005004301,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005005101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005006101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005006201,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005006301,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005009101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005009201,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005009301,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005010101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005011101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005012101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005013101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005014101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005015101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005019101,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005019201,
+        "Text": "First Time Half Off!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6005019301,
+        "Text": "First Time Half Off!"
     }
 ]

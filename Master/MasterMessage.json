@@ -255,6 +255,171 @@
         "ReleaseLabel": "release.event_scenario_2_start"
     },
     {
+        "Label": "Timeline.36",
+        "MasterMessageId": 303130036,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.37",
+        "MasterMessageId": 303130037,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.38",
+        "MasterMessageId": 303130038,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.39",
+        "MasterMessageId": 303130039,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.40",
+        "MasterMessageId": 303130040,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.41",
+        "MasterMessageId": 303130041,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.42",
+        "MasterMessageId": 303130042,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.43",
+        "MasterMessageId": 303130043,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.44",
+        "MasterMessageId": 303130044,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "Label": "Timeline.45",
+        "MasterMessageId": 303130045,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "Label": "Timeline.46",
+        "MasterMessageId": 303130046,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "Label": "Timeline.47",
+        "MasterMessageId": 303130047,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "Label": "Timeline.48",
+        "MasterMessageId": 303130048,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "Label": "Timeline.49",
+        "MasterMessageId": 303130049,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.50",
+        "MasterMessageId": 303130050,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.51",
+        "MasterMessageId": 303130051,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.52",
+        "MasterMessageId": 303130052,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.53",
+        "MasterMessageId": 303130053,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.54",
+        "MasterMessageId": 303130054,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Label": "Timeline.55",
+        "MasterMessageId": 303130055,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.56",
+        "MasterMessageId": 303130056,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.57",
+        "MasterMessageId": 303130057,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.58",
+        "MasterMessageId": 303130058,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.59",
+        "MasterMessageId": 303130059,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.60",
+        "MasterMessageId": 303130060,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.61",
+        "MasterMessageId": 303130061,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.62",
+        "MasterMessageId": 303130062,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "Label": "Timeline.63",
+        "MasterMessageId": 303130063,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "Label": "Timeline.64",
+        "MasterMessageId": 303130064,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "Label": "Timeline.65",
+        "MasterMessageId": 303130065,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "Label": "Timeline.66",
+        "MasterMessageId": 303130066,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "Label": "Timeline.67",
+        "MasterMessageId": 303130067,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "Label": "Timeline.68",
+        "MasterMessageId": 303130068,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
         "Label": "General.Sort.Rarity",
         "MasterMessageId": 303010001,
         "ReleaseLabel": "release.initial"
@@ -583,6 +748,11 @@
         "Label": "General.BackKeyUnsupported",
         "MasterMessageId": 303010066,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Label": "General.SeriesTitle.NT",
+        "MasterMessageId": 303010067,
+        "ReleaseLabel": "1.5.0"
     },
     {
         "Label": "ServerError.0",
@@ -2703,5 +2873,80 @@
         "Label": "ManaBoard.ReconfirmConsumeGemForPanelUnlock",
         "MasterMessageId": 303040015,
         "ReleaseLabel": "1.1.0"
+    },
+    {
+        "Label": "Weapon.WeaponChangeConfirmTitle",
+        "MasterMessageId": 303190004,
+        "ReleaseLabel": "1.1.1"
+    },
+    {
+        "Label": "Weapon.EquippedWithOtherCharacter",
+        "MasterMessageId": 303190005,
+        "ReleaseLabel": "1.1.1"
+    },
+    {
+        "Label": "Mission.BingoSheetCategory.Campaign",
+        "MasterMessageId": 303180009,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Description1",
+        "MasterMessageId": 303990068,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Description2",
+        "MasterMessageId": 303990069,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Description3",
+        "MasterMessageId": 303990070,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Choice.Enjoy",
+        "MasterMessageId": 303990071,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Choice.Soso",
+        "MasterMessageId": 303990072,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Choice.BackToGame",
+        "MasterMessageId": 303990073,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Choice.WriteReview",
+        "MasterMessageId": 303990074,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "StoreReview.Choice.WriteRequest",
+        "MasterMessageId": 303990075,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "Label": "Other.StaminaDirectRecovery",
+        "MasterMessageId": 303990076,
+        "ReleaseLabel": "1.3.0"
+    },
+    {
+        "Label": "Other.EventStaminaDirectRecovery",
+        "MasterMessageId": 303990077,
+        "ReleaseLabel": "1.3.0"
+    },
+    {
+        "Label": "Shop.CharacterSellReward",
+        "MasterMessageId": 303170010,
+        "ReleaseLabel": "1.5.0"
+    },
+    {
+        "Label": "Shop.CharacterSellRewardItem",
+        "MasterMessageId": 303170011,
+        "ReleaseLabel": "1.5.0"
     }
 ]

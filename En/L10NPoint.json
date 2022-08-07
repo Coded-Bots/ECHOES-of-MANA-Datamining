@@ -66,7 +66,62 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 401020018,
+        "Text": "EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020019,
+        "Text": "High Level EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020020,
+        "Text": "EP (Ice & Fire)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020021,
+        "Text": "High Level EP (Ice & Fire)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020022,
+        "Text": "EP (Deviant Fruit)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020023,
+        "Text": "High Level EP (Deviant Fruit Ebon Knight)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020026,
+        "Text": "EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020027,
+        "Text": "High Level EP (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020030,
+        "Text": "EP (Labyrinth of Lost Heroes)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401020031,
+        "Text": "High Level EP (Labyrinth of Lost Heroes)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 401030001,
         "Text": "Spell Shard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 401060032,
+        "Text": "Black Rabite Coin"
     }
 ]

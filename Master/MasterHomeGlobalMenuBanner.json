@@ -32,6 +32,22 @@
         "TransitionParameter": 0
     },
     {
+        "BannerImage": "Lottery/20051/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010005,
+        "Priority": 40608,
+        "ReleaseLabel": "release.lottery_202206_treasure",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20061/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010006,
+        "Priority": 40620,
+        "ReleaseLabel": "release.lottery_202206_ranking",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
         "BannerImage": "Lottery/2007/banner",
         "MasterHomeGlobalMenuBannerId": 12002010007,
         "Priority": 40513,
@@ -44,6 +60,134 @@
         "MasterHomeGlobalMenuBannerId": 12002010008,
         "Priority": 40525,
         "ReleaseLabel": "release.lottery_202205_angela",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20042/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010009,
+        "Priority": 40607,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20043/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010010,
+        "Priority": 40614,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20101/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010011,
+        "Priority": 40616,
+        "ReleaseLabel": "release.lottery_202206_popoi",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20111/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010012,
+        "Priority": 40617,
+        "ReleaseLabel": "release.lottery_202206_light_dark",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20062/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010013,
+        "Priority": 40623,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20063/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010014,
+        "Priority": 40626,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20091/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010015,
+        "Priority": 40630,
+        "ReleaseLabel": "release.lottery_202207_scenario",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20092/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010016,
+        "Priority": 40703,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20093/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010017,
+        "Priority": 40707,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20121/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010018,
+        "Priority": 40708,
+        "ReleaseLabel": "release.lottery_202207_treasure",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20131/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010019,
+        "Priority": 40715,
+        "ReleaseLabel": "release.lottery_202207_sierra",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20141/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010020,
+        "Priority": 40720,
+        "ReleaseLabel": "release.lottery_202207_ranking",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20191/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010021,
+        "Priority": 40731,
+        "ReleaseLabel": "release.lottery_202208_escad_duran",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20192/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010022,
+        "Priority": 40803,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20193/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010023,
+        "Priority": 40807,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2",
+        "Transition": 1,
+        "TransitionParameter": 0
+    },
+    {
+        "BannerImage": "Lottery/20151/banner",
+        "MasterHomeGlobalMenuBannerId": 12002010024,
+        "Priority": 40725,
+        "ReleaseLabel": "release.lottery_202207_fire_water",
         "Transition": 1,
         "TransitionParameter": 0
     },
@@ -94,5 +238,69 @@
         "ReleaseLabel": "release.story_1_6_banner",
         "Transition": 3,
         "TransitionParameter": 210010006101
+    },
+    {
+        "BannerImage": "Banner/event_treasure_202205",
+        "MasterHomeGlobalMenuBannerId": 12002031006,
+        "Priority": 30541,
+        "ReleaseLabel": "release.event_treasure_rush_202206",
+        "Transition": 3,
+        "TransitionParameter": 210031003101
+    },
+    {
+        "BannerImage": "Event/32002/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031007,
+        "Priority": 30620,
+        "ReleaseLabel": "release.event_ranking_202206_1",
+        "Transition": 3,
+        "TransitionParameter": 210032001101
+    },
+    {
+        "BannerImage": "Event/30003/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031008,
+        "Priority": 30630,
+        "ReleaseLabel": "release.event_scenario_3",
+        "Transition": 3,
+        "TransitionParameter": 210030003101
+    },
+    {
+        "BannerImage": "Main/1-7/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031009,
+        "Priority": 30627,
+        "ReleaseLabel": "release.story_1_7_banner",
+        "Transition": 3,
+        "TransitionParameter": 210010007101
+    },
+    {
+        "BannerImage": "Main/1-8/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031010,
+        "Priority": 30727,
+        "ReleaseLabel": "release.story_1_8_banner",
+        "Transition": 3,
+        "TransitionParameter": 210010008101
+    },
+    {
+        "BannerImage": "Banner/event_treasure_202205",
+        "MasterHomeGlobalMenuBannerId": 12002031011,
+        "Priority": 30641,
+        "ReleaseLabel": "release.event_treasure_rush_202207",
+        "Transition": 3,
+        "TransitionParameter": 210031005101
+    },
+    {
+        "BannerImage": "Event/32003/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031012,
+        "Priority": 30720,
+        "ReleaseLabel": "release.event_ranking_202207_1",
+        "Transition": 3,
+        "TransitionParameter": 210032001101
+    },
+    {
+        "BannerImage": "Event/30004/banner",
+        "MasterHomeGlobalMenuBannerId": 12002031015,
+        "Priority": 30731,
+        "ReleaseLabel": "release.event_scenario_4",
+        "Transition": 3,
+        "TransitionParameter": 210030004101
     }
 ]

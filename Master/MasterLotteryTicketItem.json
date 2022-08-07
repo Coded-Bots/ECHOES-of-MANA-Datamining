@@ -34,5 +34,113 @@
         "Price": 0,
         "ReleaseLabel": "release.login_bonus_202206_1_start",
         "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0102_Gacha-Ticket05",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080005,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.lottery_202206_release_ticket_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080006,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.shop_202206_pack_3_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080007,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.login_bonus_202207_download_300_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080008,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080009,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.lottery_202207_lom_ticket_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0106_Gacha-Ticket06",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080010,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0106_Gacha-Ticket06",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080011,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0107_Gacha-Ticket07",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080012,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.shop_202207_pack_6_start",
+        "Value": 1
+    },
+    {
+        "Description": "",
+        "EfficacyValueType": 0,
+        "Icon": "Item_0064_Gacha-Ticket02",
+        "ItemCategory": 8,
+        "MasterLotteryTicketItemId": 1080013,
+        "MaxLimit": 99999,
+        "Name": "",
+        "Price": 0,
+        "ReleaseLabel": "release.shop_202208_pack_1_start",
+        "Value": 1
     }
 ]

@@ -2130,5 +2130,44 @@
         "ReleaseLabel": "release.initial",
         "Unique": false,
         "World": false
+    },
+    {
+        "BindTarget": true,
+        "DestoryTime": 1.0,
+        "DrawLayer": 3,
+        "Exclusive": false,
+        "KickTrigger": "KevinBeastEnd",
+        "MasterEffectId": 10500000000167,
+        "Name": "変身解除：獣人化ケヴィン",
+        "Prefab": "VFX/Fx_Kevin_BeastModeEnd_1/Fx_Kevin_BeastModeEnd_1",
+        "ReleaseLabel": "release.initial",
+        "Unique": false,
+        "World": false
+    },
+    {
+        "BindTarget": true,
+        "DestoryTime": 2.0,
+        "DrawLayer": 3,
+        "Exclusive": false,
+        "KickTrigger": "MonsterDie_Sub",
+        "MasterEffectId": 10500000000168,
+        "Name": "ボス死亡：Die2",
+        "Prefab": "VFX/Fx_Common_Die/Fx_Common_Die",
+        "ReleaseLabel": "release.initial",
+        "Unique": false,
+        "World": false
+    },
+    {
+        "BindTarget": true,
+        "DestoryTime": 0.0,
+        "DrawLayer": 3,
+        "Exclusive": false,
+        "KickTrigger": "anger",
+        "MasterEffectId": 10500000000169,
+        "Name": "ミノタウロス：怒り状態",
+        "Prefab": "VFX/Fx_Enemy_StateChange_1/Fx_Enemy_StateChange_1",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Unique": false,
+        "World": false
     }
 ]

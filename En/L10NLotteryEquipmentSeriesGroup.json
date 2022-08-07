@@ -11,6 +11,26 @@
     },
     {
         "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000005,
+        "Text": "Beiser Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000006,
+        "Text": "Lorimar Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000008,
+        "Text": "Wendel Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000009,
+        "Text": "Granz Series"
+    },
+    {
+        "ColumnName": "series_name",
         "LocalizationTargetId": 540000000013,
         "Text": "Silk Series"
     },
@@ -18,6 +38,11 @@
         "ColumnName": "series_name",
         "LocalizationTargetId": 540000000014,
         "Text": "Cotton Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000015,
+        "Text": "Felt Series"
     },
     {
         "ColumnName": "series_name",
@@ -33,6 +58,11 @@
         "ColumnName": "series_name",
         "LocalizationTargetId": 540000000018,
         "Text": "Ivory Series"
+    },
+    {
+        "ColumnName": "series_name",
+        "LocalizationTargetId": 540000000019,
+        "Text": "Fossil Series"
     },
     {
         "ColumnName": "series_name",

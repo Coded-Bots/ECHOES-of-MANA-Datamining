@@ -181,6 +181,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100301,
+        "Text": "Overhead Cleave"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100301,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100302,
+        "Text": "Overhead Cleave"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100302,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100303,
+        "Text": "Thunder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100303,
+        "Text": "Deals wind M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100304,
+        "Text": "Thunder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100304,
+        "Text": "Deals wind M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100305,
+        "Text": "Axe Throw"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100305,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010100306,
+        "Text": "Axe Throw"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010100306,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010100306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301010200101,
         "Text": "Twin Edge"
     },
@@ -717,6 +807,96 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301010400206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400301,
+        "Text": "Fire"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400301,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400302,
+        "Text": "Fire"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400302,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400303,
+        "Text": "Hollowing Curse"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400303,
+        "Text": "[TARGET] INT: -35% (25s) (Effect boosts by SLv.)/SPR: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400303,
+        "Text": "[TARGET] INT: -35% (25s) (Effect boosts by SLv.)/SPR: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400304,
+        "Text": "Hollowing Curse"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400304,
+        "Text": "[TARGET] INT: -40% (25s) (Effect boosts by SLv.)/SPR: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400304,
+        "Text": "[TARGET] INT: -40% (25s) (Effect boosts by SLv.)/SPR: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400305,
+        "Text": "Triple Flare"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400305,
+        "Text": "[SELF] INT: +10% (10s)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301010400306,
+        "Text": "Triple Flare"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301010400306,
+        "Text": "[SELF] INT: +10% (10s)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301010400306,
         "Text": ""
     },
     {
@@ -1621,6 +1801,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100301,
+        "Text": "Healing Light"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100301,
+        "Text": "[TARGET] Restore HP (RCV: 120%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100301,
+        "Text": "[TARGET] Restore HP (RCV: 120%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100302,
+        "Text": "Healing Light"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100302,
+        "Text": "[TARGET] Restore HP (RCV: 140%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100302,
+        "Text": "[TARGET] Restore HP (RCV: 140%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100303,
+        "Text": "Area Guard"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100303,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +200 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100303,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +200 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100304,
+        "Text": "Area Guard"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100304,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +300 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100304,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +300 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100305,
+        "Text": "Triple Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100305,
+        "Text": "HP restore amount: +15% (60s)/Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030100306,
+        "Text": "Triple Slash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030100306,
+        "Text": "HP restore amount: +15% (60s)/Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030100306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301030200101,
         "Text": "Ice Smash"
     },
@@ -1797,6 +2067,96 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301030200206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200301,
+        "Text": "Blaze Wall"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200301,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200302,
+        "Text": "Blaze Wall"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200302,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200303,
+        "Text": "Limitless Potential"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200303,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200303,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200304,
+        "Text": "Limitless Potential"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200304,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -25% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200304,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -25% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200305,
+        "Text": "Love Typhoon"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200305,
+        "Text": "[SELF] Recover MP (10% of max MP)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030200306,
+        "Text": "Love Typhoon"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030200306,
+        "Text": "[SELF] Recover MP (10% of max MP)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030200306,
         "Text": ""
     },
     {
@@ -2067,6 +2427,96 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301030400106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400201,
+        "Text": "Ready Set Go"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400201,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400202,
+        "Text": "Ready Set Go"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400202,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400203,
+        "Text": "Hip Hip Away"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400203,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)/[TARGET] INT: -35% (25s)/SPR: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400203,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400204,
+        "Text": "Hip Hip Away"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400204,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)/[TARGET] INT: -35% (25s)/SPR: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400205,
+        "Text": "Whackbam"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400205,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301030400206,
+        "Text": "Whackbam"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301030400206,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301030400206,
         "Text": ""
     },
     {
@@ -3511,6 +3961,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200301,
+        "Text": "Eclipse"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200301,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200302,
+        "Text": "Eclipse"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200302,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200303,
+        "Text": "Evil Smash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200303,
+        "Text": "Deals dark M.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200304,
+        "Text": "Evil Smash"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200304,
+        "Text": "Deals dark M.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200305,
+        "Text": "Pouncing Cat"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200305,
+        "Text": "[SELF] STR: +8% (10s)/INT: +8% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050200306,
+        "Text": "Pouncing Cat"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050200306,
+        "Text": "[SELF] STR: +8% (10s)/INT: +8% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050200306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301050300101,
         "Text": "Jawbreaker"
     },
@@ -3781,6 +4321,186 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400301,
+        "Text": "Unceasing Blade"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400301,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400302,
+        "Text": "Unceasing Blade"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400302,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400303,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400303,
+        "Text": "[TARGET] STR: -35% (25s) (Effect boosts by SLv.)/CON: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400304,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400304,
+        "Text": "[TARGET] STR: -40% (25s) (Effect boosts by SLv.)/CON: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400305,
+        "Text": "Air Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400305,
+        "Text": "[SELF] ST Gauge: +20%/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050400306,
+        "Text": "Air Strike"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050400306,
+        "Text": "[SELF] ST Gauge: +20%/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050400306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500101,
+        "Text": "Cutting Pine"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500101,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500102,
+        "Text": "Cutting Pine"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500102,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500103,
+        "Text": "Soul Survivor"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500103,
+        "Text": "[SELF] Gain SA (60s)/CON: +25% (60s) (Effect boosts by SLv.)/SPR: +25% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500103,
+        "Text": "[SELF] Gain SA (60s)/CON: +25% (60s) (Effect boosts by SLv.)/SPR: +25% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500104,
+        "Text": "Soul Survivor"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500104,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)/SPR: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500104,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)/SPR: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500105,
+        "Text": "Ground Breaker"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500105,
+        "Text": "[SELF] ST Gauge boost rate: +50% (6s) (Effect boosts by STLv.)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500105,
+        "Text": "[SELF] ST Gauge boost rate: +50% (6s) (Effect boosts by STLv.)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050500106,
+        "Text": "Ground Breaker"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050500106,
+        "Text": "[SELF] ST Gauge boost rate: +60% (6s) (Effect boosts by STLv.)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050500106,
+        "Text": "[SELF] ST Gauge boost rate: +60% (6s) (Effect boosts by STLv.)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301050600101,
         "Text": "Blammo"
     },
@@ -3957,6 +4677,96 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301050700106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800101,
+        "Text": "Shish Kebob"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800101,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800102,
+        "Text": "Shish Kebob"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800102,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800103,
+        "Text": "Dark Blade Art"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800103,
+        "Text": "[SELF] Gain SA (60s)/STR: +15% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800103,
+        "Text": "[SELF] Gain SA (60s)/STR: +15% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800104,
+        "Text": "Dark Blade Art"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800104,
+        "Text": "[SELF] Gain SA (60s)/STR: +20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800104,
+        "Text": "[SELF] Gain SA (60s)/STR: +20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800105,
+        "Text": "Lifestealer"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800105,
+        "Text": "[SELF] Recover HP (RCV: 15%)/Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301050800106,
+        "Text": "Lifestealer"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301050800106,
+        "Text": "[SELF] Recover HP (RCV: 15%)/Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301050800106,
         "Text": ""
     },
     {
@@ -4227,6 +5037,96 @@
     {
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301060200106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200201,
+        "Text": "Big Chop"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200201,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200202,
+        "Text": "Big Chop"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200202,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200203,
+        "Text": "Wanderer Guard"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200203,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200203,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200204,
+        "Text": "Wanderer Guard"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200204,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200204,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200205,
+        "Text": "Wide Shock Wave"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200205,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)/[TARGET] 70% chance to cast daze (Some foes immune)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301060200206,
+        "Text": "Wide Shock Wave"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301060200206,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)/[TARGET] 70% chance to cast daze (Some foes immune)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301060200206,
         "Text": ""
     },
     {
@@ -4591,6 +5491,96 @@
     },
     {
         "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400201,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400201,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400202,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400202,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400203,
+        "Text": "Ring of Refuge"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400203,
+        "Text": "[AOE] Restore MP (20s/2 MP/Every 2s)/CON: +50%/SPR: +50% (MP cost cut by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400203,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400204,
+        "Text": "Ring of Refuge"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400204,
+        "Text": "[AOE] Restore MP (20s/2 MP/Every 2s)/CON: +50%/SPR: +50% (MP cost cut by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400205,
+        "Text": "Homing Solaris"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400205,
+        "Text": "[SELF] Recover HP (10s/RCV: 2%/Every 1s)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110400206,
+        "Text": "Homing Solaris"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110400206,
+        "Text": "[SELF] Recover HP (10s/RCV: 2%/Every 1s)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110400206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
         "LocalizationTargetId": 30301110500101,
         "Text": "Shooting Arrow"
     },
@@ -4858,5 +5848,95 @@
         "ColumnName": "efficacy_discription",
         "LocalizationTargetId": 30301110700106,
         "Text": "[ACTIVE ALLIES] Restore HP: 70% of RCV (Effect boosts by STLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700201,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700201,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700202,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700202,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700203,
+        "Text": "Idle Magic"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700203,
+        "Text": "[SELF] INT: +10% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700203,
+        "Text": "[SELF] INT: +10% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700204,
+        "Text": "Idle Magic"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700204,
+        "Text": "[SELF] INT: +20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700204,
+        "Text": "[SELF] INT: +20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700205,
+        "Text": "Flaming Phantasm"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700205,
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "skill_name",
+        "LocalizationTargetId": 30301110700206,
+        "Text": "Flaming Phantasm"
+    },
+    {
+        "ColumnName": "skill_discription",
+        "LocalizationTargetId": 30301110700206,
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "efficacy_discription",
+        "LocalizationTargetId": 30301110700206,
+        "Text": ""
     }
 ]

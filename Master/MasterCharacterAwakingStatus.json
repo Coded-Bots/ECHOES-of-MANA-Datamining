@@ -592,5 +592,137 @@
         "MaxPhyAtk": 532,
         "MaxPhyDef": 518,
         "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410502003,
+        "MaxHp": 1604,
+        "MaxLuck": 108,
+        "MaxMagAtk": 879,
+        "MaxMagDef": 615,
+        "MaxMp": 261,
+        "MaxPhyAtk": 879,
+        "MaxPhyDef": 622,
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410304002,
+        "MaxHp": 1532,
+        "MaxLuck": 105,
+        "MaxMagAtk": 910,
+        "MaxMagDef": 710,
+        "MaxMp": 305,
+        "MaxPhyAtk": 760,
+        "MaxPhyDef": 570,
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410602002,
+        "MaxHp": 1983,
+        "MaxLuck": 106,
+        "MaxMagAtk": 712,
+        "MaxMagDef": 570,
+        "MaxMp": 237,
+        "MaxPhyAtk": 822,
+        "MaxPhyDef": 774,
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410302003,
+        "MaxHp": 1568,
+        "MaxLuck": 103,
+        "MaxMagAtk": 919,
+        "MaxMagDef": 693,
+        "MaxMp": 320,
+        "MaxPhyAtk": 756,
+        "MaxPhyDef": 563,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410104003,
+        "MaxHp": 1586,
+        "MaxLuck": 103,
+        "MaxMagAtk": 875,
+        "MaxMagDef": 703,
+        "MaxMp": 307,
+        "MaxPhyAtk": 756,
+        "MaxPhyDef": 577,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600411107002,
+        "MaxHp": 1165,
+        "MaxLuck": 81,
+        "MaxMagAtk": 569,
+        "MaxMagDef": 523,
+        "MaxMp": 242,
+        "MaxPhyAtk": 501,
+        "MaxPhyDef": 478,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410505001,
+        "MaxHp": 1911,
+        "MaxLuck": 94,
+        "MaxMagAtk": 712,
+        "MaxMagDef": 658,
+        "MaxMp": 237,
+        "MaxPhyAtk": 910,
+        "MaxPhyDef": 735,
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410504003,
+        "MaxHp": 1595,
+        "MaxLuck": 102,
+        "MaxMagAtk": 844,
+        "MaxMagDef": 629,
+        "MaxMp": 297,
+        "MaxPhyAtk": 870,
+        "MaxPhyDef": 626,
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600411104002,
+        "MaxHp": 1613,
+        "MaxLuck": 98,
+        "MaxMagAtk": 870,
+        "MaxMagDef": 696,
+        "MaxMp": 304,
+        "MaxPhyAtk": 774,
+        "MaxPhyDef": 605,
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410301003,
+        "MaxHp": 1838,
+        "MaxLuck": 100,
+        "MaxMagAtk": 778,
+        "MaxMagDef": 658,
+        "MaxMp": 272,
+        "MaxPhyAtk": 844,
+        "MaxPhyDef": 658,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410508001,
+        "MaxHp": 1911,
+        "MaxLuck": 96,
+        "MaxMagAtk": 712,
+        "MaxMagDef": 605,
+        "MaxMp": 290,
+        "MaxPhyAtk": 954,
+        "MaxPhyDef": 640,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "MasterCharacterAwakingStatusId": 600410101003,
+        "MaxHp": 1240,
+        "MaxLuck": 81,
+        "MaxMagAtk": 551,
+        "MaxMagDef": 498,
+        "MaxMp": 215,
+        "MaxPhyAtk": 551,
+        "MaxPhyDef": 498,
+        "ReleaseLabel": "release.event_scenario_4_start"
     }
 ]

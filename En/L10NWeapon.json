@@ -367,6 +367,86 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 3201000055,
-        "Text": "A sword born from the seed of the Great Tree. It can also transform into a slingshot or whip at will."
+        "Text": "A sword born from the seed of the Great Tree. It can also transform into a slingshot or whip at will.\n"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000056,
+        "Text": "Sword of Fate +3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000056,
+        "Text": "Originating from a tribe of equestrians, this legendary sword has the power to cut through anything, but it can only be used once. It was given to a young Jumi by the strongest Jumi knight."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000057,
+        "Text": "Sword of Fate +2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000057,
+        "Text": "Originating from a tribe of equestrians, this legendary sword has the power to cut through anything, but it can only be used once. It was given to a young Jumi by the strongest Jumi knight."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000058,
+        "Text": "Sword of Fate +1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000058,
+        "Text": "Originating from a tribe of equestrians, this legendary sword has the power to cut through anything, but it can only be used once. It was given to a young Jumi by the strongest Jumi knight."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000059,
+        "Text": "Sword of Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000059,
+        "Text": "Originating from a tribe of equestrians, this legendary sword has the power to cut through anything, but it can only be used once. It was given to a young Jumi by the strongest Jumi knight."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000060,
+        "Text": "Yggdrasil Rod +3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000060,
+        "Text": "As the name suggests, this staff was born from the branch of a vast mythical tree within which diverse life flowed throughout it."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000061,
+        "Text": "Yggdrasil Rod +2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000061,
+        "Text": "As the name suggests, this staff was born from the branch of a vast mythical tree within which diverse life flowed throughout it."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000062,
+        "Text": "Yggdrasil Rod +1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000062,
+        "Text": "As the name suggests, this staff was born from the branch of a vast mythical tree within which diverse life flowed throughout it."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3201000063,
+        "Text": "Yggdrasil Rod"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3201000063,
+        "Text": "As the name suggests, this staff was born from the branch of a vast mythical tree within which diverse life flowed throughout it."
     }
 ]

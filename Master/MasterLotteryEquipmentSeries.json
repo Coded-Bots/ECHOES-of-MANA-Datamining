@@ -12,6 +12,30 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterEquipmentSeriesId": 3002000005,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000005,
+        "MasterLotteryEquipmentSeriesId": 533007000005,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000006,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000006,
+        "MasterLotteryEquipmentSeriesId": 533008000006,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000008,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000008,
+        "MasterLotteryEquipmentSeriesId": 533010000008,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000009,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000009,
+        "MasterLotteryEquipmentSeriesId": 533011000009,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
         "MasterEquipmentSeriesId": 3002000013,
         "MasterLotteryEquipmentSeriesGroupId": 540000000013,
         "MasterLotteryEquipmentSeriesId": 533015000013,
@@ -22,6 +46,12 @@
         "MasterLotteryEquipmentSeriesGroupId": 540000000014,
         "MasterLotteryEquipmentSeriesId": 533016000014,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000015,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000015,
+        "MasterLotteryEquipmentSeriesId": 533017000015,
+        "ReleaseLabel": "release.story_1_7_start"
     },
     {
         "MasterEquipmentSeriesId": 3002000016,
@@ -40,6 +70,12 @@
         "MasterLotteryEquipmentSeriesGroupId": 540000000018,
         "MasterLotteryEquipmentSeriesId": 533020000018,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterEquipmentSeriesId": 3002000019,
+        "MasterLotteryEquipmentSeriesGroupId": 540000000019,
+        "MasterLotteryEquipmentSeriesId": 533021000019,
+        "ReleaseLabel": "release.story_1_8_start"
     },
     {
         "MasterEquipmentSeriesId": 3002000024,

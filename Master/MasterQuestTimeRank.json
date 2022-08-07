@@ -120,6 +120,16 @@
         "ReleaseLabel": "release.event_treasure_rush_202205_start"
     },
     {
+        "MasterQuestTimeRankId": 280002000014,
+        "RankABonusRate": 1000,
+        "RankATime": 130,
+        "RankBBonusRate": 0,
+        "RankBTime": 140,
+        "RankSBonusRate": 2000,
+        "RankSTime": 120,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start"
+    },
+    {
         "MasterQuestTimeRankId": 280002000015,
         "RankABonusRate": 1000,
         "RankATime": 180,
@@ -128,5 +138,25 @@
         "RankSBonusRate": 2000,
         "RankSTime": 150,
         "ReleaseLabel": "release.event_scenario_2_start"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000016,
+        "RankABonusRate": 1000,
+        "RankATime": 130,
+        "RankBBonusRate": 0,
+        "RankBTime": 140,
+        "RankSBonusRate": 2000,
+        "RankSTime": 120,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start"
+    },
+    {
+        "MasterQuestTimeRankId": 280002000017,
+        "RankABonusRate": 1000,
+        "RankATime": 180,
+        "RankBBonusRate": 0,
+        "RankBTime": 240,
+        "RankSBonusRate": 2000,
+        "RankSTime": 120,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
     }
 ]

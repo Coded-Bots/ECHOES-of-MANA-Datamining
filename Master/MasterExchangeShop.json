@@ -48,6 +48,36 @@
         "ShopCategory": 4
     },
     {
+        "MasterExchangeShopId": 41000040004,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_treasure_rush_202206_exchange_1",
+        "ShopCategory": 4
+    },
+    {
+        "MasterExchangeShopId": 41000040005,
+        "Priority": 12,
+        "ReleaseLabel": "release.event_scenario_3_exchange",
+        "ShopCategory": 4
+    },
+    {
+        "MasterExchangeShopId": 41000040006,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "ShopCategory": 4
+    },
+    {
+        "MasterExchangeShopId": 41000040007,
+        "Priority": 16,
+        "ReleaseLabel": "release.event_treasure_rush_202207_exchange_1",
+        "ShopCategory": 4
+    },
+    {
+        "MasterExchangeShopId": 41000040009,
+        "Priority": 12,
+        "ReleaseLabel": "release.event_scenario_4_exchange",
+        "ShopCategory": 4
+    },
+    {
         "MasterExchangeShopId": 41000060002,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202204_release_exchange",
@@ -72,6 +102,18 @@
         "ShopCategory": 6
     },
     {
+        "MasterExchangeShopId": 41000060006,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202206_treasure_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060007,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202206_ranking_exchange",
+        "ShopCategory": 6
+    },
+    {
         "MasterExchangeShopId": 41000060008,
         "Priority": 16,
         "ReleaseLabel": "release.lottery_202205_hero_exchange",
@@ -84,9 +126,63 @@
         "ShopCategory": 6
     },
     {
+        "MasterExchangeShopId": 41000060010,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202206_light_dark_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060011,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202206_popoi_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060012,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202207_scenario_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060013,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202207_treasure_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060014,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202207_sierra_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060015,
+        "Priority": 16,
+        "ReleaseLabel": "release.lottery_202207_ranking_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060016,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202207_fire_water_exchange",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000060017,
+        "Priority": 12,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_exchange",
+        "ShopCategory": 6
+    },
+    {
         "MasterExchangeShopId": 41000063001,
         "Priority": 16,
         "ReleaseLabel": "release.event_rabite_coin_trader_start",
+        "ShopCategory": 6
+    },
+    {
+        "MasterExchangeShopId": 41000063002,
+        "Priority": 12,
+        "ReleaseLabel": "release.event_black_rabi_coin_start",
         "ShopCategory": 6
     }
 ]

@@ -47,7 +47,7 @@
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000301,
-        "Text": "Campaign A"
+        "Text": "Zable Fahr (ToM)"
     },
     {
         "ColumnName": "stamp_group_name",
@@ -57,7 +57,7 @@
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000303,
-        "Text": "Campaign C"
+        "Text": "Dudbear (LoM)"
     },
     {
         "ColumnName": "stamp_group_name",
@@ -67,7 +67,7 @@
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000305,
-        "Text": "Campaign E"
+        "Text": "Ferrik (ChOM)"
     },
     {
         "ColumnName": "stamp_group_name",
@@ -77,17 +77,17 @@
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000307,
-        "Text": "Campaign G"
+        "Text": "Luka (SeOM)"
     },
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000308,
-        "Text": "Campaign H"
+        "Text": "Marcy (FFA)"
     },
     {
         "ColumnName": "stamp_group_name",
         "LocalizationTargetId": 63002000309,
-        "Text": "Campaign I"
+        "Text": "Ritzia (DoM)"
     },
     {
         "ColumnName": "stamp_group_name",

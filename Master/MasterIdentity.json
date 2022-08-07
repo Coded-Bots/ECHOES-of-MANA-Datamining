@@ -342,6 +342,17 @@
     },
     {
         "Age": "1",
+        "Gender": 1,
+        "Height": 1,
+        "MasterIdentityId": 600100010505,
+        "Name": "",
+        "NameEn": "Larc",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Series": 5,
+        "SoundId": 1505
+    },
+    {
+        "Age": "1",
         "Gender": 2,
         "Height": 1,
         "MasterIdentityId": 600100010506,
@@ -361,6 +372,17 @@
         "ReleaseLabel": "release.lottery_202206_scenario_start",
         "Series": 5,
         "SoundId": 1507
+    },
+    {
+        "Age": "1",
+        "Gender": 1,
+        "Height": 1,
+        "MasterIdentityId": 600100010508,
+        "Name": "",
+        "NameEn": "Escad",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Series": 5,
+        "SoundId": 1509
     },
     {
         "Age": "1",

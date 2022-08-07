@@ -1,0 +1,72 @@
+[
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120001,
+        "Text": "Health Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120001,
+        "Text": "Ally HP increases by 10"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120002,
+        "Text": "Magic Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120002,
+        "Text": "Ally MP increases by 1"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120003,
+        "Text": "Strength Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120003,
+        "Text": "Ally STR increases by 5"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120004,
+        "Text": "Constitution Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120004,
+        "Text": "Ally CON increases by 5"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120005,
+        "Text": "Intellect Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120005,
+        "Text": "Ally INT increases by 5"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120006,
+        "Text": "Spirit Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120006,
+        "Text": "Ally SPR increases by 5"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1120007,
+        "Text": "Luck Serum"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1120007,
+        "Text": "Ally LCK increases by 1"
+    }
+]

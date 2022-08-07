@@ -191,6 +191,66 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 520001007000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001007000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001007100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001007100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001007200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001007200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001008000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001008000,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001008100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001008100,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001008200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001008200,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 520001010301,
         "Text": ""
     },
@@ -591,6 +651,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 520001020105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 520001020201,
         "Text": ""
     },
@@ -627,6 +707,26 @@
     {
         "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020206,
         "Text": ""
     },
     {
@@ -677,6 +777,136 @@
     {
         "ColumnName": "mission_item_detail_description",
         "LocalizationTargetId": 520001020305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020401,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020401,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020402,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020402,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020403,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020403,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020404,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020404,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020405,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020405,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020406,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020406,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020501,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020501,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020502,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020502,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020503,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020503,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020504,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020504,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020505,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020505,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 520001020506,
+        "Text": ""
+    },
+    {
+        "ColumnName": "mission_item_detail_description",
+        "LocalizationTargetId": 520001020506,
         "Text": ""
     },
     {

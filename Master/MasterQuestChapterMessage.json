@@ -12,5 +12,19 @@
         "MessageViewLabel": "Quest.PleaseWaitEpisodeUpdate",
         "MessageViewType": 1,
         "ReleaseLabel": "release.story_1_6_quest_chapter_message"
+    },
+    {
+        "MasterQuestChapterId": 210010007114,
+        "MasterQuestChapterMessageId": 280005000003,
+        "MessageViewLabel": "Quest.PleaseWaitEpisodeUpdate",
+        "MessageViewType": 1,
+        "ReleaseLabel": "release.story_1_7_quest_chapter_message"
+    },
+    {
+        "MasterQuestChapterId": 210010008110,
+        "MasterQuestChapterMessageId": 280005000004,
+        "MessageViewLabel": "Quest.PleaseWaitEpisodeUpdate",
+        "MessageViewType": 1,
+        "ReleaseLabel": "release.story_1_8_quest_chapter_message"
     }
 ]

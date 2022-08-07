@@ -782,6 +782,46 @@
     {
         "FloatValue1": 0.0,
         "FloatValue2": 0.0,
+        "IntValue1": 1,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200129000502,
+        "PassiveSkillConditionType": 29,
+        "Rate": 5000,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 1,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200129000552,
+        "PassiveSkillConditionType": 29,
+        "Rate": 5500,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 1,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200129000602,
+        "PassiveSkillConditionType": 29,
+        "Rate": 6000,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 1,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200129000702,
+        "PassiveSkillConditionType": 29,
+        "Rate": 7000,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
         "IntValue1": 10,
         "IntValue2": 0,
         "MasterPassiveSkillConditionId": 31200115000010,
@@ -993,6 +1033,16 @@
         "FloatValue1": 0.0,
         "FloatValue2": 0.0,
         "IntValue1": 1,
+        "IntValue2": 2500,
+        "MasterPassiveSkillConditionId": 31200125001025,
+        "PassiveSkillConditionType": 25,
+        "Rate": 10000,
+        "ReleaseLabel": "release.event_stagnation_202207_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 1,
         "IntValue2": 3000,
         "MasterPassiveSkillConditionId": 31200125001030,
         "PassiveSkillConditionType": 25,
@@ -1173,6 +1223,16 @@
         "FloatValue1": 0.0,
         "FloatValue2": 0.0,
         "IntValue1": 1,
+        "IntValue2": 9900,
+        "MasterPassiveSkillConditionId": 31200126001099,
+        "PassiveSkillConditionType": 26,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 1,
         "IntValue2": 10000,
         "MasterPassiveSkillConditionId": 31200126001100,
         "PassiveSkillConditionType": 26,
@@ -1198,5 +1258,65 @@
         "PassiveSkillConditionType": 31,
         "Rate": 10000,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 2,
+        "IntValue2": 5000,
+        "MasterPassiveSkillConditionId": 31200126002050,
+        "PassiveSkillConditionType": 26,
+        "Rate": 10000,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200102400000,
+        "PassiveSkillConditionType": 2,
+        "Rate": 4000,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200102420000,
+        "PassiveSkillConditionType": 2,
+        "Rate": 4200,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200102440000,
+        "PassiveSkillConditionType": 2,
+        "Rate": 4400,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200102460000,
+        "PassiveSkillConditionType": 2,
+        "Rate": 4600,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "FloatValue1": 0.0,
+        "FloatValue2": 0.0,
+        "IntValue1": 0,
+        "IntValue2": 0,
+        "MasterPassiveSkillConditionId": 31200102500000,
+        "PassiveSkillConditionType": 2,
+        "Rate": 5000,
+        "ReleaseLabel": "release.story_1_8_start"
     }
 ]

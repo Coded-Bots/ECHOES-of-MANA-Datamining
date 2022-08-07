@@ -8,63 +8,63 @@
     },
     {
         "MasterStaminaProductId": 204010002,
-        "Price": 50,
+        "Price": 30,
         "ReleaseLabel": "release.initial",
         "SortOrder": 2,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010003,
-        "Price": 100,
+        "Price": 50,
         "ReleaseLabel": "release.initial",
         "SortOrder": 3,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010004,
-        "Price": 150,
+        "Price": 50,
         "ReleaseLabel": "release.initial",
         "SortOrder": 4,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010005,
-        "Price": 200,
+        "Price": 100,
         "ReleaseLabel": "release.initial",
         "SortOrder": 5,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010006,
-        "Price": 250,
+        "Price": 100,
         "ReleaseLabel": "release.initial",
         "SortOrder": 6,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010007,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 7,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010008,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 8,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010009,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 9,
         "StaminaType": 1
     },
     {
         "MasterStaminaProductId": 204010010,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 10,
         "StaminaType": 1
@@ -78,63 +78,63 @@
     },
     {
         "MasterStaminaProductId": 204020002,
-        "Price": 50,
+        "Price": 30,
         "ReleaseLabel": "release.initial",
         "SortOrder": 2,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020003,
-        "Price": 100,
+        "Price": 50,
         "ReleaseLabel": "release.initial",
         "SortOrder": 3,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020004,
-        "Price": 150,
+        "Price": 50,
         "ReleaseLabel": "release.initial",
         "SortOrder": 4,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020005,
-        "Price": 200,
+        "Price": 100,
         "ReleaseLabel": "release.initial",
         "SortOrder": 5,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020006,
-        "Price": 250,
+        "Price": 100,
         "ReleaseLabel": "release.initial",
         "SortOrder": 6,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020007,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 7,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020008,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 8,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020009,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 9,
         "StaminaType": 2
     },
     {
         "MasterStaminaProductId": 204020010,
-        "Price": 300,
+        "Price": 150,
         "ReleaseLabel": "release.initial",
         "SortOrder": 10,
         "StaminaType": 2

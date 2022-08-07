@@ -264,5 +264,24 @@
         "NoiseSpeedY": 0.0,
         "NoiseSpeedZ": 0.0,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "Alpha": 1.0,
+        "ColorB": 0.0,
+        "ColorG": 0.0,
+        "ColorR": 0.5,
+        "ColorRate": 1.0,
+        "Duration": 0.0,
+        "FadeOutTime": 0.0,
+        "GradientRate": 0.0,
+        "GrayScaleRate": 0.0,
+        "MasterUnitMaterialEffectId": 10600000000020,
+        "NoiseRate": 0.0,
+        "NoiseScale": 0.0,
+        "NoiseSpeedW": 0.0,
+        "NoiseSpeedX": 0.0,
+        "NoiseSpeedY": 0.0,
+        "NoiseSpeedZ": 0.0,
+        "ReleaseLabel": "release.event_scenario_4_start"
     }
 ]

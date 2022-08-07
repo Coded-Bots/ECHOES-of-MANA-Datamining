@@ -1,0 +1,22 @@
+[
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1110001,
+        "Text": "AP Extender"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1110001,
+        "Text": "Extends max AP by 1"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1110002,
+        "Text": "SP Extender"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1110002,
+        "Text": "Extends max SP by 1"
+    }
+]

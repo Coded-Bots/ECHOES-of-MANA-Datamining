@@ -46,6 +46,28 @@
     {
         "AutoExchangeMasterRewardGroupId": 420034000023,
         "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202206_treasure_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002005,
+        "MasterLotteryShopId": 6001020051,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202206_ranking_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002006,
+        "MasterLotteryShopId": 6001020061,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
         "AutoExchangeReleaseLabel": "release.lottery_202205_hero_pt_exchange_start",
         "ItemCategory": 9,
         "MasterLotteryPointItemId": 6007002007,
@@ -64,5 +86,93 @@
         "MaxLimit": 10000,
         "Name": "",
         "ReleaseLabel": "release.lottery_202205_angela_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202207_scenario_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002009,
+        "MasterLotteryShopId": 6001020091,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202206_light_dark_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002011,
+        "MasterLotteryShopId": 6001020111,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_light_dark_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202206_popoi_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002010,
+        "MasterLotteryShopId": 6001020101,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_popoi_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202207_treasure_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002012,
+        "MasterLotteryShopId": 6001020121,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202207_sierra_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002013,
+        "MasterLotteryShopId": 6001020131,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202207_ranking_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002014,
+        "MasterLotteryShopId": 6001020141,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202207_fire_water_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002015,
+        "MasterLotteryShopId": 6001020151,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_fire_water_start"
+    },
+    {
+        "AutoExchangeMasterRewardGroupId": 420034000023,
+        "AutoExchangeRate": 1,
+        "AutoExchangeReleaseLabel": "release.lottery_202208_escad_duran_pt_exchange_start",
+        "ItemCategory": 9,
+        "MasterLotteryPointItemId": 6007002019,
+        "MasterLotteryShopId": 6001020191,
+        "MaxLimit": 10000,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
     }
 ]

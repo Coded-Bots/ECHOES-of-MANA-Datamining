@@ -225,13 +225,13 @@
         "DefineName": "EQUIPMENT_MAX_POSSESSION_COUNT_DEFAULT",
         "MasterDefineValueId": 304000048,
         "ReleaseLabel": "release.initial",
-        "Value": 200
+        "Value": 400
     },
     {
         "DefineName": "EQUIPMENT_MAX_POSSESSION_COUNT",
         "MasterDefineValueId": 304000049,
         "ReleaseLabel": "release.initial",
-        "Value": 300
+        "Value": 500
     },
     {
         "DefineName": "EQUIPMENT_EXTEND_POSSESSION_COUNT",
@@ -243,7 +243,7 @@
         "DefineName": "EQUIPMENT_EXTEND_POSSESSION_REQUIRED_GEM",
         "MasterDefineValueId": 304000051,
         "ReleaseLabel": "release.initial",
-        "Value": 3
+        "Value": 20
     },
     {
         "DefineName": "EQUIPMENT_REFINE_REQUIRED_LUCRE_VALUE",
@@ -447,7 +447,7 @@
         "DefineName": "STAMINA_RECOVERY_AMOUNT",
         "MasterDefineValueId": 304000085,
         "ReleaseLabel": "release.initial",
-        "Value": 60
+        "Value": 180
     },
     {
         "DefineName": "character.evolvematerial.max_rarity",
@@ -502,5 +502,29 @@
         "MasterDefineValueId": 304000094,
         "ReleaseLabel": "release.initial",
         "Value": 600511102001
+    },
+    {
+        "DefineName": "STORE_REVIEW_TARGET_QUEST_CHAPTER_ID",
+        "MasterDefineValueId": 304000095,
+        "ReleaseLabel": "release.initial",
+        "Value": 210010003113
+    },
+    {
+        "DefineName": "STORE_REVIEW_SHOW_THRESHOLD",
+        "MasterDefineValueId": 304000096,
+        "ReleaseLabel": "release.initial",
+        "Value": 3
+    },
+    {
+        "DefineName": "ITEM_THUMBNAIL_MAX_DISPLAY_AMOUNT",
+        "MasterDefineValueId": 304000097,
+        "ReleaseLabel": "release.initial",
+        "Value": 9999
+    },
+    {
+        "DefineName": "ITEM_MAX_DISPLAY_AMOUNT_1_2_0",
+        "MasterDefineValueId": 304000098,
+        "ReleaseLabel": "release.initial",
+        "Value": 9999999
     }
 ]

@@ -1,1 +1,72 @@
-[]
+[
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001101,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001102,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001103,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001104,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001105,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050001106,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002101,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002102,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002103,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002104,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002105,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050002106,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050003101,
+        "Text": "Stamina 50% Off!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 210050003102,
+        "Text": "Stamina 50% Off!"
+    }
+]

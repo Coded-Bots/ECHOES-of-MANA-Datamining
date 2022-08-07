@@ -5,9 +5,19 @@
         "Text": "Harvest Trader Points"
     },
     {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002001,
+        "Text": "Release Celebration Harvest"
+    },
+    {
         "ColumnName": "name",
         "LocalizationTargetId": 6007002002,
         "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002002,
+        "Text": "Guided by the Great Tree Harvest"
     },
     {
         "ColumnName": "name",
@@ -15,9 +25,39 @@
         "Text": "Harvest Trader Points"
     },
     {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002003,
+        "Text": "The Beast Within Harvest"
+    },
+    {
         "ColumnName": "name",
         "LocalizationTargetId": 6007002004,
         "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002004,
+        "Text": "Searching for Lost Luster Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002005,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002005,
+        "Text": "A World of Encounters Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002006,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002006,
+        "Text": "Whiz & Beauty Harvest"
     },
     {
         "ColumnName": "name",
@@ -25,8 +65,98 @@
         "Text": "Harvest Trader Points"
     },
     {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002007,
+        "Text": "Overcoming Myriad Farewells Harvest"
+    },
+    {
         "ColumnName": "name",
         "LocalizationTargetId": 6007002008,
         "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002008,
+        "Text": "Magic Power in Bloom Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002009,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002009,
+        "Text": "Ice & Fire Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002010,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002010,
+        "Text": "Headed for the Home Village Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002011,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002011,
+        "Text": "Jun 2022 Light/Dark Fresh Pick Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002012,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002012,
+        "Text": "The Conqueror Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002013,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002013,
+        "Text": "Unyielding Loyalty Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002014,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002014,
+        "Text": "Knightly Aspirations Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002015,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002015,
+        "Text": "Jul 2022 Fire/Water Fresh Pick Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6007002019,
+        "Text": "Harvest Trader Points"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6007002019,
+        "Text": "Labyrinth of Lost Heroes Harvest"
     }
 ]

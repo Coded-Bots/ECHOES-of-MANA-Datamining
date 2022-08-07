@@ -81,6 +81,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 6001003003,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003003,
+        "Text": "June 2022 4★ Light/Dark Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 6001003004,
         "Text": "Ticket"
     },
@@ -91,6 +101,86 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 6001003006,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003006,
+        "Text": "Jun 2022 Mana Series 31st Anniversary 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003007,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003007,
+        "Text": "Jul 2022 3 Million Downloads Celebration 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003008,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003008,
+        "Text": "Jul 2022 Returning Echo Campaign 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003009,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003009,
+        "Text": "Jun 2022 LoM Anniversary 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003010,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003010,
+        "Text": "Jul 2022 3 Million Downloads Celebration Ticket Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003011,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003011,
+        "Text": "Aug 2022 100th Day Anniversary Ticket Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003012,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003012,
+        "Text": "Jul 2022 4★ Fire/Water Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001003013,
+        "Text": "Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001003013,
+        "Text": "Aug 2022 100th Day Anniversary 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 6001020041,
         "Text": "Standard Harvest"
     },
@@ -98,5 +188,185 @@
         "ColumnName": "description",
         "LocalizationTargetId": 6001020041,
         "Text": "Jun 2022 Searching for Lost Luster Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020042,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020042,
+        "Text": "Jun 2022 Searching for Lost Luster Harvest (Lady Blackpearl FP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020043,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020043,
+        "Text": "Jun 2022 Searching for Lost Luster Harvest (Hawkeye FP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020051,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020051,
+        "Text": "Jun 2022 A World of Encounters Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020061,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020061,
+        "Text": "Jun 2022 Whiz & Beauty Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020062,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020062,
+        "Text": "Jun 2022 Whiz & Beauty Harvest_Charlotte FP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020063,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020063,
+        "Text": "Jun 2022 Whiz & Beauty Harvest_Wanderer FP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020091,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020091,
+        "Text": "Jul 2022 Fire and Ice Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020092,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020092,
+        "Text": "Jul 2022 Fire and Ice Harvest (Angela FP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020093,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020093,
+        "Text": "Jul 2022 Fire and Ice Harvest (Julius FP)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020101,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020101,
+        "Text": "Jun 2022 Headed for the Home Village Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020111,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020111,
+        "Text": "Jun 2022 Light/Dark Fresh Pick Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020121,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020121,
+        "Text": "Jul 2022 The Conqueror Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020131,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020131,
+        "Text": "Jul 2022 Unyielding Loyalty Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020141,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020141,
+        "Text": "Jul 2022 Knightly Aspirations Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020151,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020151,
+        "Text": "Jun 2022 Fire/Water Fresh Pick Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020191,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020191,
+        "Text": "Aug 2022 Labyrinth of Lost Heroes Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020192,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020192,
+        "Text": "Aug 2022 Labyrinth of Lost Heroes Escad FP Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 6001020193,
+        "Text": "Standard Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6001020193,
+        "Text": "Aug 2022 Labyrinth of Lost Heroes Duran FP Harvest"
     }
 ]

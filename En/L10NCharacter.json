@@ -11,6 +11,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210101003,
+        "Text": "Resolve Renewed"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210102001,
         "Text": "For Affection's Sake"
     },
@@ -38,6 +43,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210104002,
         "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210104003,
+        "Text": "Tactical Mage of Manipulation"
     },
     {
         "ColumnName": "title",
@@ -91,6 +101,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210301003,
+        "Text": "Trusted Shield"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210302001,
         "Text": "Magic Power in Bloom"
     },
@@ -98,6 +113,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210302002,
         "Text": "Rebelling Against Fate"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210302003,
+        "Text": "Shining Magic Power"
     },
     {
         "ColumnName": "title",
@@ -113,6 +133,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210304001,
         "Text": "Fifteen in the Flush of Youth"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210304002,
+        "Text": "Whiz & Beauty"
     },
     {
         "ColumnName": "title",
@@ -201,6 +226,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210502003,
+        "Text": "A World of Encounters"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210503001,
         "Text": "Smile for Mew!"
     },
@@ -216,6 +246,16 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600210504003,
+        "Text": "Unyielding Loyalty"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210505001,
+        "Text": "The Conqueror"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600210506001,
         "Text": "Jumi's Finest"
     },
@@ -223,6 +263,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210507001,
         "Text": "Young Jumi Knight"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210508001,
+        "Text": "Beholder of Justice"
     },
     {
         "ColumnName": "title",
@@ -238,6 +283,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600210602001,
         "Text": "The Niccolo Vagabond"
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600210602002,
+        "Text": "Winding My Way Home"
     },
     {
         "ColumnName": "title",
@@ -261,6 +311,11 @@
     },
     {
         "ColumnName": "title",
+        "LocalizationTargetId": 600211104002,
+        "Text": "Knightly Aspirations"
+    },
+    {
+        "ColumnName": "title",
         "LocalizationTargetId": 600211105001,
         "Text": ""
     },
@@ -273,6 +328,11 @@
         "ColumnName": "title",
         "LocalizationTargetId": 600211107001,
         "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600211107002,
+        "Text": "Que Sera Sera"
     },
     {
         "ColumnName": "title",
@@ -532,6 +592,16 @@
     {
         "ColumnName": "title",
         "LocalizationTargetId": 600270019008,
+        "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600270019009,
+        "Text": ""
+    },
+    {
+        "ColumnName": "title",
+        "LocalizationTargetId": 600270019010,
         "Text": ""
     }
 ]

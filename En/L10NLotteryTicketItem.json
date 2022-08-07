@@ -28,5 +28,95 @@
         "ColumnName": "description",
         "LocalizationTargetId": 1080004,
         "Text": "Used for harvesting at the Bronze Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080005,
+        "Text": "4★ Light/Dark Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080005,
+        "Text": "Used for harvesting at the 4★ Light/Dark Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080006,
+        "Text": "Mana Series 31st Anniversary 4★ Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080006,
+        "Text": "Used for harvesting at the Mana Series 31st Anniversary 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080007,
+        "Text": "3 Million Downloads Celebration 4★ Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080007,
+        "Text": "Used for harvesting at the 3 Million Downloads Celebration 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080008,
+        "Text": "Returning Echo Campaign 4★ Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080008,
+        "Text": "Used for harvesting at the Returning Echo Campaign 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080009,
+        "Text": "LoM Anniversary 4★ Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080009,
+        "Text": "Used for harvesting at the LoM Anniversary 4★ Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080010,
+        "Text": "3 Million Downloads Celebration Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080010,
+        "Text": "Used for harvesting at the 3 Million Downloads Celebration Ticket Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080011,
+        "Text": "100th Day Anniversary Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080011,
+        "Text": "Used for harvesting at the 100th Day Anniversary Ticket Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080012,
+        "Text": "4★ Fire/Water Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080012,
+        "Text": "Used for harvesting at the 4★ Fire/Water Ally Echo Harvest"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 1080013,
+        "Text": "100th Day Anniversary 4★ Ally-Echo Harvest Ticket"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 1080013,
+        "Text": "Used for harvesting at the 100th Day Anniversary 4★ Ally Echo Harvest"
     }
 ]

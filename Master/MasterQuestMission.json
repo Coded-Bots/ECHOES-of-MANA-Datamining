@@ -394,5 +394,41 @@
         "Order": 4,
         "ReleaseLabel": "release.initial",
         "RequiredValue": 1
+    },
+    {
+        "MasterQuestMissionGroupId": 1012,
+        "MasterQuestMissionId": 280003101201,
+        "MasterRewardGroupId": 3565797645752467476,
+        "MissionType": 16,
+        "Order": 1,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RequiredValue": 0
+    },
+    {
+        "MasterQuestMissionGroupId": 1012,
+        "MasterQuestMissionId": 280003101202,
+        "MasterRewardGroupId": 3565797650047434776,
+        "MissionType": 1,
+        "Order": 2,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RequiredValue": 4
+    },
+    {
+        "MasterQuestMissionGroupId": 1012,
+        "MasterQuestMissionId": 280003101203,
+        "MasterRewardGroupId": 3565797654342402068,
+        "MissionType": 1,
+        "Order": 3,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RequiredValue": 3
+    },
+    {
+        "MasterQuestMissionGroupId": 1012,
+        "MasterQuestMissionId": 280003101204,
+        "MasterRewardGroupId": 3565797658637369364,
+        "MissionType": 1,
+        "Order": 4,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RequiredValue": 2
     }
 ]

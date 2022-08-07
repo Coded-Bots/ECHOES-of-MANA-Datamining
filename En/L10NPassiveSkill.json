@@ -67,7 +67,67 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 31100000010140,
-        "Text": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)/[SELF] ST Gauge: +80%"
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)/[SELF] Initial ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010141,
+        "Text": "ST Boost/Initial ST Gauge Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010141,
+        "Text": "[SELF/PAIRED ALLY] ST DMG: +10% (Continuous)/[SELF] Initial ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010200,
+        "Text": "Initial ST Gauge Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010200,
+        "Text": "[SELF] Initial ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010201,
+        "Text": "Light Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010201,
+        "Text": "[SELF/PAIRED ALLY] Light DMG: +10% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010202,
+        "Text": "Light Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010202,
+        "Text": "[SELF/PAIRED ALLY] ST DMG: +10% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010203,
+        "Text": "Fire Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010203,
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +10% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000010204,
+        "Text": "STR Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000010204,
+        "Text": "[SELF/PAIRED ALLY] STR: +10% (Continuous)"
     },
     {
         "ColumnName": "name",
@@ -248,6 +308,36 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100000030042,
         "Text": "[PARTY] INT: +12% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000035001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000035001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000035002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000035002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100000035003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100000035003,
+        "Text": ""
     },
     {
         "ColumnName": "name",
@@ -631,6 +721,36 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100001000060,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000060,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000061,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000061,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000062,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000062,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100001000101,
         "Text": "The Tale Begins"
     },
@@ -878,6 +998,156 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100001000541,
         "Text": "On slash attack, DMG: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000601,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000601,
+        "Text": "[SELF] When HP 50% or higher, INT: +15% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000602,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000602,
+        "Text": "[SELF] When HP 50% or higher, INT: +17% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000603,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000603,
+        "Text": "[SELF] When HP 50% or higher, INT: +18% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000604,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000604,
+        "Text": "[SELF] When HP 50% or higher, INT: +19% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000605,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000605,
+        "Text": "[SELF] When HP 50% or higher, INT: +20% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000611,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000611,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000612,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000612,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 8s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000613,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000613,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 7s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000614,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000614,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000615,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000615,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 5s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000621,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000621,
+        "Text": "[SELF] When HP 50% or higher, INT: +15% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000622,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000622,
+        "Text": "[SELF] When HP 50% or higher, INT: +17% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 8s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000623,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000623,
+        "Text": "[SELF] When HP 50% or higher, INT: +18% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 7s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000624,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000624,
+        "Text": "[SELF] When HP 50% or higher, INT: +19% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100001000625,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100001000625,
+        "Text": "[SELF] When HP 50% or higher, INT: +20% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 5s)"
     },
     {
         "ColumnName": "name",
@@ -1328,6 +1598,106 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100002000941,
         "Text": "On stage start, recover MP: +25"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001001,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001001,
+        "Text": "[SELF] While field-inactive, recover MP: +5 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001011,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001011,
+        "Text": "[SELF] While field-inactive, recover MP: +7 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001021,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001021,
+        "Text": "[SELF] While field-inactive, recover MP: +8 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001031,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001031,
+        "Text": "[SELF] While field-inactive, recover MP: +9 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001041,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001041,
+        "Text": "[SELF] While field-inactive, recover MP: +10 (Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001701,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001701,
+        "Text": "On skill usage, 50% chance to recover HP: 100"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001711,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001711,
+        "Text": "On skill usage, 55% chance to recover HP: 100"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001721,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001721,
+        "Text": "On skill usage, 60% chance to recover HP: 100"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001731,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001731,
+        "Text": "On skill usage, 70% chance to recover HP: 100"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100002001741,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100002001741,
+        "Text": "On skill usage, recover HP: 100"
     },
     {
         "ColumnName": "name",
@@ -1831,6 +2201,56 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100003001101,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001101,
+        "Text": "HP restore amount: +15%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001111,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001111,
+        "Text": "HP restore amount: +17%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001121,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001121,
+        "Text": "HP restore amount: +18%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001131,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001131,
+        "Text": "HP restore amount: +19%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100003001141,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100003001141,
+        "Text": "HP restore amount: +20%"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100004000101,
         "Text": "A Curious Creeping Vine"
     },
@@ -2331,6 +2751,406 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100005000601,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000601,
+        "Text": "On dark attack, normal attack/ST DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000611,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000611,
+        "Text": "On dark attack, normal attack/ST DMG: +22%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000621,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000621,
+        "Text": "On dark attack, normal attack/ST DMG: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000631,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000631,
+        "Text": "On dark attack, normal attack/ST DMG: +27%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000641,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000641,
+        "Text": "On dark attack, normal attack/ST DMG: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000701,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000701,
+        "Text": "[SELF] Normal Attack/Mega Spirit Magic DMG: +30% [WATER Ally]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000711,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000711,
+        "Text": "[SELF] Normal Attack/Mega Spirit Magic DMG: +35% [WATER Ally]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000721,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000721,
+        "Text": "[SELF] Normal Attack/Mega Spirit Magic DMG: +38% [WATER Ally]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000731,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000731,
+        "Text": "[SELF] Normal Attack/Mega Spirit Magic DMG: +39% [WATER Ally]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005000741,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005000741,
+        "Text": "[SELF] Normal Attack/Mega Spirit Magic DMG: +40% [WATER Ally]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001101,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001101,
+        "Text": "[SELF] Combo Duration: +1s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001102,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001102,
+        "Text": "When combo 30+, Skill DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001103,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001103,
+        "Text": "[SELF] Combo Duration: +1s/When combo 30+, Skill DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001111,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001111,
+        "Text": "[SELF] Combo Duration: +1.2s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001112,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001112,
+        "Text": "When combo 30+, Skill DMG: +22%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001113,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001113,
+        "Text": "[SELF] Combo Duration: +1.2s/When combo 30+, Skill DMG: +22%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001121,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001121,
+        "Text": "[SELF] Combo Duration: +1.3s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001122,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001122,
+        "Text": "When combo 30+, Skill DMG: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001123,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001123,
+        "Text": "[SELF] Combo Duration: +1.3s/When combo 30+, Skill DMG: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001131,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001131,
+        "Text": "[SELF] Combo Duration: +1.4s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001132,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001132,
+        "Text": "When combo 30+, Skill DMG: +27%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001133,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001133,
+        "Text": "[SELF] Combo Duration: +1.4s/When combo 30+, Skill DMG: +27%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001141,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001141,
+        "Text": "[SELF] Combo Duration: +1.5s"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001142,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001142,
+        "Text": "When combo 30+, Skill DMG: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001143,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001143,
+        "Text": "[SELF] Combo Duration: +1.5s/When combo 30+, Skill DMG: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001501,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001501,
+        "Text": "[SELF] When HP 50% or higher, STR: +15% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001502,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001502,
+        "Text": "[SELF] When HP 50% or higher, STR: +17% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001503,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001503,
+        "Text": "[SELF] When HP 50% or higher, STR: +18% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001504,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001504,
+        "Text": "[SELF] When HP 50% or higher, STR: +19% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001505,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001505,
+        "Text": "[SELF] When HP 50% or higher, STR: +20% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001511,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001511,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001512,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001512,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 8s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001513,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001513,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 7s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001514,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001514,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001515,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001515,
+        "Text": "[SELF] When HP 50% or lower while field-active, recover HP (3% of max HP/Every 5s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001521,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001521,
+        "Text": "[SELF] When HP 50% or higher, STR: +15% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001522,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001522,
+        "Text": "[SELF] When HP 50% or higher, STR: +17% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 8s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001523,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001523,
+        "Text": "[SELF] When HP 50% or higher, STR: +18% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 7s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001524,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001524,
+        "Text": "[SELF] When HP 50% or higher, STR: +19% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 6s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100005001525,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100005001525,
+        "Text": "[SELF] When HP 50% or higher, STR: +20% (Continuous)/When HP 50% or lower while field-active, recover HP (3% of max HP/Every 5s)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100006000101,
         "Text": "Xangar, Malevodon of Flame"
     },
@@ -2628,6 +3448,56 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100006000641,
         "Text": "On foe defeat, ST Gauge: +10%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100008000101,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100008000101,
+        "Text": "On fire attack, skill DMG: +15%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100008000111,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100008000111,
+        "Text": "On fire attack, skill DMG: +17%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100008000121,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100008000121,
+        "Text": "On fire attack, skill DMG: +18%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100008000131,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100008000131,
+        "Text": "On fire attack, skill DMG: +19%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100008000141,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100008000141,
+        "Text": "On fire attack, skill DMG: +20%"
     },
     {
         "ColumnName": "name",
@@ -2931,6 +3801,106 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100011000701,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000701,
+        "Text": "HP restore amount: +20%/HP recovery amount: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000711,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000711,
+        "Text": "HP restore amount: +25%/HP recovery amount: +25%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000721,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000721,
+        "Text": "HP restore amount: +30%/HP recovery amount: +30%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000731,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000731,
+        "Text": "HP restore amount: +35%/HP recovery amount: +35%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000741,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000741,
+        "Text": "HP restore amount: +40%/HP recovery amount: +40%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000801,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000801,
+        "Text": "On stage start, 40% chance to fully recover HP/MP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000811,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000811,
+        "Text": "On stage start, 42% chance to fully recover HP/MP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000821,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000821,
+        "Text": "On stage start, 44% chance to fully recover HP/MP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000831,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000831,
+        "Text": "On stage start, 46% chance to fully recover HP/MP"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011000841,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011000841,
+        "Text": "On stage start, 50% chance to fully recover HP/MP"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100101,
         "Text": "The Tower on High"
     },
@@ -3081,6 +4051,106 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100011100501,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100501,
+        "Text": "When HP 90% or higher, Skill DMG: +35% [vs REPTILE]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100511,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100511,
+        "Text": "When HP 90% or higher, Skill DMG: +37% [vs REPTILE]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100521,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100521,
+        "Text": "When HP 90% or higher, Skill DMG: +40% [vs REPTILE]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100531,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100531,
+        "Text": "When HP 90% or higher, Skill DMG: +42% [vs REPTILE]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100541,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100541,
+        "Text": "When HP 90% or higher, Skill DMG: +45% [vs REPTILE]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100601,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100601,
+        "Text": "When HP 90% or higher, ST DMG: +35% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100611,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100611,
+        "Text": "When HP 90% or higher, ST DMG: +37% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100621,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100621,
+        "Text": "When HP 90% or higher, ST DMG: +40% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100631,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100631,
+        "Text": "When HP 90% or higher, ST DMG: +42% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011100641,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011100641,
+        "Text": "When HP 90% or higher, ST DMG: +45% [vs BEAST]"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100011100901,
         "Text": "Seamless Synergy"
     },
@@ -3131,6 +4201,116 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100011101001,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011101001,
+        "Text": "[ACTIVE ALLIES] On foe defeat, 20% chance to recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011101011,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011101011,
+        "Text": "[ACTIVE ALLIES] On foe defeat, 22% chance to recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011101021,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011101021,
+        "Text": "[ACTIVE ALLIES] On foe defeat, 23% chance to recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011101031,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011101031,
+        "Text": "[ACTIVE ALLIES] On foe defeat, 24% chance to recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100011101041,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100011101041,
+        "Text": "[ACTIVE ALLIES] On foe defeat, 25% chance to recover MP: +15"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100012000101,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100012000101,
+        "Text": "On slash attack, Skill DMG: +15%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100012000111,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100012000111,
+        "Text": "On slash attack, Skill DMG: +17%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100012000121,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100012000121,
+        "Text": "On slash attack, Skill DMG: +18%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100012000131,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100012000131,
+        "Text": "On slash attack, Skill DMG: +19%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100012000141,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100012000141,
+        "Text": "On slash attack, Skill DMG: +20%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100032002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100032002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100101010010,
         "Text": "Support Skill: Sumo (Overcoming Myriad Farewells Ver.)"
     },
@@ -3148,6 +4328,76 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100101010011,
         "Text": "[SELF] On special technique, gain SA (10s)/Normal attack DMG: +40% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101010031,
+        "Text": "Sumo Support Skill (Resolve Renewed Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101010031,
+        "Text": "[SELF/PAIRED ALLY] Critical Wind DMG: +2% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101010032,
+        "Text": "Sumo Support Skill (Resolve Renewed Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101010032,
+        "Text": "[SELF/PAIRED ALLY] Critical Wind DMG: +3% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101010033,
+        "Text": "Sumo Support Skill (Resolve Renewed Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101010033,
+        "Text": "[SELF] Critical Wind DMG: 2% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101010034,
+        "Text": "Sumo Support Skill (Resolve Renewed Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101010034,
+        "Text": "[SELF] Critical Wind DMG: 3% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101040030,
+        "Text": "Fire Boost/Initial ST Gauge Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101040030,
+        "Text": "[SELF/PAIRED ALLY] Fire DMG: +10% (Continuous)/[SELF] Initial ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101040031,
+        "Text": "Julius Support Skill (Tactical Mage of Manipulation Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101040031,
+        "Text": "[PAIRED ALLY] On skill usage, ST DMG: +20% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100101040032,
+        "Text": "Julius Support Skill (Tactical Mage of Manipulation Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100101040032,
+        "Text": "[PAIRED ALLY] On skill usage, ST DMG: +30% (10s)"
     },
     {
         "ColumnName": "name",
@@ -3201,6 +4451,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100103010031,
+        "Text": "Duran Support Skill (Trusted Shield Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103010031,
+        "Text": "[SELF/PAIRED ALLY] On special technique, wind DMG: +8% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103010032,
+        "Text": "Duran Support Skill (Trusted Shield Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103010032,
+        "Text": "[SELF/PAIRED ALLY] On special technique, wind DMG: +12% (10s)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103020010,
         "Text": "Support Skill: Angela (Magic Power in Bloom Ver.)"
     },
@@ -3221,6 +4491,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100103020030,
+        "Text": "Angela Support Skill (Shining Magic Power Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103020030,
+        "Text": "[SELF] When HP 50% or higher, DMG: +6% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103020031,
+        "Text": "Angela Support Skill (Shining Magic Power Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103020031,
+        "Text": "[SELF] When HP 50% or higher, DMG: +10% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100103030020,
         "Text": "Support Skill: Kevin (The Beast Within Ver.)"
     },
@@ -3238,6 +4528,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100103030021,
         "Text": "[SELF/PAIRED ALLY] On special technique, dark DMG: +12% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103040020,
+        "Text": "Charlotte Support Skill (Whiz & Beauty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103040020,
+        "Text": "[SELF/PAIRED ALLY] On skill usage, restore HP (RCV: 15%)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100103040021,
+        "Text": "Charlotte Support Skill (Whiz & Beauty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100103040021,
+        "Text": "[SELF/PAIRED ALLY] On skill usage, restore HP (RCV: 25%)"
     },
     {
         "ColumnName": "name",
@@ -3301,6 +4611,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100104020012,
+        "Text": "Support Skill: Keldric (Guided by the Great Tree Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100104020012,
+        "Text": "[SELF] When combo 30+, STR: +6% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100104020013,
+        "Text": "Support Skill: Keldric (Guided by the Great Tree Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100104020013,
+        "Text": "[SELF] When combo 30+, STR: +10% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100105010010,
         "Text": "Support Skill: Shiloh (Encounter Sprung from a Seed Ver.)"
     },
@@ -3321,6 +4651,96 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 31100105020030,
+        "Text": "Serafina Support Skill (A World of Encounters Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105020030,
+        "Text": "[PAIRED ALLY] On skill usage, STR: +6% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105020031,
+        "Text": "Serafina Support Skill (A World of Encounters Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105020031,
+        "Text": "[PAIRED ALLY] On skill usage, STR: +10% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105040030,
+        "Text": "STR Boost/Initial ST Gauge Boost (4☆)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105040030,
+        "Text": "[SELF/PAIRED ALLY] STR: +10% (Continuous)/[SELF] Initial ST Gauge: +80%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105040031,
+        "Text": "Sierra Support Skill (Unyielding Loyalty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105040031,
+        "Text": "[SELF/PAIRED ALLY] When combo 30+, ST DMG: +12% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105040032,
+        "Text": "Sierra Support Skill (Unyielding Loyalty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105040032,
+        "Text": "[SELF/PAIRED ALLY] When combo 30+, ST DMG: +15% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105040033,
+        "Text": "Sierra Support Skill (Unyielding Loyalty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105040033,
+        "Text": "[SELF] When combo 30+, ST DMG: +12% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105040034,
+        "Text": "Sierra Support Skill (Unyielding Loyalty Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105040034,
+        "Text": "[SELF] When combo 30+, ST DMG: +15% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105050010,
+        "Text": "Larc Support Skill (The Conqueror Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105050010,
+        "Text": "[SELF/PAIRED ALLY] On special technique, water DMG: +8% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105050011,
+        "Text": "Larc Support Skill (The Conqueror Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105050011,
+        "Text": "[SELF/PAIRED ALLY] On special technique, water DMG: +12% (10s)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 31100105060010,
         "Text": "Lady Blackpearl Support Skill (Jumi's Finest Ver.)"
     },
@@ -3338,6 +4758,106 @@
         "ColumnName": "description",
         "LocalizationTargetId": 31100105060011,
         "Text": "[SELF] On skill usage, ST Gauge boost rate: +60% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080011,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080011,
+        "Text": "[SELF] When HP 50% or higher, DMG: +4% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080012,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080012,
+        "Text": "[SELF] When HP 50% or higher, DMG: +6% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080013,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080013,
+        "Text": "[SELF] When HP 100%, DMG: +8% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080014,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080014,
+        "Text": "[SELF] When HP 100%, DMG: +12% (Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080015,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080015,
+        "Text": "[SELF] When HP 50% or higher, DMG: +4% (Continuous)/When HP 100%, DMG: +4% (8% Total/Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100105080016,
+        "Text": "Escad Support Skill (Beholder of Justice Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100105080016,
+        "Text": "[SELF] When HP 50% or higher, DMG: +6% (Continuous)/When HP 100%, DMG: +6% (12% Total/Continuous)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100106020021,
+        "Text": "Wanderer Support Skill (Winding My Way Home Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100106020021,
+        "Text": "[SELF/PAIRED ALLY] On special technique, light DMG: +12% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100106020022,
+        "Text": "Wanderer Support Skill (Winding My Way Home Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100106020022,
+        "Text": "[SELF/PAIRED ALLY] On special technique, light DMG: +15% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100111040021,
+        "Text": "Honeycomb Support Skill (Knightly Aspirations Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100111040021,
+        "Text": "[PAIRED ALLY] On special technique, skill DMG: +20% (10s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 31100111040022,
+        "Text": "Honeycomb Support Skill (Knightly Aspirations Ver.)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 31100111040022,
+        "Text": "[PAIRED ALLY] On special technique, skill DMG: +30% (10s)"
     },
     {
         "ColumnName": "name",

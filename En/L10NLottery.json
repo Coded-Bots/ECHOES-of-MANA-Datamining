@@ -6,13 +6,18 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 6002005101,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 6002200101,
         "Text": "Standard"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200102,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -22,7 +27,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200202,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -32,7 +37,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200302,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -42,7 +47,62 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200412,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200421,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200422,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200431,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200432,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200512,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200611,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200612,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200621,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200622,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200631,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200632,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -52,7 +112,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200702,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -62,7 +122,127 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 6002200802,
-        "Text": "One Harvest Free!\nOne 3★ Guaranteed!"
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200911,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200912,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200921,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200922,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200931,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002200932,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201011,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201012,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201111,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201112,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201211,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201212,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201311,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201312,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201411,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201412,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201511,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201512,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201911,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201912,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201921,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201922,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201931,
+        "Text": "Standard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002201932,
+        "Text": "One Harvest Free!\nOne 3★+ Guaranteed!"
     },
     {
         "ColumnName": "description",
@@ -76,7 +256,62 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 6002300301,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 6002300401,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300402,
+        "Text": "Multi-Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300601,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300701,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300801,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002300901,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002301001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002301101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002301102,
+        "Text": "Multi-Harvest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002301201,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 6002301301,
         "Text": ""
     }
 ]

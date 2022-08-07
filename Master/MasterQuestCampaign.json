@@ -1,1 +1,128 @@
-[]
+[
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001101,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020001,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001102,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020002,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001103,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020003,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001104,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020004,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001105,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020005,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050001106,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020006,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002101,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000020007,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002102,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000024001,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002103,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000025001,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002104,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000050001,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002105,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000050002,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050002106,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000050003,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050003101,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000050004,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    },
+    {
+        "ConsumeStaminaRatio": 5000,
+        "MasterQuestCampaignId": 210050003102,
+        "MasterQuestChapterId": 0,
+        "MasterQuestEpisodeId": 200000050005,
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "RewardCharacterExpRatio": 10000,
+        "RewardGoldRatio": 10000
+    }
+]

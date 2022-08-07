@@ -81,6 +81,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110101003011,
+        "Text": "Overhead Cleave"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110101003011,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110101003012,
+        "Text": "Overhead Cleave"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110101003012,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110101003021,
+        "Text": "Thunder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110101003021,
+        "Text": "Deals wind M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110101003022,
+        "Text": "Thunder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110101003022,
+        "Text": "Deals wind M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110102001011,
         "Text": "Twin Edge"
     },
@@ -318,6 +358,46 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110104002022,
         "Text": "[TARGET] SPR: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110104003011,
+        "Text": "Fire"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110104003011,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110104003012,
+        "Text": "Fire"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110104003012,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110104003021,
+        "Text": "Hollowing Curse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110104003021,
+        "Text": "[TARGET] INT: -35% (25s) (Effect boosts by SLv.)/SPR: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110104003022,
+        "Text": "Hollowing Curse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110104003022,
+        "Text": "[TARGET] INT: -40% (25s) (Effect boosts by SLv.)/SPR: -40% (25s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",
@@ -721,6 +801,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110301003011,
+        "Text": "Healing Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110301003011,
+        "Text": "[TARGET] Restore HP (RCV: 120%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110301003012,
+        "Text": "Healing Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110301003012,
+        "Text": "[TARGET] Restore HP (RCV: 140%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110301003021,
+        "Text": "Area Guard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110301003021,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +200 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110301003022,
+        "Text": "Area Guard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110301003022,
+        "Text": "[SELF] Gain SA (60s)/[ACTIVE ALLIES] CON: +300 (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110302001011,
         "Text": "Ice Smash"
     },
@@ -798,6 +918,46 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110302002022,
         "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110302003011,
+        "Text": "Blaze Wall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110302003011,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110302003012,
+        "Text": "Blaze Wall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110302003012,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110302003021,
+        "Text": "Limitless Potential"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110302003021,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -20% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110302003022,
+        "Text": "Limitless Potential"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110302003022,
+        "Text": "[SELF] INT: +10% (60s)/MP Cost: -25% (60s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",
@@ -918,6 +1078,46 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110304001022,
         "Text": "[TARGET] Restore HP (RCV: 120%) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110304002011,
+        "Text": "Ready Set Go"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110304002011,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110304002012,
+        "Text": "Ready Set Go"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110304002012,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110304002021,
+        "Text": "Hip Hip Away"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110304002021,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)/[TARGET] INT: -35% (25s)/SPR: -35% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110304002022,
+        "Text": "Hip Hip Away"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110304002022,
+        "Text": "Deals M.DMG (DMG boosts by SLv.)/[TARGET] INT: -35% (25s)/SPR: -35% (25s)"
     },
     {
         "ColumnName": "name",
@@ -1561,6 +1761,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30110502003011,
+        "Text": "Eclipse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110502003011,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110502003012,
+        "Text": "Eclipse"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110502003012,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110502003021,
+        "Text": "Evil Smash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110502003021,
+        "Text": "Deals dark M.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110502003022,
+        "Text": "Evil Smash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110502003022,
+        "Text": "Deals dark M.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30110503001011,
         "Text": "Jawbreaker"
     },
@@ -1678,6 +1918,86 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110504002022,
         "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110504003011,
+        "Text": "Unceasing Blade"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110504003011,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110504003012,
+        "Text": "Unceasing Blade"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110504003012,
+        "Text": "Deals knife P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110504003021,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110504003021,
+        "Text": "[TARGET] STR: -35% (25s) (Effect boosts by SLv.)/CON: -35% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110504003022,
+        "Text": "Fault Finder"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110504003022,
+        "Text": "[TARGET] STR: -40% (25s) (Effect boosts by SLv.)/CON: -40% (25s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110505001011,
+        "Text": "Cutting Pine"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110505001011,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110505001012,
+        "Text": "Cutting Pine"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110505001012,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110505001021,
+        "Text": "Soul Survivor"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110505001021,
+        "Text": "[SELF] Gain SA (60s)/CON: +25% (60s) (Effect boosts by SLv.)/SPR: +25% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110505001022,
+        "Text": "Soul Survivor"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110505001022,
+        "Text": "[SELF] Gain SA (60s)/CON: +35% (60s) (Effect boosts by SLv.)/SPR: +35% (60s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",
@@ -1758,6 +2078,46 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110507001022,
         "Text": "[SELF] Gain SA (50s)/CON: +35% (50s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110508001011,
+        "Text": "Shish Kebob"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110508001011,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110508001012,
+        "Text": "Shish Kebob"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110508001012,
+        "Text": "Deals sword P.DMG (DMG boosts by SLv.)/[TARGET] CON: -35% (25s)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110508001021,
+        "Text": "Dark Blade Art"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110508001021,
+        "Text": "[SELF] Gain SA (60s)/STR: +15% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110508001022,
+        "Text": "Dark Blade Art"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110508001022,
+        "Text": "[SELF] Gain SA (60s)/STR: +20% (60s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",
@@ -1878,6 +2238,46 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30110602001022,
         "Text": "[SELF] CON: +35% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110602002011,
+        "Text": "Big Chop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110602002011,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110602002012,
+        "Text": "Big Chop"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110602002012,
+        "Text": "Deals axe P.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110602002021,
+        "Text": "Wanderer Guard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110602002021,
+        "Text": "[SELF] CON: +30% (60s) (Effect boosts by SLv.)/SPR: +30% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30110602002022,
+        "Text": "Wanderer Guard"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30110602002022,
+        "Text": "[SELF] CON: +40% (60s) (Effect boosts by SLv.)/SPR: +40% (60s) (Effect boosts by SLv.)"
     },
     {
         "ColumnName": "name",
@@ -2041,6 +2441,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30111104002011,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111104002011,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111104002012,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111104002012,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111104002021,
+        "Text": "Ring of Refuge"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111104002021,
+        "Text": "[AOE] Restore MP (20s/2 MP/Every 2s)/CON: +50%/SPR: +50% (MP cost cut by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111104002022,
+        "Text": "Ring of Refuge"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111104002022,
+        "Text": "[AOE] Restore MP (20s/2 MP/Every 2s)/CON: +50%/SPR: +50% (MP cost cut by SLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30111105001011,
         "Text": "Shooting Arrow"
     },
@@ -2158,5 +2598,45 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30111107001022,
         "Text": "[TARGET] Cure status ailments (Slow/Stun) (MP cost cut by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111107002011,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111107002011,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111107002012,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111107002012,
+        "Text": "Deals fire M.DMG (DMG boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111107002021,
+        "Text": "Idle Magic"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111107002021,
+        "Text": "[SELF] INT: +10% (60s) (Effect boosts by SLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30111107002022,
+        "Text": "Idle Magic"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30111107002022,
+        "Text": "[SELF] INT: +20% (60s) (Effect boosts by SLv.)"
     }
 ]

@@ -61,5 +61,23 @@
         "ReleaseLabel": "release.event_tower_202205_start",
         "TargetFloor": -871695007,
         "TowerRewardType": 32
+    },
+    {
+        "IsRepeat": 80,
+        "MasterRewardGroupId": 0,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000180,
+        "ReleaseLabel": "release.event_tower_202206_start",
+        "TargetFloor": -871695006,
+        "TowerRewardType": 32
+    },
+    {
+        "IsRepeat": 90,
+        "MasterRewardGroupId": 0,
+        "MasterRewardTowerClearGroupId": 200000040001,
+        "MasterRewardTowerClearId": 330004000190,
+        "ReleaseLabel": "release.event_tower_202207_start",
+        "TargetFloor": -871695006,
+        "TowerRewardType": 32
     }
 ]

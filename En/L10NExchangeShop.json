@@ -36,6 +36,31 @@
     },
     {
         "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040004,
+        "Text": "EP Trader (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040005,
+        "Text": "EP Trader (Ice & Fire)"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040006,
+        "Text": "EP Trader (Deviant Fruit)"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040007,
+        "Text": "EP Trader (Coffer Chaos)"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000040009,
+        "Text": "EP Trader (Labyrinth of Lost Heroes)"
+    },
+    {
+        "ColumnName": "shop_name",
         "LocalizationTargetId": 41000050001,
         "Text": "Spell Shard Trader"
     },
@@ -61,6 +86,16 @@
     },
     {
         "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060006,
+        "Text": "A World of Encounters Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060007,
+        "Text": "Whiz & Beauty Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060008,
         "Text": "Overcoming Myriad Farewells Harvest Point Trader"
     },
@@ -68,5 +103,55 @@
         "ColumnName": "shop_name",
         "LocalizationTargetId": 41000060009,
         "Text": "Magic Power in Bloom Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060010,
+        "Text": "Light/Dark Fresh Pick Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060011,
+        "Text": "Headed for the Home Village Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060012,
+        "Text": "Ice & Fire Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060013,
+        "Text": "The Conqueror Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060014,
+        "Text": "Unyielding Loyalty Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060015,
+        "Text": "Knightly Aspirations Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060016,
+        "Text": "Fire/Water Fresh Pick Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000060017,
+        "Text": "Labyrinth of Lost Heroes Harvest Point Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000063001,
+        "Text": "Rabite Coin Trader"
+    },
+    {
+        "ColumnName": "shop_name",
+        "LocalizationTargetId": 41000063002,
+        "Text": "Black Rabite Coin Trader"
     }
 ]

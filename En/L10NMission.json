@@ -571,6 +571,106 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001011114,
+        "Text": "Clear main quest chapter 7: Might of a Rusted Sword"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011115,
+        "Text": "Fully clear main quest chapter 7 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011116,
+        "Text": "Clear main quest chapter 7: Dragon of Legend (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011117,
+        "Text": "Clear main quest chapter 7: Follow the Magic Circles (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011118,
+        "Text": "Clear main quest chapter 7: Might of a Rusted Sword (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011119,
+        "Text": "Fully clear main quest chapter 7 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011120,
+        "Text": "Clear main quest chapter 7: Dragon of Legend (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011121,
+        "Text": "Clear main quest chapter 7: Follow the Magic Circles (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011122,
+        "Text": "Clear main quest chapter 7: Might of a Rusted Sword (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011123,
+        "Text": "Fully clear main quest chapter 7 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011127,
+        "Text": "Clear main quest chapter 8: Facing the Nightmare"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011128,
+        "Text": "Fully clear main quest chapter 8 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011129,
+        "Text": "Clear main quest chapter 8: Heads Up, Lackey! (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011130,
+        "Text": "Clear main quest chapter 8: Echoes Recalled (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011131,
+        "Text": "Clear main quest chapter 8: Facing the Nightmare (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011132,
+        "Text": "Fully clear main quest chapter 8 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011133,
+        "Text": "Clear main quest chapter 8: Heads Up, Lackey! (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011134,
+        "Text": "Clear main quest chapter 8: Echoes Recalled (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011135,
+        "Text": "Clear main quest chapter 8: Facing the Nightmare (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001011136,
+        "Text": "Fully clear main quest chapter 8 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001012001,
         "Text": "Clear Warriors Hall Lezuede Lvl 1 on co-op: x1"
     },
@@ -701,6 +801,146 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001012028,
+        "Text": "Clear Sandstorm Hall Saatibrawn Lvl 6 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012029,
+        "Text": "S-Rank Sandstorm Hall Saatibrawn Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012031,
+        "Text": "Clear Eclipsis Hall Twyraginim Lvl 4 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012032,
+        "Text": "Clear Eclipsis Hall Twyraginim Lvl 5 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012033,
+        "Text": "Clear Eclipsis Hall Twyraginim Lvl 6 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012034,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012035,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012036,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012037,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012038,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012039,
+        "Text": "S-Rank Eclipsis Hall Twyraginim Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012040,
+        "Text": "Clear Frostfire Hall Felvelours Lvl 4 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012041,
+        "Text": "Clear Frostfire Hall Felvelours Lvl 5 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012042,
+        "Text": "Clear Frostfire Hall Felvelours Lvl 6 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012043,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012044,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012045,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012046,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012047,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012048,
+        "Text": "S-Rank Frostfire Hall Felvelours Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012049,
+        "Text": "Clear Warriors Hall Lezuede Lvl 5 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012050,
+        "Text": "Clear Warriors Hall Lezuede Lvl 6 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012051,
+        "Text": "S-Rank Warriors Hall Lezuede Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012052,
+        "Text": "S-Rank Warriors Hall Lezuede Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012053,
+        "Text": "Clear Wisemen Hall Amgette Lvl 5 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012054,
+        "Text": "Clear Wisemen Hall Amgette Lvl 6 on co-op: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012055,
+        "Text": "S-Rank Wisemen Hall Amgette Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001012056,
+        "Text": "S-Rank Wisemen Hall Amgette Lvl 6"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001012201,
         "Text": "Clear Lucre Trove (Easy): x1"
     },
@@ -826,6 +1066,91 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001013302,
+        "Text": "Use a Special Technique: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013303,
+        "Text": "Clear Warriors Hall Lezuede Lvl 3 on solo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013304,
+        "Text": "Clear a co-op quest: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013305,
+        "Text": "Clear a quest with a combo 100+: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013306,
+        "Text": "Searching for Lost Luster Social Media Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013319,
+        "Text": "S-Rank Ebon Knight (ST Quickening)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013320,
+        "Text": "S-Rank Ebon Knight (Wild Force)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013321,
+        "Text": "S-Rank Ebon Knight (Hit for Hit)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013322,
+        "Text": "S-Rank each Deviant Fruit Ebon Knight quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013323,
+        "Text": "S-Rank Ebon Knight (ST Quickening): x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013324,
+        "Text": "S-Rank Ebon Knight (Wild Force): x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013325,
+        "Text": "S-Rank Ebon Knight (Hit for Hit): x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013326,
+        "Text": "S-Rank each Deviant Fruit Ebon Knight quest: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013327,
+        "Text": "S-Rank Ebon Knight (ST Quickening): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013328,
+        "Text": "S-Rank Ebon Knight (Wild Force): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013329,
+        "Text": "S-Rank Ebon Knight (Hit for Hit): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001013330,
+        "Text": "S-Rank each Deviant Fruit Ebon Knight quest: x3"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001020001,
         "Text": "Clear a quest: x1"
     },
@@ -868,6 +1193,51 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001020009,
         "Text": "Clear a training dungeon: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030001,
+        "Text": "Clear Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030002,
+        "Text": "S-Rank Fullmetal Hugger: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030003,
+        "Text": "S-Rank Fullmetal Hugger: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030004,
+        "Text": "Clear Du'Inke"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030005,
+        "Text": "S-Rank Du'Inke: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030006,
+        "Text": "S-Rank Du'Inke: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030010,
+        "Text": "S-Rank Ebon Knight (ST Quickening)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030011,
+        "Text": "S-Rank Ebon Knight (Wild Force)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001030012,
+        "Text": "S-Rank Ebon Knight (Hit for Hit)"
     },
     {
         "ColumnName": "description",
@@ -951,6 +1321,101 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001031017,
+        "Text": "Clear Ice & Fire (Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031018,
+        "Text": "Clear Ice & Fire (Very Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031019,
+        "Text": "Clear Ice & Fire (Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031020,
+        "Text": "Clear Ice & Fire (Very Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031021,
+        "Text": "S-Rank Ice & Fire (Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031022,
+        "Text": "S-Rank Ice & Fire (Very Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031023,
+        "Text": "S-Rank Ice & Fire (Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031024,
+        "Text": "S-Rank Ice & Fire (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031025,
+        "Text": "Unleash Mousseline: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031026,
+        "Text": "Unleash Mousseline: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031027,
+        "Text": "Unleash Mousseline: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031028,
+        "Text": "Clear Labyrinth of Lost Heroes (Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031029,
+        "Text": "Clear Labyrinth of Lost Heroes (Very Hard) on co-op: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031030,
+        "Text": "Clear Labyrinth of Lost Heroes (Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031031,
+        "Text": "Clear Labyrinth of Lost Heroes (Very Hard) on co-op: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031032,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031033,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Very Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031034,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031035,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001031111,
         "Text": "Fully clear main quest chapter 6 (Normal)"
     },
@@ -963,6 +1428,306 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001031113,
         "Text": "Fully clear main quest chapter 6 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031124,
+        "Text": "Fully clear main quest chapter 7 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031125,
+        "Text": "Fully clear main quest chapter 7 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031126,
+        "Text": "Fully clear main quest chapter 7 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031137,
+        "Text": "Fully clear main quest chapter 8 (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031138,
+        "Text": "Fully clear main quest chapter 8 (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001031139,
+        "Text": "Fully clear main quest chapter 8 (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032000,
+        "Text": "Use a Special Technique: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032001,
+        "Text": "Use a Special Technique: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032002,
+        "Text": "Use a Special Technique: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032003,
+        "Text": "Use a Special Technique: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032004,
+        "Text": "Use a Special Technique: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032005,
+        "Text": "Use a Special Technique: x60"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032006,
+        "Text": "Use a Special Technique: x70"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032007,
+        "Text": "Use a Special Technique: x80"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032008,
+        "Text": "Use a Special Technique: x90"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032009,
+        "Text": "Use a Special Technique: x100"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032010,
+        "Text": "Use a Special Technique: x110"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032011,
+        "Text": "Use a Special Technique: x120"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032012,
+        "Text": "Use a Special Technique: x130"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032013,
+        "Text": "Use a Special Technique: x140"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032014,
+        "Text": "Use a Special Technique: x150"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032015,
+        "Text": "Use a Special Technique: x160"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032016,
+        "Text": "Use a Special Technique: x170"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032017,
+        "Text": "Use a Special Technique: x180"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032018,
+        "Text": "Use a Special Technique: x190"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032019,
+        "Text": "Use a Special Technique: x200"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032020,
+        "Text": "Use a Special Technique: x210"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032021,
+        "Text": "Use a Special Technique: x220"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032022,
+        "Text": "Use a Special Technique: x230"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032023,
+        "Text": "Use a Special Technique: x240"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032024,
+        "Text": "Use a Special Technique: x250"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032025,
+        "Text": "Clear a co-op quest: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032026,
+        "Text": "Clear a co-op quest: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032027,
+        "Text": "Clear a co-op quest: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032028,
+        "Text": "Clear a co-op quest: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032029,
+        "Text": "Clear a co-op quest: x25"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032030,
+        "Text": "Clear a co-op quest: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032031,
+        "Text": "Clear a co-op quest: x35"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032032,
+        "Text": "Clear a co-op quest: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032033,
+        "Text": "Clear a training dungeon: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032034,
+        "Text": "Clear a training dungeon: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032035,
+        "Text": "Clear a training dungeon: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032036,
+        "Text": "Clear a training dungeon: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032037,
+        "Text": "Clear a training dungeon: x25"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032038,
+        "Text": "Clear a training dungeon: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032039,
+        "Text": "Clear a training dungeon: x35"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032040,
+        "Text": "Clear a training dungeon: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032041,
+        "Text": "Clear a training dungeon: x45"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032042,
+        "Text": "Clear a training dungeon: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032043,
+        "Text": "Clear a quest: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032044,
+        "Text": "Clear a quest: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032045,
+        "Text": "Clear a quest: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032046,
+        "Text": "Clear a quest: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032047,
+        "Text": "Clear a quest: x25"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032048,
+        "Text": "Clear a quest: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032049,
+        "Text": "Clear a quest: x35"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032050,
+        "Text": "Clear a quest: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032051,
+        "Text": "Clear a quest: x45"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032052,
+        "Text": "Clear a quest: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001032053,
+        "Text": "SDCC Mobile Mission Reward Sent"
     },
     {
         "ColumnName": "description",
@@ -1017,7 +1782,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001033119,
-        "Text": "S-Rank Clear Coffer Chaos (High Level Co-op): x10"
+        "Text": "S-Rank Coffer Chaos (High Level Co-op): x1"
     },
     {
         "ColumnName": "description",
@@ -1136,6 +1901,346 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001033143,
+        "Text": "Clear Bravers Arise Lvl 1: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033144,
+        "Text": "Clear Bravers Arise Lvl 2: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033145,
+        "Text": "Clear Bravers Arise Lvl 3: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033146,
+        "Text": "Clear Bravers Arise Lvl 4: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033147,
+        "Text": "Clear Bravers Arise Lvl 5: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033148,
+        "Text": "Clear Bravers Arise Lvl 5: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033149,
+        "Text": "Clear Bravers Arise Lvl 5: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033150,
+        "Text": "Score 15,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033151,
+        "Text": "Score 110,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033152,
+        "Text": "Score 180,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033153,
+        "Text": "Score 335,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033154,
+        "Text": "Score 350,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033155,
+        "Text": "Score 389,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033156,
+        "Text": "Score 710,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033157,
+        "Text": "Score 750,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033158,
+        "Text": "Score 794,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033159,
+        "Text": "Score 828,000 in Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033160,
+        "Text": "S-Rank Coffer Chaos (Normal): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033161,
+        "Text": "S-Rank Coffer Chaos (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033162,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033163,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033164,
+        "Text": "Ascend a 1★ Knitwit Icon: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033165,
+        "Text": "Ascend a 1★ Knitwit Icon: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033166,
+        "Text": "Ascend a 1★ Knitwit Icon: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033167,
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op) on solo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033168,
+        "Text": "S-Rank Coffer Chaos (High Level Co-op): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033169,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033170,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033171,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033172,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033173,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033174,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033175,
+        "Text": "S-Rank Coffer Chaos (Normal): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033176,
+        "Text": "S-Rank Coffer Chaos (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033177,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033178,
+        "Text": "S-Rank Coffer Chaos (Very Hard): x6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033179,
+        "Text": "Challenge! Clear Coffer Chaos (High Level Co-op) on solo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033180,
+        "Text": "S-Rank Coffer Chaos (High Level Co-op): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033181,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033182,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033183,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033184,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033185,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033186,
+        "Text": "Clear Coffer Chaos (High Level Co-op) : x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033187,
+        "Text": "Clear Bravers Arise Lvl 1: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033188,
+        "Text": "Clear Bravers Arise Lvl 2: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033189,
+        "Text": "Clear Bravers Arise Lvl 3: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033190,
+        "Text": "Clear Bravers Arise Lvl 4: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033191,
+        "Text": "Clear Bravers Arise Lvl 5: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033192,
+        "Text": "Clear Bravers Arise Lvl 5: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033193,
+        "Text": "Clear Bravers Arise Lvl 5: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033194,
+        "Text": "Score 15,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033195,
+        "Text": "Score 110,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033196,
+        "Text": "Score 180,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033197,
+        "Text": "Score 335,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033198,
+        "Text": "Score 350,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033199,
+        "Text": "Score 389,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033200,
+        "Text": "Score 1,180,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033201,
+        "Text": "Score 1,200,000 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033202,
+        "Text": "Score 1,226,400 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033203,
+        "Text": "Score 1,237,500 in Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033306,
+        "Text": "Mana Series 31st Anniversary Celebration"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033307,
+        "Text": "Ice & Fire Social Media Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033308,
+        "Text": "Discord Event Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033309,
+        "Text": "Twitch Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033310,
+        "Text": "Great Hunt Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033311,
+        "Text": "Great Hunt Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001033312,
+        "Text": "Great Hunt Campaign Reward Sent"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001034001,
         "Text": "S-Rank Twillwool Tower 1F-2F"
     },
@@ -1251,6 +2356,16 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 8001034024,
+        "Text": "S-Rank Twillwool Tower 80F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001034025,
+        "Text": "S-Rank Twillwool Tower 90F"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 8001034030,
         "Text": "Clear Twillwool Tower 30F"
     },
@@ -1268,6 +2383,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001034033,
         "Text": "Clear Twillwool Tower 70F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001034034,
+        "Text": "Clear Twillwool Tower 80F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001034035,
+        "Text": "Clear Twillwool Tower 90F"
     },
     {
         "ColumnName": "description",
@@ -1303,6 +2428,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001034050,
         "Text": "S-Rank Twillwool Tower 70F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001034051,
+        "Text": "S-Rank Twillwool Tower 80F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001034052,
+        "Text": "S-Rank Twillwool Tower 90F"
     },
     {
         "ColumnName": "description",
@@ -1477,7 +2612,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001050038,
-        "Text": "Clear Warriors Hall Lezuede Lvl 1"
+        "Text": "Clear Lezuede Lvl 1"
     },
     {
         "ColumnName": "description",
@@ -1512,7 +2647,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001050046,
-        "Text": "Clear Warriors Hall Lezuede Lvl 2"
+        "Text": "Clear Lezuede Lvl 2"
     },
     {
         "ColumnName": "description",
@@ -1562,7 +2697,7 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 8001050057,
-        "Text": "Clear Warriors Hall Lezuede Lvl 3"
+        "Text": "Clear Lezuede Lvl 3"
     },
     {
         "ColumnName": "description",
@@ -1843,5 +2978,455 @@
         "ColumnName": "description",
         "LocalizationTargetId": 8001051147,
         "Text": "S-Rank For Whom It Shines (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051148,
+        "Text": "Clear Through Fields of Frost II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051149,
+        "Text": "Clear Unruly Royal III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051150,
+        "Text": "Clear Mage in Red II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051151,
+        "Text": "Clear Flames III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051152,
+        "Text": "Clear Beware the Benevodon II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051153,
+        "Text": "Unlock Mana Board panels for Mousseline -Que Sera Sera-: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051154,
+        "Text": "Unlock Mana Board panels for Mousseline -Que Sera Sera-: x14"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051155,
+        "Text": "Unlock Mana Board panels for Mousseline -Que Sera Sera-: x21"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051156,
+        "Text": "Ascend Mousseline -Que Sera Sera-: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051157,
+        "Text": "Clear Ice & Fire (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051158,
+        "Text": "Clear Ice & Fire (Hard) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051159,
+        "Text": "Clear Ice & Fire (Very Hard) on co-op: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051160,
+        "Text": "Clear Ice & Fire (Hard) on co-op: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051161,
+        "Text": "Clear Ice & Fire (Very Hard) on co-op: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051162,
+        "Text": "S-Rank Ice & Fire (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051163,
+        "Text": "S-Rank Ice & Fire (Very Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051164,
+        "Text": "S-Rank Ice & Fire (Very Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051165,
+        "Text": "S-Rank Ice & Fire (Very Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051166,
+        "Text": "Use a Special Technique: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051167,
+        "Text": "Use a Special Technique: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051168,
+        "Text": "Clear a quest: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051169,
+        "Text": "Clear a training dungeon: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051170,
+        "Text": "Log in for 2 days"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051171,
+        "Text": "Clear a quest: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051172,
+        "Text": "Clear a quest: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051173,
+        "Text": "Use a Special Technique: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051174,
+        "Text": "Clear a training dungeon: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051175,
+        "Text": "Use a Special Technique: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051176,
+        "Text": "Use a Special Technique: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051177,
+        "Text": "Clear a quest: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051178,
+        "Text": "Clear a training dungeon: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051179,
+        "Text": "Log in for 4 days"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051180,
+        "Text": "Clear a quest: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051181,
+        "Text": "Clear a quest: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051182,
+        "Text": "Use a Special Technique: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051183,
+        "Text": "Clear a training dungeon: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051184,
+        "Text": "Use a Special Technique: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051185,
+        "Text": "Use a Special Technique: x75"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051186,
+        "Text": "Clear a quest: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051187,
+        "Text": "Clear a training dungeon: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051188,
+        "Text": "Log in for 10 days"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051189,
+        "Text": "Clear a quest: x80"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051190,
+        "Text": "Clear a quest: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051191,
+        "Text": "Use a Special Technique: x100"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051192,
+        "Text": "Clear a training dungeon: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051193,
+        "Text": "Clear Meandering Maze II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051194,
+        "Text": "Clear Pair of Knights III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051195,
+        "Text": "Clear The Lost III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051196,
+        "Text": "Clear The Heroes III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051197,
+        "Text": "Clear Prologue"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051198,
+        "Text": "Unlock Mana Board panels for Sumo -Resolve Renewed-: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051199,
+        "Text": "Unlock Mana Board panels for Sumo -Resolve Renewed-: x14"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051200,
+        "Text": "Unlock Mana Board panels for Sumo -Resolve Renewed-: x21"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051201,
+        "Text": "Ascend Sumo -Resolve Renewed-: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051202,
+        "Text": "Clear Labyrinth of Lost Heroes (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051203,
+        "Text": "Clear Labyrinth of Lost Heroes (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051204,
+        "Text": "Unleash Sumo: x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051205,
+        "Text": "Unleash Sumo: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051206,
+        "Text": "Unleash Sumo: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051207,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051208,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051209,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001051210,
+        "Text": "S-Rank Labyrinth of Lost Heroes (Hard): x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060001,
+        "Text": "Use a Special Technique: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060002,
+        "Text": "Use a Special Technique: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060003,
+        "Text": "Clear a quest: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060004,
+        "Text": "Clear a training dungeon: x2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060005,
+        "Text": "Use a Special Technique: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060006,
+        "Text": "Clear a quest: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060007,
+        "Text": "Clear a quest: x3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060008,
+        "Text": "Use a Special Technique: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060009,
+        "Text": "Clear a training dungeon: x5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060010,
+        "Text": "Use a Special Technique: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060011,
+        "Text": "Use a Special Technique: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060012,
+        "Text": "Clear a quest: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060013,
+        "Text": "Clear a training dungeon: x7"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060014,
+        "Text": "Use a Special Technique: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060015,
+        "Text": "Clear a quest: x30"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060016,
+        "Text": "Clear a quest: x15"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060017,
+        "Text": "Use a Special Technique: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060018,
+        "Text": "Clear a training dungeon: x10"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060019,
+        "Text": "Use a Special Technique: x125"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060020,
+        "Text": "Use a Special Technique: x75"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060021,
+        "Text": "Clear a quest: x50"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060022,
+        "Text": "Clear a training dungeon: x20"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060023,
+        "Text": "Use a Special Technique: x150"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060024,
+        "Text": "Clear a quest: x80"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060025,
+        "Text": "Clear a quest: x40"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060026,
+        "Text": "Use a Special Technique: x100"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 8001060027,
+        "Text": "Clear a training dungeon: x30"
     }
 ]

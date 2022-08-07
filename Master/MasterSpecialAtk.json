@@ -376,5 +376,89 @@
         "MasterSpecialAtkId": 30210507001011,
         "MaxPoint": 24,
         "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210502003011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210304002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210602002011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210302003011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210104003011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211107002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210505001011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 60,
+        "MasterSpecialAtkId": 30210504003011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30211104002011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 68,
+        "MasterSpecialAtkId": 30210301003011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 68,
+        "MasterSpecialAtkId": 30210508001011,
+        "MaxPoint": 24,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "",
+        "Attribute": 64,
+        "MasterSpecialAtkId": 30210101003011,
+        "MaxPoint": 20,
+        "ReleaseLabel": "release.event_scenario_4_start"
     }
 ]

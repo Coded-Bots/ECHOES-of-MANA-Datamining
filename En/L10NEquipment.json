@@ -31,6 +31,66 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3001005101,
+        "Text": "Beiser Helm"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001005201,
+        "Text": "Beiser Armor"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001005301,
+        "Text": "Beiser Glove"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001006101,
+        "Text": "Lorimar Helm"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001006201,
+        "Text": "Lorimar Armor"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001006301,
+        "Text": "Lorimar Glove"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001008101,
+        "Text": "Wendel Helm"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001008201,
+        "Text": "Wendel Armor"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001008301,
+        "Text": "Wendel Glove"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001009101,
+        "Text": "Granz Helm"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001009201,
+        "Text": "Granz Armor"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001009301,
+        "Text": "Granz Glove"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3001013101,
         "Text": "Silk Hat"
     },
@@ -58,6 +118,21 @@
         "ColumnName": "name",
         "LocalizationTargetId": 3001014301,
         "Text": "Cotton Bracelet"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001015101,
+        "Text": "Felt Hat"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001015201,
+        "Text": "Felt Robe"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001015301,
+        "Text": "Felt Bracelet"
     },
     {
         "ColumnName": "name",
@@ -103,6 +178,21 @@
         "ColumnName": "name",
         "LocalizationTargetId": 3001018601,
         "Text": "Ivory Boots"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001019401,
+        "Text": "Fossil Pendant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001019501,
+        "Text": "Fossil Ring"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3001019601,
+        "Text": "Fossil Boots"
     },
     {
         "ColumnName": "name",

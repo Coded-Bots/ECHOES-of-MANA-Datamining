@@ -28,11 +28,31 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterEquipmentFilterId": 3012000008,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
         "MasterEquipmentFilterId": 3012000022,
         "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
         "MasterEquipmentFilterId": 3012000026,
         "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000031,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000036,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000039,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "MasterEquipmentFilterId": 3012000044,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
     }
 ]

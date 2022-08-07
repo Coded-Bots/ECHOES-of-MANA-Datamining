@@ -406,5 +406,11 @@
         "MasterRewardGroupId": 0,
         "MasterTutorialId": 14001000808,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterQuestChapterId": 210010004113,
+        "MasterRewardGroupId": 0,
+        "MasterTutorialId": 14001000809,
+        "ReleaseLabel": "release.initial"
     }
 ]

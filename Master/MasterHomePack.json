@@ -22,5 +22,113 @@
         "ShowPackTrigger": 1,
         "Transition": 2,
         "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021002,
+        "PackImage": "Home/HomePack/shop_1",
+        "ReleaseLabel": "release.shop_202206_zouryou",
+        "ShopType": 1,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001040002,
+        "PackImage": "Home/HomePack/campaign_mission_01",
+        "ReleaseLabel": "release.campaign_202206_bingo",
+        "ShopType": 0,
+        "ShowPackTrigger": 0,
+        "Transition": 4,
+        "TransitionParameter": 14
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021003,
+        "PackImage": "Home/HomePack/shop_2",
+        "ReleaseLabel": "release.shop_202206_pack_2",
+        "ShopType": 2,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021004,
+        "PackImage": "Home/HomePack/shop_1",
+        "ReleaseLabel": "release.shop_202207_pack_2",
+        "ShopType": 1,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021005,
+        "PackImage": "Home/HomePack/shop_3",
+        "ReleaseLabel": "release.shop_202206_pack_3",
+        "ShopType": 2,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021006,
+        "PackImage": "Home/HomePack/shop_5",
+        "ReleaseLabel": "release.shop_202207_pack_5",
+        "ShopType": 2,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021007,
+        "PackImage": "Home/HomePack/shop_4",
+        "ReleaseLabel": "release.shop_202207_pack_6",
+        "ShopType": 2,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001040003,
+        "PackImage": "Home/HomePack/campaign/40003/icon",
+        "ReleaseLabel": "release.campaign_202208_release_100days",
+        "ShopType": 0,
+        "ShowPackTrigger": 0,
+        "Transition": 4,
+        "TransitionParameter": 14
+    },
+    {
+        "Description": "",
+        "IsRestTimeVisible": false,
+        "LimitedDayFromTrigger": 0,
+        "MasterHomePackId": 12001021008,
+        "PackImage": "Home/HomePack/shop_1",
+        "ReleaseLabel": "release.shop_202208_pack_2",
+        "ShopType": 1,
+        "ShowPackTrigger": 0,
+        "Transition": 2,
+        "TransitionParameter": 0
     }
 ]

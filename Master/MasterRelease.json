@@ -176,6 +176,70 @@
         "ReleaseLabel": "release.lottery_202206_scenario_pt_exchange_start"
     },
     {
+        "CloseAt": "2022/06/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010019,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010020,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "CloseAt": "2022/07/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010021,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_treasure_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010022,
+        "OpenAt": "2022/07/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_treasure_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/07/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010023,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010024,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "CloseAt": "2022/07/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010025,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010026,
+        "OpenAt": "2022/07/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_pt_exchange_start"
+    },
+    {
         "CloseAt": "",
         "IsLocal": false,
         "MasterReleaseId": 301010027,
@@ -250,10 +314,610 @@
     {
         "CloseAt": "",
         "IsLocal": false,
+        "MasterReleaseId": 301010036,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_release_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010037,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_release_ticket_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
         "MasterReleaseId": 301010038,
         "OpenAt": "2022/05/31 19:00:00",
         "Region": 15,
         "ReleaseLabel": "release.lottery_202206_bronz_ticket"
+    },
+    {
+        "CloseAt": "2022/06/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010039,
+        "OpenAt": "2022/06/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010040,
+        "OpenAt": "2022/06/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1_start"
+    },
+    {
+        "CloseAt": "2022/06/21 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010041,
+        "OpenAt": "2022/06/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010042,
+        "OpenAt": "2022/06/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2_start"
+    },
+    {
+        "CloseAt": "2022/06/26 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010043,
+        "OpenAt": "2022/06/23 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010044,
+        "OpenAt": "2022/06/23 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1_start"
+    },
+    {
+        "CloseAt": "2022/06/29 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010045,
+        "OpenAt": "2022/06/26 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010046,
+        "OpenAt": "2022/06/26 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2_start"
+    },
+    {
+        "CloseAt": "2022/08/04 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010047,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010048,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "CloseAt": "2022/07/07 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010049,
+        "OpenAt": "2022/07/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010050,
+        "OpenAt": "2022/07/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1_start"
+    },
+    {
+        "CloseAt": "2022/07/11 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010051,
+        "OpenAt": "2022/07/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010052,
+        "OpenAt": "2022/07/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2_start"
+    },
+    {
+        "CloseAt": "2022/08/10 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010053,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010054,
+        "OpenAt": "2022/08/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/06/07 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010055,
+        "OpenAt": "2022/05/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_notice"
+    },
+    {
+        "CloseAt": "2022/06/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010056,
+        "OpenAt": "2022/06/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_notice_pu_1"
+    },
+    {
+        "CloseAt": "2022/06/20 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010057,
+        "OpenAt": "2022/06/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_scenario_notice_pu_2"
+    },
+    {
+        "CloseAt": "2022/06/20 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010058,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_treasure_notice"
+    },
+    {
+        "CloseAt": "2022/08/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010059,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010060,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "CloseAt": "2022/08/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010061,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_ranking_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010062,
+        "OpenAt": "2022/08/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_ranking_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/08/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010063,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010064,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "CloseAt": "2022/08/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010065,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_sierra_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010066,
+        "OpenAt": "2022/08/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_sierra_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/07/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010067,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010068,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_light_dark_start"
+    },
+    {
+        "CloseAt": "2022/07/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010069,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_light_dark_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010070,
+        "OpenAt": "2022/07/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_light_dark_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/07/04 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010071,
+        "OpenAt": "2022/06/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010072,
+        "OpenAt": "2022/06/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_popoi_start"
+    },
+    {
+        "CloseAt": "2022/07/10 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010073,
+        "OpenAt": "2022/06/16 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_popoi_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010074,
+        "OpenAt": "2022/07/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_popoi_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/06/23 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010075,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_ranking_notice"
+    },
+    {
+        "CloseAt": "2022/07/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010076,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_scenario_notice"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010077,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010078,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "CloseAt": "2022/08/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010079,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_treasure_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010080,
+        "OpenAt": "2022/08/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_treasure_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/07/25 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010081,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_ranking_notice"
+    },
+    {
+        "CloseAt": "2022/07/20 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010082,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_sierra_notice"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010083,
+        "OpenAt": "2022/06/28 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_31_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010084,
+        "OpenAt": "2022/06/28 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202206_31_ticket_start"
+    },
+    {
+        "CloseAt": "2022/07/13 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010085,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_treasure_notice"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010086,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010087,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "CloseAt": "2022/09/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010088,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010089,
+        "OpenAt": "2022/09/06 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pt_exchange_start"
+    },
+    {
+        "CloseAt": "2022/08/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010090,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_notice"
+    },
+    {
+        "CloseAt": "2022/08/07 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010091,
+        "OpenAt": "2022/08/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010092,
+        "OpenAt": "2022/08/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1_start"
+    },
+    {
+        "CloseAt": "2022/08/11 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010093,
+        "OpenAt": "2022/08/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010094,
+        "OpenAt": "2022/08/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2_start"
+    },
+    {
+        "CloseAt": "2022/09/30 14:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010100,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010101,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_start"
+    },
+    {
+        "CloseAt": "2022/11/30 14:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010102,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_comeback_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010103,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_comeback_ticket_start"
+    },
+    {
+        "CloseAt": "2022/08/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010104,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010105,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_fire_water_start"
+    },
+    {
+        "CloseAt": "2022/08/14 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010106,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_fire_water_exchange"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010107,
+        "OpenAt": "2022/08/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_fire_water_pt_exchange_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010108,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_release_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010109,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_lom_ticket"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010110,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_lom_ticket_start"
+    },
+    {
+        "CloseAt": "2022/09/30 14:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010111,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010112,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2_start"
+    },
+    {
+        "CloseAt": "2022/09/30 14:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010113,
+        "OpenAt": "2022/08/03 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010114,
+        "OpenAt": "2022/08/03 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2_start"
+    },
+    {
+        "CloseAt": "2022/07/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301010124,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202207_fire_water_notice"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301010125,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket"
     },
     {
         "CloseAt": "",
@@ -456,7 +1120,7 @@
         "ReleaseLabel": "release.event_ranking_202205_1"
     },
     {
-        "CloseAt": "2022/06/13 5:59:59",
+        "CloseAt": "2022/06/18 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021021,
         "OpenAt": "2022/05/31 6:00:00",
@@ -470,6 +1134,14 @@
         "OpenAt": "2022/05/10 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.event_treasure_rush_202205_exchange_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021023,
+        "OpenAt": "2022/06/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_tower_202206_start"
     },
     {
         "CloseAt": "2022/07/03 5:59:59",
@@ -520,7 +1192,7 @@
         "ReleaseLabel": "release.login_bonus_202205_3_start"
     },
     {
-        "CloseAt": "2022/06/05 5:59:59",
+        "CloseAt": "2022/06/18 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301021030,
         "OpenAt": "2022/05/20 6:00:00",
@@ -546,10 +1218,522 @@
     {
         "CloseAt": "",
         "IsLocal": false,
+        "MasterReleaseId": 301021033,
+        "OpenAt": "2022/06/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "CloseAt": "2022/06/13 3:59:59",
+        "IsLocal": true,
+        "MasterReleaseId": 301991034,
+        "OpenAt": "2022/06/01 15:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_equipmentdrop_2_mission_delete"
+    },
+    {
+        "CloseAt": "2022/08/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021034,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3_exchange"
+    },
+    {
+        "CloseAt": "2022/08/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021035,
+        "OpenAt": "2022/07/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3_exchange_week2"
+    },
+    {
+        "CloseAt": "2022/08/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021036,
+        "OpenAt": "2022/07/14 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3_exchange_week3"
+    },
+    {
+        "CloseAt": "2022/08/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021037,
+        "OpenAt": "2022/07/21 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3_exchange_week4"
+    },
+    {
+        "CloseAt": "2022/06/22 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021038,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202206"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021039,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start"
+    },
+    {
+        "CloseAt": "2022/06/25 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021040,
+        "OpenAt": "2022/06/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202206_exchange_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021041,
+        "OpenAt": "2022/06/07 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.normal_mission_202206_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
         "MasterReleaseId": 301021042,
         "OpenAt": "2022/06/06 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.event_rabite_coin_trader_start"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021043,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021044,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021045,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202206_1_start"
+    },
+    {
+        "CloseAt": "2022/06/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021046,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202206_1"
+    },
+    {
+        "CloseAt": "2022/07/05 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021047,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202206_1_end"
+    },
+    {
+        "CloseAt": "2022/07/05 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021048,
+        "OpenAt": "2022/06/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202206_chapter"
+    },
+    {
+        "CloseAt": "2022/06/19 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021049,
+        "OpenAt": "2022/06/09 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021050,
+        "OpenAt": "2022/06/09 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_2_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021051,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "CloseAt": "2022/08/01 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021052,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202207_1"
+    },
+    {
+        "CloseAt": "2022/08/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021053,
+        "OpenAt": "2022/08/01 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202207_1_end"
+    },
+    {
+        "CloseAt": "2022/08/06 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021054,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_ranking_202207_chapter"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021055,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_challenge_202207_start"
+    },
+    {
+        "CloseAt": "2022/06/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021056,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_challenge_202207"
+    },
+    {
+        "CloseAt": "2022/06/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021057,
+        "OpenAt": "2022/06/24 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_challenge_202207_addquest_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021059,
+        "OpenAt": "2022/06/24 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_challenge_202207_addquest_1_start"
+    },
+    {
+        "CloseAt": "2022/06/27 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021060,
+        "OpenAt": "2022/06/17 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021061,
+        "OpenAt": "2022/06/17 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_3_start"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021062,
+        "OpenAt": "2022/06/27 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_4"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021063,
+        "OpenAt": "2022/06/27 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_4_start"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021064,
+        "OpenAt": "2022/06/27 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_5"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021065,
+        "OpenAt": "2022/06/27 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_5_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021066,
+        "OpenAt": "2022/06/28 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202206_31st_memorygem_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021067,
+        "OpenAt": "2022/07/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_tower_202207_start"
+    },
+    {
+        "CloseAt": "2022/08/15 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021068,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021069,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_1_start"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021070,
+        "OpenAt": "2022/06/30 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021071,
+        "OpenAt": "2022/06/30 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_2_start"
+    },
+    {
+        "CloseAt": "2022/07/17 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021072,
+        "OpenAt": "2022/07/07 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021073,
+        "OpenAt": "2022/07/07 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_3_start"
+    },
+    {
+        "CloseAt": "2022/07/22 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021074,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202207"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021075,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start"
+    },
+    {
+        "CloseAt": "2022/07/25 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021076,
+        "OpenAt": "2022/07/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_treasure_rush_202207_exchange_1"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021077,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_stagnation_202207"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021078,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_stagnation_202207_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021079,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_stagnation_202207_exchange_1"
+    },
+    {
+        "CloseAt": "2022/08/15 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021080,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_download_300"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021081,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202207_download_300_start"
+    },
+    {
+        "CloseAt": "2022/10/15 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021082,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.comeback_bonus_202207"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021083,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.comeback_bonus_202207_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021084,
+        "OpenAt": "2022/07/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021085,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021086,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "CloseAt": "2022/09/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021087,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4_exchange"
+    },
+    {
+        "CloseAt": "2022/09/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021088,
+        "OpenAt": "2022/08/05 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4_exchange_week2"
+    },
+    {
+        "CloseAt": "2022/09/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021089,
+        "OpenAt": "2022/08/12 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4_exchange_week3"
+    },
+    {
+        "CloseAt": "2022/09/03 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021090,
+        "OpenAt": "2022/08/19 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_scenario_4_exchange_week4"
+    },
+    {
+        "CloseAt": "2022/08/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021091,
+        "OpenAt": "2022/07/31 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202208_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021092,
+        "OpenAt": "2022/07/31 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.login_bonus_202208_1_start"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301021103,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_stagnation_202207_mission"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021104,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_stagnation_202207_mission_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021105,
+        "OpenAt": "2022/08/08 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.event_black_rabi_coin_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021107,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.status_water_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301021108,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.black_rabi_coin_start"
     },
     {
         "CloseAt": "",
@@ -558,6 +1742,14 @@
         "OpenAt": "2022/05/29 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.story_1_6_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301030002,
+        "OpenAt": "2022/06/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_7_start"
     },
     {
         "CloseAt": "2022/05/29 5:59:59",
@@ -576,6 +1768,14 @@
         "ReleaseLabel": "release.story_1_6_quest_chapter_message"
     },
     {
+        "CloseAt": "2022/07/27 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301031003,
+        "OpenAt": "2022/06/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_7_quest_chapter_message"
+    },
+    {
         "CloseAt": "2022/06/27 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301032001,
@@ -584,12 +1784,60 @@
         "ReleaseLabel": "release.story_1_6_mission"
     },
     {
+        "CloseAt": "2022/07/27 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301032002,
+        "OpenAt": "2022/06/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_7_mission"
+    },
+    {
         "CloseAt": "2022/06/05 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301033001,
         "OpenAt": "2022/05/29 6:00:00",
         "Region": 15,
         "ReleaseLabel": "release.story_1_6_banner"
+    },
+    {
+        "CloseAt": "2022/07/04 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301033002,
+        "OpenAt": "2022/06/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_7_banner"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301030003,
+        "OpenAt": "2022/07/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301031004,
+        "OpenAt": "2022/07/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_8_quest_chapter_message"
+    },
+    {
+        "CloseAt": "2022/08/27 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301032003,
+        "OpenAt": "2022/07/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_8_mission"
+    },
+    {
+        "CloseAt": "2022/08/04 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301033003,
+        "OpenAt": "2022/07/27 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.story_1_8_banner"
     },
     {
         "CloseAt": "2022/05/31 5:59:59",
@@ -648,7 +1896,7 @@
         "ReleaseLabel": "release.shop_202206_zouryou_start"
     },
     {
-        "CloseAt": "",
+        "CloseAt": "2022/06/30 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301040008,
         "OpenAt": "2022/05/31 6:00:00",
@@ -672,7 +1920,7 @@
         "ReleaseLabel": "release.shop_202205_pack_start"
     },
     {
-        "CloseAt": "",
+        "CloseAt": "2022/07/31 5:59:59",
         "IsLocal": false,
         "MasterReleaseId": 301040011,
         "OpenAt": "2022/05/31 6:00:00",
@@ -688,6 +1936,550 @@
         "ReleaseLabel": "release.shop_202206_pack_start"
     },
     {
+        "CloseAt": "2022/07/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040013,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202206_pack_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040014,
+        "OpenAt": "2022/06/17 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202206_pack_2_start"
+    },
+    {
+        "CloseAt": "2022/07/01 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040015,
+        "OpenAt": "2022/06/28 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202206_pack_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040016,
+        "OpenAt": "2022/06/28 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202206_pack_3_start"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040017,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040018,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_2_start"
+    },
+    {
+        "CloseAt": "2022/07/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040019,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040020,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_3_start"
+    },
+    {
+        "CloseAt": "2022/07/20 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040021,
+        "OpenAt": "2022/07/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_4"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040022,
+        "OpenAt": "2022/07/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_4_start"
+    },
+    {
+        "CloseAt": "2022/07/18 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040023,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_5"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040024,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_5_start"
+    },
+    {
+        "CloseAt": "2022/08/08 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040025,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_6"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040026,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202207_pack_6_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040027,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040028,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_1_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040029,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040030,
+        "OpenAt": "2022/07/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_2_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301040031,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301040032,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.shop_202208_pack_3_start"
+    },
+    {
+        "CloseAt": "2022/06/10 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050001,
+        "OpenAt": "2022/06/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_sns"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050002,
+        "OpenAt": "2022/06/03 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_sns_start"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050003,
+        "OpenAt": "2022/06/18 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_bingo"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050004,
+        "OpenAt": "2022/06/18 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_bingo_start"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050005,
+        "OpenAt": "2022/06/17 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_31st_anniv_count_down"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050006,
+        "OpenAt": "2022/06/27 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_31st_anniv"
+    },
+    {
+        "CloseAt": "2022/07/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050008,
+        "OpenAt": "2022/06/18 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_bingo_1_2_0"
+    },
+    {
+        "CloseAt": "2022/07/12 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050009,
+        "OpenAt": "2022/07/05 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_sns"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050010,
+        "OpenAt": "2022/07/05 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_sns_start"
+    },
+    {
+        "CloseAt": "2022/07/07 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050011,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_discord"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050012,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_discord_start"
+    },
+    {
+        "CloseAt": "2022/07/07 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050013,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_twitch"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050014,
+        "OpenAt": "2022/06/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202206_twitch_start"
+    },
+    {
+        "CloseAt": "2022/08/15 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050015,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050016,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_start"
+    },
+    {
+        "CloseAt": "2022/08/09 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050017,
+        "OpenAt": "2022/07/14 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_notice"
+    },
+    {
+        "CloseAt": "2022/07/17 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050018,
+        "OpenAt": "2022/07/10 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_boss"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050019,
+        "OpenAt": "2022/07/10 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_boss_start"
+    },
+    {
+        "CloseAt": "2022/07/20 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050020,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050021,
+        "OpenAt": "2022/07/15 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_1_start"
+    },
+    {
+        "CloseAt": "2022/07/25 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050022,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050023,
+        "OpenAt": "2022/07/20 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_2_start"
+    },
+    {
+        "CloseAt": "2022/07/30 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050024,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050025,
+        "OpenAt": "2022/07/25 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_3_start"
+    },
+    {
+        "CloseAt": "2022/08/05 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050026,
+        "OpenAt": "2022/07/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_4"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050027,
+        "OpenAt": "2022/07/30 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_4_start"
+    },
+    {
+        "CloseAt": "2022/08/10 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050028,
+        "OpenAt": "2022/08/05 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_5"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050029,
+        "OpenAt": "2022/08/05 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_5_start"
+    },
+    {
+        "CloseAt": "2022/08/15 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050030,
+        "OpenAt": "2022/08/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_6"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050031,
+        "OpenAt": "2022/08/10 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_6_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050032,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050033,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050034,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_notice"
+    },
+    {
+        "CloseAt": "2022/08/13 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050035,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050036,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_1_start"
+    },
+    {
+        "CloseAt": "2022/08/22 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050037,
+        "OpenAt": "2022/08/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050038,
+        "OpenAt": "2022/08/13 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_2_start"
+    },
+    {
+        "CloseAt": "2022/08/31 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050039,
+        "OpenAt": "2022/08/22 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_3"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050040,
+        "OpenAt": "2022/08/22 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202208_release_100days_present_3_start"
+    },
+    {
+        "CloseAt": "2022/08/10 5:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301050041,
+        "OpenAt": "2022/07/26 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_sdcc"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050042,
+        "OpenAt": "2022/07/26 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050043,
+        "OpenAt": "2022/08/04 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_discord_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050044,
+        "OpenAt": "2022/07/29 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_twitch_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301050045,
+        "OpenAt": "2022/07/29 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.campaign_202207_echo_nama_start"
+    },
+    {
+        "CloseAt": "2022/08/31 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301060001,
+        "OpenAt": "2022/08/03 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301060002,
+        "OpenAt": "2022/08/03 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start"
+    },
+    {
+        "CloseAt": "2022/08/18 18:59:59",
+        "IsLocal": false,
+        "MasterReleaseId": 301060003,
+        "OpenAt": "2022/08/05 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.loginbonus_202208_series_2"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301060004,
+        "OpenAt": "2022/08/05 19:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.loginbonus_202208_series_2_start"
+    },
+    {
         "CloseAt": "",
         "IsLocal": false,
         "MasterReleaseId": 301500001,
@@ -698,10 +2490,58 @@
     {
         "CloseAt": "",
         "IsLocal": false,
+        "MasterReleaseId": 301500002,
+        "OpenAt": "2019/12/31 15:00:00",
+        "Region": 15,
+        "ReleaseLabel": "1.2.0"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301500003,
+        "OpenAt": "2019/12/31 15:00:00",
+        "Region": 15,
+        "ReleaseLabel": "1.3.0"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
         "MasterReleaseId": 301500004,
         "OpenAt": "2019/12/31 15:00:00",
         "Region": 15,
         "ReleaseLabel": "1.1.1"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301500005,
+        "OpenAt": "2019/12/31 15:00:00",
+        "Region": 15,
+        "ReleaseLabel": "1.4.0"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301500006,
+        "OpenAt": "2019/12/31 15:00:00",
+        "Region": 15,
+        "ReleaseLabel": "1.5.0"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301900002,
+        "OpenAt": "2022/05/31 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.202206_scenario_hawkeye_passive_fix_start"
+    },
+    {
+        "CloseAt": "",
+        "IsLocal": false,
+        "MasterReleaseId": 301900005,
+        "OpenAt": "2022/08/01 6:00:00",
+        "Region": 15,
+        "ReleaseLabel": "release.202208_pc_ai_legacy"
     },
     {
         "CloseAt": "",

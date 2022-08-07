@@ -36,6 +36,11 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 3012000008,
+        "Text": "LCK"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 3012000022,
         "Text": "Earth DMG"
     },
@@ -43,5 +48,25 @@
         "ColumnName": "message",
         "LocalizationTargetId": 3012000026,
         "Text": "Wind DMG"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000031,
+        "Text": "Water DMG"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000036,
+        "Text": "Fire DMG"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000039,
+        "Text": "Dark DMG"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 3012000044,
+        "Text": "Light DMG"
     }
 ]

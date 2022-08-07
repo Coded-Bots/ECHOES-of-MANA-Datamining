@@ -104,6 +104,94 @@
         "ReleaseLabel": "release.event_scenario_2_start"
     },
     {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020018,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020019,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start"
+    },
+    {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020020,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020021,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020022,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020023,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start"
+    },
+    {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020026,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020027,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start"
+    },
+    {
+        "Icon": "Item_0081_EventPoint01",
+        "IsItemCollection": true,
+        "MasterPointId": 401020030,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "Icon": "Item_0082_EventPoint02",
+        "IsItemCollection": true,
+        "MasterPointId": 401020031,
+        "Name": "",
+        "PointCategory": 2,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "Icon": "Item_0108_BlackRabiCoin",
+        "IsItemCollection": true,
+        "MasterPointId": 401060032,
+        "Name": "",
+        "PointCategory": 6,
+        "ReleaseLabel": "release.black_rabi_coin_start"
+    },
+    {
         "Icon": "Item_0079_TowerPoint01",
         "IsItemCollection": true,
         "MasterPointId": 401030001,

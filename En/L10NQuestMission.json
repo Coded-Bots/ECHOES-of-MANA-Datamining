@@ -218,5 +218,25 @@
         "ColumnName": "description",
         "LocalizationTargetId": 280003101104,
         "Text": "Clear without more than 1 ally fainting"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 280003101201,
+        "Text": "Clear Quest missions: All"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 280003101202,
+        "Text": "Achieve Clear Rank: S"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 280003101203,
+        "Text": "Achieve Clear Rank: A"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 280003101204,
+        "Text": "Achieve Clear Rank B or higher"
     }
 ]

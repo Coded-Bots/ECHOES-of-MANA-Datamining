@@ -672,6 +672,370 @@
         "ReleaseLabel": "release.lottery_202205_angela"
     },
     {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188189,
+        "MasterLotteryRewardGroupId": 189,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188190,
+        "MasterLotteryRewardGroupId": 190,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188191,
+        "MasterLotteryRewardGroupId": 191,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188192,
+        "MasterLotteryRewardGroupId": 192,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188193,
+        "MasterLotteryRewardGroupId": 193,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188194,
+        "MasterLotteryRewardGroupId": 194,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188195,
+        "MasterLotteryRewardGroupId": 195,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 188,
+        "MasterLotteryRateId": 6003188196,
+        "MasterLotteryRewardGroupId": 196,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197198,
+        "MasterLotteryRewardGroupId": 198,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197199,
+        "MasterLotteryRewardGroupId": 199,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197200,
+        "MasterLotteryRewardGroupId": 200,
+        "Rate": 3150,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197201,
+        "MasterLotteryRewardGroupId": 201,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197202,
+        "MasterLotteryRewardGroupId": 202,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 197,
+        "MasterLotteryRateId": 6003197203,
+        "MasterLotteryRewardGroupId": 203,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204205,
+        "MasterLotteryRewardGroupId": 205,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204206,
+        "MasterLotteryRewardGroupId": 206,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204207,
+        "MasterLotteryRewardGroupId": 207,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204208,
+        "MasterLotteryRewardGroupId": 208,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204209,
+        "MasterLotteryRewardGroupId": 209,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204210,
+        "MasterLotteryRewardGroupId": 210,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204211,
+        "MasterLotteryRewardGroupId": 211,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204212,
+        "MasterLotteryRewardGroupId": 212,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204213,
+        "MasterLotteryRewardGroupId": 213,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204214,
+        "MasterLotteryRewardGroupId": 214,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 204,
+        "MasterLotteryRateId": 6003204215,
+        "MasterLotteryRewardGroupId": 215,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216217,
+        "MasterLotteryRewardGroupId": 217,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216218,
+        "MasterLotteryRewardGroupId": 218,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216219,
+        "MasterLotteryRewardGroupId": 219,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216220,
+        "MasterLotteryRewardGroupId": 220,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216221,
+        "MasterLotteryRewardGroupId": 221,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216222,
+        "MasterLotteryRewardGroupId": 222,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216223,
+        "MasterLotteryRewardGroupId": 223,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 216,
+        "MasterLotteryRateId": 6003216224,
+        "MasterLotteryRewardGroupId": 224,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225226,
+        "MasterLotteryRewardGroupId": 226,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225227,
+        "MasterLotteryRewardGroupId": 227,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225228,
+        "MasterLotteryRewardGroupId": 228,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225229,
+        "MasterLotteryRewardGroupId": 229,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225230,
+        "MasterLotteryRewardGroupId": 230,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225231,
+        "MasterLotteryRewardGroupId": 231,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225232,
+        "MasterLotteryRewardGroupId": 232,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225233,
+        "MasterLotteryRewardGroupId": 233,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225234,
+        "MasterLotteryRewardGroupId": 234,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225235,
+        "MasterLotteryRewardGroupId": 235,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 225,
+        "MasterLotteryRateId": 6003225236,
+        "MasterLotteryRewardGroupId": 236,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237238,
+        "MasterLotteryRewardGroupId": 238,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237239,
+        "MasterLotteryRewardGroupId": 239,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237240,
+        "MasterLotteryRewardGroupId": 240,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237241,
+        "MasterLotteryRewardGroupId": 241,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237242,
+        "MasterLotteryRewardGroupId": 242,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237243,
+        "MasterLotteryRewardGroupId": 243,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237244,
+        "MasterLotteryRewardGroupId": 244,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 237,
+        "MasterLotteryRateId": 6003237245,
+        "MasterLotteryRewardGroupId": 245,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_scenario_pu_2"
+    },
+    {
         "MasterLotteryRateGroupId": 307,
         "MasterLotteryRateId": 6003307308,
         "MasterLotteryRewardGroupId": 308,
@@ -684,5 +1048,1860 @@
         "MasterLotteryRewardGroupId": 309,
         "Rate": 1500,
         "ReleaseLabel": "release.lottery_202206_bronz_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310311,
+        "MasterLotteryRewardGroupId": 311,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310312,
+        "MasterLotteryRewardGroupId": 312,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310313,
+        "MasterLotteryRewardGroupId": 313,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310314,
+        "MasterLotteryRewardGroupId": 314,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310315,
+        "MasterLotteryRewardGroupId": 315,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310316,
+        "MasterLotteryRewardGroupId": 316,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310317,
+        "MasterLotteryRewardGroupId": 317,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310318,
+        "MasterLotteryRewardGroupId": 318,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310319,
+        "MasterLotteryRewardGroupId": 319,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 310,
+        "MasterLotteryRateId": 6003310320,
+        "MasterLotteryRewardGroupId": 320,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321322,
+        "MasterLotteryRewardGroupId": 322,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321323,
+        "MasterLotteryRewardGroupId": 323,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321324,
+        "MasterLotteryRewardGroupId": 324,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321325,
+        "MasterLotteryRewardGroupId": 325,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321326,
+        "MasterLotteryRewardGroupId": 326,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321327,
+        "MasterLotteryRewardGroupId": 327,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 321,
+        "MasterLotteryRateId": 6003321328,
+        "MasterLotteryRewardGroupId": 328,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329330,
+        "MasterLotteryRewardGroupId": 330,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329331,
+        "MasterLotteryRewardGroupId": 331,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329332,
+        "MasterLotteryRewardGroupId": 332,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329333,
+        "MasterLotteryRewardGroupId": 333,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329334,
+        "MasterLotteryRewardGroupId": 334,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329335,
+        "MasterLotteryRewardGroupId": 335,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329336,
+        "MasterLotteryRewardGroupId": 336,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329337,
+        "MasterLotteryRewardGroupId": 337,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329338,
+        "MasterLotteryRewardGroupId": 338,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329339,
+        "MasterLotteryRewardGroupId": 339,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 329,
+        "MasterLotteryRateId": 6003329340,
+        "MasterLotteryRewardGroupId": 340,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341342,
+        "MasterLotteryRewardGroupId": 342,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341343,
+        "MasterLotteryRewardGroupId": 343,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341344,
+        "MasterLotteryRewardGroupId": 344,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341345,
+        "MasterLotteryRewardGroupId": 345,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341346,
+        "MasterLotteryRewardGroupId": 346,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341347,
+        "MasterLotteryRewardGroupId": 347,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341348,
+        "MasterLotteryRewardGroupId": 348,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 341,
+        "MasterLotteryRateId": 6003341349,
+        "MasterLotteryRewardGroupId": 349,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350351,
+        "MasterLotteryRewardGroupId": 351,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350352,
+        "MasterLotteryRewardGroupId": 352,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350353,
+        "MasterLotteryRewardGroupId": 353,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350354,
+        "MasterLotteryRewardGroupId": 354,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350355,
+        "MasterLotteryRewardGroupId": 355,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350356,
+        "MasterLotteryRewardGroupId": 356,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350357,
+        "MasterLotteryRewardGroupId": 357,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350358,
+        "MasterLotteryRewardGroupId": 358,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350359,
+        "MasterLotteryRewardGroupId": 359,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350360,
+        "MasterLotteryRewardGroupId": 360,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 350,
+        "MasterLotteryRateId": 6003350361,
+        "MasterLotteryRewardGroupId": 361,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362363,
+        "MasterLotteryRewardGroupId": 363,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362364,
+        "MasterLotteryRewardGroupId": 364,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362365,
+        "MasterLotteryRewardGroupId": 365,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362366,
+        "MasterLotteryRewardGroupId": 366,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362367,
+        "MasterLotteryRewardGroupId": 367,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362368,
+        "MasterLotteryRewardGroupId": 368,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362369,
+        "MasterLotteryRewardGroupId": 369,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 362,
+        "MasterLotteryRateId": 6003362370,
+        "MasterLotteryRewardGroupId": 370,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_scenario_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371372,
+        "MasterLotteryRewardGroupId": 372,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371373,
+        "MasterLotteryRewardGroupId": 373,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371374,
+        "MasterLotteryRewardGroupId": 374,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371375,
+        "MasterLotteryRewardGroupId": 375,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371376,
+        "MasterLotteryRewardGroupId": 376,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371377,
+        "MasterLotteryRewardGroupId": 377,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371378,
+        "MasterLotteryRewardGroupId": 378,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371379,
+        "MasterLotteryRewardGroupId": 379,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 371,
+        "MasterLotteryRateId": 6003371380,
+        "MasterLotteryRewardGroupId": 380,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381382,
+        "MasterLotteryRewardGroupId": 382,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381383,
+        "MasterLotteryRewardGroupId": 383,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381384,
+        "MasterLotteryRewardGroupId": 384,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381385,
+        "MasterLotteryRewardGroupId": 385,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381386,
+        "MasterLotteryRewardGroupId": 386,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381387,
+        "MasterLotteryRewardGroupId": 387,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 381,
+        "MasterLotteryRateId": 6003381388,
+        "MasterLotteryRewardGroupId": 388,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389390,
+        "MasterLotteryRewardGroupId": 390,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389391,
+        "MasterLotteryRewardGroupId": 391,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389392,
+        "MasterLotteryRewardGroupId": 392,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389393,
+        "MasterLotteryRewardGroupId": 393,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389394,
+        "MasterLotteryRewardGroupId": 394,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389395,
+        "MasterLotteryRewardGroupId": 395,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389396,
+        "MasterLotteryRewardGroupId": 396,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389397,
+        "MasterLotteryRewardGroupId": 397,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389398,
+        "MasterLotteryRewardGroupId": 398,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 389,
+        "MasterLotteryRateId": 6003389399,
+        "MasterLotteryRewardGroupId": 399,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400401,
+        "MasterLotteryRewardGroupId": 401,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400402,
+        "MasterLotteryRewardGroupId": 402,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400403,
+        "MasterLotteryRewardGroupId": 403,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400404,
+        "MasterLotteryRewardGroupId": 404,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400405,
+        "MasterLotteryRewardGroupId": 405,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400406,
+        "MasterLotteryRewardGroupId": 406,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400407,
+        "MasterLotteryRewardGroupId": 407,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 400,
+        "MasterLotteryRateId": 6003400408,
+        "MasterLotteryRewardGroupId": 408,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_1"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409410,
+        "MasterLotteryRewardGroupId": 410,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409411,
+        "MasterLotteryRewardGroupId": 411,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409412,
+        "MasterLotteryRewardGroupId": 412,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409413,
+        "MasterLotteryRewardGroupId": 413,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409414,
+        "MasterLotteryRewardGroupId": 414,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409415,
+        "MasterLotteryRewardGroupId": 415,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409416,
+        "MasterLotteryRewardGroupId": 416,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409417,
+        "MasterLotteryRewardGroupId": 417,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409418,
+        "MasterLotteryRewardGroupId": 418,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 409,
+        "MasterLotteryRateId": 6003409419,
+        "MasterLotteryRewardGroupId": 419,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420421,
+        "MasterLotteryRewardGroupId": 421,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420422,
+        "MasterLotteryRewardGroupId": 422,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420423,
+        "MasterLotteryRewardGroupId": 423,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420424,
+        "MasterLotteryRewardGroupId": 424,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420425,
+        "MasterLotteryRewardGroupId": 425,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420426,
+        "MasterLotteryRewardGroupId": 426,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420427,
+        "MasterLotteryRewardGroupId": 427,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 420,
+        "MasterLotteryRateId": 6003420428,
+        "MasterLotteryRewardGroupId": 428,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_ranking_pu_2"
+    },
+    {
+        "MasterLotteryRateGroupId": 429,
+        "MasterLotteryRateId": 6003429430,
+        "MasterLotteryRewardGroupId": 430,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202206_release_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431432,
+        "MasterLotteryRewardGroupId": 432,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431433,
+        "MasterLotteryRewardGroupId": 433,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431434,
+        "MasterLotteryRewardGroupId": 434,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431435,
+        "MasterLotteryRewardGroupId": 435,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431436,
+        "MasterLotteryRewardGroupId": 436,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431437,
+        "MasterLotteryRewardGroupId": 437,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 431,
+        "MasterLotteryRateId": 6003431438,
+        "MasterLotteryRewardGroupId": 438,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 439,
+        "MasterLotteryRateId": 6003439440,
+        "MasterLotteryRewardGroupId": 440,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 439,
+        "MasterLotteryRateId": 6003439441,
+        "MasterLotteryRewardGroupId": 441,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 439,
+        "MasterLotteryRateId": 6003439442,
+        "MasterLotteryRewardGroupId": 442,
+        "Rate": 3150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 439,
+        "MasterLotteryRateId": 6003439443,
+        "MasterLotteryRewardGroupId": 443,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 439,
+        "MasterLotteryRateId": 6003439444,
+        "MasterLotteryRewardGroupId": 444,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_light_dark"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445446,
+        "MasterLotteryRewardGroupId": 446,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445447,
+        "MasterLotteryRewardGroupId": 447,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445448,
+        "MasterLotteryRewardGroupId": 448,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445449,
+        "MasterLotteryRewardGroupId": 449,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445450,
+        "MasterLotteryRewardGroupId": 450,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445451,
+        "MasterLotteryRewardGroupId": 451,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445452,
+        "MasterLotteryRewardGroupId": 452,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 445,
+        "MasterLotteryRateId": 6003445453,
+        "MasterLotteryRewardGroupId": 453,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454455,
+        "MasterLotteryRewardGroupId": 455,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454456,
+        "MasterLotteryRewardGroupId": 456,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454457,
+        "MasterLotteryRewardGroupId": 457,
+        "Rate": 3150,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454458,
+        "MasterLotteryRewardGroupId": 458,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454459,
+        "MasterLotteryRewardGroupId": 459,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 454,
+        "MasterLotteryRateId": 6003454460,
+        "MasterLotteryRewardGroupId": 460,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202206_popoi"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488489,
+        "MasterLotteryRewardGroupId": 489,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488490,
+        "MasterLotteryRewardGroupId": 490,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488491,
+        "MasterLotteryRewardGroupId": 491,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488492,
+        "MasterLotteryRewardGroupId": 492,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488493,
+        "MasterLotteryRewardGroupId": 493,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488494,
+        "MasterLotteryRewardGroupId": 494,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488495,
+        "MasterLotteryRewardGroupId": 495,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 488,
+        "MasterLotteryRateId": 6003488496,
+        "MasterLotteryRewardGroupId": 496,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497498,
+        "MasterLotteryRewardGroupId": 498,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497499,
+        "MasterLotteryRewardGroupId": 499,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497500,
+        "MasterLotteryRewardGroupId": 500,
+        "Rate": 3150,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497501,
+        "MasterLotteryRewardGroupId": 501,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497502,
+        "MasterLotteryRewardGroupId": 502,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 497,
+        "MasterLotteryRateId": 6003497503,
+        "MasterLotteryRewardGroupId": 503,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_treasure"
+    },
+    {
+        "MasterLotteryRateGroupId": 504,
+        "MasterLotteryRateId": 6003504505,
+        "MasterLotteryRewardGroupId": 505,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202206_31_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506507,
+        "MasterLotteryRewardGroupId": 507,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506508,
+        "MasterLotteryRewardGroupId": 508,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506509,
+        "MasterLotteryRewardGroupId": 509,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506510,
+        "MasterLotteryRewardGroupId": 510,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506511,
+        "MasterLotteryRewardGroupId": 511,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506512,
+        "MasterLotteryRewardGroupId": 512,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506513,
+        "MasterLotteryRewardGroupId": 513,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506514,
+        "MasterLotteryRewardGroupId": 514,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 506,
+        "MasterLotteryRateId": 6003506515,
+        "MasterLotteryRewardGroupId": 515,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516517,
+        "MasterLotteryRewardGroupId": 517,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516518,
+        "MasterLotteryRewardGroupId": 518,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516519,
+        "MasterLotteryRewardGroupId": 519,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516520,
+        "MasterLotteryRewardGroupId": 520,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516521,
+        "MasterLotteryRewardGroupId": 521,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516522,
+        "MasterLotteryRewardGroupId": 522,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 516,
+        "MasterLotteryRateId": 6003516523,
+        "MasterLotteryRewardGroupId": 523,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_sierra"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524525,
+        "MasterLotteryRewardGroupId": 525,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524526,
+        "MasterLotteryRewardGroupId": 526,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524527,
+        "MasterLotteryRewardGroupId": 527,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524528,
+        "MasterLotteryRewardGroupId": 528,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524529,
+        "MasterLotteryRewardGroupId": 529,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524530,
+        "MasterLotteryRewardGroupId": 530,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524531,
+        "MasterLotteryRewardGroupId": 531,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524532,
+        "MasterLotteryRewardGroupId": 532,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 524,
+        "MasterLotteryRateId": 6003524533,
+        "MasterLotteryRewardGroupId": 533,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534535,
+        "MasterLotteryRewardGroupId": 535,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534536,
+        "MasterLotteryRewardGroupId": 536,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534537,
+        "MasterLotteryRewardGroupId": 537,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534538,
+        "MasterLotteryRewardGroupId": 538,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534539,
+        "MasterLotteryRewardGroupId": 539,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534540,
+        "MasterLotteryRewardGroupId": 540,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 534,
+        "MasterLotteryRateId": 6003534541,
+        "MasterLotteryRewardGroupId": 541,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202207_ranking"
+    },
+    {
+        "MasterLotteryRateGroupId": 542,
+        "MasterLotteryRateId": 6003542543,
+        "MasterLotteryRewardGroupId": 543,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 544,
+        "MasterLotteryRateId": 6003544545,
+        "MasterLotteryRewardGroupId": 545,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202207_comeback_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 546,
+        "MasterLotteryRateId": 6003546547,
+        "MasterLotteryRewardGroupId": 547,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202207_lom_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548549,
+        "MasterLotteryRewardGroupId": 549,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548550,
+        "MasterLotteryRewardGroupId": 550,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548551,
+        "MasterLotteryRewardGroupId": 551,
+        "Rate": 300,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548552,
+        "MasterLotteryRewardGroupId": 552,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548553,
+        "MasterLotteryRewardGroupId": 553,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 548,
+        "MasterLotteryRateId": 6003548554,
+        "MasterLotteryRewardGroupId": 554,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_300million_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555556,
+        "MasterLotteryRewardGroupId": 556,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555557,
+        "MasterLotteryRewardGroupId": 557,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555558,
+        "MasterLotteryRewardGroupId": 558,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555559,
+        "MasterLotteryRewardGroupId": 559,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555560,
+        "MasterLotteryRewardGroupId": 560,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555561,
+        "MasterLotteryRewardGroupId": 561,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 555,
+        "MasterLotteryRateId": 6003555562,
+        "MasterLotteryRewardGroupId": 562,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 563,
+        "MasterLotteryRateId": 6003563564,
+        "MasterLotteryRewardGroupId": 564,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 563,
+        "MasterLotteryRateId": 6003563565,
+        "MasterLotteryRewardGroupId": 565,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 563,
+        "MasterLotteryRateId": 6003563566,
+        "MasterLotteryRewardGroupId": 566,
+        "Rate": 3150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 563,
+        "MasterLotteryRateId": 6003563567,
+        "MasterLotteryRewardGroupId": 567,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 563,
+        "MasterLotteryRateId": 6003563568,
+        "MasterLotteryRewardGroupId": 568,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202207_fire_water"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569570,
+        "MasterLotteryRewardGroupId": 570,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569571,
+        "MasterLotteryRewardGroupId": 571,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569572,
+        "MasterLotteryRewardGroupId": 572,
+        "Rate": 300,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569573,
+        "MasterLotteryRewardGroupId": 573,
+        "Rate": 2450,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569574,
+        "MasterLotteryRewardGroupId": 574,
+        "Rate": 700,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 569,
+        "MasterLotteryRateId": 6003569575,
+        "MasterLotteryRewardGroupId": 575,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket_r2"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594595,
+        "MasterLotteryRewardGroupId": 595,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594596,
+        "MasterLotteryRewardGroupId": 596,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594597,
+        "MasterLotteryRewardGroupId": 597,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594598,
+        "MasterLotteryRewardGroupId": 598,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594599,
+        "MasterLotteryRewardGroupId": 599,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594600,
+        "MasterLotteryRewardGroupId": 600,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594601,
+        "MasterLotteryRewardGroupId": 601,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594602,
+        "MasterLotteryRewardGroupId": 602,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594603,
+        "MasterLotteryRewardGroupId": 603,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 594,
+        "MasterLotteryRateId": 6003594604,
+        "MasterLotteryRewardGroupId": 604,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605606,
+        "MasterLotteryRewardGroupId": 606,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605607,
+        "MasterLotteryRewardGroupId": 607,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605608,
+        "MasterLotteryRewardGroupId": 608,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605609,
+        "MasterLotteryRewardGroupId": 609,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605610,
+        "MasterLotteryRewardGroupId": 610,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605611,
+        "MasterLotteryRewardGroupId": 611,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 605,
+        "MasterLotteryRateId": 6003605612,
+        "MasterLotteryRewardGroupId": 612,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613614,
+        "MasterLotteryRewardGroupId": 614,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613615,
+        "MasterLotteryRewardGroupId": 615,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613616,
+        "MasterLotteryRewardGroupId": 616,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613617,
+        "MasterLotteryRewardGroupId": 617,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613618,
+        "MasterLotteryRewardGroupId": 618,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613619,
+        "MasterLotteryRewardGroupId": 619,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613620,
+        "MasterLotteryRewardGroupId": 620,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613621,
+        "MasterLotteryRewardGroupId": 621,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613622,
+        "MasterLotteryRewardGroupId": 622,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613623,
+        "MasterLotteryRewardGroupId": 623,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 613,
+        "MasterLotteryRateId": 6003613624,
+        "MasterLotteryRewardGroupId": 624,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625626,
+        "MasterLotteryRewardGroupId": 626,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625627,
+        "MasterLotteryRewardGroupId": 627,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625628,
+        "MasterLotteryRewardGroupId": 628,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625629,
+        "MasterLotteryRewardGroupId": 629,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625630,
+        "MasterLotteryRewardGroupId": 630,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625631,
+        "MasterLotteryRewardGroupId": 631,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625632,
+        "MasterLotteryRewardGroupId": 632,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 625,
+        "MasterLotteryRateId": 6003625633,
+        "MasterLotteryRewardGroupId": 633,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu1"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634635,
+        "MasterLotteryRewardGroupId": 635,
+        "Rate": 5000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634636,
+        "MasterLotteryRewardGroupId": 636,
+        "Rate": 1400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634637,
+        "MasterLotteryRewardGroupId": 637,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634638,
+        "MasterLotteryRewardGroupId": 638,
+        "Rate": 1450,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634639,
+        "MasterLotteryRewardGroupId": 639,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634640,
+        "MasterLotteryRewardGroupId": 640,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634641,
+        "MasterLotteryRewardGroupId": 641,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634642,
+        "MasterLotteryRewardGroupId": 642,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634643,
+        "MasterLotteryRewardGroupId": 643,
+        "Rate": 1000,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634644,
+        "MasterLotteryRewardGroupId": 644,
+        "Rate": 350,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 634,
+        "MasterLotteryRateId": 6003634645,
+        "MasterLotteryRewardGroupId": 645,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646647,
+        "MasterLotteryRewardGroupId": 647,
+        "Rate": 6400,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646648,
+        "MasterLotteryRewardGroupId": 648,
+        "Rate": 150,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646649,
+        "MasterLotteryRewardGroupId": 649,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646650,
+        "MasterLotteryRewardGroupId": 650,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646651,
+        "MasterLotteryRewardGroupId": 651,
+        "Rate": 50,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646652,
+        "MasterLotteryRewardGroupId": 652,
+        "Rate": 100,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646653,
+        "MasterLotteryRewardGroupId": 653,
+        "Rate": 1575,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 646,
+        "MasterLotteryRateId": 6003646654,
+        "MasterLotteryRewardGroupId": 654,
+        "Rate": 75,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_pu2"
+    },
+    {
+        "MasterLotteryRateGroupId": 687,
+        "MasterLotteryRateId": 6003687688,
+        "MasterLotteryRewardGroupId": 688,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202207_release_ticket"
+    },
+    {
+        "MasterLotteryRateGroupId": 726,
+        "MasterLotteryRateId": 6003726727,
+        "MasterLotteryRewardGroupId": 727,
+        "Rate": 10000,
+        "ReleaseLabel": "release.lottery_202208_100days_ticket"
     }
 ]

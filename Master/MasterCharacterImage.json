@@ -640,5 +640,89 @@
         "MasterCharacterImageId": 600570019008,
         "ReleaseLabel": "release.lottery_202206_scenario_start",
         "Thumbnail": "LimitBreakCharacterElazulDefaultR3SwordLight"
+    },
+    {
+        "CardPath": "CardEffect/card_LoMWomanDefaultR4KnifeDark/card_LoMWomanDefaultR4KnifeDark",
+        "MasterCharacterImageId": 600510502003,
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "Thumbnail": "LoMWomanDefaultR4KnifeDark"
+    },
+    {
+        "CardPath": "CardEffect/card_CharlotteDefaultR4FlailDark/card_CharlotteDefaultR4FlailDark",
+        "MasterCharacterImageId": 600510304002,
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "Thumbnail": "CharlotteDefaultR4FlailDark"
+    },
+    {
+        "CardPath": "CardEffect/card_WandererDefaultR4AxeLight/card_WandererDefaultR4AxeLight",
+        "MasterCharacterImageId": 600510602002,
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "Thumbnail": "WandererDefaultR4AxeLight"
+    },
+    {
+        "CardPath": "CardEffect/card_AngelaClass2SorceressR4StaffFire/card_AngelaClass2SorceressR4StaffFire",
+        "MasterCharacterImageId": 600510302003,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Thumbnail": "AngelaClass2SorceressR4StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_JuliusDefaultR4StaffFire/card_JuliusDefaultR4StaffFire",
+        "MasterCharacterImageId": 600510104003,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Thumbnail": "JuliusDefaultR4StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_MuslinDefaultR3StaffFire/card_MuslinDefaultR3StaffFire",
+        "MasterCharacterImageId": 600511107002,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Thumbnail": "MuslinDefaultR3StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakCharacterMuslinDefaultR3StaffFire/LimitBreakCharacterMuslinDefaultR3StaffFire",
+        "MasterCharacterImageId": 600570019009,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Thumbnail": "LimitBreakCharacterMuslinDefaultR3StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_LarcDefaultR4AxeWater/card_LarcDefaultR4AxeWater",
+        "MasterCharacterImageId": 600510505001,
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Thumbnail": "LarcDefaultR4AxeWater"
+    },
+    {
+        "CardPath": "CardEffect/card_SierraDefaultR4KnifeWater/card_SierraDefaultR4KnifeWater",
+        "MasterCharacterImageId": 600510504003,
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "Thumbnail": "SierraDefaultR4KnifeWater"
+    },
+    {
+        "CardPath": "CardEffect/card_HoneycombDefaultR4StaffFire/card_HoneycombDefaultR4StaffFire",
+        "MasterCharacterImageId": 600511104002,
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "Thumbnail": "HoneycombDefaultR4StaffFire"
+    },
+    {
+        "CardPath": "CardEffect/card_DuranClass2KnightR4SwordWind/card_DuranClass2KnightR4SwordWind",
+        "MasterCharacterImageId": 600510301003,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Thumbnail": "DuranClass2KnightR4SwordWind"
+    },
+    {
+        "CardPath": "CardEffect/card_EscadDefaultR4SwordWind/card_EscadDefaultR4SwordWind",
+        "MasterCharacterImageId": 600510508001,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Thumbnail": "EscadDefaultR4SwordWind"
+    },
+    {
+        "CardPath": "CardEffect/card_HeroPaladinR3AxeWind/card_HeroPaladinR3AxeWind",
+        "MasterCharacterImageId": 600510101003,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Thumbnail": "HeroPaladinR3AxeWind"
+    },
+    {
+        "CardPath": "CardEffect/LimitBreakCharacterHeroPaladinR3AxeWind/LimitBreakCharacterHeroPaladinR3AxeWind",
+        "MasterCharacterImageId": 600570019010,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Thumbnail": "LimitBreakCharacterHeroPaladinR3AxeWind"
     }
 ]

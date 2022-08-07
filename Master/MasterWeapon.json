@@ -442,5 +442,101 @@
         "Rarity": 4,
         "ReleaseLabel": "release.lottery_202205_treasure_rush_start",
         "WeaponType": 10
+    },
+    {
+        "CustomWeaponType": 24,
+        "EquipmentPath": "Sword/FateSword/Model/FateSword.fbx",
+        "IconPath": "FateSword",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000051,
+        "MasterWeaponId": 3201000056,
+        "Name": "",
+        "Rarity": 4,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "WeaponType": 10
+    },
+    {
+        "CustomWeaponType": 24,
+        "EquipmentPath": "Sword/FateSword/Model/FateSword.fbx",
+        "IconPath": "FateSword",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000052,
+        "MasterWeaponId": 3201000057,
+        "Name": "",
+        "Rarity": 3,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "WeaponType": 10
+    },
+    {
+        "CustomWeaponType": 24,
+        "EquipmentPath": "Sword/FateSword/Model/FateSword.fbx",
+        "IconPath": "FateSword",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000053,
+        "MasterWeaponId": 3201000058,
+        "Name": "",
+        "Rarity": 2,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "WeaponType": 10
+    },
+    {
+        "CustomWeaponType": 16,
+        "EquipmentPath": "Sword/FateSword/Model/FateSword.fbx",
+        "IconPath": "FateSword",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 0,
+        "MasterWeaponId": 3201000059,
+        "Name": "",
+        "Rarity": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "WeaponType": 10
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Staff/WorldTreeWand/Model/WorldTreeWand.fbx",
+        "IconPath": "WorldTreeWand",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000060,
+        "MasterWeaponId": 3201000060,
+        "Name": "",
+        "Rarity": 4,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "WeaponType": 9
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Staff/WorldTreeWand/Model/WorldTreeWand.fbx",
+        "IconPath": "WorldTreeWand",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000061,
+        "MasterWeaponId": 3201000061,
+        "Name": "",
+        "Rarity": 3,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "WeaponType": 9
+    },
+    {
+        "CustomWeaponType": 28,
+        "EquipmentPath": "Staff/WorldTreeWand/Model/WorldTreeWand.fbx",
+        "IconPath": "WorldTreeWand",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 31100001000062,
+        "MasterWeaponId": 3201000062,
+        "Name": "",
+        "Rarity": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "WeaponType": 9
+    },
+    {
+        "CustomWeaponType": 20,
+        "EquipmentPath": "Staff/WorldTreeWand/Model/WorldTreeWand.fbx",
+        "IconPath": "WorldTreeWand",
+        "MasterIdentityId": 0,
+        "MasterPassiveSkillId": 0,
+        "MasterWeaponId": 3201000063,
+        "Name": "",
+        "Rarity": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "WeaponType": 9
     }
 ]

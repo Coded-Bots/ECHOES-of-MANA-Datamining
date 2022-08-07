@@ -543,7 +543,7 @@
         "AnimationName": "Battle_UseSkill",
         "Attribute": 0,
         "Description": "",
-        "Icon": "Defense_Buff_1",
+        "Icon": "Attack_Buff_1",
         "MasterSkillId": 30110104001021,
         "Mp": 30,
         "Name": "",
@@ -553,7 +553,7 @@
         "AnimationName": "Battle_UseSkill",
         "Attribute": 0,
         "Description": "",
-        "Icon": "Defense_Buff_1",
+        "Icon": "Attack_Buff_1",
         "MasterSkillId": 30110104001022,
         "Mp": 25,
         "Name": "",
@@ -903,7 +903,7 @@
         "AnimationName": "Battle_UseSkill",
         "Attribute": 0,
         "Description": "",
-        "Icon": "Defense_Buff_1",
+        "Icon": "Attack_Buff_1",
         "MasterSkillId": 30110206002021,
         "Mp": 30,
         "Name": "",
@@ -913,7 +913,7 @@
         "AnimationName": "Battle_UseSkill",
         "Attribute": 0,
         "Description": "",
-        "Icon": "Defense_Buff_1",
+        "Icon": "Attack_Buff_1",
         "MasterSkillId": 30110206002022,
         "Mp": 25,
         "Name": "",
@@ -961,7 +961,7 @@
     },
     {
         "AnimationName": "Battle_Skill_Original3",
-        "Attribute": 1,
+        "Attribute": 4,
         "Description": "",
         "Icon": "Slash_Wide",
         "MasterSkillId": 30110301002011,
@@ -971,7 +971,7 @@
     },
     {
         "AnimationName": "Battle_Skill_Original3",
-        "Attribute": 1,
+        "Attribute": 4,
         "Description": "",
         "Icon": "Slash_Wide",
         "MasterSkillId": 30110301002012,
@@ -2158,5 +2158,485 @@
         "Mp": 25,
         "Name": "",
         "ReleaseLabel": "release.lottery_202206_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Eclipse",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Thrust_Hard",
+        "MasterSkillId": 30110502003011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Eclipse",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Thrust_Hard",
+        "MasterSkillId": 30110502003012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Magic_Bullet_Dark",
+        "MasterSkillId": 30110502003021,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Magic_Bullet_Dark",
+        "MasterSkillId": 30110502003022,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Blow_Dash",
+        "MasterSkillId": 30110304002011,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Blow_Dash",
+        "MasterSkillId": 30110304002012,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110304002021,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 5,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110304002022,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110602002011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original2",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110602002012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110602002021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110602002022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202206_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Target_Fire",
+        "MasterSkillId": 30110302003011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Target_Fire",
+        "MasterSkillId": 30110302003012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30110302003021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30110302003022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30110104003011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30110104003012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Debuff_1",
+        "MasterSkillId": 30110104003021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Debuff_1",
+        "MasterSkillId": 30110104003022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30111107002011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30111107002012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30111107002021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Buff_1",
+        "MasterSkillId": 30111107002022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_scenario_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_CuttingPine",
+        "Attribute": 3,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110505001011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_CuttingPine",
+        "Attribute": 3,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110505001012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110505001021,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30110505001022,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_treasure_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 3,
+        "Description": "",
+        "Icon": "Thrust_Continuous",
+        "MasterSkillId": 30110504003011,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 3,
+        "Description": "",
+        "Icon": "Thrust_Continuous",
+        "MasterSkillId": 30110504003012,
+        "Mp": 20,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110504003021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Attack_Debuff_1",
+        "MasterSkillId": 30110504003022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_sierra_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30111104002011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 4,
+        "Description": "",
+        "Icon": "Magic_Bullet_Fire",
+        "MasterSkillId": 30111104002012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30111104002021,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "Defense_Buff_1",
+        "MasterSkillId": 30111104002022,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202207_ranking_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Heal_1",
+        "MasterSkillId": 30110301003011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 6,
+        "Description": "",
+        "Icon": "Heal_1",
+        "MasterSkillId": 30110301003012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110301003021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110301003022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_ShishKebob",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110508001011,
+        "Mp": 35,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_ShishKebob",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110508001012,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110508001021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 0,
+        "Description": "",
+        "Icon": "SuperArmor_1",
+        "MasterSkillId": 30110508001022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110101003011,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "AnimationName": "Battle_Skill_Original1",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Slash_Wide",
+        "MasterSkillId": 30110101003012,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Magic_Bullet_Wind",
+        "MasterSkillId": 30110101003021,
+        "Mp": 30,
+        "Name": "",
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "AnimationName": "Battle_UseSkill",
+        "Attribute": 2,
+        "Description": "",
+        "Icon": "Magic_Bullet_Wind",
+        "MasterSkillId": 30110101003022,
+        "Mp": 25,
+        "Name": "",
+        "ReleaseLabel": "release.event_scenario_4_start"
     }
 ]

@@ -1035,6 +1035,87 @@
         "RewardType": 9
     },
     {
+        "MasterRewardGroupId": 420011015001,
+        "MasterRewardId": 411101500101,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020019,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011015002,
+        "MasterRewardId": 411101500201,
+        "Quantity": 25,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020019,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011015003,
+        "MasterRewardId": 411101500301,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020019,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011016001,
+        "MasterRewardId": 411101600101,
+        "Quantity": 300,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011016002,
+        "MasterRewardId": 411101600201,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011016003,
+        "MasterRewardId": 411101600301,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011017001,
+        "MasterRewardId": 411101700101,
+        "Quantity": 150,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020027,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011017002,
+        "MasterRewardId": 411101700201,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020027,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420011020001,
+        "MasterRewardId": 411102000101,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020031,
+        "RewardType": 9
+    },
+    {
         "MasterRewardGroupId": 420012000001,
         "MasterRewardId": 411200000101,
         "Quantity": 10,
@@ -1224,6 +1305,60 @@
         "RewardType": 6
     },
     {
+        "MasterRewardGroupId": 420013007000,
+        "MasterRewardId": 411300700001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 520001007000,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013007100,
+        "MasterRewardId": 411300710001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 520001007100,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013007200,
+        "MasterRewardId": 411300720001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 520001007200,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013008000,
+        "MasterRewardId": 411300800001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 520001008000,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013008100,
+        "MasterRewardId": 411300810001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 520001008100,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013008200,
+        "MasterRewardId": 411300820001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 520001008200,
+        "RewardType": 6
+    },
+    {
         "MasterRewardGroupId": 420013005001,
         "MasterRewardId": 411300500101,
         "Quantity": 150,
@@ -1311,6 +1446,96 @@
         "ReceiveType": 2,
         "ReleaseLabel": "release.event_scenario_2_start",
         "RewardItemId": 401020017,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005011,
+        "MasterRewardId": 411300501101,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020020,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005012,
+        "MasterRewardId": 411300501201,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020020,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005013,
+        "MasterRewardId": 411300501301,
+        "Quantity": 150,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020020,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005014,
+        "MasterRewardId": 411300501401,
+        "Quantity": 300,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020020,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005015,
+        "MasterRewardId": 411300501501,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020021,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005016,
+        "MasterRewardId": 411300501601,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005017,
+        "MasterRewardId": 411300501701,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005018,
+        "MasterRewardId": 411300501801,
+        "Quantity": 150,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005019,
+        "MasterRewardId": 411300501901,
+        "Quantity": 250,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013005020,
+        "MasterRewardId": 411300502001,
+        "Quantity": 400,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
         "RewardType": 9
     },
     {
@@ -1890,6 +2115,24 @@
         "RewardType": 6
     },
     {
+        "MasterRewardGroupId": 420013020105,
+        "MasterRewardId": 411302010501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020105,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020106,
+        "MasterRewardId": 411302010601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020106,
+        "RewardType": 6
+    },
+    {
         "MasterRewardGroupId": 420013020201,
         "MasterRewardId": 411302020101,
         "Quantity": 1,
@@ -1923,6 +2166,24 @@
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 520001020204,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020205,
+        "MasterRewardId": 411302020501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020205,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020206,
+        "MasterRewardId": 411302020601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020206,
         "RewardType": 6
     },
     {
@@ -1971,6 +2232,123 @@
         "RewardType": 6
     },
     {
+        "MasterRewardGroupId": 420013020306,
+        "MasterRewardId": 411302030601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020306,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020401,
+        "MasterRewardId": 411302040101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020401,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020402,
+        "MasterRewardId": 411302040201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020402,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020403,
+        "MasterRewardId": 411302040301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020403,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020404,
+        "MasterRewardId": 411302040401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020404,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020405,
+        "MasterRewardId": 411302040501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020405,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020406,
+        "MasterRewardId": 411302040601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 520001020406,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020501,
+        "MasterRewardId": 411302050101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020501,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020502,
+        "MasterRewardId": 411302050201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020502,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020503,
+        "MasterRewardId": 411302050301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020503,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020504,
+        "MasterRewardId": 411302050401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020504,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020505,
+        "MasterRewardId": 411302050501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020505,
+        "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013020506,
+        "MasterRewardId": 411302050601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "RewardItemId": 520001020506,
+        "RewardType": 6
+    },
+    {
         "MasterRewardGroupId": 420013030001,
         "MasterRewardId": 411303000101,
         "Quantity": 25,
@@ -2014,6 +2392,87 @@
         "ReleaseLabel": "release.initial",
         "RewardItemId": 520001030101,
         "RewardType": 6
+    },
+    {
+        "MasterRewardGroupId": 420013031001,
+        "MasterRewardId": 411303100101,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013031002,
+        "MasterRewardId": 411303100201,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013031003,
+        "MasterRewardId": 411303100301,
+        "Quantity": 250,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013031004,
+        "MasterRewardId": 411303100401,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020019,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013041001,
+        "MasterRewardId": 411304100101,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013041002,
+        "MasterRewardId": 411304100201,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013041003,
+        "MasterRewardId": 411304100301,
+        "Quantity": 250,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013041004,
+        "MasterRewardId": 411304100401,
+        "Quantity": 500,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420013035011,
+        "MasterRewardId": 411303501101,
+        "Quantity": 150,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 401020022,
+        "RewardType": 9
     },
     {
         "MasterRewardGroupId": 420014000001,
@@ -2175,6 +2634,141 @@
         "ReceiveType": 2,
         "ReleaseLabel": "release.event_scenario_2_start",
         "RewardItemId": 401020017,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100010,
+        "MasterRewardId": 411410001001,
+        "Quantity": 40,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100011,
+        "MasterRewardId": 411410001101,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100012,
+        "MasterRewardId": 411410001201,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100013,
+        "MasterRewardId": 411410001301,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020019,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100014,
+        "MasterRewardId": 411410001401,
+        "Quantity": 300,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420014100015,
+        "MasterRewardId": 411410001501,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020020,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100016,
+        "MasterRewardId": 411410001601,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 401020021,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100017,
+        "MasterRewardId": 411410001701,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 401020023,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100025,
+        "MasterRewardId": 411410002501,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202207_download_300_present_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420014100026,
+        "MasterRewardId": 411410002601,
+        "Quantity": 40,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100027,
+        "MasterRewardId": 411410002701,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100028,
+        "MasterRewardId": 411410002801,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100029,
+        "MasterRewardId": 411410002901,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100034,
+        "MasterRewardId": 411410003401,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020030,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420014100035,
+        "MasterRewardId": 411410003501,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 401020031,
         "RewardType": 9
     },
     {
@@ -2660,6 +3254,60 @@
         "Quantity": 100,
         "ReceiveType": 1,
         "ReleaseLabel": "release.story_1_6_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420015007101,
+        "MasterRewardId": 411500710101,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420015007102,
+        "MasterRewardId": 411500710201,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420015007201,
+        "MasterRewardId": 411500720101,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420015007202,
+        "MasterRewardId": 411500720201,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420015007301,
+        "MasterRewardId": 411500730101,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420015007302,
+        "MasterRewardId": 411500730201,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.story_1_7_start",
         "RewardItemId": 0,
         "RewardType": 1
     },
@@ -3843,6 +4491,1599 @@
         "RewardType": 9
     },
     {
+        "MasterRewardGroupId": 420021500037,
+        "MasterRewardId": 412150003701,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500038,
+        "MasterRewardId": 412150003801,
+        "Quantity": 10000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021500039,
+        "MasterRewardId": 412150003901,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500040,
+        "MasterRewardId": 412150004001,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500041,
+        "MasterRewardId": 412150004101,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500042,
+        "MasterRewardId": 412150004201,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500043,
+        "MasterRewardId": 412150004301,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500044,
+        "MasterRewardId": 412150004401,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500045,
+        "MasterRewardId": 412150004501,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500046,
+        "MasterRewardId": 412150004601,
+        "Quantity": 20000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021500047,
+        "MasterRewardId": 412150004701,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500048,
+        "MasterRewardId": 412150004801,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500049,
+        "MasterRewardId": 412150004901,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500050,
+        "MasterRewardId": 412150005001,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500051,
+        "MasterRewardId": 412150005101,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500052,
+        "MasterRewardId": 412150005201,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500053,
+        "MasterRewardId": 412150005301,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500054,
+        "MasterRewardId": 412150005401,
+        "Quantity": 30000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021500055,
+        "MasterRewardId": 412150005501,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500056,
+        "MasterRewardId": 412150005601,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500057,
+        "MasterRewardId": 412150005701,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500058,
+        "MasterRewardId": 412150005801,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500059,
+        "MasterRewardId": 412150005901,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500060,
+        "MasterRewardId": 412150006001,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500061,
+        "MasterRewardId": 412150006101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 600270019002,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021500062,
+        "MasterRewardId": 412150006201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 600270019003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021500063,
+        "MasterRewardId": 412150006301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 600270019004,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021500064,
+        "MasterRewardId": 412150006401,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500065,
+        "MasterRewardId": 412150006501,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500066,
+        "MasterRewardId": 412150006601,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500067,
+        "MasterRewardId": 412150006701,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500068,
+        "MasterRewardId": 412150006801,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500069,
+        "MasterRewardId": 412150006901,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500070,
+        "MasterRewardId": 412150007001,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500071,
+        "MasterRewardId": 412150007101,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500072,
+        "MasterRewardId": 412150007201,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500073,
+        "MasterRewardId": 412150007301,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500074,
+        "MasterRewardId": 412150007401,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500075,
+        "MasterRewardId": 412150007501,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500076,
+        "MasterRewardId": 412150007601,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500077,
+        "MasterRewardId": 412150007701,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500078,
+        "MasterRewardId": 412150007801,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202206_bingo_start",
+        "RewardItemId": 1030002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500079,
+        "MasterRewardId": 412150007901,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500080,
+        "MasterRewardId": 412150008001,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500081,
+        "MasterRewardId": 412150008101,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500082,
+        "MasterRewardId": 412150008201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 600211107002,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021500083,
+        "MasterRewardId": 412150008301,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500084,
+        "MasterRewardId": 412150008401,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500085,
+        "MasterRewardId": 412150008501,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500086,
+        "MasterRewardId": 412150008601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 4001111005,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420021500087,
+        "MasterRewardId": 412150008701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 600210101003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021500088,
+        "MasterRewardId": 412150008801,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 4001111006,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420021500089,
+        "MasterRewardId": 412150008901,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500090,
+        "MasterRewardId": 412150009001,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1041001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500090,
+        "MasterRewardId": 412150009002,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500090,
+        "MasterRewardId": 412150009003,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500090,
+        "MasterRewardId": 412150009004,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500090,
+        "MasterRewardId": 412150009005,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500091,
+        "MasterRewardId": 412150009106,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1042001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500091,
+        "MasterRewardId": 412150009107,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500091,
+        "MasterRewardId": 412150009108,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500091,
+        "MasterRewardId": 412150009109,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500091,
+        "MasterRewardId": 412150009110,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500092,
+        "MasterRewardId": 412150009211,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1043001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500092,
+        "MasterRewardId": 412150009212,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500092,
+        "MasterRewardId": 412150009213,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500092,
+        "MasterRewardId": 412150009214,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500092,
+        "MasterRewardId": 412150009215,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500093,
+        "MasterRewardId": 412150009316,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500093,
+        "MasterRewardId": 412150009317,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500093,
+        "MasterRewardId": 412150009318,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500093,
+        "MasterRewardId": 412150009319,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500093,
+        "MasterRewardId": 412150009320,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500094,
+        "MasterRewardId": 412150009421,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1045001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500094,
+        "MasterRewardId": 412150009422,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500094,
+        "MasterRewardId": 412150009423,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500094,
+        "MasterRewardId": 412150009424,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500094,
+        "MasterRewardId": 412150009425,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500095,
+        "MasterRewardId": 412150009526,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1046001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500095,
+        "MasterRewardId": 412150009527,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500095,
+        "MasterRewardId": 412150009528,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500095,
+        "MasterRewardId": 412150009529,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500095,
+        "MasterRewardId": 412150009530,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500096,
+        "MasterRewardId": 412150009631,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1047001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500096,
+        "MasterRewardId": 412150009632,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500096,
+        "MasterRewardId": 412150009633,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500096,
+        "MasterRewardId": 412150009634,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500096,
+        "MasterRewardId": 412150009635,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500097,
+        "MasterRewardId": 412150009736,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1048001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500097,
+        "MasterRewardId": 412150009737,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500097,
+        "MasterRewardId": 412150009738,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500097,
+        "MasterRewardId": 412150009739,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500097,
+        "MasterRewardId": 412150009740,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500098,
+        "MasterRewardId": 412150009801,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1041002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500098,
+        "MasterRewardId": 412150009802,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500098,
+        "MasterRewardId": 412150009803,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500098,
+        "MasterRewardId": 412150009804,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500098,
+        "MasterRewardId": 412150009805,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500099,
+        "MasterRewardId": 412150009906,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1042002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500099,
+        "MasterRewardId": 412150009907,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500099,
+        "MasterRewardId": 412150009908,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500099,
+        "MasterRewardId": 412150009909,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500099,
+        "MasterRewardId": 412150009910,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500100,
+        "MasterRewardId": 412150010011,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1043002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500100,
+        "MasterRewardId": 412150010012,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500100,
+        "MasterRewardId": 412150010013,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500100,
+        "MasterRewardId": 412150010014,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500100,
+        "MasterRewardId": 412150010015,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500101,
+        "MasterRewardId": 412150010116,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500101,
+        "MasterRewardId": 412150010117,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500101,
+        "MasterRewardId": 412150010118,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500101,
+        "MasterRewardId": 412150010119,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500101,
+        "MasterRewardId": 412150010120,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500102,
+        "MasterRewardId": 412150010221,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1045002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500102,
+        "MasterRewardId": 412150010222,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500102,
+        "MasterRewardId": 412150010223,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500102,
+        "MasterRewardId": 412150010224,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500102,
+        "MasterRewardId": 412150010225,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500103,
+        "MasterRewardId": 412150010326,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1046002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500103,
+        "MasterRewardId": 412150010327,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500103,
+        "MasterRewardId": 412150010328,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500103,
+        "MasterRewardId": 412150010329,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500103,
+        "MasterRewardId": 412150010330,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500104,
+        "MasterRewardId": 412150010431,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1047002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500104,
+        "MasterRewardId": 412150010432,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500104,
+        "MasterRewardId": 412150010433,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500104,
+        "MasterRewardId": 412150010434,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500104,
+        "MasterRewardId": 412150010435,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500105,
+        "MasterRewardId": 412150010536,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1048002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500105,
+        "MasterRewardId": 412150010537,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500105,
+        "MasterRewardId": 412150010538,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500105,
+        "MasterRewardId": 412150010539,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500105,
+        "MasterRewardId": 412150010540,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500106,
+        "MasterRewardId": 412150010601,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1041003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500106,
+        "MasterRewardId": 412150010602,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500106,
+        "MasterRewardId": 412150010603,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500106,
+        "MasterRewardId": 412150010604,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500106,
+        "MasterRewardId": 412150010605,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500107,
+        "MasterRewardId": 412150010706,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1042003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500107,
+        "MasterRewardId": 412150010707,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500107,
+        "MasterRewardId": 412150010708,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500107,
+        "MasterRewardId": 412150010709,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500107,
+        "MasterRewardId": 412150010710,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500108,
+        "MasterRewardId": 412150010811,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1043003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500108,
+        "MasterRewardId": 412150010812,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500108,
+        "MasterRewardId": 412150010813,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500108,
+        "MasterRewardId": 412150010814,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500108,
+        "MasterRewardId": 412150010815,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500109,
+        "MasterRewardId": 412150010916,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500109,
+        "MasterRewardId": 412150010917,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500109,
+        "MasterRewardId": 412150010918,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500109,
+        "MasterRewardId": 412150010919,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500109,
+        "MasterRewardId": 412150010920,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500110,
+        "MasterRewardId": 412150011021,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1045003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500110,
+        "MasterRewardId": 412150011022,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500110,
+        "MasterRewardId": 412150011023,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500110,
+        "MasterRewardId": 412150011024,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500110,
+        "MasterRewardId": 412150011025,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500111,
+        "MasterRewardId": 412150011126,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1046003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500111,
+        "MasterRewardId": 412150011127,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500111,
+        "MasterRewardId": 412150011128,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500111,
+        "MasterRewardId": 412150011129,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500111,
+        "MasterRewardId": 412150011130,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500112,
+        "MasterRewardId": 412150011231,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1047003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500112,
+        "MasterRewardId": 412150011232,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500112,
+        "MasterRewardId": 412150011233,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500112,
+        "MasterRewardId": 412150011234,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500112,
+        "MasterRewardId": 412150011235,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500113,
+        "MasterRewardId": 412150011336,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1048003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500113,
+        "MasterRewardId": 412150011337,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1030001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500113,
+        "MasterRewardId": 412150011338,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1020001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500113,
+        "MasterRewardId": 412150011339,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500113,
+        "MasterRewardId": 412150011340,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500114,
+        "MasterRewardId": 412150011401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 4001020017,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420021500115,
+        "MasterRewardId": 412150011501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500116,
+        "MasterRewardId": 412150011602,
+        "Quantity": 4,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021500117,
+        "MasterRewardId": 412150011703,
+        "Quantity": 2,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
         "MasterRewardGroupId": 420021000014,
         "MasterRewardId": 412100001401,
         "Quantity": 3,
@@ -4374,6 +6615,24 @@
         "RewardType": 11
     },
     {
+        "MasterRewardGroupId": 420021000090,
+        "MasterRewardId": 412100009001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 4001110007,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420021000100,
+        "MasterRewardId": 412100010001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 4001110008,
+        "RewardType": 4
+    },
+    {
         "MasterRewardGroupId": 420021000151,
         "MasterRewardId": 412100015101,
         "Quantity": 20000,
@@ -4444,6 +6703,24 @@
         "ReleaseLabel": "release.event_equipmentdrop_1_start",
         "RewardItemId": 401010001,
         "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021000259,
+        "MasterRewardId": 412100025901,
+        "Quantity": 30,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 1050001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021000260,
+        "MasterRewardId": 412100026001,
+        "Quantity": 36,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "RewardItemId": 1050002,
+        "RewardType": 2
     },
     {
         "MasterRewardGroupId": 420021000091,
@@ -4659,6 +6936,123 @@
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021000162,
+        "MasterRewardId": 412100016204,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.normal_mission_202206_start",
+        "RewardItemId": 1110001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021000163,
+        "MasterRewardId": 412100016304,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.normal_mission_202206_start",
+        "RewardItemId": 1110002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021000164,
+        "MasterRewardId": 412100016401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 15001010004,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000165,
+        "MasterRewardId": 412100016501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 15001011003,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000166,
+        "MasterRewardId": 412100016601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 15001012003,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000167,
+        "MasterRewardId": 412100016701,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021000168,
+        "MasterRewardId": 412100016801,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 401020023,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021000169,
+        "MasterRewardId": 412100016901,
+        "Quantity": 200,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420021000170,
+        "MasterRewardId": 412100017001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 15001072007,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000171,
+        "MasterRewardId": 412100017101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 15001010005,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000172,
+        "MasterRewardId": 412100017201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 15001011004,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000173,
+        "MasterRewardId": 412100017301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_8_start",
+        "RewardItemId": 15001012004,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021000174,
+        "MasterRewardId": 412100017401,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 1042003,
         "RewardType": 2
     },
     {
@@ -4950,6 +7344,231 @@
         "RewardType": 3
     },
     {
+        "MasterRewardGroupId": 420021300030,
+        "MasterRewardId": 412130003001,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1046001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300031,
+        "MasterRewardId": 412130003101,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1046002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300032,
+        "MasterRewardId": 412130003201,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1046003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300033,
+        "MasterRewardId": 412130003301,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_tower_202206_start",
+        "RewardItemId": 401030001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021300034,
+        "MasterRewardId": 412130003401,
+        "Quantity": 1000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202206_start",
+        "RewardItemId": 401020018,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021300035,
+        "MasterRewardId": 412130003501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RewardItemId": 15001070001,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300036,
+        "MasterRewardId": 412130003601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RewardItemId": 15001071002,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300037,
+        "MasterRewardId": 412130003701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_start",
+        "RewardItemId": 15001072003,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300038,
+        "MasterRewardId": 412130003801,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_addquest_1_start",
+        "RewardItemId": 15001070004,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300039,
+        "MasterRewardId": 412130003901,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_addquest_1_start",
+        "RewardItemId": 15001071005,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300040,
+        "MasterRewardId": 412130004001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_challenge_202207_addquest_1_start",
+        "RewardItemId": 15001072006,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420021300041,
+        "MasterRewardId": 412130004101,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300042,
+        "MasterRewardId": 412130004201,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300043,
+        "MasterRewardId": 412130004301,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300046,
+        "MasterRewardId": 412130004601,
+        "Quantity": 1000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_treasure_rush_202207_start",
+        "RewardItemId": 401020026,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420021300047,
+        "MasterRewardId": 412130004701,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1043001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300048,
+        "MasterRewardId": 412130004801,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1043002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300049,
+        "MasterRewardId": 412130004901,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1043003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300050,
+        "MasterRewardId": 412130005001,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300051,
+        "MasterRewardId": 412130005101,
+        "Quantity": 30,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300052,
+        "MasterRewardId": 412130005201,
+        "Quantity": 20,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300053,
+        "MasterRewardId": 412130005301,
+        "Quantity": 50,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202207_download_300_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420021300054,
+        "MasterRewardId": 412130005401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202207_download_300_start",
+        "RewardItemId": 600270019004,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420021300055,
+        "MasterRewardId": 412130005501,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202207_download_300_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420021300056,
+        "MasterRewardId": 412130005601,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.campaign_202207_download_300_start",
+        "RewardItemId": 1020002,
+        "RewardType": 2
+    },
+    {
         "MasterRewardGroupId": 420021001000,
         "MasterRewardId": 412100100001,
         "Quantity": 100,
@@ -5207,6 +7826,510 @@
         "Quantity": 100,
         "ReceiveType": 1,
         "ReleaseLabel": "release.event_ranking_202205_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100012,
+        "MasterRewardId": 415410001201,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001032109,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100012,
+        "MasterRewardId": 415410001202,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000056,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100012,
+        "MasterRewardId": 415410001203,
+        "Quantity": 5400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100013,
+        "MasterRewardId": 415410001301,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001032110,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100013,
+        "MasterRewardId": 415410001302,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000056,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100013,
+        "MasterRewardId": 415410001303,
+        "Quantity": 4800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100014,
+        "MasterRewardId": 415410001401,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001032111,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100014,
+        "MasterRewardId": 415410001402,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000056,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100014,
+        "MasterRewardId": 415410001403,
+        "Quantity": 4200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100015,
+        "MasterRewardId": 415410001501,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001031112,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100015,
+        "MasterRewardId": 415410001502,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000056,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100015,
+        "MasterRewardId": 415410001503,
+        "Quantity": 3600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100016,
+        "MasterRewardId": 415410001601,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001031113,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100016,
+        "MasterRewardId": 415410001602,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000056,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100016,
+        "MasterRewardId": 415410001603,
+        "Quantity": 3000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100017,
+        "MasterRewardId": 415410001701,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001030114,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100017,
+        "MasterRewardId": 415410001702,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000057,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100017,
+        "MasterRewardId": 415410001703,
+        "Quantity": 2400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100018,
+        "MasterRewardId": 415410001801,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001030115,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100018,
+        "MasterRewardId": 415410001802,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000058,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100018,
+        "MasterRewardId": 415410001803,
+        "Quantity": 1800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100019,
+        "MasterRewardId": 415410001901,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 15001030116,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100019,
+        "MasterRewardId": 415410001902,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000059,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100019,
+        "MasterRewardId": 415410001903,
+        "Quantity": 1200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100020,
+        "MasterRewardId": 415410002001,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 3201000059,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100020,
+        "MasterRewardId": 415410002002,
+        "Quantity": 600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100021,
+        "MasterRewardId": 415410002101,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100022,
+        "MasterRewardId": 415410002201,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100023,
+        "MasterRewardId": 415410002301,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001032117,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100023,
+        "MasterRewardId": 415410002302,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000060,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100023,
+        "MasterRewardId": 415410002303,
+        "Quantity": 5400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100024,
+        "MasterRewardId": 415410002401,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001032118,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100024,
+        "MasterRewardId": 415410002402,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000060,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100024,
+        "MasterRewardId": 415410002403,
+        "Quantity": 4800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100025,
+        "MasterRewardId": 415410002501,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001032119,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100025,
+        "MasterRewardId": 415410002502,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000060,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100025,
+        "MasterRewardId": 415410002503,
+        "Quantity": 4200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100026,
+        "MasterRewardId": 415410002601,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001031120,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100026,
+        "MasterRewardId": 415410002602,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000060,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100026,
+        "MasterRewardId": 415410002603,
+        "Quantity": 3600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100027,
+        "MasterRewardId": 415410002701,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001031121,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100027,
+        "MasterRewardId": 415410002702,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000060,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100027,
+        "MasterRewardId": 415410002703,
+        "Quantity": 3000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100028,
+        "MasterRewardId": 415410002801,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001030122,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100028,
+        "MasterRewardId": 415410002802,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000061,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100028,
+        "MasterRewardId": 415410002803,
+        "Quantity": 2400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100029,
+        "MasterRewardId": 415410002901,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001030123,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100029,
+        "MasterRewardId": 415410002902,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000062,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100029,
+        "MasterRewardId": 415410002903,
+        "Quantity": 1800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100030,
+        "MasterRewardId": 415410003001,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 15001030124,
+        "RewardType": 11
+    },
+    {
+        "MasterRewardGroupId": 420054100030,
+        "MasterRewardId": 415410003002,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000063,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100030,
+        "MasterRewardId": 415410003003,
+        "Quantity": 1200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100031,
+        "MasterRewardId": 415410003101,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 3201000063,
+        "RewardType": 7
+    },
+    {
+        "MasterRewardGroupId": 420054100031,
+        "MasterRewardId": 415410003102,
+        "Quantity": 600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100032,
+        "MasterRewardId": 415410003201,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420054100033,
+        "MasterRewardId": 415410003301,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
         "RewardItemId": 0,
         "RewardType": 1
     },
@@ -5803,6 +8926,60 @@
         "ReleaseLabel": "release.initial",
         "RewardItemId": 600270019004,
         "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420032000027,
+        "MasterRewardId": 413200002701,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080005,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000028,
+        "MasterRewardId": 413200002801,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080006,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000029,
+        "MasterRewardId": 413200002901,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080009,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000030,
+        "MasterRewardId": 413200003001,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080012,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000031,
+        "MasterRewardId": 413200003101,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080013,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420032000032,
+        "MasterRewardId": 413200003201,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 1080014,
+        "RewardType": 2
     },
     {
         "MasterRewardGroupId": 420034000001,
@@ -6696,6 +9873,24 @@
         "RewardType": 2
     },
     {
+        "MasterRewardGroupId": 420034000130,
+        "MasterRewardId": 413400013001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "RewardItemId": 600210502003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000131,
+        "MasterRewardId": 413400013101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "RewardItemId": 4001050006,
+        "RewardType": 4
+    },
+    {
         "MasterRewardGroupId": 420034000132,
         "MasterRewardId": 413400013201,
         "Quantity": 6,
@@ -6867,6 +10062,330 @@
         "RewardType": 3
     },
     {
+        "MasterRewardGroupId": 420034000151,
+        "MasterRewardId": 413400015101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_light_dark_start",
+        "RewardItemId": 600210101001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000152,
+        "MasterRewardId": 413400015201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_light_dark_start",
+        "RewardItemId": 600210501001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000153,
+        "MasterRewardId": 413400015301,
+        "Quantity": 15000,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_2_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420034000154,
+        "MasterRewardId": 413400015401,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_2_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000155,
+        "MasterRewardId": 413400015501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_popoi_start",
+        "RewardItemId": 600210203001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000156,
+        "MasterRewardId": 413400015601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_popoi_start",
+        "RewardItemId": 4001060002,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000157,
+        "MasterRewardId": 413400015701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "RewardItemId": 600210304002,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000158,
+        "MasterRewardId": 413400015801,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "RewardItemId": 600210602002,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000159,
+        "MasterRewardId": 413400015901,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "RewardItemId": 4001040004,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000160,
+        "MasterRewardId": 413400016001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 600270001004,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000161,
+        "MasterRewardId": 413400016101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 600270001003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000162,
+        "MasterRewardId": 413400016201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 600270019009,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000163,
+        "MasterRewardId": 413400016301,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000164,
+        "MasterRewardId": 413400016401,
+        "Quantity": 5,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_3_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000165,
+        "MasterRewardId": 413400016501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "RewardItemId": 600210302003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000166,
+        "MasterRewardId": 413400016601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "RewardItemId": 600210104003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000167,
+        "MasterRewardId": 413400016701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "RewardItemId": 4001010006,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000168,
+        "MasterRewardId": 413400016801,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000169,
+        "MasterRewardId": 413400016901,
+        "Quantity": 25,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000170,
+        "MasterRewardId": 413400017001,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000171,
+        "MasterRewardId": 413400017101,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1043001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000172,
+        "MasterRewardId": 413400017201,
+        "Quantity": 25,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1043002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000173,
+        "MasterRewardId": 413400017301,
+        "Quantity": 10,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "RewardItemId": 1043003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420034000174,
+        "MasterRewardId": 413400017401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "RewardItemId": 600210505001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000175,
+        "MasterRewardId": 413400017501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "RewardItemId": 4001050007,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000177,
+        "MasterRewardId": 413400017701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "RewardItemId": 600210504003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000178,
+        "MasterRewardId": 413400017801,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "RewardItemId": 4001050011,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000179,
+        "MasterRewardId": 413400017901,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "RewardItemId": 600211104002,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000180,
+        "MasterRewardId": 413400018001,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "RewardItemId": 4001040004,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000181,
+        "MasterRewardId": 413400018101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_fire_water_start",
+        "RewardItemId": 600210203001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000182,
+        "MasterRewardId": 413400018201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202207_fire_water_start",
+        "RewardItemId": 600210302001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000183,
+        "MasterRewardId": 413400018301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "RewardItemId": 600210508001,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000184,
+        "MasterRewardId": 413400018401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "RewardItemId": 600210301003,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000185,
+        "MasterRewardId": 413400018501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "RewardItemId": 4001050015,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420034000186,
+        "MasterRewardId": 413400018601,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "RewardItemId": 600270019010,
+        "RewardType": 3
+    },
+    {
+        "MasterRewardGroupId": 420034000187,
+        "MasterRewardId": 413400018701,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_black_rabi_coin_start",
+        "RewardItemId": 600270019004,
+        "RewardType": 3
+    },
+    {
         "MasterRewardGroupId": 420035001001,
         "MasterRewardId": 413500100101,
         "Quantity": 1,
@@ -6917,6 +10436,15 @@
         "Quantity": 30,
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
+        "RewardItemId": 401030001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420035100002,
+        "MasterRewardId": 413510000201,
+        "Quantity": 100,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.event_tower_202206_start",
         "RewardItemId": 401030001,
         "RewardType": 9
     },
@@ -7378,6 +10906,789 @@
         "ReleaseLabel": "release.login_bonus_202206_1_start",
         "RewardItemId": 0,
         "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100051,
+        "MasterRewardId": 415110005101,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100052,
+        "MasterRewardId": 415110005201,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100053,
+        "MasterRewardId": 415110005301,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100054,
+        "MasterRewardId": 415110005401,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100055,
+        "MasterRewardId": 415110005501,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100056,
+        "MasterRewardId": 415110005601,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100057,
+        "MasterRewardId": 415110005701,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_2_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100058,
+        "MasterRewardId": 415110005801,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100059,
+        "MasterRewardId": 415110005901,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100060,
+        "MasterRewardId": 415110006001,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100061,
+        "MasterRewardId": 415110006101,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100062,
+        "MasterRewardId": 415110006201,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100063,
+        "MasterRewardId": 415110006301,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100064,
+        "MasterRewardId": 415110006401,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_3_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100065,
+        "MasterRewardId": 415110006501,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100066,
+        "MasterRewardId": 415110006601,
+        "Quantity": 200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100067,
+        "MasterRewardId": 415110006701,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100068,
+        "MasterRewardId": 415110006801,
+        "Quantity": 400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100069,
+        "MasterRewardId": 415110006901,
+        "Quantity": 500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100070,
+        "MasterRewardId": 415110007001,
+        "Quantity": 600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100071,
+        "MasterRewardId": 415110007101,
+        "Quantity": 1000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_4_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100072,
+        "MasterRewardId": 415110007201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.login_bonus_202206_5_start",
+        "RewardItemId": 63002000308,
+        "RewardType": 10
+    },
+    {
+        "MasterRewardGroupId": 420051100073,
+        "MasterRewardId": 415110007301,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202206_31st_memorygem_start",
+        "RewardItemId": 4001111010,
+        "RewardType": 4
+    },
+    {
+        "MasterRewardGroupId": 420051100074,
+        "MasterRewardId": 415110007401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.login_bonus_202207_1_start",
+        "RewardItemId": 63002000303,
+        "RewardType": 10
+    },
+    {
+        "MasterRewardGroupId": 420051100075,
+        "MasterRewardId": 415110007501,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100076,
+        "MasterRewardId": 415110007601,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100077,
+        "MasterRewardId": 415110007701,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100078,
+        "MasterRewardId": 415110007801,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100079,
+        "MasterRewardId": 415110007901,
+        "Quantity": 100000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420051100080,
+        "MasterRewardId": 415110008001,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100081,
+        "MasterRewardId": 415110008101,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100082,
+        "MasterRewardId": 415110008201,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100083,
+        "MasterRewardId": 415110008301,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100084,
+        "MasterRewardId": 415110008401,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100085,
+        "MasterRewardId": 415110008501,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100086,
+        "MasterRewardId": 415110008601,
+        "Quantity": 100000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420051100087,
+        "MasterRewardId": 415110008701,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100088,
+        "MasterRewardId": 415110008801,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_2_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100089,
+        "MasterRewardId": 415110008901,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100090,
+        "MasterRewardId": 415110009001,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100091,
+        "MasterRewardId": 415110009101,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100092,
+        "MasterRewardId": 415110009201,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100093,
+        "MasterRewardId": 415110009301,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100094,
+        "MasterRewardId": 415110009401,
+        "Quantity": 100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100095,
+        "MasterRewardId": 415110009501,
+        "Quantity": 2,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_3_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100096,
+        "MasterRewardId": 415110009601,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_download_300_start",
+        "RewardItemId": 1080010,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100097,
+        "MasterRewardId": 415110009701,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_download_300_start",
+        "RewardItemId": 1080010,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100098,
+        "MasterRewardId": 415110009801,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202207_download_300_start",
+        "RewardItemId": 1080007,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100110,
+        "MasterRewardId": 415110011001,
+        "Quantity": 1500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420051100111,
+        "MasterRewardId": 415110011101,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100112,
+        "MasterRewardId": 415110011201,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100113,
+        "MasterRewardId": 415110011301,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 1080004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100114,
+        "MasterRewardId": 415110011401,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100115,
+        "MasterRewardId": 415110011501,
+        "Quantity": 500000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420051100116,
+        "MasterRewardId": 415110011601,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.comeback_bonus_202207_start",
+        "RewardItemId": 1080008,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100117,
+        "MasterRewardId": 415110011701,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100118,
+        "MasterRewardId": 415110011801,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100119,
+        "MasterRewardId": 415110011901,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.loginbonus_202208_series_2_start",
+        "RewardItemId": 63002000307,
+        "RewardType": 10
+    },
+    {
+        "MasterRewardGroupId": 420051100120,
+        "MasterRewardId": 415110012001,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100121,
+        "MasterRewardId": 415110012101,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100122,
+        "MasterRewardId": 415110012201,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100123,
+        "MasterRewardId": 415110012301,
+        "Quantity": 50,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1042001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100124,
+        "MasterRewardId": 415110012401,
+        "Quantity": 100000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420051100125,
+        "MasterRewardId": 415110012501,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100126,
+        "MasterRewardId": 415110012601,
+        "Quantity": 30,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1042002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100127,
+        "MasterRewardId": 415110012701,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100128,
+        "MasterRewardId": 415110012801,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1061002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100129,
+        "MasterRewardId": 415110012901,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100130,
+        "MasterRewardId": 415110013001,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1042003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100131,
+        "MasterRewardId": 415110013101,
+        "Quantity": 100000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420051100132,
+        "MasterRewardId": 415110013201,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420051100133,
+        "MasterRewardId": 415110013301,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.login_bonus_202208_1_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420024100001,
+        "MasterRewardId": 412410000101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.black_rabi_coin_start",
+        "RewardItemId": 401060032,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420000100101,
+        "MasterRewardId": 410010010101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100102,
+        "MasterRewardId": 410010010201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100103,
+        "MasterRewardId": 410010010301,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100104,
+        "MasterRewardId": 410010010401,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120005,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100105,
+        "MasterRewardId": 410010010501,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120006,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100106,
+        "MasterRewardId": 410010010601,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100107,
+        "MasterRewardId": 410010010701,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100108,
+        "MasterRewardId": 410010010801,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120004,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100109,
+        "MasterRewardId": 410010010901,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120005,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100110,
+        "MasterRewardId": 410010011001,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120006,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100111,
+        "MasterRewardId": 410010011101,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100112,
+        "MasterRewardId": 410010011201,
+        "Quantity": 1,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120007,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100113,
+        "MasterRewardId": 410010011301,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420000100114,
+        "MasterRewardId": 410010011401,
+        "Quantity": 3,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.status_water_start",
+        "RewardItemId": 1120007,
+        "RewardType": 2
     },
     {
         "MasterRewardGroupId": 420051000020,
@@ -8034,6 +12345,60 @@
         "ReceiveType": 2,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 1046001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000327,
+        "MasterRewardId": 418100032701,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1041002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000328,
+        "MasterRewardId": 418100032802,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1042002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000329,
+        "MasterRewardId": 418100032903,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1043002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000330,
+        "MasterRewardId": 418100033004,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000331,
+        "MasterRewardId": 418100033105,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1045002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420081000332,
+        "MasterRewardId": 418100033206,
+        "Quantity": 6,
+        "ReceiveType": 2,
+        "ReleaseLabel": "release.story_1_7_start",
+        "RewardItemId": 1046002,
         "RewardType": 2
     },
     {
@@ -9792,6 +14157,1131 @@
         "RewardType": 1
     },
     {
+        "MasterRewardGroupId": 420090010103,
+        "MasterRewardId": 419001010301,
+        "Quantity": 300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010104,
+        "MasterRewardId": 419001010401,
+        "Quantity": 600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010105,
+        "MasterRewardId": 419001010501,
+        "Quantity": 900,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010106,
+        "MasterRewardId": 419001010601,
+        "Quantity": 1200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010107,
+        "MasterRewardId": 419001010701,
+        "Quantity": 1350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010108,
+        "MasterRewardId": 419001010801,
+        "Quantity": 1500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010109,
+        "MasterRewardId": 419001010901,
+        "Quantity": 1650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010110,
+        "MasterRewardId": 419001011001,
+        "Quantity": 1800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010111,
+        "MasterRewardId": 419001011101,
+        "Quantity": 1950,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010112,
+        "MasterRewardId": 419001011201,
+        "Quantity": 2100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010113,
+        "MasterRewardId": 419001011301,
+        "Quantity": 2250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010114,
+        "MasterRewardId": 419001011401,
+        "Quantity": 2400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010115,
+        "MasterRewardId": 419001011501,
+        "Quantity": 2550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010116,
+        "MasterRewardId": 419001011601,
+        "Quantity": 2700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010117,
+        "MasterRewardId": 419001011701,
+        "Quantity": 2850,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010118,
+        "MasterRewardId": 419001011801,
+        "Quantity": 3000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010119,
+        "MasterRewardId": 419001011901,
+        "Quantity": 3150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010120,
+        "MasterRewardId": 419001012001,
+        "Quantity": 3300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010121,
+        "MasterRewardId": 419001012101,
+        "Quantity": 3450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010122,
+        "MasterRewardId": 419001012201,
+        "Quantity": 3600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010123,
+        "MasterRewardId": 419001012301,
+        "Quantity": 3750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010124,
+        "MasterRewardId": 419001012401,
+        "Quantity": 3900,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010125,
+        "MasterRewardId": 419001012501,
+        "Quantity": 4050,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010126,
+        "MasterRewardId": 419001012601,
+        "Quantity": 4200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010127,
+        "MasterRewardId": 419001012701,
+        "Quantity": 4350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010128,
+        "MasterRewardId": 419001012801,
+        "Quantity": 4500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010129,
+        "MasterRewardId": 419001012901,
+        "Quantity": 4650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010130,
+        "MasterRewardId": 419001013001,
+        "Quantity": 4800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010131,
+        "MasterRewardId": 419001013101,
+        "Quantity": 4950,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010132,
+        "MasterRewardId": 419001013201,
+        "Quantity": 5100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010133,
+        "MasterRewardId": 419001013301,
+        "Quantity": 5250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010134,
+        "MasterRewardId": 419001013401,
+        "Quantity": 5400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010135,
+        "MasterRewardId": 419001013501,
+        "Quantity": 5550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010136,
+        "MasterRewardId": 419001013601,
+        "Quantity": 5700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010137,
+        "MasterRewardId": 419001013701,
+        "Quantity": 5850,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010138,
+        "MasterRewardId": 419001013801,
+        "Quantity": 6000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010139,
+        "MasterRewardId": 419001013901,
+        "Quantity": 6150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010140,
+        "MasterRewardId": 419001014001,
+        "Quantity": 6300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010141,
+        "MasterRewardId": 419001014101,
+        "Quantity": 6450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010142,
+        "MasterRewardId": 419001014201,
+        "Quantity": 6600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010143,
+        "MasterRewardId": 419001014301,
+        "Quantity": 6750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010144,
+        "MasterRewardId": 419001014401,
+        "Quantity": 6900,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010145,
+        "MasterRewardId": 419001014501,
+        "Quantity": 7050,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010146,
+        "MasterRewardId": 419001014601,
+        "Quantity": 7200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010147,
+        "MasterRewardId": 419001014701,
+        "Quantity": 7350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010148,
+        "MasterRewardId": 419001014801,
+        "Quantity": 7650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010149,
+        "MasterRewardId": 419001014901,
+        "Quantity": 7950,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010150,
+        "MasterRewardId": 419001015001,
+        "Quantity": 8100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010151,
+        "MasterRewardId": 419001015101,
+        "Quantity": 8250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010152,
+        "MasterRewardId": 419001015201,
+        "Quantity": 8400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010153,
+        "MasterRewardId": 419001015301,
+        "Quantity": 8550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010154,
+        "MasterRewardId": 419001015401,
+        "Quantity": 8700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010155,
+        "MasterRewardId": 419001015501,
+        "Quantity": 9150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010156,
+        "MasterRewardId": 419001015601,
+        "Quantity": 9300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010157,
+        "MasterRewardId": 419001015701,
+        "Quantity": 9450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010158,
+        "MasterRewardId": 419001015801,
+        "Quantity": 9600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010159,
+        "MasterRewardId": 419001015901,
+        "Quantity": 9750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010160,
+        "MasterRewardId": 419001016001,
+        "Quantity": 10050,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010161,
+        "MasterRewardId": 419001016101,
+        "Quantity": 10200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010162,
+        "MasterRewardId": 419001016201,
+        "Quantity": 10350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010163,
+        "MasterRewardId": 419001016301,
+        "Quantity": 10800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010164,
+        "MasterRewardId": 419001016401,
+        "Quantity": 11100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010165,
+        "MasterRewardId": 419001016501,
+        "Quantity": 11400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010166,
+        "MasterRewardId": 419001016601,
+        "Quantity": 11850,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010167,
+        "MasterRewardId": 419001016701,
+        "Quantity": 12000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010168,
+        "MasterRewardId": 419001016801,
+        "Quantity": 12150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010169,
+        "MasterRewardId": 419001016901,
+        "Quantity": 12450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010170,
+        "MasterRewardId": 419001017001,
+        "Quantity": 12600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010171,
+        "MasterRewardId": 419001017101,
+        "Quantity": 12750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010172,
+        "MasterRewardId": 419001017201,
+        "Quantity": 13350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010173,
+        "MasterRewardId": 419001017301,
+        "Quantity": 13500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010174,
+        "MasterRewardId": 419001017401,
+        "Quantity": 13800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010175,
+        "MasterRewardId": 419001017501,
+        "Quantity": 14100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010176,
+        "MasterRewardId": 419001017601,
+        "Quantity": 14250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010177,
+        "MasterRewardId": 419001017701,
+        "Quantity": 14550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010178,
+        "MasterRewardId": 419001017801,
+        "Quantity": 14850,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010179,
+        "MasterRewardId": 419001017901,
+        "Quantity": 15000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010180,
+        "MasterRewardId": 419001018001,
+        "Quantity": 15150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010181,
+        "MasterRewardId": 419001018101,
+        "Quantity": 15600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010182,
+        "MasterRewardId": 419001018201,
+        "Quantity": 15750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010183,
+        "MasterRewardId": 419001018301,
+        "Quantity": 16200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010184,
+        "MasterRewardId": 419001018401,
+        "Quantity": 16650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010185,
+        "MasterRewardId": 419001018501,
+        "Quantity": 16800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010186,
+        "MasterRewardId": 419001018601,
+        "Quantity": 17400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010187,
+        "MasterRewardId": 419001018701,
+        "Quantity": 17550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010188,
+        "MasterRewardId": 419001018801,
+        "Quantity": 18450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010189,
+        "MasterRewardId": 419001018901,
+        "Quantity": 18750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010190,
+        "MasterRewardId": 419001019001,
+        "Quantity": 18900,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010191,
+        "MasterRewardId": 419001019101,
+        "Quantity": 19650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010192,
+        "MasterRewardId": 419001019201,
+        "Quantity": 20250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010193,
+        "MasterRewardId": 419001019301,
+        "Quantity": 21600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010194,
+        "MasterRewardId": 419001019401,
+        "Quantity": 22500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010195,
+        "MasterRewardId": 419001019501,
+        "Quantity": 22950,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010196,
+        "MasterRewardId": 419001019601,
+        "Quantity": 23700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010197,
+        "MasterRewardId": 419001019701,
+        "Quantity": 24300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010198,
+        "MasterRewardId": 419001019801,
+        "Quantity": 25650,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010199,
+        "MasterRewardId": 419001019901,
+        "Quantity": 25800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010200,
+        "MasterRewardId": 419001020001,
+        "Quantity": 27000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010201,
+        "MasterRewardId": 419001020101,
+        "Quantity": 27600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010202,
+        "MasterRewardId": 419001020201,
+        "Quantity": 28350,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010203,
+        "MasterRewardId": 419001020301,
+        "Quantity": 29550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010204,
+        "MasterRewardId": 419001020401,
+        "Quantity": 29700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010205,
+        "MasterRewardId": 419001020501,
+        "Quantity": 31050,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010206,
+        "MasterRewardId": 419001020601,
+        "Quantity": 32400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010207,
+        "MasterRewardId": 419001020701,
+        "Quantity": 33750,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010208,
+        "MasterRewardId": 419001020801,
+        "Quantity": 34800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010209,
+        "MasterRewardId": 419001020901,
+        "Quantity": 35100,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010210,
+        "MasterRewardId": 419001021001,
+        "Quantity": 36450,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010211,
+        "MasterRewardId": 419001021101,
+        "Quantity": 37800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010212,
+        "MasterRewardId": 419001021201,
+        "Quantity": 38700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010213,
+        "MasterRewardId": 419001021301,
+        "Quantity": 39150,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010214,
+        "MasterRewardId": 419001021401,
+        "Quantity": 40500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010215,
+        "MasterRewardId": 419001021501,
+        "Quantity": 41850,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010216,
+        "MasterRewardId": 419001021601,
+        "Quantity": 44550,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010217,
+        "MasterRewardId": 419001021701,
+        "Quantity": 45900,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010218,
+        "MasterRewardId": 419001021801,
+        "Quantity": 47250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010219,
+        "MasterRewardId": 419001021901,
+        "Quantity": 48600,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010220,
+        "MasterRewardId": 419001022001,
+        "Quantity": 49950,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010221,
+        "MasterRewardId": 419001022101,
+        "Quantity": 51300,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010222,
+        "MasterRewardId": 419001022201,
+        "Quantity": 54000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010223,
+        "MasterRewardId": 419001022301,
+        "Quantity": 56700,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010224,
+        "MasterRewardId": 419001022401,
+        "Quantity": 59400,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010225,
+        "MasterRewardId": 419001022501,
+        "Quantity": 67500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010226,
+        "MasterRewardId": 419001022601,
+        "Quantity": 74250,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420090010227,
+        "MasterRewardId": 419001022701,
+        "Quantity": 124200,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.initial",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
         "MasterRewardGroupId": 420090020001,
         "MasterRewardId": 419002000101,
         "Quantity": 1000,
@@ -10392,6 +15882,24 @@
         "ReceiveType": 1,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420055010002,
+        "MasterRewardId": 415501000201,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202206_twitch_start",
+        "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420055010002,
+        "MasterRewardId": 415501000202,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202206_twitch_start",
+        "RewardItemId": 1061002,
         "RewardType": 2
     },
     {
@@ -11886,6 +17394,447 @@
         "ReceiveType": 1,
         "ReleaseLabel": "release.initial",
         "RewardItemId": 1062002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000001,
+        "MasterRewardId": 415700000101,
+        "Quantity": 800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202206_sns_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420057000002,
+        "MasterRewardId": 415700000201,
+        "Quantity": 800,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_sns_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420057000003,
+        "MasterRewardId": 415700000301,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202206_discord_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000003,
+        "MasterRewardId": 415700000302,
+        "Quantity": 3,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202206_discord_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000004,
+        "MasterRewardId": 415700000401,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000004,
+        "MasterRewardId": 415700000402,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000004,
+        "MasterRewardId": 415700000403,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000501,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1048003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000502,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1048002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000503,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1048001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000504,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1047003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000505,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1047002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000506,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1047001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000507,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1046003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000508,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1046002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000509,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1046001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000510,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1045003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000511,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1045002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000512,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1045001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000513,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1044003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000514,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1044002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000515,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1044001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000516,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1043003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000517,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1043002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000518,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1043001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000519,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1042003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000520,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1042002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000521,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1042001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000522,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1041003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000523,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1041002,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000005,
+        "MasterRewardId": 415700000524,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1041001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000006,
+        "MasterRewardId": 415700000601,
+        "Quantity": 310,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420057000006,
+        "MasterRewardId": 415700000602,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1061001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000006,
+        "MasterRewardId": 415700000603,
+        "Quantity": 31,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 1062001,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000006,
+        "MasterRewardId": 415700000604,
+        "Quantity": 310000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_boss_start",
+        "RewardItemId": 401010001,
+        "RewardType": 9
+    },
+    {
+        "MasterRewardGroupId": 420057000007,
+        "MasterRewardId": 415700000704,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000008,
+        "MasterRewardId": 415700000804,
+        "Quantity": 12,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000009,
+        "MasterRewardId": 415700000904,
+        "Quantity": 14,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000010,
+        "MasterRewardId": 415700001004,
+        "Quantity": 16,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000011,
+        "MasterRewardId": 415700001104,
+        "Quantity": 18,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420057000012,
+        "MasterRewardId": 415700001204,
+        "Quantity": 20,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days_start",
+        "RewardItemId": 1080011,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000001,
+        "MasterRewardId": 415800000101,
+        "Quantity": 1000,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420058000001,
+        "MasterRewardId": 415800000102,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000001,
+        "MasterRewardId": 415800000103,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start",
+        "RewardItemId": 1050003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000001,
+        "MasterRewardId": 415800000104,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start",
+        "RewardItemId": 1030003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000002,
+        "MasterRewardId": 415800000201,
+        "Quantity": 5,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_discord_start",
+        "RewardItemId": 1020003,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000003,
+        "MasterRewardId": 415800000301,
+        "Quantity": 500,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_twitch_start",
+        "RewardItemId": 0,
+        "RewardType": 1
+    },
+    {
+        "MasterRewardGroupId": 420058000004,
+        "MasterRewardId": 415800000401,
+        "Quantity": 10,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_echo_nama_start",
+        "RewardItemId": 1080010,
+        "RewardType": 2
+    },
+    {
+        "MasterRewardGroupId": 420058000005,
+        "MasterRewardId": 415800000501,
+        "Quantity": 1,
+        "ReceiveType": 1,
+        "ReleaseLabel": "release.campaign_202207_discord_start",
+        "RewardItemId": 1020003,
         "RewardType": 2
     }
 ]

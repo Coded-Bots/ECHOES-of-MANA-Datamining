@@ -81,6 +81,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000010007,
+        "Text": "Sanctuberry: Day of Legend"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000010007,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000010008,
+        "Text": "Voidfig: Torment's Terminus"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000010008,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000020001,
         "Text": "Flame Altar Vigil"
     },
@@ -191,6 +211,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000030003,
+        "Text": "Ice & Fire"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000030003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000030004,
+        "Text": "Labyrinth of Lost Heroes"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000030004,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000031001,
         "Text": "Coffer Chaos"
     },
@@ -211,6 +251,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000031003,
+        "Text": "Coffer Chaos"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000031004,
+        "Text": "Coffer Chaos (High Level Co-op)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031004,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000031005,
+        "Text": "Coffer Chaos"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031005,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000031006,
+        "Text": "Coffer Chaos (High Level Co-op)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000031006,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000032001,
         "Text": "Bravers Arise I"
     },
@@ -221,12 +301,142 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 200000032002,
+        "Text": "Bravers Arise II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000032002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000032003,
+        "Text": "Bravers Arise III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000032003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 200000033001,
         "Text": "Spirit Crystal Sweep"
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 200000033001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033002,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033002,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033003,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033004,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033004,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033005,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033005,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033006,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033006,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033007,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033007,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033008,
+        "Text": "100th Day Anniversary Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033008,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033009,
+        "Text": "100th Day Anniversary Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033009,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000033010,
+        "Text": "100th Day Anniversary Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000033010,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000034001,
+        "Text": "Hero's Zenith"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000034001,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000035001,
+        "Text": "Deviant Fruit"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000035001,
         "Text": ""
     },
     {
@@ -267,6 +477,26 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 200000050003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000050004,
+        "Text": "Eclipsis Hall Twyraginim"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000050004,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 200000050005,
+        "Text": "Frostfire Hall Felvelours"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 200000050005,
         "Text": ""
     }
 ]

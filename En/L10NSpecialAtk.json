@@ -21,6 +21,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210101003011,
+        "Text": "Axe Throw"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210101003011,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210102001011,
         "Text": "Splitting Dagger"
     },
@@ -78,6 +88,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210104002011,
         "Text": "Deals wind M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210104003011,
+        "Text": "Triple Flare"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210104003011,
+        "Text": "[SELF] INT: +10% (10s)/Deals fire M.DMG (DMG boosts by STLv.)"
     },
     {
         "ColumnName": "name",
@@ -181,6 +201,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210301003011,
+        "Text": "Triple Slash"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210301003011,
+        "Text": "HP restore amount: +15% (60s)/Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210302001011,
         "Text": "Double Slash"
     },
@@ -198,6 +228,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210302002011,
         "Text": "Deals staff M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210302003011,
+        "Text": "Love Typhoon"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210302003011,
+        "Text": "[SELF] Recover MP (10% of max MP)/Deals fire M.DMG (DMG boosts by STLv.)"
     },
     {
         "ColumnName": "name",
@@ -228,6 +268,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210304001011,
         "Text": "Deals flail M. (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210304002011,
+        "Text": "Whackbam"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210304002011,
+        "Text": "[SELF] Recover HP (RCV: 20%)/Deals M.DMG (DMG boosts by STLv.)"
     },
     {
         "ColumnName": "name",
@@ -391,6 +441,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210502003011,
+        "Text": "Pouncing Cat"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210502003011,
+        "Text": "[SELF] STR: +8% (10s)/INT: +8% (10s)/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210503001011,
         "Text": "Special Delivery"
     },
@@ -421,6 +481,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30210504003011,
+        "Text": "Air Strike"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210504003011,
+        "Text": "[SELF] ST Gauge: +20%/Deals knife P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210505001011,
+        "Text": "Ground Breaker"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210505001011,
+        "Text": "[SELF] ST Gauge boost rate: +50% (6s) (Effect boosts by STLv.)/Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30210506001011,
         "Text": "Blazing Hammer"
     },
@@ -438,6 +518,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210507001011,
         "Text": "Deals sword P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210508001011,
+        "Text": "Lifestealer"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210508001011,
+        "Text": "[SELF] Recover HP (RCV: 15%)/Deals sword P.DMG (DMG boosts by STLv.)"
     },
     {
         "ColumnName": "name",
@@ -468,6 +558,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30210602001011,
         "Text": "Deals axe P.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30210602002011,
+        "Text": "Wide Shock Wave"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30210602002011,
+        "Text": "Deals axe P.DMG (DMG boosts by STLv.)/[TARGET] 70% chance to cast daze (Some foes immune)"
     },
     {
         "ColumnName": "name",
@@ -511,6 +611,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 30211104002011,
+        "Text": "Homing Solaris"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30211104002011,
+        "Text": "[SELF] Recover HP (10s/RCV: 2%/Every 1s)/Deals fire M.DMG (DMG boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 30211105001011,
         "Text": "Swift Shot"
     },
@@ -538,5 +648,15 @@
         "ColumnName": "description",
         "LocalizationTargetId": 30211107001011,
         "Text": "[ACTIVE ALLIES] Restore HP: 50% of RCV (Effect boosts by STLv.)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 30211107002011,
+        "Text": "Flaming Phantasm"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 30211107002011,
+        "Text": "Deals fire M.DMG (DMG boosts by STLv.)"
     }
 ]

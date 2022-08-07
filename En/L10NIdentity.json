@@ -361,6 +361,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 600100010505,
+        "Text": "Larc"
+    },
+    {
+        "ColumnName": "cv",
+        "LocalizationTargetId": 600100010505,
+        "Text": "VA: Shunsuke Takeuchi"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 600100010505,
+        "Text": "A beast-warrior with a candid demeanor, 'Larc the Conqueror' earned his title through his valiant combat during the invasion of his homeland by the nearby kingdom later ruled by the Deathbringer. He became Drakonis's dragoon after he died."
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 600100010506,
         "Text": "Lady Blackpearl"
     },
@@ -388,6 +403,21 @@
         "ColumnName": "description",
         "LocalizationTargetId": 600100010507,
         "Text": "A Jumi knight with a lapis lazuli core, Elazul speaks and acts in a rough manner, which is off-putting to others. Since he spent a great deal of time all alone, he seeks to make friends and unreservedly dotes on his partner Pearl."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 600100010508,
+        "Text": "Escad"
+    },
+    {
+        "ColumnName": "cv",
+        "LocalizationTargetId": 600100010508,
+        "Text": "VA: Yuma Uchida"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 600100010508,
+        "Text": "A swordsman born into the noble Liotte family of Holy Knights. He is stubborn in many ways, and firmly believes there's no path to justice outside his own. When opposing others, he refuses to back down and considers those who stand against him in the wrong.\nHe harbors a deep hatred for Irwin, who is of demon heritage, over their childhood friend Matilda."
     },
     {
         "ColumnName": "name",

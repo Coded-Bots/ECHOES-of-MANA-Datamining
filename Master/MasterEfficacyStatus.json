@@ -113,6 +113,17 @@
         "Duration": 0.0,
         "EfficacyStatusType": 3,
         "EfficacyValueType": 2,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102113100030,
+        "Name": "力を30％アップ（永続）(※エネミー用)",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Slot": 1,
+        "Value": 13000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
         "Group": 1,
         "MasterEfficacyStatusId": 41101013100001,
         "Name": "キャラパッシブ用_力を1％アップ（永続）",
@@ -196,6 +207,17 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 10800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101013100010,
+        "Name": "キャラパッシブ用_力を10％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "Slot": 0,
+        "Value": 11000
     },
     {
         "Duration": 0.0,
@@ -407,6 +429,116 @@
         "Value": 12000
     },
     {
+        "Duration": 0.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112115100015,
+        "Name": "メモジェムパッシブ用_知性を15％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 21,
+        "Value": 11500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112115100017,
+        "Name": "メモジェムパッシブ用_知性を17％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 21,
+        "Value": 11700
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112115100018,
+        "Name": "メモジェムパッシブ用_知性を18％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 21,
+        "Value": 11800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112115100019,
+        "Name": "メモジェムパッシブ用_知性を19％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 21,
+        "Value": 11900
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112115100020,
+        "Name": "メモジェムパッシブ用_知性を20％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 21,
+        "Value": 12000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113100015,
+        "Name": "メモジェムパッシブ用_力を15％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 21,
+        "Value": 11500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113100017,
+        "Name": "メモジェムパッシブ用_力を17％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 21,
+        "Value": 11700
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113100018,
+        "Name": "メモジェムパッシブ用_力を18％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 21,
+        "Value": 11800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113100019,
+        "Name": "メモジェムパッシブ用_力を19％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 21,
+        "Value": 11900
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41112113100020,
+        "Name": "メモジェムパッシブ用_力を20％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 21,
+        "Value": 12000
+    },
+    {
         "Duration": 60.0,
         "EfficacyStatusType": 3,
         "EfficacyValueType": 2,
@@ -499,6 +631,17 @@
         "EfficacyStatusType": 3,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101113102008,
+        "Name": "力を8％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101113102010,
         "Name": "力を10％アップ（10秒）",
         "ReleaseLabel": "release.lottery_202205_ranking_start",
@@ -510,11 +653,33 @@
         "EfficacyStatusType": 3,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101113102015,
+        "Name": "力を15％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "Slot": 1,
+        "Value": 11500
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101113102025,
         "Name": "力を25％アップ（10秒）",
         "ReleaseLabel": "release.initial",
         "Slot": 1,
         "Value": 12500
+    },
+    {
+        "Duration": 15.0,
+        "EfficacyStatusType": 3,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101113152020,
+        "Name": "力を20％アップ（15秒）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 1,
+        "Value": 12000
     },
     {
         "Duration": 6.0,
@@ -891,6 +1056,72 @@
         "Value": 12500
     },
     {
+        "Duration": 22.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 1,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102114103000,
+        "Name": "体力を3000アップ（22秒）",
+        "ReleaseLabel": "release.event_tower_202206_start",
+        "Slot": 1,
+        "Value": 3000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101114106050,
+        "Name": "体力を50％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "Slot": 1,
+        "Value": 15000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101114106060,
+        "Name": "体力を60％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "Slot": 1,
+        "Value": 16000
+    },
+    {
+        "Duration": 8.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101114107050,
+        "Name": "体力を100％アップ（8秒）ギガース用",
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "Slot": 1,
+        "Value": 20000
+    },
+    {
+        "Duration": 60.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 1,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102114100200,
+        "Name": "体力を200アップ（60秒）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 200
+    },
+    {
+        "Duration": 60.0,
+        "EfficacyStatusType": 4,
+        "EfficacyValueType": 1,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102114100300,
+        "Name": "体力を300アップ（60秒）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 300
+    },
+    {
         "Duration": 60.0,
         "EfficacyStatusType": 5,
         "EfficacyValueType": 2,
@@ -983,11 +1214,55 @@
         "EfficacyStatusType": 5,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101115102008,
+        "Name": "知性を8％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101115102010,
+        "Name": "知性を10％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 1,
+        "Value": 11000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101115102015,
+        "Name": "知性を15％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_treasure_start",
+        "Slot": 1,
+        "Value": 11500
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101115102025,
         "Name": "知性を25％アップ（10秒）",
         "ReleaseLabel": "release.initial",
         "Slot": 1,
         "Value": 12500
+    },
+    {
+        "Duration": 15.0,
+        "EfficacyStatusType": 5,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101115101520,
+        "Name": "知性を20％アップ（15秒）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 1,
+        "Value": 12000
     },
     {
         "Duration": 60.0,
@@ -1109,6 +1384,50 @@
         "ReleaseLabel": "release.initial",
         "Slot": 1,
         "Value": 12500
+    },
+    {
+        "Duration": 22.0,
+        "EfficacyStatusType": 6,
+        "EfficacyValueType": 1,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102116103000,
+        "Name": "精神を3000アップ（22秒）",
+        "ReleaseLabel": "release.event_tower_202206_start",
+        "Slot": 1,
+        "Value": 3000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 6,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101116104050,
+        "Name": "精神を50％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "Slot": 1,
+        "Value": 15000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 6,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101116104060,
+        "Name": "精神を60％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_ranking_start",
+        "Slot": 1,
+        "Value": 16000
+    },
+    {
+        "Duration": 8.0,
+        "EfficacyStatusType": 6,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101116105050,
+        "Name": "精神を100％アップ（8秒）ギガース用",
+        "ReleaseLabel": "release.event_ranking_202207_1_start",
+        "Slot": 1,
+        "Value": 20000
     },
     {
         "Duration": 60.0,
@@ -1687,6 +2006,28 @@
         "EfficacyStatusType": 8,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101021100004,
+        "Name": "ダメージを4％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 10400
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101021100006,
+        "Name": "ダメージを6％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 0,
+        "Value": 10600
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101021100008,
         "Name": "ダメージを8％アップ（永続）",
         "ReleaseLabel": "release.initial",
@@ -1769,6 +2110,83 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 13000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101021100050,
+        "Name": "ダメージを50％アップ（永続）",
+        "ReleaseLabel": "release.event_ranking_202206_1_start",
+        "Slot": 0,
+        "Value": 15000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121100004,
+        "Name": "ダメージを4％アップ（永続）_スロット1",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 10400
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121100006,
+        "Name": "ダメージを6％アップ（永続）_スロット1",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 10600
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121100008,
+        "Name": "ダメージを8％アップ（永続）_スロット1",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121100012,
+        "Name": "ダメージを12％アップ（永続）_スロット1",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 11200
+    },
+    {
+        "Duration": 3.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121101050,
+        "Name": "ダメージを750％アップ（3秒）スロット1",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 1,
+        "Value": 85000
+    },
+    {
+        "Duration": 3.0,
+        "EfficacyStatusType": 8,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101121101150,
+        "Name": "ダメージを7500％アップ（3秒）スロット1",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 1,
+        "Value": 760000
     },
     {
         "Duration": 0.0,
@@ -2057,6 +2475,17 @@
         "Value": 1000
     },
     {
+        "Duration": 3.0,
+        "EfficacyStatusType": 9,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101122104090,
+        "Name": "受けるダメージを50％アップ（3秒）スロット1",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 1,
+        "Value": 15000
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 10,
         "EfficacyValueType": 2,
@@ -2215,6 +2644,28 @@
         "EfficacyStatusType": 10,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101023100038,
+        "Name": "通常攻撃ダメージを38％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Slot": 0,
+        "Value": 13800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101023100039,
+        "Name": "通常攻撃ダメージを39％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Slot": 0,
+        "Value": 13900
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101023100040,
         "Name": "通常攻撃ダメージを40％アップ（永続）",
         "ReleaseLabel": "release.initial",
@@ -2264,6 +2715,39 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 14000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101123101030,
+        "Name": "通常攻撃ダメージを30％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 13000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101123102040,
+        "Name": "通常攻撃ダメージを40％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 14000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 10,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101123103040,
+        "Name": "通常攻撃ダメージを200％アップ（永続）スロット1",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 1,
+        "Value": 30000
     },
     {
         "Duration": 0.0,
@@ -2574,6 +3058,28 @@
         "Value": 13000
     },
     {
+        "Duration": 10.0,
+        "EfficacyStatusType": 11,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101124101020,
+        "Name": "スキルダメージを20％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 12000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 11,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101124102030,
+        "Name": "スキルダメージを30％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 13000
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 12,
         "EfficacyValueType": 2,
@@ -2798,6 +3304,17 @@
         "EfficacyStatusType": 12,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101025100037,
+        "Name": "必殺技ダメージを37％アップ（永続）",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Slot": 0,
+        "Value": 13700
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101025100038,
         "Name": "必殺技ダメージを38％アップ（永続）",
         "ReleaseLabel": "release.initial",
@@ -2831,11 +3348,55 @@
         "EfficacyStatusType": 12,
         "EfficacyValueType": 2,
         "Group": 1,
+        "MasterEfficacyStatusId": 41101025100042,
+        "Name": "必殺技ダメージを42％アップ（永続）",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Slot": 0,
+        "Value": 14200
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101025100045,
+        "Name": "必殺技ダメージを45％アップ（永続）",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Slot": 0,
+        "Value": 14500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
         "MasterEfficacyStatusId": 41101025100060,
         "Name": "必殺技ダメージを60％アップ（永続）",
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 16000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101125100012,
+        "Name": "必殺技ダメージを12％アップ（永続）スロット1",
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "Slot": 1,
+        "Value": 11200
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101125100015,
+        "Name": "必殺技ダメージを15％アップ（永続）スロット1",
+        "ReleaseLabel": "release.lottery_202207_sierra_start",
+        "Slot": 1,
+        "Value": 11500
     },
     {
         "Duration": 10.0,
@@ -2880,6 +3441,39 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 13000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101125101020,
+        "Name": "必殺技ダメージを20％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 12000
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101125101030,
+        "Name": "必殺技ダメージを30％アップ（10秒）スロット1",
+        "ReleaseLabel": "release.initial",
+        "Slot": 1,
+        "Value": 13000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 12,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101225100030,
+        "Name": "必殺技ダメージを5000％アップ（永続）スロット2",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 2,
+        "Value": 510000
     },
     {
         "Duration": 0.0,
@@ -3111,6 +3705,17 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 10200
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 29,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101061200003,
+        "Name": "風属性ダメージを3％アップ（永続）",
+        "ReleaseLabel": "release.event_scenario_4_start",
+        "Slot": 0,
+        "Value": 10300
     },
     {
         "Duration": 0.0,
@@ -3619,6 +4224,72 @@
         "Value": 11000
     },
     {
+        "Duration": 10.0,
+        "EfficacyStatusType": 49,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161601012,
+        "Name": "光属性ダメージを12％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "Slot": 1,
+        "Value": 11200
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 49,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161601015,
+        "Name": "光属性ダメージを15％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202206_ranking_start",
+        "Slot": 1,
+        "Value": 11500
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 34,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161701008,
+        "Name": "水属性ダメージを8％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 34,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161701012,
+        "Name": "水属性ダメージを12％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Slot": 1,
+        "Value": 11200
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 29,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161201008,
+        "Name": "風属性ダメージを8％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 10800
+    },
+    {
+        "Duration": 10.0,
+        "EfficacyStatusType": 29,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101161201012,
+        "Name": "風属性ダメージを12％アップ（10秒）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 11200
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 74,
         "EfficacyValueType": 2,
@@ -3674,6 +4345,17 @@
         "Value": 12000
     },
     {
+        "Duration": 0.0,
+        "EfficacyStatusType": 74,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101131100100,
+        "Name": "必殺技ゲージ上昇率を100％アップ（永続）スロット1",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 1,
+        "Value": 20000
+    },
+    {
         "Duration": 10.0,
         "EfficacyStatusType": 74,
         "EfficacyValueType": 2,
@@ -3692,6 +4374,28 @@
         "MasterEfficacyStatusId": 41101131101060,
         "Name": "必殺技ゲージ上昇率を60％アップ（10秒）",
         "ReleaseLabel": "release.lottery_202206_scenario_start",
+        "Slot": 1,
+        "Value": 16000
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 74,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101131102050,
+        "Name": "必殺技ゲージ上昇率を50％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
+        "Slot": 1,
+        "Value": 15000
+    },
+    {
+        "Duration": 6.0,
+        "EfficacyStatusType": 74,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101131102060,
+        "Name": "必殺技ゲージ上昇率を60％アップ（6秒）",
+        "ReleaseLabel": "release.lottery_202207_treasure_start",
         "Slot": 1,
         "Value": 16000
     },
@@ -3905,6 +4609,83 @@
         "Value": 7500
     },
     {
+        "Duration": 60.0,
+        "EfficacyStatusType": 73,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101133101020,
+        "Name": "消費MP20％カット（60秒）",
+        "ReleaseLabel": "1.3.0",
+        "Slot": 1,
+        "Value": 8000
+    },
+    {
+        "Duration": 60.0,
+        "EfficacyStatusType": 73,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101133101025,
+        "Name": "消費MP25％カット（60秒）",
+        "ReleaseLabel": "release.lottery_202207_scenario_start",
+        "Slot": 1,
+        "Value": 7500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 73,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101033102200,
+        "Name": "消費MP100％アップ（永続）",
+        "ReleaseLabel": "release.event_stagnation_202207_start",
+        "Slot": 0,
+        "Value": 20000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101041100015,
+        "Name": "与HP回復量を15％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 11500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101041100017,
+        "Name": "与HP回復量を17％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 11700
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101041100018,
+        "Name": "与HP回復量を18％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 11800
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101041100019,
+        "Name": "与HP回復量を19％アップ（永続）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 11900
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 64,
         "EfficacyValueType": 2,
@@ -3914,6 +4695,17 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 12000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101041100025,
+        "Name": "与HP回復量を25％アップ（永続）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 0,
+        "Value": 12500
     },
     {
         "Duration": 0.0,
@@ -4015,6 +4807,50 @@
         "Value": 20000
     },
     {
+        "Duration": 60.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102041102015,
+        "Name": "与HP回復量を15％アップ（60秒）",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 0,
+        "Value": 11500
+    },
+    {
+        "Duration": 60.0,
+        "EfficacyStatusType": 64,
+        "EfficacyValueType": 2,
+        "Group": 2,
+        "MasterEfficacyStatusId": 41102141102015,
+        "Name": "与HP回復量を15％アップ（60秒）スロット1",
+        "ReleaseLabel": "release.lottery_202208_escad_duran_start",
+        "Slot": 1,
+        "Value": 11500
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 66,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101042100020,
+        "Name": "受けるHP回復量を20％アップ（永続）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 0,
+        "Value": 12000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 66,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101042100025,
+        "Name": "受けるHP回復量を25％アップ（永続）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 0,
+        "Value": 12500
+    },
+    {
         "Duration": 0.0,
         "EfficacyStatusType": 66,
         "EfficacyValueType": 2,
@@ -4024,6 +4860,17 @@
         "ReleaseLabel": "release.initial",
         "Slot": 0,
         "Value": 13000
+    },
+    {
+        "Duration": 0.0,
+        "EfficacyStatusType": 66,
+        "EfficacyValueType": 2,
+        "Group": 1,
+        "MasterEfficacyStatusId": 41101042100035,
+        "Name": "受けるHP回復量を35％アップ（永続）",
+        "ReleaseLabel": "release.story_1_7_start",
+        "Slot": 0,
+        "Value": 13500
     },
     {
         "Duration": 0.0,

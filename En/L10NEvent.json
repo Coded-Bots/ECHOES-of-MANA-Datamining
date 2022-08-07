@@ -3,5 +3,15 @@
         "ColumnName": "name",
         "LocalizationTargetId": 320000001001,
         "Text": "Bravers Arise I"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 320000001002,
+        "Text": "Bravers Arise II"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 320000001003,
+        "Text": "Bravers Arise III"
     }
 ]

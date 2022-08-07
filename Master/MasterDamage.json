@@ -84,6 +84,12 @@
         "ReleaseLabel": "release.story_1_6_start"
     },
     {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300508500101,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
         "DamageRatio": 25000,
         "DirectionType": 1,
         "MasterDamageId": 10300508600101,
@@ -94,5 +100,89 @@
         "DirectionType": 1,
         "MasterDamageId": 10300508100101,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "DamageRatio": 5000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300509200101,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "DamageRatio": 11000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300509200102,
+        "ReleaseLabel": "release.event_tower_202206_start"
+    },
+    {
+        "DamageRatio": 25000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300509800101,
+        "ReleaseLabel": "release.event_scenario_3_start"
+    },
+    {
+        "DamageRatio": 25000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510000101,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510000102,
+        "ReleaseLabel": "release.event_ranking_202207_1_start"
+    },
+    {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300101,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 2500,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300102,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300103,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300201,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 2500,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300202,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300203,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 20000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300301,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 2500,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300302,
+        "ReleaseLabel": "release.event_scenario_4_start"
+    },
+    {
+        "DamageRatio": 1000,
+        "DirectionType": 1,
+        "MasterDamageId": 10300510300303,
+        "ReleaseLabel": "release.event_scenario_4_start"
     }
 ]

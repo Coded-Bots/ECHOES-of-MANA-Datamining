@@ -96,6 +96,36 @@
     },
     {
         "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001007000,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001007100,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001007200,
+        "ReleaseLabel": "release.story_1_7_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001008000,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001008100,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001008200,
+        "ReleaseLabel": "release.story_1_8_start"
+    },
+    {
+        "IconPath": "",
         "MasterLotteryEquipmentGroupId": 520001010301,
         "ReleaseLabel": "release.initial"
     },
@@ -296,6 +326,16 @@
     },
     {
         "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020105,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020106,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
         "MasterLotteryEquipmentGroupId": 520001020201,
         "ReleaseLabel": "release.initial"
     },
@@ -313,6 +353,16 @@
         "IconPath": "",
         "MasterLotteryEquipmentGroupId": 520001020204,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020205,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020206,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
     },
     {
         "IconPath": "",
@@ -338,6 +388,71 @@
         "IconPath": "",
         "MasterLotteryEquipmentGroupId": 520001020305,
         "ReleaseLabel": "release.event_equipmentdrop_1_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020306,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020401,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020402,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020403,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020404,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020405,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020406,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020501,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020502,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020503,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020504,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020505,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "IconPath": "",
+        "MasterLotteryEquipmentGroupId": 520001020506,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
     },
     {
         "IconPath": "",

@@ -58,5 +58,125 @@
         "MasterLoginBonusId": 51000021004,
         "ReleaseLabel": "release.login_bonus_202206_1",
         "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_download_200",
+        "DisplayPriority": 3,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021005,
+        "ReleaseLabel": "release.login_bonus_202206_2",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202206_2",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021006,
+        "ReleaseLabel": "release.login_bonus_202206_3",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202206_3",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021007,
+        "ReleaseLabel": "release.login_bonus_202206_4",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202206_4",
+        "DisplayPriority": 2,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021008,
+        "ReleaseLabel": "release.login_bonus_202206_5",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202207_1",
+        "DisplayPriority": 2,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021009,
+        "ReleaseLabel": "release.login_bonus_202207_1",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202207_2",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021010,
+        "ReleaseLabel": "release.login_bonus_202207_2",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/loginbonus_202207_3",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021011,
+        "ReleaseLabel": "release.login_bonus_202207_3",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/51000021012/loginbonus",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021012,
+        "ReleaseLabel": "release.login_bonus_202207_download_300",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/51000021013/loginbonus",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021013,
+        "ReleaseLabel": "release.loginbonus_202208_release_100days",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/51000021014/loginbonus",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021014,
+        "ReleaseLabel": "release.loginbonus_202208_series_2",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/51000021015/loginbonus",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 2,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000021015,
+        "ReleaseLabel": "release.login_bonus_202208_1",
+        "TargetValue": 0
+    },
+    {
+        "BackgroundImagePath": "LoginBonus/51000030001/comeback",
+        "DisplayPriority": 1,
+        "Laps": 1,
+        "LoginBonusTargetType": 3,
+        "LogoPath": "",
+        "MasterLoginBonusId": 51000030001,
+        "ReleaseLabel": "release.comeback_bonus_202207",
+        "TargetValue": 21
     }
 ]

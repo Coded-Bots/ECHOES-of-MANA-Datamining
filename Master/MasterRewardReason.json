@@ -128,8 +128,32 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterRewardReasonId": 430000550001,
+        "ReleaseLabel": "release.campaign_202207_sdcc_start"
+    },
+    {
+        "MasterRewardReasonId": 430000550002,
+        "ReleaseLabel": "release.campaign_202207_discord_start"
+    },
+    {
+        "MasterRewardReasonId": 430000550003,
+        "ReleaseLabel": "release.campaign_202207_echo_nama_start"
+    },
+    {
         "MasterRewardReasonId": 430000560000,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardReasonId": 430000570000,
+        "ReleaseLabel": "release.campaign_202206_sns_start"
+    },
+    {
+        "MasterRewardReasonId": 430000580000,
+        "ReleaseLabel": "release.campaign_202206_discord_start"
+    },
+    {
+        "MasterRewardReasonId": 430000590000,
+        "ReleaseLabel": "release.campaign_202207_boss_start"
     },
     {
         "MasterRewardReasonId": 430000610000,
@@ -146,5 +170,13 @@
     {
         "MasterRewardReasonId": 430000900001,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardReasonId": 430000900002,
+        "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterRewardReasonId": 430000900101,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
     }
 ]

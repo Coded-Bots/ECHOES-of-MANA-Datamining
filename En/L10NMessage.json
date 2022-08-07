@@ -986,6 +986,16 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 303170010,
+        "Text": "Number of allies sold: {0}\nYou got {1} lucre!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303170011,
+        "Text": "Number of allies sold: {0}\nHere's what you got along with {1} lucre!"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 303180001,
         "Text": "Locked"
     },
@@ -1026,6 +1036,11 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 303180009,
+        "Text": "Campaign"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 303190001,
         "Text": "Normal DMG Bonus"
     },
@@ -1042,7 +1057,12 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303190004,
-        "Text": "l10n_message@outgame_N/A"
+        "Text": "Change Weapon"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303190005,
+        "Text": "The selected weapon is equipped to another ally.\nUnequip it and re-equip it to this ally?"
     },
     {
         "ColumnName": "message",
@@ -1382,7 +1402,7 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303990040,
-        "Text": "Once your user data is deleted, it cannot be restored.\nAre you sure?"
+        "Text": "Once your user data including in-app purchase information\nand gameplay data is deleted, none of the data can be restored,\nyou cannot transfer your data, and you cannot play your game\ndata after a data transfer.\n\nAre you sure?"
     },
     {
         "ColumnName": "message",
@@ -1392,7 +1412,7 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303990042,
-        "Text": "Once your user data is deleted, it cannot be restored.\nAre you sure you want to delete your user data?"
+        "Text": "Once your user data including in-app purchase information\nand gameplay data is deleted, none of the data can be restored,\nyou cannot transfer your data, and you cannot play your game\ndata after a data transfer.\n\nAre you sure you want to delete your user data?"
     },
     {
         "ColumnName": "message",
@@ -1518,6 +1538,56 @@
         "ColumnName": "message",
         "LocalizationTargetId": 303990067,
         "Text": "{0} sec"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990068,
+        "Text": "Enjoying Echoes of Mana?"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990069,
+        "Text": "We're striving to make your game experience\neven better, and we appreciate your support!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990070,
+        "Text": "Thanks! We appreciate your support\nand reviews from our players!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990071,
+        "Text": "It's fun!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990072,
+        "Text": "It's okay."
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990073,
+        "Text": "Return to Game"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990074,
+        "Text": "Leave a Review"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990075,
+        "Text": "Leave Feedback"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990076,
+        "Text": "AP Recovery (+{0})"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303990077,
+        "Text": "SP Recovery (+{0})"
     },
     {
         "ColumnName": "message",
@@ -1742,7 +1812,7 @@
     {
         "ColumnName": "message",
         "LocalizationTargetId": 303200022,
-        "Text": "This event has ended.\nYou will be returned to the home screen."
+        "Text": "You will be returned to the title screen."
     },
     {
         "ColumnName": "message",
@@ -2456,6 +2526,11 @@
     },
     {
         "ColumnName": "message",
+        "LocalizationTargetId": 303010067,
+        "Text": "Sword of Mana"
+    },
+    {
+        "ColumnName": "message",
         "LocalizationTargetId": 303020001,
         "Text": "{0}"
     },
@@ -2708,5 +2783,170 @@
         "ColumnName": "message",
         "LocalizationTargetId": 303130035,
         "Text": "Hurry and crush the stone pillars!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130036,
+        "Text": "Fireball"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130037,
+        "Text": "Ice Smash"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130038,
+        "Text": "Earthquake"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130039,
+        "Text": "Thunderstorm"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130040,
+        "Text": "Lucent Beam"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130041,
+        "Text": "Ancient Curse"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130042,
+        "Text": "Type Change"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130043,
+        "Text": "Now resisting physical attacks!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130044,
+        "Text": "Now resisting magic attacks!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130045,
+        "Text": "Lightning Flare"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130046,
+        "Text": "Julius summoned doppelgangers!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130047,
+        "Text": "Dragon Dive"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130048,
+        "Text": "Thunder"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130049,
+        "Text": "Dive Bomb"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130050,
+        "Text": "Ice Crystal"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130051,
+        "Text": "Spike Freeze"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130052,
+        "Text": "Icicle"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130053,
+        "Text": "Icicle Storm"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130054,
+        "Text": "Ice Blow"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130055,
+        "Text": "Lava Wave"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130056,
+        "Text": "Exploder"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130057,
+        "Text": "Fire Breath"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130058,
+        "Text": "Freeze"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130059,
+        "Text": "Acid Storm"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130060,
+        "Text": "Freeze Breath"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130061,
+        "Text": "Gigaboom"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130062,
+        "Text": "Shattering Surge (DMG: 50% of current HP)"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130063,
+        "Text": "Impaling Providence"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130064,
+        "Text": "Ominous Aftershock"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130065,
+        "Text": "Look out! It's Fire Gigas & Frost Gigas!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130066,
+        "Text": "The labyrinth trap's been triggered!"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130067,
+        "Text": "Twister Fists"
+    },
+    {
+        "ColumnName": "message",
+        "LocalizationTargetId": 303130068,
+        "Text": "Grand Slam"
     }
 ]

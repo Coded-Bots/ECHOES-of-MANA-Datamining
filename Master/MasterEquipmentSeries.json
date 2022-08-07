@@ -20,6 +20,42 @@
     {
         "EfficacyTarget": 48,
         "EfficacyType": 1,
+        "EfficacyValueType": 39,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000005,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
+        "EfficacyValueType": 49,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000006,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
+        "EfficacyValueType": 34,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000008,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
+        "EfficacyValueType": 44,
+        "MasterEquipmentFilterId": 85899358020,
+        "MasterEquipmentSeriesId": 3002000009,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start",
+        "Value": 2
+    },
+    {
+        "EfficacyTarget": 48,
+        "EfficacyType": 1,
         "EfficacyValueType": 29,
         "MasterEquipmentFilterId": 85899358020,
         "MasterEquipmentSeriesId": 3002000013,
@@ -34,6 +70,15 @@
         "MasterEquipmentSeriesId": 3002000014,
         "ReleaseLabel": "release.initial",
         "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 5,
+        "MasterEquipmentFilterId": 103079215204,
+        "MasterEquipmentSeriesId": 3002000015,
+        "ReleaseLabel": "release.story_1_7_start",
+        "Value": 1
     },
     {
         "EfficacyTarget": 48,
@@ -61,6 +106,15 @@
         "MasterEquipmentSeriesId": 3002000018,
         "ReleaseLabel": "release.initial",
         "Value": 2
+    },
+    {
+        "EfficacyTarget": 52,
+        "EfficacyType": 1,
+        "EfficacyValueType": 7,
+        "MasterEquipmentFilterId": 103079215134,
+        "MasterEquipmentSeriesId": 3002000019,
+        "ReleaseLabel": "release.story_1_8_start",
+        "Value": 1
     },
     {
         "EfficacyTarget": 52,

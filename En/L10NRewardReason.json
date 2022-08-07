@@ -161,8 +161,38 @@
     },
     {
         "ColumnName": "description",
+        "LocalizationTargetId": 430000550001,
+        "Text": "SDCC Mobile Mission reward"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000550002,
+        "Text": "Bravers Arise III Discord Event reward"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000550003,
+        "Text": "\"EoM Bulliten Live\" reward"
+    },
+    {
+        "ColumnName": "description",
         "LocalizationTargetId": 430000560000,
         "Text": "Gift from EoM Production Team"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000570000,
+        "Text": "Social Media Campaign goal achievement reward"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000580000,
+        "Text": "Discord Event goal achievement reward"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000590000,
+        "Text": "Great Hunt Campaign goal achievement reward"
     },
     {
         "ColumnName": "description",
@@ -183,5 +213,15 @@
         "ColumnName": "description",
         "LocalizationTargetId": 430000900001,
         "Text": "App maintenance completion gift"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000900002,
+        "Text": "Searching for Lost Luster Harvest news issue compensation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 430000900101,
+        "Text": "Clear reward amount from co-op mission removal"
     }
 ]

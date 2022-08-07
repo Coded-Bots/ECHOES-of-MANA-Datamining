@@ -106,6 +106,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205006005,
+        "Text": "Trap Flower"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205006006,
+        "Text": "Trap Flower"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205007001,
         "Text": "Chobin Hood"
     },
@@ -126,6 +136,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205008003,
+        "Text": "Quilted Hood"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205009001,
         "Text": "Assassinant"
     },
@@ -142,6 +157,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205009004,
+        "Text": "Assassinant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205009005,
         "Text": "Assassinant"
     },
     {
@@ -266,6 +286,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205014005,
+        "Text": "Gremlin"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205014006,
+        "Text": "Gremlin"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205015001,
         "Text": "Eggatrice"
     },
@@ -277,6 +307,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205015003,
+        "Text": "Eggatrice"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205015004,
         "Text": "Eggatrice"
     },
     {
@@ -311,6 +346,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205016007,
+        "Text": "Needlebeak"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205017001,
         "Text": "Pricklebeak"
     },
@@ -327,6 +367,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205017004,
+        "Text": "Pricklebeak"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205017005,
         "Text": "Pricklebeak"
     },
     {
@@ -406,6 +451,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205022006,
+        "Text": "Kid Dragon"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205023001,
         "Text": "Frost Dragon"
     },
@@ -422,6 +472,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205023004,
+        "Text": "Frost Dragon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205023005,
         "Text": "Frost Dragon"
     },
     {
@@ -456,6 +511,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205024007,
+        "Text": "Kid Drakonis"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205024008,
+        "Text": "Kid Drakonis"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205025001,
         "Text": "Kid Drazombie"
     },
@@ -472,6 +537,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205025004,
+        "Text": "Kid Drazombie"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205025005,
         "Text": "Kid Drazombie"
     },
     {
@@ -496,6 +566,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205026005,
+        "Text": "Tezla"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205027001,
         "Text": "Magic Tezla"
     },
@@ -512,6 +587,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205027004,
+        "Text": "Magic Tezla"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205027005,
         "Text": "Magic Tezla"
     },
     {
@@ -541,6 +621,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205028006,
+        "Text": "Marmablue"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205029001,
         "Text": "Chess Knight"
     },
@@ -557,6 +642,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205029004,
+        "Text": "Chess Knight"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205029005,
         "Text": "Chess Knight"
     },
     {
@@ -591,6 +681,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205030007,
+        "Text": "Golden Chess"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205030008,
+        "Text": "Golden Chess"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205031001,
         "Text": "Poto"
     },
@@ -602,6 +702,21 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205031003,
+        "Text": "Poto"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205031004,
+        "Text": "Poto"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205031005,
+        "Text": "Poto"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205031006,
         "Text": "Poto"
     },
     {
@@ -637,6 +752,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205033004,
+        "Text": "Parpoto"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205033005,
         "Text": "Parpoto"
     },
     {
@@ -681,6 +801,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205034009,
+        "Text": "Mushboom"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205035001,
         "Text": "Mushgloom"
     },
@@ -721,6 +846,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205036005,
+        "Text": "Molebear"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205036006,
+        "Text": "Molebear"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205037001,
         "Text": "Needlion"
     },
@@ -741,6 +876,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205037005,
+        "Text": "Needlion"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205038001,
         "Text": "Green Drop"
     },
@@ -757,6 +897,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205038004,
+        "Text": "Green Drop"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205038005,
         "Text": "Green Drop"
     },
     {
@@ -797,6 +942,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205040004,
+        "Text": "Blue Drop"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205040005,
         "Text": "Blue Drop"
     },
     {
@@ -851,6 +1001,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205043004,
+        "Text": "Dark Knight"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205044001,
         "Text": "Mace Menace"
     },
@@ -867,6 +1022,16 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205044004,
+        "Text": "Mace Menace"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205044005,
+        "Text": "Mace Menace"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205044006,
         "Text": "Mace Menace"
     },
     {
@@ -892,6 +1057,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205045005,
+        "Text": "Harpy"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205045006,
         "Text": "Harpy"
     },
     {
@@ -967,6 +1137,16 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205048007,
+        "Text": "Goblin"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205048008,
+        "Text": "Goblin"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205048009,
         "Text": "Goblin"
     },
     {
@@ -1051,6 +1231,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205051005,
+        "Text": "Ma Goblin"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205052001,
         "Text": "Basilisk"
     },
@@ -1062,6 +1247,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205052003,
+        "Text": "Basilisk"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205052004,
         "Text": "Basilisk"
     },
     {
@@ -1086,12 +1276,32 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205053005,
+        "Text": "Fire Drake"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205053006,
+        "Text": "Fire Drake"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205054001,
         "Text": "Evil Sword"
     },
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205054002,
+        "Text": "Evil Sword"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205054003,
+        "Text": "Evil Sword"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205054004,
         "Text": "Evil Sword"
     },
     {
@@ -1111,6 +1321,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205056001,
+        "Text": "Werewolf"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205056002,
+        "Text": "Werewolf"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205057002,
         "Text": "Wolfiend"
     },
@@ -1121,7 +1341,32 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205057004,
+        "Text": "Wolfiend"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205057005,
+        "Text": "Wolfiend"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205058002,
+        "Text": "Silverwolf"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205058003,
+        "Text": "Silverwolf"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205058004,
+        "Text": "Silverwolf"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205058005,
         "Text": "Silverwolf"
     },
     {
@@ -1171,6 +1416,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205061004,
+        "Text": "Sand Stinger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205061005,
+        "Text": "Sand Stinger"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205062001,
         "Text": "Steelpion"
     },
@@ -1191,6 +1446,11 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205062005,
+        "Text": "Steelpion"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205063001,
         "Text": "Mad Mallard"
     },
@@ -1202,6 +1462,16 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205063003,
+        "Text": "Mad Mallard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205063004,
+        "Text": "Mad Mallard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205063005,
         "Text": "Mad Mallard"
     },
     {
@@ -1232,6 +1502,21 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205064006,
+        "Text": "Captain Duck"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205064007,
+        "Text": "Captain Duck"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205064008,
+        "Text": "Captain Duck"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205064009,
         "Text": "Captain Duck"
     },
     {
@@ -1337,6 +1622,11 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205069008,
+        "Text": "Nighty Knitwit"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205069009,
         "Text": "Nighty Knitwit"
     },
     {
@@ -1471,6 +1761,21 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205077008,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205077009,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205077010,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205078001,
         "Text": "Mantis Ant"
     },
@@ -1487,6 +1792,21 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205078004,
+        "Text": "Mantis Ant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205078005,
+        "Text": "Mantis Ant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205078006,
+        "Text": "Mantis Ant"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205078007,
         "Text": "Mantis Ant"
     },
     {
@@ -1561,6 +1881,41 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205080006,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080007,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080008,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080009,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080010,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080011,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205080012,
+        "Text": "Armored Inferno"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205081001,
         "Text": "Fullmetal Hugger"
     },
@@ -1577,6 +1932,31 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 700205081004,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205081005,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205081006,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205081007,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205081008,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205081009,
         "Text": "Fullmetal Hugger"
     },
     {
@@ -1631,6 +2011,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205083007,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083008,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083009,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205083010,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205084001,
         "Text": "Gorgon Eye"
     },
@@ -1643,6 +2043,71 @@
         "ColumnName": "name",
         "LocalizationTargetId": 700205084003,
         "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084004,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084005,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084006,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205084007,
+        "Text": "Gorgon Eye"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085001,
+        "Text": "Julius"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085002,
+        "Text": "Julius"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085003,
+        "Text": "Julius"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085004,
+        "Text": "Julius (Doppelganger)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085005,
+        "Text": "Julius (Doppelganger)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085006,
+        "Text": "Julius (Doppelganger)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085007,
+        "Text": "Julius (Doppelganger)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085008,
+        "Text": "Julius (Doppelganger)"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205085009,
+        "Text": "Julius (Doppelganger)"
     },
     {
         "ColumnName": "name",
@@ -1696,6 +2161,36 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205090001,
+        "Text": "Jewel Beast"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205090002,
+        "Text": "Jewel Beast"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205090003,
+        "Text": "Jewel Beast"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205090004,
+        "Text": "Jewel Beast"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205090005,
+        "Text": "Jewel Beast"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205092001,
+        "Text": "Crimson Wizard"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205093001,
         "Text": "Polter Box"
     },
@@ -1716,6 +2211,61 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 700205093005,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093006,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093007,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093008,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093009,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093010,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093011,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205093012,
+        "Text": "Polter Box"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205095001,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205095002,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205095003,
+        "Text": "Ebon Knight"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 700205096001,
         "Text": "Stone Pillar"
     },
@@ -1723,5 +2273,160 @@
         "ColumnName": "name",
         "LocalizationTargetId": 700205096002,
         "Text": "Stone Pillar"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205096003,
+        "Text": "Stone Pillar"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205096004,
+        "Text": "Stone Pillar"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205097001,
+        "Text": "Wizard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205097002,
+        "Text": "Wizard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205097003,
+        "Text": "Wizard"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205098001,
+        "Text": "Fiegmund"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205098002,
+        "Text": "Fiegmund"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205098003,
+        "Text": "Fiegmund"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205099001,
+        "Text": "Dragon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205099002,
+        "Text": "Dragon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205099003,
+        "Text": "Dragon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205100001,
+        "Text": "Frost Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205100002,
+        "Text": "Frost Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205100003,
+        "Text": "Frost Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205100004,
+        "Text": "Frost Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205100005,
+        "Text": "Frost Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205101001,
+        "Text": "Fire Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205101002,
+        "Text": "Fire Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205101003,
+        "Text": "Fire Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205101004,
+        "Text": "Fire Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205101005,
+        "Text": "Fire Gigas"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205103001,
+        "Text": "Minotaur"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205103002,
+        "Text": "Minotaur"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205103003,
+        "Text": "Minotaur"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205105001,
+        "Text": "Kaiser Mimic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205105002,
+        "Text": "Kaiser Mimic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205105003,
+        "Text": "Kaiser Mimic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205105004,
+        "Text": "Kaiser Mimic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205106001,
+        "Text": "Energy Orb"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205106002,
+        "Text": "Energy Orb"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 700205106003,
+        "Text": "Energy Orb"
     }
 ]

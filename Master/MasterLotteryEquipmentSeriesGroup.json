@@ -8,12 +8,32 @@
         "ReleaseLabel": "release.initial"
     },
     {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000005,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000006,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000008,
+        "ReleaseLabel": "release.event_equipmentdrop_3_start"
+    },
+    {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000009,
+        "ReleaseLabel": "release.event_equipmentdrop_2_start"
+    },
+    {
         "MasterLotteryEquipmentSeriesGroupId": 540000000013,
         "ReleaseLabel": "release.event_equipmentdrop_1_start"
     },
     {
         "MasterLotteryEquipmentSeriesGroupId": 540000000014,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000015,
+        "ReleaseLabel": "release.story_1_7_start"
     },
     {
         "MasterLotteryEquipmentSeriesGroupId": 540000000016,
@@ -26,6 +46,10 @@
     {
         "MasterLotteryEquipmentSeriesGroupId": 540000000018,
         "ReleaseLabel": "release.initial"
+    },
+    {
+        "MasterLotteryEquipmentSeriesGroupId": 540000000019,
+        "ReleaseLabel": "release.story_1_8_start"
     },
     {
         "MasterLotteryEquipmentSeriesGroupId": 540000000024,

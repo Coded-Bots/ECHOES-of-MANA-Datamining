@@ -7,11 +7,51 @@
     {
         "ColumnName": "description",
         "LocalizationTargetId": 12001021002,
-        "Text": "Spirit Crystal Packs"
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021003,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021004,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021005,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021006,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021007,
+        "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001021008,
+        "Text": ""
     },
     {
         "ColumnName": "description",
         "LocalizationTargetId": 12001040001,
         "Text": ""
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001040002,
+        "Text": "Campaign"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 12001040003,
+        "Text": "Campaign"
     }
 ]

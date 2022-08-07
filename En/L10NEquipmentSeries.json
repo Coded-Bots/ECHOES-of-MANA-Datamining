@@ -21,6 +21,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 3002000005,
+        "Text": "Beiser"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000005,
+        "Text": "[SELF] Fire DMG: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000006,
+        "Text": "Lorimar"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000006,
+        "Text": "[SELF] Light DMG: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000008,
+        "Text": "Wendel"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000008,
+        "Text": "[SELF] Water DMG: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000009,
+        "Text": "Granz"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000009,
+        "Text": "[SELF] Dark DMG: +{0}%"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 3002000013,
         "Text": "Silk"
     },
@@ -38,6 +78,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 3002000014,
         "Text": "[SELF] HP: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000015,
+        "Text": "Felt"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000015,
+        "Text": "[SELF] INT: +{0}"
     },
     {
         "ColumnName": "name",
@@ -68,6 +118,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 3002000018,
         "Text": "[SELF] SPR: +{0}%"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 3002000019,
+        "Text": "Fossil"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 3002000019,
+        "Text": "[SELF] LCK: +{0}"
     },
     {
         "ColumnName": "name",

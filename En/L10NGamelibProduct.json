@@ -898,5 +898,565 @@
         "ColumnName": "description",
         "LocalizationTargetId": 11001000204,
         "Text": "1 Month ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000211,
+        "Text": "4S-LHT/DRK Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000211,
+        "Text": "4-Star Light/Dark Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000212,
+        "Text": "4S-LHT/DRK Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000212,
+        "Text": "4-Star Light/Dark Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000217,
+        "Text": "31stManaVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000217,
+        "Text": "31st ManaVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000218,
+        "Text": "31stManaVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000218,
+        "Text": "31st ManaVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000221,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000221,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000222,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000222,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000223,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000223,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000224,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000224,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000225,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000225,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000226,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000226,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000227,
+        "Text": "31YManaVSRY 3S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000227,
+        "Text": "31Year ManaVSRY 3-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000228,
+        "Text": "31YManaVSRY 3S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000228,
+        "Text": "31Year ManaVSRY 3-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000229,
+        "Text": "31YManaVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000229,
+        "Text": "31Year ManaVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000230,
+        "Text": "31YManaVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000230,
+        "Text": "31Year ManaVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000231,
+        "Text": "31YManaVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000231,
+        "Text": "31Year ManaVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000232,
+        "Text": "31YManaVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000232,
+        "Text": "31Year ManaVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000245,
+        "Text": "31YManaVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000245,
+        "Text": "31Year ManaVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000246,
+        "Text": "31YManaVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000246,
+        "Text": "31Year ManaVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000247,
+        "Text": "SP Recovery Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000247,
+        "Text": "Get the SP Recovery Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000248,
+        "Text": "SP Recovery Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000248,
+        "Text": "Get the SP Recovery Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000249,
+        "Text": "SP Recovery Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000249,
+        "Text": "Get the SP Recovery Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000250,
+        "Text": "SP Recovery Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000250,
+        "Text": "Get the SP Recovery Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000251,
+        "Text": "Awakening Orb Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000251,
+        "Text": "Get the Awakening Orb Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000252,
+        "Text": "Awakening Orb Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000252,
+        "Text": "Get the Awakening Orb Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000253,
+        "Text": "Gear Upgrade Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000253,
+        "Text": "Get the Gear Upgrade Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000254,
+        "Text": "Gear Upgrade Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000254,
+        "Text": "Get the Gear Upgrade Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000255,
+        "Text": "Gear Upgrade Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000255,
+        "Text": "Get the Gear Upgrade Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000256,
+        "Text": "Gear Upgrade Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000256,
+        "Text": "Get the Gear Upgrade Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000257,
+        "Text": "LoM ANVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000257,
+        "Text": "LoM ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000258,
+        "Text": "LoM ANVSRY 4S Ally UNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000258,
+        "Text": "LoM ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000259,
+        "Text": "LoM ANVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000259,
+        "Text": "LoM ANVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000260,
+        "Text": "LoM ANVSRY 4S Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000260,
+        "Text": "LoM ANVSRY 4-Star Ally Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000275,
+        "Text": "4S-FIR/WTR Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000275,
+        "Text": "4-Star Fire/Water Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000276,
+        "Text": "4S-FIR/WTR Ally-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000276,
+        "Text": "4-Star Fire/Water Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000279,
+        "Text": "100DayANVSRY 4SAlly-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000279,
+        "Text": "100Day ANVSRY 4-Star Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000280,
+        "Text": "100DayANVSRY 4SAlly-Echo Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000280,
+        "Text": "100Day ANVSRY 4-Star Ally-Echo Ticket Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000281,
+        "Text": "100DayANVSRY 4SAllyUNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000281,
+        "Text": "100Day ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000282,
+        "Text": "100DayANVSRY 4SAllyUNLSH Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000282,
+        "Text": "100Day ANVSRY 4-Star Ally Unleash Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000283,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000283,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000284,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000284,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000285,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000285,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000286,
+        "Text": "Spirit Crystal Pack F+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000286,
+        "Text": "Get Spirit Crystal Pack F+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000287,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000287,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000288,
+        "Text": "Spirit Crystal Pack G+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000288,
+        "Text": "Get Spirit Crystal Pack G+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000289,
+        "Text": "SP Recovery Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000289,
+        "Text": "Get the SP Recovery Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000290,
+        "Text": "SP Recovery Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000290,
+        "Text": "Get the SP Recovery Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000291,
+        "Text": "SP Recovery Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000291,
+        "Text": "Get the SP Recovery Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000292,
+        "Text": "SP Recovery Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000292,
+        "Text": "Get the SP Recovery Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000293,
+        "Text": "Awakening Orb Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000293,
+        "Text": "Get the Awakening Orb Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000294,
+        "Text": "Awakening Orb Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000294,
+        "Text": "Get the Awakening Orb Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000295,
+        "Text": "Gear Upgrade Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000295,
+        "Text": "Get the Gear Upgrade Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000296,
+        "Text": "Gear Upgrade Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000296,
+        "Text": "Get the Gear Upgrade Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000297,
+        "Text": "Gear Upgrade Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000297,
+        "Text": "Get the Gear Upgrade Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000298,
+        "Text": "Gear Upgrade Mini Pack"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000298,
+        "Text": "Get the Gear Upgrade Mini Pack!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000319,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000319,
+        "Text": "Get Spirit Crystal Pack E+!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 11001000320,
+        "Text": "Spirit Crystal Pack E+"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 11001000320,
+        "Text": "Get Spirit Crystal Pack E+!"
     }
 ]

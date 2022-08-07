@@ -16,6 +16,16 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001010004,
+        "Text": "Follow Unto Fate"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001010005,
+        "Text": "The Echo Recalled"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001011001,
         "Text": "The Faerie's Guide"
     },
@@ -26,6 +36,16 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001011003,
+        "Text": "Day of Legend"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001011004,
+        "Text": "The Real Reviver"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001012001,
         "Text": "The Remnant"
     },
@@ -33,6 +53,16 @@
         "ColumnName": "title_name",
         "LocalizationTargetId": 15001012002,
         "Text": "The Lost Princess"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001012003,
+        "Text": "A Sword Revived"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001012004,
+        "Text": "Chosen Mana Swordsman"
     },
     {
         "ColumnName": "title_name",
@@ -61,6 +91,36 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030114,
+        "Text": "Bravers Arise II Top 20"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030115,
+        "Text": "Bravers Arise II Top 30"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030116,
+        "Text": "Bravers Arise II Top 50"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030122,
+        "Text": "Bravers Arise III Top 20"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030123,
+        "Text": "Bravers Arise III Top 30"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001030124,
+        "Text": "Bravers Arise III Top 50"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001031104,
         "Text": "Bravers Arise I Top 5"
     },
@@ -68,6 +128,26 @@
         "ColumnName": "title_name",
         "LocalizationTargetId": 15001031105,
         "Text": "Bravers Arise I Top 10"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031112,
+        "Text": "Bravers Arise II Top 5"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031113,
+        "Text": "Bravers Arise II Top 10"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031120,
+        "Text": "Bravers Arise III Top 5"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001031121,
+        "Text": "Bravers Arise III Top 10"
     },
     {
         "ColumnName": "title_name",
@@ -83,6 +163,36 @@
         "ColumnName": "title_name",
         "LocalizationTargetId": 15001032103,
         "Text": "Bravers Arise I #3"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032109,
+        "Text": "Bravers Arise II #1"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032110,
+        "Text": "Bravers Arise II #2"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032111,
+        "Text": "Bravers Arise II #3"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032117,
+        "Text": "Bravers Arise III #1"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032118,
+        "Text": "Bravers Arise III #2"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001032119,
+        "Text": "Bravers Arise III #3"
     },
     {
         "ColumnName": "title_name",
@@ -106,6 +216,16 @@
     },
     {
         "ColumnName": "title_name",
+        "LocalizationTargetId": 15001051003,
+        "Text": "Twillwool Toppler 80F"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001051004,
+        "Text": "Twillwool Toppler 90F"
+    },
+    {
+        "ColumnName": "title_name",
         "LocalizationTargetId": 15001062001,
         "Text": "Heroic Weaver of Bonds"
     },
@@ -113,5 +233,40 @@
         "ColumnName": "title_name",
         "LocalizationTargetId": 15001062002,
         "Text": "Mana's Swordsmen Summoner"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001070001,
+        "Text": "Enemy of Giant Crabs"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001070004,
+        "Text": "Enemy of Great Monkeys"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001071002,
+        "Text": "Hunter of Giant Crabs"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001071005,
+        "Text": "Hunter of Great Monkeys"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001072003,
+        "Text": "Slayer of Giant Crabs"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001072006,
+        "Text": "Slayer of Great Monkeys"
+    },
+    {
+        "ColumnName": "title_name",
+        "LocalizationTargetId": 15001072007,
+        "Text": "Keeper of Order"
     }
 ]

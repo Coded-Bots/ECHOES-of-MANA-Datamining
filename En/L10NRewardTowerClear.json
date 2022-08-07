@@ -33,5 +33,15 @@
         "ColumnName": "quest_episode_name",
         "LocalizationTargetId": 330004000170,
         "Text": "Twillwool Tower 70F Clear Reward"
+    },
+    {
+        "ColumnName": "quest_episode_name",
+        "LocalizationTargetId": 330004000180,
+        "Text": "Twillwool Tower 80F Clear Reward"
+    },
+    {
+        "ColumnName": "quest_episode_name",
+        "LocalizationTargetId": 330004000190,
+        "Text": "Twillwool Tower 90F Clear Reward"
     }
 ]

@@ -51,6 +51,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001010006,
+        "Text": "Book of Curing"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001010006,
+        "Text": "To prepare for the journey ahead, Sumo receives a grimoire from Fuji so that he may learn curative magic.\n'Sumo. Now that we've become better acquainted, I was thinking...'\n'Thinking? I...uh...er...'\n'...that perhaps you could benefit from learning some curative magic.\nWhat do you say?'\n'Oh! Uh...yeah. I was thinking the exact same thing.'\n'Wonderful. You may study the cant from my grimoire. I've already memorized it.'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001020001,
         "Text": "White Dragon Child"
     },
@@ -138,6 +148,26 @@
         "ColumnName": "description",
         "LocalizationTargetId": 4001020009,
         "Text": "As the young leader of the resistance, Krissie works with her allies at a cafe which serves as a hideout for their organization. Randi seems to have some feelings for her."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001020010,
+        "Text": "King Truffle"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001020010,
+        "Text": "The young king of Matango tends to worry the people around him with his youthful recklessness, but his heart is with his kingdom, and his eyes are always gazed toward the future of his people. He may be a bit careless with his words, but he's genuinely kind and means no harm."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001020017,
+        "Text": "Mana Tribe Duty"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001020017,
+        "Text": "In the Pure Land, Randi stands before the remains of the Mana Tree as he listens to the voice of his mother. Perplexed and emotional upon hearing the truth about his bloodline and his destiny, encouragement from his friends evokes his resolve to protect the world.\n'Sorry... I'll be okay.\nThe Mana Tribe, huh... I've got big shoes to fill, but I'll protect the world like my mother and father!'\n'Now you're talking! That's why you're my number one subordinate!'\n'Yeah... I don't know why, but it almost feels like I met my own mother. She's here in my heart, just like your mother's in yours.'"
     },
     {
         "ColumnName": "name",
@@ -241,6 +271,16 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001030011,
+        "Text": "Stella"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001030011,
+        "Text": "Aunt to Duran who resides in Valsena. When Duran's mother Simone passed away from illness, Stella took it upon herself to raise her sister's children in her place."
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001040001,
         "Text": "A Curious Creeping Vine"
     },
@@ -341,6 +381,46 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001050006,
+        "Text": "A Hostile Interrogation"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001050006,
+        "Text": "At the pub, a young man is harshly questioning a timid girl. When Shiloh attempts to intervene, the young man turns on him.\n'Silence! Do not interrupt!\nYou! Speak up!\nDon't make me angry...'\n'......'\n'What are you hiding!?'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001050007,
+        "Text": "Colliding Convictions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001050007,
+        "Text": "Larc, ordered by Drakonis to kill a dragon, heads for the White Forest where the dragon princess Vadise can be found. Sierra, Vadise's dragoon, suddenly appears, desperate to stop her brother in his mission.\n'Please, Sierra...do not interfere!'\n'I am a dragoon too. But my duty is to maintain order in the world, as my dragon master wishes. I cannot allow anyone to disrupt the peace I strive to protect! Not even my own brother!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001050011,
+        "Text": "With One Left"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001050011,
+        "Text": "To save Florina, Sandra enlists the help of the Lord of Jewels and his power to fuse all he swallows. With only two cores left to swallow, he consumes his 999th right in front of Lady Blackpearl.\n'My master has already swallowed nine hundred ninety-eight cores. It will take a thousand cores to save Florina.'\n'So the nine hundred ninety-ninth core is...'\n'A lapis lazuli... No!'\n'Do not be saddened, for all Jumi will become one.'\n'How dare you! That was my knight! That was Elazul!!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001050015,
+        "Text": "Finalizing Fate"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001050015,
+        "Text": "Escad, determined to stop Irwin from reviving Lucemia and bringing chaos to the world, confronts him on the top of the dragon's shell, where a fight for the future begins.\n'My sole purpose is to eradicate you vile creatures from this world. It is your fate to perish.\nYou, who have stolen so much from the land!'\n'Eloquent as ever.\nYou sure sound like a human now.'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001060001,
         "Text": "Xangar, Malevodon of Flame"
     },
@@ -398,6 +478,16 @@
         "ColumnName": "description",
         "LocalizationTargetId": 4001060006,
         "Text": "In the deepest parts of the fiery sands of Jadd, Wanderer defeats Thaydol. This awakens Gaia, who tasks Wanderer with restoring the world to its proper state.\n'Listen well, niccolo. I know neither his intentions nor his tactics as of yet. But you must stop that man at any cost...even if it defies the will of the planet.'\n'Stop who? What is the 'will of the planet'?'\n'Take this with you...'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001080001,
+        "Text": "Peddan Secret Mission"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001080001,
+        "Text": "Aboard the Nightswan, Roget and the crew are headed for the kingdom of Beastmen on a top-secret mission. But their stealth entry is disrupted by a barrage of fire, as if enemy ships were waiting to welcome them.\n'Could there have been a leak?\nOr maybe even spies...'\n'I wouldn't go that far.\nIt's hard to imagine any Beastman successfully sneaking into Pedda.'"
     },
     {
         "ColumnName": "name",
@@ -461,6 +551,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001110007,
+        "Text": "Revived Hope and a Fateful Rematch"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001110007,
+        "Text": "When the real Sumo arrives on the scene, Julius is forced to drop the ruse. Quilto joins up with Sumo to take down the mage.\n'In another world, you bested me. You took the Mana Sword, and with that, thwarted all my plans.\nBut the memory of this world gives me the chance at a do-over. And with my victory, I will right history!'\n'I won't let you win! And once again, I'll stop you in your tracks!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001110008,
+        "Text": "False Goddess"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001110008,
+        "Text": "To revive the Mana Tree, the Mana Goddess is pierced with the long lost Mana Sword. A strange light envelops her as an eerie sense of dread begins to settle in the air.\n'Thank you, my knight... Finally...\nThe moment has arrived! Now I am the Mana Goddess! Now I am the Mana Tree!'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111001,
         "Text": "The Tower on High"
     },
@@ -491,6 +601,26 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 4001111005,
+        "Text": "Twofold Flame"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001111005,
+        "Text": "Searching for the source of a disturbance in the Mana leads Quilto and the others to the Labyrinth of Ice. They encounter Fiegmund in the lowest depths of the cave, forcing Julius and Angela to combine their attacks to defeat it.\n'Just one last strike! Follow my lead, Julius!'\n'Hmph! Don't bark orders at me! Now go!'\n'BLAZE WALL!'\n'FLARE!'"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001111006,
+        "Text": "Fearsome Foursome"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001111006,
+        "Text": "Four warriors, as knights in their own right, wind through a maze sharing the meanings of chivalry and respect for each other. At once, they must join forces to stand up against the keeper of the labyrinth.\n'Careful now. This one's no pushover.'\n'Heh. Don't need to tell me twice.'\n'All right! It's go time! If we work together, there's nothing we can't do!'\n'Well said! Let's finish this!'"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 4001111009,
         "Text": "Seamless Synergy"
     },
@@ -498,5 +628,25 @@
         "ColumnName": "description",
         "LocalizationTargetId": 4001111009,
         "Text": "Four heroes face off against a Mantis Ant that's suddenly appeared in an echo. Beyond the bounds of differing worlds, they act as one in battle, leaving the monster with no escape."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001111010,
+        "Text": "Banquet of Champions"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001111010,
+        "Text": "Allies gather together for a lively feast. Good friends and good eats fuel the party for the next fray in their journey."
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 4001120001,
+        "Text": "Imbalance of Power"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 4001120001,
+        "Text": "The hero and Willy make their escape, but before long, they run into the Dark Lord. He offers them a chance to become Realm soldiers, but the hero refuses and attacks.\n'The lawless prefer the sword to the law. I can play it that way, too. Come on!'\n'This is for my parents! Say your prayers!'\n'H-he stopped the sword with one hand!?'\n'What the-! What ARE you!?'"
     }
 ]

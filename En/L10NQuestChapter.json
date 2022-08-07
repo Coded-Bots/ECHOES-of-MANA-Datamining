@@ -1347,7 +1347,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210010004107,
-        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nBeware! Damage is cut while on guard!"
     },
     {
         "ColumnName": "name",
@@ -1512,7 +1512,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210010004207,
-        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nBeware! Damage is cut while on guard!"
     },
     {
         "ColumnName": "name",
@@ -1647,7 +1647,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210010004307,
-        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nBeware! Damage is cut while on guard!"
     },
     {
         "ColumnName": "name",
@@ -2623,6 +2623,816 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210010006312,
         "Text": "Effective: Wood, Dark, Wind, Moon"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007101,
+        "Text": "Something Good to Come"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007102,
+        "Text": "An Upward Waterfall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007103,
+        "Text": "Climb the Rising Fall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007103,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007104,
+        "Text": "Promised Threefold"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007104,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007105,
+        "Text": "Trial by Temple"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007106,
+        "Text": "Follow the Magic Circles"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007106,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007107,
+        "Text": "Parting to Encounter"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007108,
+        "Text": "Onward to the Mana Tree"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007108,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007109,
+        "Text": "An Auspicious Vision"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007109,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007110,
+        "Text": "Dragon of Legend"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007110,
+        "Text": "Watch out for lingering heat!\nGuide their fall to avoid the burn!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007111,
+        "Text": "An Ambitious Return"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007112,
+        "Text": "Might of a Rusted Sword"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007112,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007112,
+        "Text": "Seeing triple? Don't lose focus!\nAttack the real foe to beat them all!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007113,
+        "Text": "At the Root of the Mana Tree"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007113,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007113,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007114,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007114,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007203,
+        "Text": "Climb the Rising Fall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007203,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007203,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007204,
+        "Text": "Promised Threefold"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007204,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007206,
+        "Text": "Follow the Magic Circles"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007206,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007208,
+        "Text": "Onward to the Mana Tree"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007208,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007208,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007209,
+        "Text": "An Auspicious Vision"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007209,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007209,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007210,
+        "Text": "Dragon of Legend"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007210,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007210,
+        "Text": "Watch out for lingering heat!\nGuide their fall to avoid the burn!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007212,
+        "Text": "Might of a Rusted Sword"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007212,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007212,
+        "Text": "Seeing triple? Don't lose focus!\nAttack the real foe to beat them all!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007214,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007214,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007214,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007303,
+        "Text": "Climb the Rising Fall"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007303,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007304,
+        "Text": "Promised Threefold"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007304,
+        "Text": "Effective: Wood, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007306,
+        "Text": "Follow the Magic Circles"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007306,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007308,
+        "Text": "Onward to the Mana Tree"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007308,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007308,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007309,
+        "Text": "An Auspicious Vision"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007309,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007309,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007310,
+        "Text": "Dragon of Legend"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007310,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007310,
+        "Text": "Watch out for lingering heat!\nGuide their fall to avoid the burn!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007312,
+        "Text": "Might of a Rusted Sword"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007312,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007312,
+        "Text": "Seeing triple? Don't lose focus!\nAttack the real foe to beat them all!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010007314,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010007314,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010007314,
+        "Text": "Effective: Earth, Water, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008101,
+        "Text": "Ruinous Times"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008102,
+        "Text": "A Trial for One"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008102,
+        "Text": "Effective: Light, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008103,
+        "Text": "Voices in the Dark"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008103,
+        "Text": "Effective: Water\nAttack its back for increased damage!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008104,
+        "Text": "Heads Up, Lackey!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008104,
+        "Text": "Effective: Wind/Ineffective: Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008105,
+        "Text": "Sparkling Voice in the Rough"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008105,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008106,
+        "Text": "Echoes Recalled"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008106,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008107,
+        "Text": "Inevitable Affront"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008108,
+        "Text": "Facing the Nightmare"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008108,
+        "Text": "Sharp edges stick around!\nGuide its fall to avoid the cut!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008109,
+        "Text": "Arrival"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008110,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008110,
+        "Text": "Effective: Light, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008202,
+        "Text": "A Trial for One"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008202,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008202,
+        "Text": "Effective: Light, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008203,
+        "Text": "Voices in the Dark"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008203,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008203,
+        "Text": "Effective: Water\nAttack its back for increased damage!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008204,
+        "Text": "Heads Up, Lackey!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008204,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008204,
+        "Text": "Effective: Wind/Ineffective: Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008205,
+        "Text": "Sparkling Voice in the Rough"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008205,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008205,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008206,
+        "Text": "Echoes Recalled"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008206,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008206,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008208,
+        "Text": "Facing the Nightmare"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008208,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008208,
+        "Text": "Sharp edges stick around!\nGuide its fall to avoid the cut!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008210,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008210,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008210,
+        "Text": "Effective: Light, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008302,
+        "Text": "A Trial for One"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008302,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008302,
+        "Text": "Effective: Light, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008303,
+        "Text": "Voices in the Dark"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008303,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008303,
+        "Text": "Effective: Water\nAttack its back for increased damage!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008304,
+        "Text": "Heads Up, Lackey!"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008304,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008304,
+        "Text": "Effective: Wind/Ineffective: Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008305,
+        "Text": "Sparkling Voice in the Rough"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008305,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008305,
+        "Text": "Effective: Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008306,
+        "Text": "Echoes Recalled"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008306,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008306,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008308,
+        "Text": "Facing the Nightmare"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008308,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008308,
+        "Text": "Sharp edges stick around!\nGuide its fall to avoid the cut!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210010008310,
+        "Text": "Extra Quest"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210010008310,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210010008310,
+        "Text": "Effective: Light, Dark"
     },
     {
         "ColumnName": "name",
@@ -4021,6 +4831,576 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210030003101,
+        "Text": "Prologue"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003102,
+        "Text": "Through Fields of Frost I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003103,
+        "Text": "Through Fields of Frost II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003103,
+        "Text": "Effective: Fire, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003104,
+        "Text": "Through Fields of Frost III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003104,
+        "Text": "Effective: Fire, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003105,
+        "Text": "Unruly Royal I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003106,
+        "Text": "Unruly Royal II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003106,
+        "Text": "Effective: Fire, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003107,
+        "Text": "Unruly Royal III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003107,
+        "Text": "Effective: Fire, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003108,
+        "Text": "Mage in Red I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003109,
+        "Text": "Mage in Red II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003109,
+        "Text": "Effective: Fire, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003110,
+        "Text": "Mage in Red III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003110,
+        "Text": "Effective: Fire, Wind, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003111,
+        "Text": "Flames I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003112,
+        "Text": "Flames II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003112,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003112,
+        "Text": "Effective: Fire, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003113,
+        "Text": "Flames III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003113,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003113,
+        "Text": "Effective: Fire, Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003114,
+        "Text": "Beware the Benevodon I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003115,
+        "Text": "Beware the Benevodon II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003115,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003115,
+        "Text": "Effective: Fire\nTry to skate around the ice patches!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003116,
+        "Text": "Beware the Benevodon III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003117,
+        "Text": "Ice & Fire (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003117,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003117,
+        "Text": "Effective: Fire\nTry to skate around the ice patches!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003118,
+        "Text": "Ice & Fire (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003118,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003118,
+        "Text": "Effective: Fire\nTry to skate around the ice patches!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030003119,
+        "Text": "Ice & Fire (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030003119,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030003119,
+        "Text": "Effective: Fire\nTry to skate around the ice patches!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004101,
+        "Text": "Prologue"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004102,
+        "Text": "Meandering Maze I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004103,
+        "Text": "Meandering Maze II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004103,
+        "Text": "Effective: Wind, Water, Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004104,
+        "Text": "Meandering Maze III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004104,
+        "Text": "Effective: Wind, Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004105,
+        "Text": "Pair of Knights I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004106,
+        "Text": "Pair of Knights II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004106,
+        "Text": "Effective: Wind, Water, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004107,
+        "Text": "Pair of Knights III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004107,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004107,
+        "Text": "Effective: Wind, Earth, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004108,
+        "Text": "The Lost I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004108,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004109,
+        "Text": "The Lost II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004109,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004109,
+        "Text": "Effective: Wind, Water, Earth, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004110,
+        "Text": "The Lost III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004110,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004110,
+        "Text": "Effective: Wind, Water, Earth, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004111,
+        "Text": "The Heroes I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004111,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004112,
+        "Text": "The Heroes II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004112,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004112,
+        "Text": "Effective: Wind, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004113,
+        "Text": "The Heroes III"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004113,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004113,
+        "Text": "Effective: Wind, Water, Light"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004114,
+        "Text": "Labyrinth Keeper I"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004114,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004115,
+        "Text": "Labyrinth Keeper II"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004115,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004115,
+        "Text": "Effective: Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004116,
+        "Text": "The Liberating Light"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004116,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004117,
+        "Text": "Labyrinth of Lost Heroes (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004117,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004117,
+        "Text": "Effective: Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004118,
+        "Text": "Labyrinth of Lost Heroes (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004118,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004118,
+        "Text": "Effective: Wind\nGo all out when it's fully charged!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210030004119,
+        "Text": "Labyrinth of Lost Heroes (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210030004119,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210030004119,
+        "Text": "Effective: Wind\nGo all out when it's fully charged!"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210031001101,
         "Text": "Coffer Chaos (Normal)"
     },
@@ -4077,6 +5457,126 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210031002104,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031003101,
+        "Text": "Coffer Chaos (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031003101,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031003102,
+        "Text": "Coffer Chaos (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031003102,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031003103,
+        "Text": "Coffer Chaos (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031003103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031003103,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031004104,
+        "Text": "Coffer Chaos (High Level Co-op)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031004104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031004104,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031005101,
+        "Text": "Coffer Chaos (Normal)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031005101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031005101,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031005102,
+        "Text": "Coffer Chaos (Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031005102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031005102,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031005103,
+        "Text": "Coffer Chaos (Very Hard)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031005103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031005103,
+        "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210031006104,
+        "Text": "Coffer Chaos (High Level Co-op)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210031006104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210031006104,
         "Text": "Polter Boxes come to play when foe HP\nis cut away! Pop 'em to pilfer prizes!"
     },
     {
@@ -4156,6 +5656,156 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210032002101,
+        "Text": "Bravers Arise Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032002102,
+        "Text": "Bravers Arise Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032002102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032002102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032002103,
+        "Text": "Bravers Arise Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032002103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032002103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032002104,
+        "Text": "Bravers Arise Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032002104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032002104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032002105,
+        "Text": "Bravers Arise Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032002105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032002105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032003101,
+        "Text": "Bravers Arise Lvl 1"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032003102,
+        "Text": "Bravers Arise Lvl 2"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032003102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032003103,
+        "Text": "Bravers Arise Lvl 3"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032003103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032003103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032003104,
+        "Text": "Bravers Arise Lvl 4"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032003104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032003104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210032003105,
+        "Text": "Bravers Arise Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210032003105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210032003105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210033001101,
         "Text": "Spirit Crystal Sweep"
     },
@@ -4168,6 +5818,231 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210033001101,
         "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033002101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033002101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033003101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033003101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033004101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033004101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033004101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033005101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033005101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033005101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033006101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033006101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033006101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033007101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033007101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033007101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033008101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033008101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033008101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033009101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033009101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033009101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210033010101,
+        "Text": "Spirit Crystal Sweep"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210033010101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210033010101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210034001101,
+        "Text": "Fullmetal Hugger"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210034001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210034001101,
+        "Text": "Effective: Dark/Ineffective: Light\nBeware! Damage is cut while on guard!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210034001102,
+        "Text": "Du'Inke"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210034001102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210034001102,
+        "Text": "Effective: Light\nWhen pillars appear, go all out!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210035001101,
+        "Text": "Prologue"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210035001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210035001101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210035001102,
+        "Text": "Ebon Knight (ST Quickening)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210035001102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210035001102,
+        "Text": "ST Gauge boost rate increased!\nST DMG increased!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210035001103,
+        "Text": "Ebon Knight (Wild Force)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210035001103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210035001103,
+        "Text": "HP 25% or lower:\nBoost to DMG dealt & DMG taken!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210035001104,
+        "Text": "Ebon Knight (Hit for Hit)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210035001104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210035001104,
+        "Text": "HP 50% or higher: Boost to DMG dealt!\nOn ATK: Take DMG/Restore paired's HP!"
     },
     {
         "ColumnName": "name",
@@ -4467,7 +6342,7 @@
     {
         "ColumnName": "tips",
         "LocalizationTargetId": 210040001140,
-        "Text": "Effective: Dark/Ineffective: Light\nDamage is reduced on guard, watch for a good time to attack!"
+        "Text": "Effective: Dark/Ineffective: Light\nBeware! Damage is cut while on guard!"
     },
     {
         "ColumnName": "name",
@@ -4696,8 +6571,158 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210040001172,
+        "Text": "Twillwool Tower 71F-72F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001172,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001172,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001175,
+        "Text": "Twillwool Tower 73F-75F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001175,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001175,
+        "Text": "Effective: Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001177,
+        "Text": "Twillwool Tower 76F-77F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001177,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001177,
+        "Text": "Effective: Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001179,
+        "Text": "Twillwool Tower 78F-79F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001179,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001179,
+        "Text": "Effective: Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001180,
+        "Text": "Twillwool Tower 80F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001180,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001180,
+        "Text": "Type Change cuts ally P.DMG or\nM.DMG! Choose your party wisely!"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001182,
+        "Text": "Twillwool Tower 81F-82F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001182,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001182,
+        "Text": "Effective: Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001184,
+        "Text": "Twillwool Tower 83F-84F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001184,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001184,
+        "Text": "Effective: Water"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001187,
+        "Text": "Twillwool Tower 85F-87F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001187,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001187,
+        "Text": "Effective: Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001189,
+        "Text": "Twillwool Tower 88F-89F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001189,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001189,
+        "Text": "Effective: Dark"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210040001190,
+        "Text": "Twillwool Tower 90F"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210040001190,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210040001190,
+        "Text": "Effective: Fire"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210050001101,
-        "Text": "Warriors Hall Lezuede Lvl 1"
+        "Text": "Lezuede Lvl 1"
     },
     {
         "ColumnName": "description",
@@ -4712,7 +6737,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050001102,
-        "Text": "Warriors Hall Lezuede Lvl 2"
+        "Text": "Lezuede Lvl 2"
     },
     {
         "ColumnName": "description",
@@ -4727,7 +6752,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050001103,
-        "Text": "Warriors Hall Lezuede Lvl 3"
+        "Text": "Lezuede Lvl 3"
     },
     {
         "ColumnName": "description",
@@ -4742,7 +6767,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050001104,
-        "Text": "Warriors Hall Lezuede Lvl 4"
+        "Text": "Lezuede Lvl 4"
     },
     {
         "ColumnName": "description",
@@ -4756,8 +6781,38 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210050001105,
+        "Text": "Lezuede Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050001105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050001105,
+        "Text": "Effective: Light, Fire, Earth"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050001106,
+        "Text": "Lezuede Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050001106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050001106,
+        "Text": "Effective: Light, Fire, Earth"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210050002101,
-        "Text": "Wisemen Hall Amgette Lvl 1"
+        "Text": "Amgette Lvl 1"
     },
     {
         "ColumnName": "description",
@@ -4772,7 +6827,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050002102,
-        "Text": "Wisemen Hall Amgette Lvl 2"
+        "Text": "Amgette Lvl 2"
     },
     {
         "ColumnName": "description",
@@ -4787,7 +6842,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050002103,
-        "Text": "Wisemen Hall Amgette Lvl 3"
+        "Text": "Amgette Lvl 3"
     },
     {
         "ColumnName": "description",
@@ -4802,7 +6857,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050002104,
-        "Text": "Wisemen Hall Amgette Lvl 4"
+        "Text": "Amgette Lvl 4"
     },
     {
         "ColumnName": "description",
@@ -4816,8 +6871,38 @@
     },
     {
         "ColumnName": "name",
+        "LocalizationTargetId": 210050002105,
+        "Text": "Amgette Lvl 5"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050002105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050002105,
+        "Text": "Effective: Water, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050002106,
+        "Text": "Amgette Lvl 6"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050002106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050002106,
+        "Text": "Effective: Water, Dark, Wind"
+    },
+    {
+        "ColumnName": "name",
         "LocalizationTargetId": 210050003101,
-        "Text": "Sandstorm Hall Saatibrawn Lvl 1"
+        "Text": "Saatibrawn Lvl 1 (Effective: Slash)"
     },
     {
         "ColumnName": "description",
@@ -4832,7 +6917,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050003102,
-        "Text": "Sandstorm Hall Saatibrawn Lvl 2"
+        "Text": "Saatibrawn Lvl 2 (Effective: Slash)"
     },
     {
         "ColumnName": "description",
@@ -4847,7 +6932,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050003103,
-        "Text": "Sandstorm Hall Saatibrawn Lvl 3"
+        "Text": "Saatibrawn Lvl 3 (Effective: Slash)"
     },
     {
         "ColumnName": "description",
@@ -4862,7 +6947,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050003104,
-        "Text": "Sandstorm Hall Saatibrawn Lvl 4"
+        "Text": "Saatibrawn Lvl 4 (Effective: Slash)"
     },
     {
         "ColumnName": "description",
@@ -4877,7 +6962,7 @@
     {
         "ColumnName": "name",
         "LocalizationTargetId": 210050003105,
-        "Text": "Sandstorm Hall Saatibrawn Lvl 5"
+        "Text": "Saatibrawn Lvl 5 (Effective: Slash)"
     },
     {
         "ColumnName": "description",
@@ -4888,5 +6973,200 @@
         "ColumnName": "tips",
         "LocalizationTargetId": 210050003105,
         "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050003106,
+        "Text": "Saatibrawn Lvl 6 (Effective: Slash)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050003106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050003106,
+        "Text": "Effective: Light, Dark, Wind, Earth\nSlash"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004101,
+        "Text": "Twyraginim Lvl 1 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004101,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004102,
+        "Text": "Twyraginim Lvl 2 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004102,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004103,
+        "Text": "Twyraginim Lvl 3 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004103,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004104,
+        "Text": "Twyraginim Lvl 4 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004104,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004105,
+        "Text": "Twyraginim Lvl 5 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004105,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050004106,
+        "Text": "Twyraginim Lvl 6 (Effective: Blunt/Magic)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050004106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050004106,
+        "Text": "Effective: Light, Dark, Moon, Water\nBlunt, Magic"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005101,
+        "Text": "Felvelours Lvl 1 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005101,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005101,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005102,
+        "Text": "Felvelours Lvl 2 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005102,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005102,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005103,
+        "Text": "Felvelours Lvl 3 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005103,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005103,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005104,
+        "Text": "Felvelours Lvl 4 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005104,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005104,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005105,
+        "Text": "Felvelours Lvl 5 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005105,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005105,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
+    },
+    {
+        "ColumnName": "name",
+        "LocalizationTargetId": 210050005106,
+        "Text": "Felvelours Lvl 6 (Effective: Piercing)"
+    },
+    {
+        "ColumnName": "description",
+        "LocalizationTargetId": 210050005106,
+        "Text": ""
+    },
+    {
+        "ColumnName": "tips",
+        "LocalizationTargetId": 210050005106,
+        "Text": "Effective: Earth, Fire, Water\nPiercing"
     }
 ]
